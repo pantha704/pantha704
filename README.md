@@ -1,5 +1,5 @@
-# Welcome to my GitHub profile!
-🛠 I’m currently working on enhancing my skills in the MERN Stack, aiming to create more efficient and impactful tech solutions.<br>🤝 I’m looking to collaborate on projects that are geared towards solving real-world problems, especially those that require a robust full stack approach.<br>🆘 I’m looking for help with advanced topics in software development as I believe there's always more to learn. If you have expertise in cutting-edge technologies or innovative development practices, I’d love to hear from you.<br><br>Feel free to browse my repositories or reach out if you want to chat tech, collaborate on a project, or simply connect. Let’s make something great together!
+# Hello
+🛠 I’m Pratham, a learner currently working on enhancing my skills in the MERN Stack, aiming to create more efficient and impactful tech solutions.<br>🤝 I’m looking to collaborate on projects that are geared towards solving real-world problems, especially those that require a robust full stack approach.<br>🆘 I’m looking for help with advanced topics in software development as I believe there's always more to learn. If you have expertise in cutting-edge technologies or innovative development practices, I’d love to hear from you.<br><br>Feel free to browse my repositories or reach out if you want to chat tech, collaborate on a project, or simply connect. Let’s make something great together!
 
 
 ## 🌐 Socials:
