@@ -11,7 +11,7 @@
 
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🔧 Technologies & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1c1c1c">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=1c1c1c">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1c1c1c">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=1c1c1c">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1c1c1c">
