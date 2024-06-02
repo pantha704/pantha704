@@ -32,7 +32,7 @@
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">📫 Connect with Me</h2>
 <p align="center">
   <a href="https://twitter.com/pantha704">
-    <img src="https://img.shields.io/twitter?style=flat-square&logo=twitter&logoColor=white&labelColor=1c1c1c">
+    <img src="https://img.shields.io/twitter/url?style=flat-square&logo=twitter&logoColor=white&labelColor=1c1c1c">
   </a>
   <a href="mailto:pratham.jaiswal2004@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=1c1c1c">
