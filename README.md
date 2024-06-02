@@ -1,4 +1,3 @@
----
 
 <img align="right" src="https://komarev.com/ghpvc/?username=abhishekdumaniya&label=Profile%20views&color=0e75b6&style=flat" alt="prathamjaiswal" /> 
 <h1 align="center">
@@ -9,8 +8,6 @@
 <p align="center" style="color:#d1f1ff; text-shadow: 0 0 5px #00f7ff;">
   I'm a passionate developer with a love for innovative technology and problem-solving. Always excited to learn new things and collaborate on interesting projects.
 </p>
-
----
 
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🔧 Technologies & Tools</h2>
 <p align="center">
