@@ -14,11 +14,11 @@
 
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🔧 Technologies & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-00f7ff?style=flat-square&logo=javascript&logoColor=black&color=00f7ff&labelColor=1c1c1c">
-  <img src="https://img.shields.io/badge/-Python-00f7ff?style=flat-square&logo=python&logoColor=black&color=00f7ff&labelColor=1c1c1c">
-  <img src="https://img.shields.io/badge/-Node.js-00f7ff?style=flat-square&logo=node.js&logoColor=black&color=00f7ff&labelColor=1c1c1c">
-  <img src="https://img.shields.io/badge/-React-00f7ff?style=flat-square&logo=react&logoColor=black&color=00f7ff&labelColor=1c1c1c">
-  <img src="https://img.shields.io/badge/-Kali_Linux-00f7ff?style=flat-square&logo=kali-linux&logoColor=black&color=00f7ff&labelColor=1c1c1c">
+  <img src="https://img.shields.io/badge/-JavaScript-00f7ff?style=flat-square&logo=javascript&color=00f7ff&labelColor=1c1c1c">
+  <img src="https://img.shields.io/badge/-Python-00f7ff?style=flat-square&logo=python&color=00f7ff&labelColor=1c1c1c">
+  <img src="https://img.shields.io/badge/-Node.js-00f7ff?style=flat-square&logo=node.js&color=00f7ff&labelColor=1c1c1c">
+  <img src="https://img.shields.io/badge/-React-00f7ff?style=flat-square&logo=react&color=00f7ff&labelColor=1c1c1c">
+  <img src="https://img.shields.io/badge/-Kali_Linux-00f7ff?style=flat-square&logo=kali-linux&color=00f7ff&labelColor=1c1c1c">
 </p>
 
 ---
