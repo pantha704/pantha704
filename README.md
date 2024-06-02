@@ -4,6 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pratham+Jaiswal!;" />
 </h1>
+
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🚀 About Me</h2>
 <p align="center" style="color:#d1f1ff; text-shadow: 0 0 5px #00f7ff;">
   I'm a passionate developer with a love for innovative technology and problem-solving. Always excited to learn new things and collaborate on interesting projects.
