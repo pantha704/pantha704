@@ -1,5 +1,7 @@
-<h1 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">Hi there 👋, I'm Pratham Jaiswal</h1>
-
+<img align="right" src="https://komarev.com/ghpvc/?username=abhishekdumaniya&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdumaniya" /> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Dumaniya!;" />
+</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coder GIF" width="500" height="320">
 </p>
