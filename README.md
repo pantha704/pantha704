@@ -46,5 +46,5 @@
 
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🏆 My Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pantha704&theme=react&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=pantha704&theme=dark&no-frame=true&row=1&column=6">
 </p>
