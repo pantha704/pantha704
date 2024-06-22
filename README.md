@@ -5,9 +5,11 @@
 </h1>
 
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🚀 About Me</h2>
-<p align="center" style="color:#d1f1ff; text-shadow: 0 0 5px #00f7ff;">
+<h3 align="center">A passionate FullStack Developer from India.</h3>
+<p align="center"> Building and learning all the way</p>
+<!-- <p align="center" style="color:#d1f1ff; text-shadow: 0 0 5px #00f7ff;">
   I'm a passionate developer with love for innovative technology and problem-solving. Always excited to learn new things and collaborate with interesting people and projects.
-</p>
+</p> -->
 
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🔧 Technologies & Tools</h2>
 <p align="center">
