@@ -1,7 +1,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=pantha704&label=Profile%20views&color=0e75b6&style=flat" alt="prathamjaiswal" /> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Nice+to+meet+you;Or+meet+to+nice+you;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Nice+to+meet+you;" />
 </h1>
 
 <h2 align="center" style="color:#00f7ff; text-shadow: 0 0 10px #00f7ff;">🚀 About Me</h2>
