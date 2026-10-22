@@ -4,7 +4,7 @@ Systems & automation engineer, Kolkata. I send patches upstream and build the ma
 
 **22 merged pull requests · 13 upstream repositories**
 
-[Résumé (PDF)](./resume/Pratham-Jaiswal-Resume.pdf) · [Detailed résumé](./resume/Pratham-Jaiswal-Resume-detailed.pdf) · [Email](mailto:prathamjaiswal204@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratham-jaiswal-b6b27b253) · [X](https://twitter.com/pantha704)
+[Résumé (PDF)](./resume/Pratham-Jaiswal-Resume.pdf) · [Detailed résumé](./resume/Pratham-Jaiswal-Resume-detailed.pdf) · [Email](mailto:pratham.jaiswal2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pantha704) · [X](https://twitter.com/pantha704)
 
 ---
 
