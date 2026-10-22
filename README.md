@@ -24,10 +24,9 @@
 | [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel/pull/1455) | `#1455` | legacy TensorFlow 1.x deep-RL examples → PyTorch |
 | [pytorch/ao](https://github.com/pytorch/ao/pull/3709) | `#3709` | documented `FqnToConfig` and MoE parameter quantization |
 | [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Apantha704+is%3Amerged) | `×6` | dropped jQuery from engine/setup/minimap, ported four modules to TypeScript |
-| [Draxox/homxmagic](https://github.com/Draxox/homxmagic/pull/1) | `#1` | Razorpay payment flow |
 | [Bijoy99roy/scheduler](https://github.com/Bijoy99roy/scheduler/pull/7) | `#7` `#13` | telemetry + retry, persistent queue storage |
-| [bodhontech/anti-y-web](https://github.com/bodhontech/anti-y-web/pull/1) | `#1` | video quality scoring |
-| [SUPERREALCODER/thepandel](https://github.com/SUPERREALCODER/thepandel/pull/2) | `#2` | Android release workflow |
+
+<sub>Every link here opens without an account, and the counts include only repositories a visitor can open. Private client work — Razorpay payment flow, video quality scoring, Android release tooling — is excluded.</sub>
 
 **in flight** — [rust-clippy](https://github.com/rust-lang/rust-clippy/pull/16375) `#16375` type-based checks in `arithmetic_side_effects` · [wagtail](https://github.com/wagtail/wagtail/pull/13708) `#13708` `#13709` comment textarea overflow, tooltip styles · [gatsby](https://github.com/gatsbyjs/gatsby/pull/39703) `#39703` `assetPrefix` in manifest icon paths · [scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit/pull/4765) `#4765` `#4766` OSGi/.bnd parsing, authenticated Git deps
 
@@ -59,7 +58,7 @@
 <summary><code>~/terminal</code> — the animation above</summary>
 <br>
 
-Frames captured once from [ascii.live](https://ascii.live) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. The same frames play locally:
+Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. The same frames play locally:
 
 ```bash
 python3 tools/play.py            # random animation each run

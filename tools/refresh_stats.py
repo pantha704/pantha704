@@ -45,11 +45,16 @@ def load_builder() -> ModuleType:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument(
+        "--include-private",
+        action="store_true",
+        help="count merges into private repositories too (résumé numbers, not the public README)",
+    )
     args = ap.parse_args()
 
     builder = load_builder()
-    merged, repos = builder.count("merged")
-    opened, _ = builder.count("open")
+    merged, repos = builder.count("merged", args.include_private)
+    opened, _ = builder.count("open", args.include_private)
 
     stamp = datetime.datetime.now(IST).strftime("%d %b %Y")
     line = f"{START}<code>{merged} merged · {repos} repos · {opened} open · checked {stamp}</code>{END}"

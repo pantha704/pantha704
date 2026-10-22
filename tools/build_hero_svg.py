@@ -61,7 +61,19 @@ def gh_json(path):
         return json.loads(r.read().decode())
 
 
-def count(state):
+_PUBLIC = {}
+
+
+def is_public(repo):
+    """Only count repositories a visitor can actually open — private ones 404 for everyone else,
+    and the search API returns them for the owner's token but not for CI's, so an unfiltered
+    count would differ between this machine and the daily Action."""
+    if repo not in _PUBLIC:
+        _PUBLIC[repo] = not gh_json(f"repos/{repo}").get("private", True)
+    return _PUBLIC[repo]
+
+
+def count(state, include_private=False):
     total, repos, page = 0, set(), 1
     while True:
         d = gh_json(
@@ -70,9 +82,12 @@ def count(state):
         items = d.get("items", [])
         for it in items:
             repo = it["repository_url"].replace("https://api.github.com/repos/", "")
-            if not repo.startswith(f"{LOGIN}/"):
-                total += 1
-                repos.add(repo)
+            if repo.startswith(f"{LOGIN}/"):
+                continue
+            if not include_private and not is_public(repo):
+                continue
+            total += 1
+            repos.add(repo)
         if len(items) < 100:
             return total, len(repos)
         page += 1
@@ -160,13 +175,18 @@ def main():
     ap.add_argument("--merged", type=int)
     ap.add_argument("--repos", type=int)
     ap.add_argument("--open", dest="opened", type=int)
+    ap.add_argument(
+        "--include-private",
+        action="store_true",
+        help="count merges into private repositories too (résumé numbers, not the public README)",
+    )
     args = ap.parse_args()
 
     if args.merged and args.repos and args.opened:
         merged, repos, opened = args.merged, args.repos, args.opened
     else:
-        merged, repos = count("merged")
-        opened, _ = count("open")
+        merged, repos = count("merged", args.include_private)
+        opened, _ = count("open", args.include_private)
 
     for name, theme in (("hero-dark.svg", DARK), ("hero-light.svg", LIGHT)):
         path = os.path.join(ROOT, "assets", name)
