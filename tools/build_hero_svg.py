@@ -15,6 +15,7 @@ import html
 import json
 import os
 import subprocess
+import time
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -73,13 +74,19 @@ def is_public(repo):
     return _PUBLIC[repo]
 
 
-def count(state, include_private=False):
+def count(state, include_private=False, attempts=3):
     total, repos, page = 0, set(), 1
     while True:
         d = gh_json(
             f"search/issues?q=author:{LOGIN}+type:pr+is:{state}&per_page=100&page={page}"
         )
         items = d.get("items", [])
+        # GitHub's search API occasionally answers a state-filtered query with an empty
+        # result set while the same query without the state qualifier still returns data.
+        # Retry rather than reporting a false zero.
+        if not items and page == 1 and attempts > 1:
+            time.sleep(6)
+            return count(state, include_private, attempts - 1)
         for it in items:
             repo = it["repository_url"].replace("https://api.github.com/repos/", "")
             if repo.startswith(f"{LOGIN}/"):

@@ -44,9 +44,36 @@ def load_builder() -> ModuleType:
     return mod
 
 
+def read_previous(text):
+    m = re.search(re.escape(START) + r".*?(\d+) merged · (\d+) repos · (\d+) open", text, re.S)
+    return tuple(int(x) for x in m.groups()) if m else None
+
+
+def sanity(merged, repos, opened, previous, force, source):
+    """A refresh must never publish a number that is obviously an API fault."""
+    problems = []
+    if merged == 0 or repos == 0:
+        problems.append(
+            f"merged={merged} repos={repos} — an account with public merges cannot be zero"
+        )
+    if previous and not force:
+        pm, _pr, _po = previous
+        if merged < pm * 0.7:
+            problems.append(f"merged fell {pm} -> {merged} (more than 30%)")
+    if problems:
+        raise SystemExit(
+            f"REFUSING TO PUBLISH ({source}): " + "; ".join(problems)
+            + " — pass --force to accept, or --merged/--repos/--open to set values explicitly"
+        )
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--force", action="store_true", help="publish even an implausible count")
+    ap.add_argument("--merged", type=int)
+    ap.add_argument("--repos", type=int)
+    ap.add_argument("--open", dest="opened", type=int)
     ap.add_argument(
         "--include-private",
         action="store_true",
@@ -55,8 +82,18 @@ def main():
     args = ap.parse_args()
 
     builder = load_builder()
-    merged, repos = builder.count("merged", args.include_private)
-    opened, _ = builder.count("open", args.include_private)
+    text = open(README, encoding="utf-8").read()
+    previous = read_previous(text)
+
+    if args.merged and args.repos and args.opened:
+        merged, repos, opened = args.merged, args.repos, args.opened
+        source = "explicit overrides"
+    else:
+        merged, repos = builder.count("merged", args.include_private)
+        opened, _ = builder.count("open", args.include_private)
+        source = "github api"
+
+    sanity(merged, repos, opened, previous, args.force, source)
 
     stamp = datetime.datetime.now(IST).strftime("%d %b %Y")
     footer = f"{START}<code>{merged} merged · {repos} repos · {opened} open · checked {stamp}</code>{END}"

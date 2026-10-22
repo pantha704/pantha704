@@ -18,7 +18,7 @@
 #### ~/upstream
 
 <details open>
-<summary><!--upstream:start-->0 merged · 0 repositories · 0 open<!--upstream:end--></summary>
+<summary><!--upstream:start-->19 merged · 10 repositories · 13 open<!--upstream:end--></summary>
 <br>
 
 | repository | pr | what changed |
@@ -82,4 +82,4 @@ Capture any of ascii.live's ninety-odd animations with `python3 tools/capture_fr
 
 ---
 
-<sub><!--stats:start--><code>0 merged · 0 repos · 0 open · checked 22 Oct 2026</code><!--stats:end--> — the hero above and these numbers are rebuilt daily from the GitHub API by <a href="tools/refresh_stats.py">tools/refresh_stats.py</a>. Panels collapse; the keys under the animation jump to each section.</sub>
+<sub><!--stats:start--><code>19 merged · 10 repos · 13 open · checked 22 Oct 2026</code><!--stats:end--> — the hero above and these numbers are rebuilt daily from the GitHub API by <a href="tools/refresh_stats.py">tools/refresh_stats.py</a>. Panels collapse; the keys under the animation jump to each section.</sub>
