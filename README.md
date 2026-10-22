@@ -1,60 +1,65 @@
-### Pratham Jaiswal
+### pratham jaiswal
 
-Systems & automation engineer, Kolkata. I send patches upstream and build the machinery that stops teams doing things by hand.
+`systems & automation` · `rust` · `typescript` · `python` · `go`
 
-**22 merged pull requests · 13 upstream repositories**
+[resume](./resume/Pratham-Jaiswal-Resume.pdf) · [detailed](./resume/Pratham-Jaiswal-Resume-detailed.pdf) · [mail](mailto:pratham.jaiswal2004@gmail.com) · [linkedin](https://www.linkedin.com/in/pantha704) · [x](https://twitter.com/pantha704)
 
-[Résumé (PDF)](./resume/Pratham-Jaiswal-Resume.pdf) · [Detailed résumé](./resume/Pratham-Jaiswal-Resume-detailed.pdf) · [Email](mailto:pratham.jaiswal2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pantha704) · [X](https://twitter.com/pantha704)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img alt="pratham@kolkata — 22 merged pull requests across 13 upstream repositories" src="./assets/hero-light.svg">
+</picture>
 
----
-
-#### Upstream work
-
-**[rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift)** — compiler backend
-`#1625` merged — ported a disk-cleanup workflow that fixed CI runner exhaustion and restored abi-cafe test reliability
-`#1711` open — ICE on `const` asm operands pointing at anonymous allocations
-
-**[CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)** — subtitle extraction, C
-`#2378` merged — wrong tx3g subtitle timings on the FFmpeg MP4 path; the demuxer trusted a shared timing pointer that interleaved tracks had already advanced. Now reads packet PTS.
-
-**[google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)** — game-theory research
-`#1455` merged — replaced the TensorFlow 1.x deep-RL examples with PyTorch
-
-**[pytorch/ao](https://github.com/pytorch/ao)** — quantization
-`#3709` merged — documented `FqnToConfig` and mixture-of-experts parameter quantization
-
-**[CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)** — circuit simulator
-6 merged — dropped jQuery from the engine, setup and minimap modules; converted subcircuit, events, sequential and LSB/MSB to TypeScript during the v1 migration
-
-Also merged into Razorpay payment flow, telemetry and persistent queue storage, video quality scoring, Google OAuth and JWT decoding. Open pull requests with `gatsbyjs/gatsby` and `aboutcode-org/scancode-toolkit`.
+![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
 
 ---
 
-#### Things I build
+<details open>
+<summary><code>~/upstream</code> — 22 merged · 13 repositories · 15 open</summary>
+<br>
 
-**Perfume Store** — production commerce system. Catalogue, admin console, dispatch and tracking, India Post integration, variant pricing. TypeScript / Next.js.
-**Homeworker** — PDF and image input to reviewable A4 notes in licensed handwriting typefaces. Local-first, Python.
-**FlowForge** — serverless automation separating frontend events from durable background jobs. Upstash QStash.
+| repository | pr | what changed |
+| --- | --- | --- |
+| [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift/pull/1625) | `#1625` | CI runner disk exhaustion broke abi-cafe tests — ported the cleanup workflow |
+| [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor/pull/2378) | `#2378` | tx3g subtitle times wrong on the FFmpeg MP4 path — demuxer trusted a shared timing pointer |
+| [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel/pull/1455) | `#1455` | legacy TensorFlow 1.x deep-RL examples → PyTorch |
+| [pytorch/ao](https://github.com/pytorch/ao/pull/3709) | `#3709` | documented `FqnToConfig` and MoE parameter quantization |
+| [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Apantha704+is%3Amerged) | `×6` | dropped jQuery from engine/setup/minimap, ported four modules to TypeScript |
+| [Draxox/homxmagic](https://github.com/Draxox/homxmagic/pull/1) | `#1` | Razorpay payment flow |
+| [Bijoy99roy/scheduler](https://github.com/Bijoy99roy/scheduler/pull/7) | `#7` `#13` | telemetry + retry, persistent queue storage |
+| [bodhontech/anti-y-web](https://github.com/bodhontech/anti-y-web/pull/1) | `#1` | video quality scoring |
+| [SUPERREALCODER/thepandel](https://github.com/SUPERREALCODER/thepandel/pull/2) | `#2` | Android release workflow |
 
----
+**in flight** — [rust-clippy](https://github.com/rust-lang/rust-clippy/pull/16375) `#16375` type-based checks in `arithmetic_side_effects` · [wagtail](https://github.com/wagtail/wagtail/pull/13708) `#13708` `#13709` comment textarea overflow, tooltip styles · [gatsby](https://github.com/gatsbyjs/gatsby/pull/39703) `#39703` `assetPrefix` in manifest icon paths · [scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit/pull/4765) `#4765` `#4766` OSGi/.bnd parsing, authenticated Git deps
 
-#### Stack
+</details>
 
-`Rust` `TypeScript` `Python` `Go` `Node.js` `Next.js` `PostgreSQL` `Redis` `Docker` `Linux` `Anchor`
+<details>
+<summary><code>~/projects</code> — 5 shipped</summary>
+<br>
 
----
+| project | stack | what it is |
+| --- | --- | --- |
+| [Perfume Store](https://github.com/pantha704/perfume-store) | TypeScript · Next.js | production commerce system — catalogue, admin console, dispatch, India Post integration, 60+ reviewed PRs |
+| [Homeworker](https://github.com/pantha704/home-worker) | Python | local-first pipeline: PDF and image input to reviewable A4 notes in licensed handwriting typefaces |
+| FlowForge | Next.js · Upstash QStash | serverless automation separating frontend events from durable background jobs |
+| [MacFolio](https://mac-folio-three.vercel.app) | React · Zustand · GSAP | macOS simulation in the browser — draggable, resizable windows with window-manager state |
+| Turbin3 · Solana | Rust · Anchor | Q4 '25 Builder + Q1 '26 Accelerate — NFT marketplaces, staking, vaults, escrow, AMMs |
 
-<sub>Open to systems, automation and developer-tooling work. Resume above, or mail me.</sub>
+</details>
 
----
+<details>
+<summary><code>~/stack</code></summary>
+<br>
 
-#### the terminal
+`rust` (compiler internals) · `typescript` · `python` · `go` · `solidity` · `next.js` · `react` · `node` · `anchor` · `prisma` · `postgresql` · `redis` · `docker` · `linux` · `github actions` · `n8n` · `monday.com` · `playwright`
 
-![terminal playing a random ASCII animation](http://57.131.133.151:8080/tui.svg)
+</details>
 
-A random one of twelve animations, chosen per page load. Frames live in
-[`assets/frames/`](assets/frames) — capture any of the ninety-odd on ascii.live with
-`python3 tools/capture_frames.py <name>`. The same frames play in a terminal:
+<details>
+<summary><code>~/terminal</code> — the animation above</summary>
+<br>
+
+Frames captured once from [ascii.live](https://ascii.live) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. The same frames play locally:
 
 ```bash
 python3 tools/play.py            # random animation each run
@@ -62,5 +67,10 @@ python3 tools/play.py --name nyan
 python3 tools/play.py --list
 ```
 
-`q` quit · `space` pause · `f`/`s` speed · `n` next. Rebuild the SVGs with
-`python3 tools/build_tui_svg.py --all`.
+Capture any of ascii.live's ninety-odd animations with `python3 tools/capture_frames.py <name>`; rebuild the panels with `python3 tools/build_tui_svg.py --all` and `python3 tools/build_hero_svg.py`.
+
+</details>
+
+---
+
+<sub><code>22 merged · 13 repos · 15 open</code> — the hero above is rebuilt from the GitHub API by <a href="tools/build_hero_svg.py">tools/build_hero_svg.py</a>, so it cannot drift from reality.</sub>
