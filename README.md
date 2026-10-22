@@ -11,10 +11,14 @@
 
 ![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
 
+<kbd>~/profile</kbd> · [<kbd>~/upstream</kbd>](#upstream) · [<kbd>~/projects</kbd>](#projects) · [<kbd>~/stack</kbd>](#stack) · [<kbd>~/terminal</kbd>](#terminal)
+
 ---
 
+#### ~/upstream
+
 <details open>
-<summary><code>~/upstream</code> — <!--upstream:start-->19 merged · 10 repositories · 13 open<!--upstream:end--></summary>
+<summary><!--upstream:start-->19 merged · 10 repositories · 13 open<!--upstream:end--></summary>
 <br>
 
 | repository | pr | what changed |
@@ -32,8 +36,10 @@
 
 </details>
 
-<details>
-<summary><code>~/projects</code> — 5 shipped</summary>
+#### ~/projects
+
+<details open>
+<summary>5 shipped</summary>
 <br>
 
 | project | stack | what it is |
@@ -46,16 +52,20 @@
 
 </details>
 
-<details>
-<summary><code>~/stack</code></summary>
+#### ~/stack
+
+<details open>
+<summary>what I reach for</summary>
 <br>
 
 `rust` (compiler internals) · `typescript` · `python` · `go` · `solidity` · `next.js` · `react` · `node` · `anchor` · `prisma` · `postgresql` · `redis` · `docker` · `linux` · `github actions` · `n8n` · `monday.com` · `playwright`
 
 </details>
 
-<details>
-<summary><code>~/terminal</code> — the animation above</summary>
+#### ~/terminal
+
+<details open>
+<summary>the animation at the top</summary>
 <br>
 
 Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. The same frames play locally:
@@ -72,4 +82,4 @@ Capture any of ascii.live's ninety-odd animations with `python3 tools/capture_fr
 
 ---
 
-<sub><!--stats:start--><code>19 merged · 10 repos · 13 open · checked 22 Oct 2026</code><!--stats:end--> — the hero above and these numbers are rebuilt daily from the GitHub API by <a href="tools/refresh_stats.py">tools/refresh_stats.py</a>.</sub>
+<sub><!--stats:start--><code>19 merged · 10 repos · 13 open · checked 22 Oct 2026</code><!--stats:end--> — the hero above and these numbers are rebuilt daily from the GitHub API by <a href="tools/refresh_stats.py">tools/refresh_stats.py</a>. Panels collapse; the keys under the animation jump to each section.</sub>
