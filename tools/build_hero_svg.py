@@ -15,6 +15,7 @@ import html
 import json
 import os
 import subprocess
+import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -37,8 +38,27 @@ LIGHT = {
 }
 
 
+def _token():
+    for key in ("GH_TOKEN", "GITHUB_TOKEN"):
+        if os.environ.get(key):
+            return os.environ[key]
+    r = subprocess.run(["gh", "auth", "token"], capture_output=True, text=True)
+    return r.stdout.strip()
+
+
 def gh_json(path):
-    return json.loads(subprocess.run(["gh", "api", path], capture_output=True, text=True).stdout)
+    """GitHub API via plain HTTP so the same code runs locally and inside Actions."""
+    req = urllib.request.Request(
+        f"https://api.github.com/{path}",
+        headers={
+            "Accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {_token()}",
+            "User-Agent": "profile-readme-stats",
+            "X-GitHub-Api-Version": "2022-11-28",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read().decode())
 
 
 def count(state):

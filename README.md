@@ -73,4 +73,4 @@ Capture any of ascii.live's ninety-odd animations with `python3 tools/capture_fr
 
 ---
 
-<sub><code>22 merged · 13 repos · 15 open</code> — the hero above is rebuilt from the GitHub API by <a href="tools/build_hero_svg.py">tools/build_hero_svg.py</a>, so it cannot drift from reality.</sub>
+<sub><!--stats:start--><code>22 merged · 13 repos · 15 open · checked 22 Oct 2026</code><!--stats:end--> — the hero above and these numbers are rebuilt daily from the GitHub API by <a href="tools/refresh_stats.py">tools/refresh_stats.py</a>.</sub>
