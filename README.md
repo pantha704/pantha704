@@ -9,9 +9,9 @@
   <img alt="pratham@kolkata — terminal dashboard: upstream work, stack and status" src="./assets/hero-light.svg">
 </picture>
 
-![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
+<kbd>~/profile</kbd> · [<kbd>~/upstream</kbd>](#upstream) · [<kbd>~/projects</kbd>](#projects) · [<kbd>~/stack</kbd>](#stack) · [<kbd>~/terminal</kbd>](#terminal) · [<kbd>interactive ↗</kbd>](https://pantha704.github.io/pantha704/)
 
-<kbd>~/profile</kbd> · [<kbd>~/upstream</kbd>](#upstream) · [<kbd>~/projects</kbd>](#projects) · [<kbd>~/stack</kbd>](#stack) · [<kbd>~/terminal</kbd>](#terminal)
+![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
 
 ---
 
