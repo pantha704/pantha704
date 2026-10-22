@@ -1,31 +1,19 @@
 # probe — what survives GitHub's markdown sanitizer
 
-## section one
+[jump to the closed panel](#inside-heading)
 
-<a name="anchor-name"></a>
-<a id="anchor-id"></a>
-<span id="anchor-span"></span>
-<div id="anchor-div"></div>
+<details><summary>closed panel</summary>
 
-### image map
+#### inside heading
 
-<img src="assets/hero-light.svg" usemap="#m" width="200">
-<map name="m"><area shape="rect" coords="0,0,100,50" href="#section-one" alt="x"></map>
+content that should be visible after the jump
 
-### inline styles
+</details>
 
-<div style="color:red;display:flex">styled div</div>
-<p style="color:red">styled p</p>
-<table><tr><td style="background:#000;color:#fff">styled td</td></tr></table>
+<details><summary>second closed panel</summary>
 
-### details variants
+#### second inside heading
 
-<details><summary><a href="#section-one">summary link</a></summary>body text</details>
+more content
 
-<details id="det-anchor"><summary>details with id</summary>inside details</details>
-
-### misc
-
-<kbd>Ctrl</kbd> <sub>sub</sub> <sup>sup</sup>
-
-<div align="center">aligned div</div>
+</details>
