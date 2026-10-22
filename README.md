@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img alt="pratham@kolkata — 22 merged pull requests across 13 upstream repositories" src="./assets/hero-light.svg">
+  <img alt="pratham@kolkata — terminal dashboard: upstream work, stack and status" src="./assets/hero-light.svg">
 </picture>
 
 ![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
@@ -14,7 +14,7 @@
 ---
 
 <details open>
-<summary><code>~/upstream</code> — 22 merged · 13 repositories · 15 open</summary>
+<summary><code>~/upstream</code> — <!--upstream:start-->19 merged · 10 repositories · 13 open<!--upstream:end--></summary>
 <br>
 
 | repository | pr | what changed |

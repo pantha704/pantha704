@@ -31,6 +31,8 @@ BUILDER = os.path.join(HERE, "build_hero_svg.py")
 
 START = "<!--stats:start-->"
 END = "<!--stats:end-->"
+UPSTREAM_START = "<!--upstream:start-->"
+UPSTREAM_END = "<!--upstream:end-->"
 
 
 def load_builder() -> ModuleType:
@@ -57,19 +59,29 @@ def main():
     opened, _ = builder.count("open", args.include_private)
 
     stamp = datetime.datetime.now(IST).strftime("%d %b %Y")
-    line = f"{START}<code>{merged} merged · {repos} repos · {opened} open · checked {stamp}</code>{END}"
+    footer = f"{START}<code>{merged} merged · {repos} repos · {opened} open · checked {stamp}</code>{END}"
+    summary = f"{UPSTREAM_START}{merged} merged · {repos} repositories · {opened} open{UPSTREAM_END}"
 
     text = open(README, encoding="utf-8").read()
-    if START not in text or END not in text:
-        raise SystemExit(f"README has no {START} … {END} block to update")
+    blocks = [
+        (START, END, footer, "footer"),
+        (UPSTREAM_START, UPSTREAM_END, summary, "upstream summary"),
+    ]
+    for a, b, _, label in blocks:
+        if a not in text or b not in text:
+            raise SystemExit(f"README has no {a} … {b} block to update ({label})")
 
-    pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.S)
-    updated = pattern.sub(lambda _: line, text)
+    updated = text
+    for a, b, replacement, _ in blocks:
+        updated = re.compile(re.escape(a) + r".*?" + re.escape(b), re.S).sub(
+            lambda _m, r=replacement: r, updated
+        )
     changed = updated != text
 
     if args.dry_run:
         print(f"numbers : {merged} merged / {repos} repos / {opened} open")
-        print(f"new line: {line}")
+        print(f"footer  : {footer}")
+        print(f"summary : {summary}")
         print(f"README  : {'would change' if changed else 'already current'}")
         return
 
@@ -80,9 +92,9 @@ def main():
 
     if changed:
         open(README, "w", encoding="utf-8").write(updated)
-        print(f"README footer -> {merged} merged · {repos} repos · {opened} open · checked {stamp}")
+        print(f"README -> {merged} merged · {repos} repositories · {opened} open · checked {stamp}")
     else:
-        print("README footer already current")
+        print("README already current")
 
 
 if __name__ == "__main__":
