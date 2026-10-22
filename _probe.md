@@ -1,19 +1,11 @@
-# probe — what survives GitHub's markdown sanitizer
+# probe
 
-[jump to the closed panel](#inside-heading)
+#### ~/upstream
 
-<details><summary>closed panel</summary>
+path heading test
 
-#### inside heading
+#### ~/projects
 
-content that should be visible after the jump
+second
 
-</details>
-
-<details><summary>second closed panel</summary>
-
-#### second inside heading
-
-more content
-
-</details>
+[<kbd>~/upstream</kbd>](#upstream) · [<kbd>~/projects</kbd>](#projects)
