@@ -52,6 +52,8 @@ def build(frames, fps=12.9):
     out.append(
         "<style>"
         f".f{{opacity:0;animation:blink {period:.3f}s steps(1,end) infinite}}"
+        f".f:first-of-type{{opacity:1}}"
+        f"@media (prefers-reduced-motion: reduce){{.f{{animation:none}}.f:first-of-type{{opacity:1}}}}"
         f"@keyframes blink{{0%{{opacity:1}}{step:.3f}%{{opacity:0}}100%{{opacity:0}}}}"
         "text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;"
         f"font-size:{FONT}px;white-space:pre}}"
