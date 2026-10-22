@@ -1,0 +1,32 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>tui animation probe</title>
+<body style="margin:0;background:#222">
+<img id="i" src="../assets/tui.svg" width="536" style="display:block">
+<pre id="out" style="color:#0f0;font:12px monospace"></pre>
+<script>
+function hash(ctx, w, h) {
+  const d = ctx.getImageData(0, 0, w, h).data;
+  let h1 = 0;
+  for (let i = 0; i < d.length; i += 97) h1 = (h1 * 31 + d[i]) >>> 0;
+  return h1;
+}
+window.probe = async () => {
+  const img = document.getElementById('i');
+  if (!img.complete) await new Promise(r => img.onload = r);
+  const c = document.createElement('canvas');
+  c.width = img.naturalWidth; c.height = img.naturalHeight;
+  const ctx = c.getContext('2d');
+  const samples = [];
+  for (let n = 0; n < 6; n++) {
+    ctx.clearRect(0, 0, c.width, c.height);
+    ctx.drawImage(img, 0, 0);
+    samples.push(hash(ctx, c.width, c.height));
+    await new Promise(r => setTimeout(r, 180));
+  }
+  const distinct = new Set(samples).size;
+  const result = {samples, distinct, frames_expected: 27, animating: distinct > 1};
+  document.getElementById('out').textContent = JSON.stringify(result);
+  return result;
+};
+</script>

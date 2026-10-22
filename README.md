@@ -45,3 +45,19 @@ Also merged into Razorpay payment flow, telemetry and persistent queue storage, 
 ---
 
 <sub>Open to systems, automation and developer-tooling work. Resume above, or mail me.</sub>
+
+---
+
+#### the readme plays its own demo
+
+![terminal playing a 27-frame ASCII loop](./assets/tui.svg)
+
+Twenty-seven frames captured once from `ascii.live/rick` and stored in this repo as
+[`assets/rick.frames.txt`](assets/rick.frames.txt). It plays here with no network, no scripts and no
+external service — and the same frames play in a terminal:
+
+```bash
+python3 tools/play.py
+```
+
+`q` quit · `space` pause · `f`/`s` speed. Rebuild the SVG with `python3 tools/build_tui_svg.py`.
