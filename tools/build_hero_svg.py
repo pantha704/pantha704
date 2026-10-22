@@ -136,7 +136,7 @@ def build(theme, merged, repos, opened):
         ("|- upstream/", "fg", False),
         ("|- projects/", "fg", False),
         ("|- stack.md", "fg", False),
-        ("`- contact.md", "fg", False),
+        ("`- terminal.md", "fg", False),
     ]
     y = CHROME + 28
     for label, colour, active in tree:
