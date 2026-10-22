@@ -1,0 +1,878 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="658" height="854" viewBox="0 0 658 854" role="img" aria-label="Terminal playing an ASCII animation of duck">
+<style>.f{opacity:0;animation:blink 1.395s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}5.556%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="658" height="854" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="657" height="853" rx="10" fill="none" stroke="#30363d"/>
+<rect width="658" height="30" rx="10" fill="#161b22"/>
+<rect y="20" width="658" height="10" fill="#161b22"/>
+<circle cx="16" cy="15.0" r="5" fill="#ff5f56"/>
+<circle cx="32" cy="15.0" r="5" fill="#ffbd2e"/>
+<circle cx="48" cy="15.0" r="5" fill="#27c93f"/>
+<text x="329" y="19" fill="#8b949e" text-anchor="middle" font-size="11">ascii.live/duck</text>
+<text x="16" y="48" fill="#7ee787">$ curl ascii.live/duck</text>
+<rect x="12" y="64" width="634" height="778" rx="6" fill="#010409"/>
+<g class="f" style="animation-delay:-0.0000s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                             ddddddddddddd</tspan>
+<tspan x="16" dy="14">                                                          ddddddd;;;ddddddddd</tspan>
+<tspan x="16" dy="14">                                                        dddd;:          .=*dddd</tspan>
+<tspan x="16" dy="14">                                                       dddd-                =dddd</tspan>
+<tspan x="16" dy="14">                                                     dddd*.      +dd=.       .ddd</tspan>
+<tspan x="16" dy="14">                                                     ddd#.       dddd.        .ddd</tspan>
+<tspan x="16" dy="14">                                                    ddd*.         ..           #ddd</tspan>
+<tspan x="16" dy="14">                                                    dd;                .-d#    =ddd</tspan>
+<tspan x="16" dy="14">                                                   ddd.    *#dddddddd;;*+;d#.  dddd</tspan>
+<tspan x="16" dy="14">                                                  ddd*      -ddddd;#*+==--*dd: =ddd</tspan>
+<tspan x="16" dy="14">                                                  ddd-        .#dd+=+*;dddd+;d# +dd</tspan>
+<tspan x="16" dy="14">                                                  ddd.           :;ddd*=-=;dd;d;.dd</tspan>
+<tspan x="16" dy="14">                                     ddddddd      ddd#              .:+;ddddddddddd</tspan>
+<tspan x="16" dy="14">                                 dddddd;##dddddd  ddd#                      ...-ddd</tspan>
+<tspan x="16" dy="14">                                 ddd:.     .=dddddddd:                        :ddd</tspan>
+<tspan x="16" dy="14">                                  ddd=        =;ddddd.                       .dddd</tspan>
+<tspan x="16" dy="14">                                  dddd           .;d;                        *ddd</tspan>
+<tspan x="16" dy="14">                                 dddd;           .dd+                       :dddd</tspan>
+<tspan x="16" dy="14">                                ddddd.           =d+                        =ddd</tspan>
+<tspan x="16" dy="14">                               ddd*dd+           *-                         #ddd</tspan>
+<tspan x="16" dy="14">                              ddd: *ddd+                        .           ;ddd</tspan>
+<tspan x="16" dy="14">                              ddd.  =dddd-                                  *ddd</tspan>
+<tspan x="16" dy="14">                             ddd+     :dddd                                 *ddd</tspan>
+<tspan x="16" dy="14">                             ddd:      .+dd=                                +dd</tspan>
+<tspan x="16" dy="14">                             ddd-       .ddd                                +dd</tspan>
+<tspan x="16" dy="14">                             ddd+        .dd.                               .ddd</tspan>
+<tspan x="16" dy="14">                             dddd:       .d*                                 :dd</tspan>
+<tspan x="16" dy="14">                              dddd:                                          .ddd</tspan>
+<tspan x="16" dy="14">                              ;dddd:                                          *dd</tspan>
+<tspan x="16" dy="14">                              ddd;d=                                          -ddd</tspan>
+<tspan x="16" dy="14">                               dd;                                            :ddd</tspan>
+<tspan x="16" dy="14">                               ddd=                                           *dddd</tspan>
+<tspan x="16" dy="14">                                ddd*.                                       ..dddd</tspan>
+<tspan x="16" dy="14">                                dddddd*                                      =dddd</tspan>
+<tspan x="16" dy="14">                             dddddddd;+-:.                                  -dddd</tspan>
+<tspan x="16" dy="14">                             ddddddddddddddddd.                            -dddd</tspan>
+<tspan x="16" dy="14">                             ddd*+++++++++++#dd.                          *dddd</tspan>
+<tspan x="16" dy="14">                             ddd+++++++++++++dd;                        -dddd</tspan>
+<tspan x="16" dy="14">                             ddd++++++++++++++dd=                     -ddd;</tspan>
+<tspan x="16" dy="14">                            ddd++++dd*++++++++dd*                 ..#ddd;</tspan>
+<tspan x="16" dy="14">                           ddd++++++dd;+++++++;d;               .*ddddd</tspan>
+<tspan x="16" dy="14">                          dd;++++++++dd;++++++;ddddd*-......-#ddddddd</tspan>
+<tspan x="16" dy="14">                        ddd+++++++++++;d++++++ddd ddddddddddddd*+#dd</tspan>
+<tspan x="16" dy="14">                         ddd;+++++++++++++++++dd             dd#+;dd</tspan>
+<tspan x="16" dy="14">                           ddddd*++++++++++++dd;;;;;;;;;;;   ddd**dd</tspan>
+<tspan x="16" dy="14">                             ddddddddd;####;dd;;;;;;;;;;;;;;;;ddd+dddd</tspan>
+<tspan x="16" dy="14">                                 dddddddd;;;;;;;;;;;;;;;;;;;;;;dd*+;ddddddd</tspan>
+<tspan x="16" dy="14">                                    ;;;;;;;;;;;;;;;;;;;;;;;;ddddd+*d;+*;ddddddd</tspan>
+<tspan x="16" dy="14">                                    ;;;;;;;;;;;;;;;;;;;;;;dddd;*+++#*+++*;dddddd</tspan>
+<tspan x="16" dy="14">                                   ;;;;;;;;;;;;;;;;;;;;;;;;ddddddddd*;dddddd</tspan>
+<tspan x="16" dy="14">                              ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddddddd</tspan>
+<tspan x="16" dy="14">                              ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                 ;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                               dddddddddd</tspan>
+<tspan x="16" dy="14">                                                            dddddddddddddddd</tspan>
+<tspan x="16" dy="14">                                                         ;dddd#-.      .+dddddd</tspan>
+<tspan x="16" dy="14">                                                        dddd=              =dddd</tspan>
+<tspan x="16" dy="14">                                                      dddd#.     *ddd.       =ddd</tspan>
+<tspan x="16" dy="14">                                                     dddd-       -ddd.        .ddd</tspan>
+<tspan x="16" dy="14">                                                    dddd:                      :ddd</tspan>
+<tspan x="16" dy="14">                                                    ddd.    ............;dd.   .ddd</tspan>
+<tspan x="16" dy="14">                                                   ddd-     *ddd**++++++=+d*  :dddd</tspan>
+<tspan x="16" dy="14">                                                   dd;       -dd;dd#=-----*d+..;ddd</tspan>
+<tspan x="16" dy="14">                                                   dd:        .+d;-==*;dd;=-d;..ddd</tspan>
+<tspan x="16" dy="14">                                                   dd.           :;d;+---=;d*dd.dd</tspan>
+<tspan x="16" dy="14">                                   ddddd          dd#              .:*ddd;*+dddddd</tspan>
+<tspan x="16" dy="14">                                  dd#+*;dddd      dd-                    -+###**dd</tspan>
+<tspan x="16" dy="14">                                  ;dd   .-dddddd  dd.                         .ddd</tspan>
+<tspan x="16" dy="14">                                  ddd     .-ddddddd=                          -dd</tspan>
+<tspan x="16" dy="14">                                dddd=         ..-d*                          .ddd</tspan>
+<tspan x="16" dy="14">                                dddd:           ##                           :ddd</tspan>
+<tspan x="16" dy="14">                               dddd*           -*.                           =dd</tspan>
+<tspan x="16" dy="14">                               dd.;d#.         =                             *dd</tspan>
+<tspan x="16" dy="14">                               d=  #dd;.                                     ;dd</tspan>
+<tspan x="16" dy="14">                              dd.   .#dd;.                                   ;dd</tspan>
+<tspan x="16" dy="14">                              dd.     .ddd.                                  #d;</tspan>
+<tspan x="16" dy="14">                              d;       .+dd                                  +dd</tspan>
+<tspan x="16" dy="14">                             ddd.       .dd=                                 :dd</tspan>
+<tspan x="16" dy="14">                              dd:        :d;                                 :dd</tspan>
+<tspan x="16" dy="14">                              ddd:       :;.                                 .dd</tspan>
+<tspan x="16" dy="14">                              dddd-                                          .dd</tspan>
+<tspan x="16" dy="14">                              ddddd*.                                        .dd</tspan>
+<tspan x="16" dy="14">                              ddd=dd#                                        :ddd</tspan>
+<tspan x="16" dy="14">                               dd;.                                          *ddd#</tspan>
+<tspan x="16" dy="14">                               dddd.                                        :dddd</tspan>
+<tspan x="16" dy="14">                                dddd;.                                      #dddd</tspan>
+<tspan x="16" dy="14">                                ddddd=                                     +dddd</tspan>
+<tspan x="16" dy="14">                                d#;ddddd#*+==+-.                          =ddddd</tspan>
+<tspan x="16" dy="14">                               dd+++++*###*++dd                          =ddddd</tspan>
+<tspan x="16" dy="14">                              ddd+++++++++++++d*                        #ddddd</tspan>
+<tspan x="16" dy="14">                             ddd*+++#+++++++++dd-                     .ddddd</tspan>
+<tspan x="16" dy="14">                            ddd#++++;;++++++++;d+                    #ddd</tspan>
+<tspan x="16" dy="14">                           ddd*+++++#d;+++++++;d*                 .;dddd</tspan>
+<tspan x="16" dy="14">                          dd;++++++++dd#++++++dd+              :*ddddd</tspan>
+<tspan x="16" dy="14">                         d;+++++++++++dd+++++;ddd#=:.....:-*dddddddd</tspan>
+<tspan x="16" dy="14">                         ddd*++++++++++;;++++dddddddddddddddddd*+ddd</tspan>
+<tspan x="16" dy="14">                           ddd*+++++++++++++dddd             ddd+;dd</tspan>
+<tspan x="16" dy="14">                            ddddd#++++++++++dd;;;;;;;;;;;;;;;;dd#+ddd</tspan>
+<tspan x="16" dy="14">                               dddddddd;####dd;;;;;;;;;;;;;;;;;d;++ddddd</tspan>
+<tspan x="16" dy="14">                                  dddddddd;;;;;;;;;;;;;;;;;;;ddd#++++;dddddd</tspan>
+<tspan x="16" dy="14">                                      ;;;;;;;;;;;;;;;;;;;;;;dd#+++++++++#ddddd</tspan>
+<tspan x="16" dy="14">                                      ;;;;;;;;;;;;;;;;;;;;;ddddddd;+*ddddd;;;</tspan>
+<tspan x="16" dy="14">                                       ;;;;;;;;;;;;;;;;;;;;;;;;;;dddddd;;;;;</tspan>
+<tspan x="16" dy="14">                                   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               ;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                              ;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               ;;;;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                              dddddddddd</tspan>
+<tspan x="16" dy="14">                                                           ddddddddddddddddd</tspan>
+<tspan x="16" dy="14">                                                         ddddd#:.      .*ddddd</tspan>
+<tspan x="16" dy="14">                                                       dddd;.             :dddd</tspan>
+<tspan x="16" dy="14">                                                      ddd;.      .dd;.      =ddd</tspan>
+<tspan x="16" dy="14">                                                    dddd-        -ddd.       :ddd</tspan>
+<tspan x="16" dy="14">                                                   dddd-          ..          -dd</tspan>
+<tspan x="16" dy="14">                                                   ddd*      *#ddd+....:-*=   .;dd</tspan>
+<tspan x="16" dy="14">                                                  ;ddd       ddd;=-=+***+=;+   -dd</tspan>
+<tspan x="16" dy="14">                                                  ;dd+       .;d+;dd;+=----*#.:dddd</tspan>
+<tspan x="16" dy="14">                                                  ddd.         .#;=-=+*;dd*-+d::ddd</tspan>
+<tspan x="16" dy="14">                                                  dd:             -dd+----=dd+d-ddd</tspan>
+<tspan x="16" dy="14">                                     ddd          dd.                :;dd;*==;ddddd</tspan>
+<tspan x="16" dy="14">                                    dd;dddd      ddd.                    :+#;;;;ddd</tspan>
+<tspan x="16" dy="14">                                    dd..=ddddd   dd*                          .=ddd</tspan>
+<tspan x="16" dy="14">                                   dd*   .=dddddddd.                           =dd</tspan>
+<tspan x="16" dy="14">                                  ddd-     .;ddddd.                           .dd</tspan>
+<tspan x="16" dy="14">                               ddddd.          *d:                            =d</tspan>
+<tspan x="16" dy="14">                               dddd:          .d.                            .dd</tspan>
+<tspan x="16" dy="14">                              dd..dd=         :                              =dd</tspan>
+<tspan x="16" dy="14">                             dd.  .;dd+                                      ;dd</tspan>
+<tspan x="16" dy="14">                            ddd.    :;dd#.                                  :ddd</tspan>
+<tspan x="16" dy="14">                            ddd.      .ddd=                                 -ddd</tspan>
+<tspan x="16" dy="14">                            ddd.       .#dd                                 =ddd</tspan>
+<tspan x="16" dy="14">                            ddd.        .dd*                                =ddd</tspan>
+<tspan x="16" dy="14">                            ddd#.        .dd.                               =ddd</tspan>
+<tspan x="16" dy="14">                            dddd+.                                          =ddd</tspan>
+<tspan x="16" dy="14">                           dddddd;.                                         -ddd</tspan>
+<tspan x="16" dy="14">                           ddd= *dd-                                        -ddd</tspan>
+<tspan x="16" dy="14">                           dddd. .;-                                        =ddd;</tspan>
+<tspan x="16" dy="14">                            ddd=                                            #ddd;</tspan>
+<tspan x="16" dy="14">                             ddd*.                                         .dddd</tspan>
+<tspan x="16" dy="14">                             dddddd;-.                                     +dddd</tspan>
+<tspan x="16" dy="14">                              dddd*dddd#.                                 :ddddd</tspan>
+<tspan x="16" dy="14">                               ddd+++#dddddd#dd-:.                       .;dddd</tspan>
+<tspan x="16" dy="14">                               dd*+++++++++++*dd-                        ;dddd</tspan>
+<tspan x="16" dy="14">                              ddd+++++++++++++;dd.                     .dddddd</tspan>
+<tspan x="16" dy="14">                             ddd+++++;+++++++++dd+                    :ddddd</tspan>
+<tspan x="16" dy="14">                           dddd++++++dd*++++++;dd.                   #ddd</tspan>
+<tspan x="16" dy="14">                         dddd*+++++++#dd++++++ddd                 .=dddd</tspan>
+<tspan x="16" dy="14">                         dd;++++++++++;dd+++++dd+               .*dddd</tspan>
+<tspan x="16" dy="14">                          ddd++++++++++dd+++#ddd+.....     ..=;ddd#d</tspan>
+<tspan x="16" dy="14">                           ddd;+++++++++#*+++dddddddddddddddddd+++*dd</tspan>
+<tspan x="16" dy="14">                             ddd;++++++++++++ddd             dd;++ddd</tspan>
+<tspan x="16" dy="14">                               dddd#++++++++ddd;;;;;;;;;;;;; ddd++ddd</tspan>
+<tspan x="16" dy="14">                                 ;ddddd;**;ddd;;;;;;;;;;;;;;;;dd++dddddddd</tspan>
+<tspan x="16" dy="14">                                     ddddd;;;;;;;;;;;;;;;;;;;;dd++*+++#ddddddd</tspan>
+<tspan x="16" dy="14">                                         ;;;;;;;;;;;;;;;;;;ddddd;#*++;dddddd</tspan>
+<tspan x="16" dy="14">                                         ;;;;;;;;;;;;;;;;;;;;;ddddddddd;;;</tspan>
+<tspan x="16" dy="14">                                          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                              ;;;;;;;;;;;;;;;;;;;       #;;;;;;</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                   ;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                             ddddddddddddd</tspan>
+<tspan x="16" dy="14">                                                          dddddd*==+#dddddddd</tspan>
+<tspan x="16" dy="14">                                                        dddd;:          .-;dddd</tspan>
+<tspan x="16" dy="14">                                                       dddd-            .   *ddd</tspan>
+<tspan x="16" dy="14">                                                     dddd#.       *dd:  :.   .ddd</tspan>
+<tspan x="16" dy="14">                                                     ddd:        .ddd=        .ddd</tspan>
+<tspan x="16" dy="14">                                                    ddd.      .... ..          :ddd</tspan>
+<tspan x="16" dy="14">                                                   ddd.     ;dd;dddd+</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">;d.    .ddd</tspan>
+<tspan x="16" dy="14">                                                   dd.      .;dd#=---==--#d-  .:=dd</tspan>
+<tspan x="16" dy="14">                                                  dd.         -dddddd*=---#d*.dd=dd</tspan>
+<tspan x="16" dy="14">                                                  d*           .=d;--=#dd#-+d#-+.dd</tspan>
+<tspan x="16" dy="14">                                        dd       dd:              .;d*=--=;d;d;.+dd</tspan>
+<tspan x="16" dy="14">                                      dddd       d;.                 :#ddd;;ddd;ddd</tspan>
+<tspan x="16" dy="14">                                    ddd*dd      dd=                      .-=*#;dddd</tspan>
+<tspan x="16" dy="14">                                   dd+ .dd     dd;                            +ddd</tspan>
+<tspan x="16" dy="14">                               ddddd:   .;ddd ddd:                           -ddd</tspan>
+<tspan x="16" dy="14">                              dddd;.     ..;dddd=                           :ddd</tspan>
+<tspan x="16" dy="14">                             dddd;.         -dd=                            =ddd</tspan>
+<tspan x="16" dy="14">                            dd;-dd-       .+dd:                             ddd</tspan>
+<tspan x="16" dy="14">                           dd;  +dd*.     :*=.                             :ddd</tspan>
+<tspan x="16" dy="14">                           dd=   .;ddd-                                    +ddd</tspan>
+<tspan x="16" dy="14">                           dd-     .*ddd-                                  ;dd</tspan>
+<tspan x="16" dy="14">                           dd#        =dd;                                .ddd</tspan>
+<tspan x="16" dy="14">                           dd;         .dd.                               =ddd</tspan>
+<tspan x="16" dy="14">                           ddd.         -dd                               *dd;</tspan>
+<tspan x="16" dy="14">                          ddddd.        .;d                               ;dd</tspan>
+<tspan x="16" dy="14">                         ddd+;dd.                                        .ddd</tspan>
+<tspan x="16" dy="14">                          dd .ddd-                                       =dddd</tspan>
+<tspan x="16" dy="14">                          dd-  =ddd.                                     +dddd</tspan>
+<tspan x="16" dy="14">                          ddd   .=d;                                     #dddd</tspan>
+<tspan x="16" dy="14">                           ddd                                           ddddd</tspan>
+<tspan x="16" dy="14">                           dddd-                                        :ddddd</tspan>
+<tspan x="16" dy="14">                            ddddd-                                      *ddddd</tspan>
+<tspan x="16" dy="14">                            dddd:.                                      ;dddd</tspan>
+<tspan x="16" dy="14">                             ddd.                                      +dddd</tspan>
+<tspan x="16" dy="14">                              ddd.                                    .dddd</tspan>
+<tspan x="16" dy="14">                               ddd:.+#+                              .dddd</tspan>
+<tspan x="16" dy="14">                                ddd:dddd=                           .ddd</tspan>
+<tspan x="16" dy="14">                                 ddddd+#dddd*=:.. ...             .*ddd</tspan>
+<tspan x="16" dy="14">                               dddddd*+++++#dddd;*;.           ..;ddd</tspan>
+<tspan x="16" dy="14">                            dddddd#+++;#+++++++++dd.        :+;dddd</tspan>
+<tspan x="16" dy="14">                        ddddddd#++++++dd#++++++#dd+...-*;ddddddd+;dd</tspan>
+<tspan x="16" dy="14">                       ddd;+++++++++++;d;++++++;dddddddddddd;d;++ddd</tspan>
+<tspan x="16" dy="14">                        dddd*++++++++++#++++++dddd dd        dd;+;dd</tspan>
+<tspan x="16" dy="14">                          ddddd*+++++++++++++ddd;;;;;;;#;#;;;ddd+*dddddddddd</tspan>
+<tspan x="16" dy="14">                             dddddd#*++++++*ddd;;;;;;;;;;;;;ddd*+++++*;ddddd</tspan>
+<tspan x="16" dy="14">                         d;     ddddddddddddd;;;;;;;;;;;;;;ddddddd#+ddddddd</tspan>
+<tspan x="16" dy="14">                                      ;dd;;;;;;;;;;;;;;;;;;;;;;ddddddd;;;;;</tspan>
+<tspan x="16" dy="14">                                        ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                          ;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                          ;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               ;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                            ddddddd</tspan>
+<tspan x="16" dy="14">                                                        ddddddddddddddddd</tspan>
+<tspan x="16" dy="14">                                                      ddddc:....  ....+dddd</tspan>
+<tspan x="16" dy="14">                                                    ddd+.               .*ddd</tspan>
+<tspan x="16" dy="14">                                                   ddd-      +dd.         .ddd</tspan>
+<tspan x="16" dy="14">                                                  ddd-      :dddc          :ddd</tspan>
+<tspan x="16" dy="14">                                                  dd*        .-:            -dd</tspan>
+<tspan x="16" dy="14">                                                 ddc       .       .+d-      cdd</tspan>
+<tspan x="16" dy="14">                                                ddd.  :ddddddddddddd;*d:  .dd+dd</tspan>
+<tspan x="16" dy="14">                                                dd*   .=ddd;c*=-------=d- .;d-ddd</tspan>
+<tspan x="16" dy="14">                                               ddd.      ;dc--+*;ddddc--dd:  .ddd</tspan>
+<tspan x="16" dy="14">                                               dd+        .+ddc=-----*dd=*d* .ddd</tspan>
+<tspan x="16" dy="14">                                               dd.            -;ddc==--*ddcd*-ddd</tspan>
+<tspan x="16" dy="14">                                   d  dddd    dd;                .:+dddddddddddd</tspan>
+<tspan x="16" dy="14">                                  ddddddd     dd=                           :ddd</tspan>
+<tspan x="16" dy="14">                                 dddddddd    ddd.                          .;dd</tspan>
+<tspan x="16" dy="14">                               dddd-  .cddddddd=                          .;dd</tspan>
+<tspan x="16" dy="14">                             dddd:      ...=ddd.                          ;dd</tspan>
+<tspan x="16" dy="14">                            ddd;.         .ddd:                          +dd</tspan>
+<tspan x="16" dy="14">                           ddddd.        .ddd:                          :ddd</tspan>
+<tspan x="16" dy="14">                          dddd=dd-      .dd;.                           cdd</tspan>
+<tspan x="16" dy="14">                          ddd  :ddd.    ::                              ddd</tspan>
+<tspan x="16" dy="14">                         ddd=   .;ddc.                                 =dd</tspan>
+<tspan x="16" dy="14">                         ddd      +ddd.                                *dd</tspan>
+<tspan x="16" dy="14">                        ddd*       -dd;                                *dd</tspan>
+<tspan x="16" dy="14">                        ddd=        +dd                                *ddd</tspan>
+<tspan x="16" dy="14">                        ddd*        .dd                                +ddd</tspan>
+<tspan x="16" dy="14">                         dd;                                           ;ddd</tspan>
+<tspan x="16" dy="14">                         dddd*                                         *dddd</tspan>
+<tspan x="16" dy="14">                        ddd;ddd+.                                      +dddd</tspan>
+<tspan x="16" dy="14">                         d; .=c*.                                      *dddd</tspan>
+<tspan x="16" dy="14">                         dd:                                           cddddd</tspan>
+<tspan x="16" dy="14">                         ddd-                                          ;dddd;</tspan>
+<tspan x="16" dy="14">                          dddc.                                     .. ddddd</tspan>
+<tspan x="16" dy="14">                           ddddd.                                     -ddddd</tspan>
+<tspan x="16" dy="14">                            ddd.                                      cdddd</tspan>
+<tspan x="16" dy="14">                             ddd.                                    +ddddd</tspan>
+<tspan x="16" dy="14">                              ddd.                                  =dddd</tspan>
+<tspan x="16" dy="14">                               dddc.                               =dddd</tspan>
+<tspan x="16" dy="14">                                ddddd=. .+                      .;ddddd</tspan>
+<tspan x="16" dy="14">                                   dddddddd;+...              .*ddddd</tspan>
+<tspan x="16" dy="14">                                     dddddd++dd-           .+ddddddd</tspan>
+<tspan x="16" dy="14">                                       dddd+;ddddc;dc:.-cdddddddddd</tspan>
+<tspan x="16" dy="14">                                       ddd;+dddddddddddddddddd;++ddd</tspan>
+<tspan x="16" dy="14">                                      dddd++dddd             ddd;cddddddd</tspan>
+<tspan x="16" dy="14">                                     dddd*++ddd;;;;;;;;;;;;;dddd*++ddddddd</tspan>
+<tspan x="16" dy="14">                                    dddd++++ddd;;;;;;;;;;;;;ddddddddddd</tspan>
+<tspan x="16" dy="14">                                   ddd;+++++ddd;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               dddddd++++c+++ddddd;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ddddddd;+++++cdd+++++;dddd;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                        ddddddd;++++++++*dd+++++++*;ddd;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                       dddddddddddd;+++++++++;ddddddddd;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                              dddddddddd;;ddddddddddd</tspan>
+<tspan x="16" dy="14">                                      ddddd</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                 ddddddddddddd</tspan>
+<tspan x="16" dy="14">                                               dddddd=..:-#dddddd</tspan>
+<tspan x="16" dy="14">                                            ddddd+.          .*dddd</tspan>
+<tspan x="16" dy="14">                                           dddd.               .#ddd</tspan>
+<tspan x="16" dy="14">                                         dddd:                   =ddd</tspan>
+<tspan x="16" dy="14">                                        dddd.   =*:            .:.;dd</tspan>
+<tspan x="16" dy="14">                                       ddd;    #ddd.    .;:   :dd;.ddd</tspan>
+<tspan x="16" dy="14">                                       ddd      ..  ..-dd=;d;..    ;d;</tspan>
+<tspan x="16" dy="14">                                      ddd=       :*dd#=-----=;dd*-.=dd</tspan>
+<tspan x="16" dy="14">                                      ddd    .#d;----=#dddddd*=-=dddd;</tspan>
+<tspan x="16" dy="14">                                      dd;   dddddddd;#+=----=+#;dd+.dd</tspan>
+<tspan x="16" dy="14">                                      dd;    :#ddddd;*+++++*;ddd.  :dd</tspan>
+<tspan x="16" dy="14">                                       d;          ..::-----:.     *dd</tspan>
+<tspan x="16" dy="14">                                       dd                         .dd</tspan>
+<tspan x="16" dy="14">                                       dd:                        .dd</tspan>
+<tspan x="16" dy="14">                                    ddddd*                        -dd</tspan>
+<tspan x="16" dy="14">                                  ddddd*d#                        ;dd</tspan>
+<tspan x="16" dy="14">                                ddd;:  =d#                       .ddd</tspan>
+<tspan x="16" dy="14">                              ddd+.    *d+                       :dd;</tspan>
+<tspan x="16" dy="14">                          ddddd+.     .;d:                       :dd</tspan>
+<tspan x="16" dy="14">                         dddd;.       .dd                        -dd</tspan>
+<tspan x="16" dy="14">                        ddddd         .d#                        -dd</tspan>
+<tspan x="16" dy="14">                       dddddd+        .d.                        :dd</tspan>
+<tspan x="16" dy="14">                       ddd=:dd;.      .+                         .dd</tspan>
+<tspan x="16" dy="14">                      ddd*  .;dd.                                .dd</tspan>
+<tspan x="16" dy="14">                      ddd.   .#d;.                                dd</tspan>
+<tspan x="16" dy="14">                      dd#      dd*                                ddd</tspan>
+<tspan x="16" dy="14">                      dd*      ;d#                               .ddd</tspan>
+<tspan x="16" dy="14">                      ddd.     .d=                               .dddd</tspan>
+<tspan x="16" dy="14">                      ddd;.                                      :ddddd</tspan>
+<tspan x="16" dy="14">                      ddddd:                                     +dd#dd</tspan>
+<tspan x="16" dy="14">                      ddddddd:                                  .ddd.dd</tspan>
+<tspan x="16" dy="14">                      ddd-+;d#                                  -ddd.dd</tspan>
+<tspan x="16" dy="14">                      ddd*                                      ;dd-dd</tspan>
+<tspan x="16" dy="14">                      dddd.                                    =ddddd</tspan>
+<tspan x="16" dy="14">                       dddd+                                  -ddddd</tspan>
+<tspan x="16" dy="14">                        ddddd;.                              -ddddd</tspan>
+<tspan x="16" dy="14">                        dddd+=                              =dddd</tspan>
+<tspan x="16" dy="14">                         dddd.                             #dddd   ddddddddddd</tspan>
+<tspan x="16" dy="14">                          dddd.                          -dddd  dddd+*ddddddd</tspan>
+<tspan x="16" dy="14">                           dddd#.                      :ddddddddddd++++++ddd</tspan>
+<tspan x="16" dy="14">                             dddd+.                 .:dddddd#;ddd#++;dd+;dd</tspan>
+<tspan x="16" dy="14">                               dddd;=.            .*ddddd  ddddd++++#*+ddd</tspan>
+<tspan x="16" dy="14">                                  dddddd;+-::-*ddddddd      dd#+++++;ddd</tspan>
+<tspan x="16" dy="14">                                     d##dddddddddddd        dd*#;dddd</tspan>
+<tspan x="16" dy="14">                                    dd;+dd                   ddddd</tspan>
+<tspan x="16" dy="14">                                    dd#*dd;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                  dddd+#dd;;;;;;;;;;;;;;;;;;;;;;    ;;;;</tspan>
+<tspan x="16" dy="14">                                ddd;+++*+ddd;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                             dddd;+++*d;+++dddd;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                            ddddddd;++++++#dddd;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                ddddddddddd;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                      ;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                             #;;;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                            #dddd;</tspan>
+<tspan x="16" dy="14">                                       dddddddddddddddd</tspan>
+<tspan x="16" dy="14">                                     ddddddd;#**###;dddddd</tspan>
+<tspan x="16" dy="14">                                   dddddd+.          .+dddd</tspan>
+<tspan x="16" dy="14">                                 ddddd+.                =dddd</tspan>
+<tspan x="16" dy="14">                                ddddd.                    ddd</tspan>
+<tspan x="16" dy="14">                                ddd;.  :;d=             dd;ddd</tspan>
+<tspan x="16" dy="14">                               dddd:   *ddd    .+d*.       .ddd</tspan>
+<tspan x="16" dy="14">                               ddd;     .:    .dd*=dddd;*-. *ddd</tspan>
+<tspan x="16" dy="14">                               ddd+       ..=dd#--------#ddd-dddd</tspan>
+<tspan x="16" dy="14">                               ddd#     .#dd*---*;ddddddddd#.+ddd</tspan>
+<tspan x="16" dy="14">                               dddd.  .dd*-+ddd#------=;d;.  :ddd</tspan>
+<tspan x="16" dy="14">                               ;ddd: .ddddd;*</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">=+#;dd#:. :  .ddd</tspan>
+<tspan x="16" dy="14">                                ddd=   .-+#;;;;;;#+:          ddd</tspan>
+<tspan x="16" dy="14">                                dddd                          ddd</tspan>
+<tspan x="16" dy="14">                                 ddd=                         ddd</tspan>
+<tspan x="16" dy="14">                               dddddd-                       .ddd</tspan>
+<tspan x="16" dy="14">                              ddd#.-dd:                      -ddd</tspan>
+<tspan x="16" dy="14">                            ddd:.  .;d;                      +ddd</tspan>
+<tspan x="16" dy="14">                         dddd#      *dd-                     =ddd</tspan>
+<tspan x="16" dy="14">                        dddd=       =dd#                      ;dd</tspan>
+<tspan x="16" dy="14">                       dd+dd        -dd*                      =dd;</tspan>
+<tspan x="16" dy="14">                      dd= #dd       -d#                       :ddd</tspan>
+<tspan x="16" dy="14">                     dd;  :ddd                                 ddd</tspan>
+<tspan x="16" dy="14">                     dd=   .#dd.                               +dd</tspan>
+<tspan x="16" dy="14">                    ddd.    .#d-                               =ddd</tspan>
+<tspan x="16" dy="14">                    dd*      .dd.                              =dddd</tspan>
+<tspan x="16" dy="14">                    dd+      .dd.                              =dddd</tspan>
+<tspan x="16" dy="14">                    dd;.     .#d:                              =dd;dd</tspan>
+<tspan x="16" dy="14">                    ddd=      .-.                              =dd:dd</tspan>
+<tspan x="16" dy="14">                     ddd+.                                     *dd:dd</tspan>
+<tspan x="16" dy="14">                     ddddd#:                                  .dd;+dd</tspan>
+<tspan x="16" dy="14">                     dd*+ddd*                                 =dd*ddd</tspan>
+<tspan x="16" dy="14">                     dd=  ..                                  #ddddd</tspan>
+<tspan x="16" dy="14">                     ddd-                                    :ddddd</tspan>
+<tspan x="16" dy="14">                      dddd:                                  *dddd</tspan>
+<tspan x="16" dy="14">                       ddddd:                               :dddd  ddddddd</tspan>
+<tspan x="16" dy="14">                       dddd;=                               ;ddddddddddddd</tspan>
+<tspan x="16" dy="14">                        ddd#                              :ddddd#+***+;dd</tspan>
+<tspan x="16" dy="14">                         ddd;                            :dddd;++++*d+ddd</tspan>
+<tspan x="16" dy="14">                          dddd.                         *dddd;++++dd*+*dd</tspan>
+<tspan x="16" dy="14">                            ddd+.                   ..;dddddd++++d++++ddd</tspan>
+<tspan x="16" dy="14">                             dddd#:..            .=;ddddddddd+++++++;ddd</tspan>
+<tspan x="16" dy="14">                                dddddd#-d*...-#dddddddd   ddd++++#dddd</tspan>
+<tspan x="16" dy="14">                                   dd;#ddddddddddd        ddddddddd;</tspan>
+<tspan x="16" dy="14">                                   dd#+dd                   d</tspan>
+<tspan x="16" dy="14">                                   dd#+dd;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                 dddd++ddd;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               ddddd#++*ddd;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                            dddddd*++;d++*dddd;;;;;;;;;;;;;;;;;;;;; ;;;;;</tspan>
+<tspan x="16" dy="14">                            ddddddd;+++;ddddd;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                  ;;ddddd;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                        ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                 ddddddddddd</tspan>
+<tspan x="16" dy="14">                              dddddd+-:::=#ddddd</tspan>
+<tspan x="16" dy="14">                            dddd;-.          .+dddd</tspan>
+<tspan x="16" dy="14">                          dddd#.                :ddd</tspan>
+<tspan x="16" dy="14">                         ddd;.                 :=.=dd</tspan>
+<tspan x="16" dy="14">                        ddd*                  .ddd :dd</tspan>
+<tspan x="16" dy="14">                        dd#    ...     .*d#.    .   -dd</tspan>
+<tspan x="16" dy="14">                       ddd.  .dddd-   .*d-;dd;-...   ;d</tspan>
+<tspan x="16" dy="14">                       dd;   .:##-.  :d#------=*#ddd=:dd</tspan>
+<tspan x="16" dy="14">                       dd;        .:d;---+dddddddddd-.dd</tspan>
+<tspan x="16" dy="14">                        dd.      *d*--+dd*=-----#d#. .ddd</tspan>
+<tspan x="16" dy="14">                        dd+  ...d#-*dd*----=#dd;=    .ddd</tspan>
+<tspan x="16" dy="14">                        ddd=  .ddd*+=+#;ddd#-.        ddd</tspan>
+<tspan x="16" dy="14">                         ddd*   .:::::.               ddd</tspan>
+<tspan x="16" dy="14">                          ddd+                       .ddd</tspan>
+<tspan x="16" dy="14">                           ddd.                      .ddd</tspan>
+<tspan x="16" dy="14">                         ddddd#                      .ddd</tspan>
+<tspan x="16" dy="14">                       dddd#ddd.                     .dddd</tspan>
+<tspan x="16" dy="14">                      dddd+ =dd.                      #ddd</tspan>
+<tspan x="16" dy="14">                      dd;.  =d;                       :dddd</tspan>
+<tspan x="16" dy="14">                  ;dddd#    :d.                       .dddd</tspan>
+<tspan x="16" dy="14">                  dddd#      .                         .dddd</tspan>
+<tspan x="16" dy="14">                  dddd+.                                -dddd</tspan>
+<tspan x="16" dy="14">                 ddd+dd#.                                -dddd</tspan>
+<tspan x="16" dy="14">                 dd+ *ddd.                                -dddd</tspan>
+<tspan x="16" dy="14">                 dd:  -ddd.                                #dddd</tspan>
+<tspan x="16" dy="14">                ddd.   .dd#                                -ddddd</tspan>
+<tspan x="16" dy="14">                ddd.    .dd-                                ddddd</tspan>
+<tspan x="16" dy="14">                ddd.     *d.                                dd;ddd</tspan>
+<tspan x="16" dy="14">                 ddd.                                       *d;ddd</tspan>
+<tspan x="16" dy="14">                 ddd#.                                      +ddddd  dd</tspan>
+<tspan x="16" dy="14">                  dddd=.                                    *ddddddddd</tspan>
+<tspan x="16" dy="14">                  dddddd;                                   *ddddddd+d</tspan>
+<tspan x="16" dy="14">                   ddd...                                   ;ddddd+++dd</tspan>
+<tspan x="16" dy="14">                    ddd-                                 *ddddd#+++++dd</tspan>
+<tspan x="16" dy="14">                    ddddd=                              dd#++++++++++ddd</tspan>
+<tspan x="16" dy="14">                     dddddd-                          .dd;++++++#d+++#dd</tspan>
+<tspan x="16" dy="14">                       ddd#                           :dd++++++ddd+++dd</tspan>
+<tspan x="16" dy="14">                        dddd;:                     .+dddd+++++#dd+++ddd</tspan>
+<tspan x="16" dy="14">                          ddddd+.               .:ddddddd+++++#d+++;dd</tspan>
+<tspan x="16" dy="14">                             ddddd#-.         :#dddd dddd+++++++++ddd</tspan>
+<tspan x="16" dy="14">                               dddddddddd;dddddddd     dd;++++++*dd;</tspan>
+<tspan x="16" dy="14">                                 dddddddddddd           ddd+++;ddd</tspan>
+<tspan x="16" dy="14">                                 ddd+ddd                   ddd;</tspan>
+<tspan x="16" dy="14">                                 ddd+ddd#;#;#;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                 ;d;+#d;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               d;dd*+*dd;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                            ddddd;*+++#dddd;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                              ;;ddddddd;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                              ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                      ;;;;;;;;;;;;;;  ;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                      ;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                        ;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                  dddddddddd</tspan>
+<tspan x="16" dy="14">                               dddddddddddddddd</tspan>
+<tspan x="16" dy="14">                            ddddd;+:    .:=#ddddd</tspan>
+<tspan x="16" dy="14">                           ddd;.              =dddd</tspan>
+<tspan x="16" dy="14">                         ddd*                 .:=ddd</tspan>
+<tspan x="16" dy="14">                        ddd:                 -ddd.ddd</tspan>
+<tspan x="16" dy="14">                       ddd=            :=     .:. :ddd</tspan>
+<tspan x="16" dy="14">                       dd;   .*dd:    :dddd#*=:... =dd</tspan>
+<tspan x="16" dy="14">                       dd+   :ddd#   =d;---=*#ddddd*ddd</tspan>
+<tspan x="16" dy="14">                       dd+         :dd=-=*#;ddddddd:+dd</tspan>
+<tspan x="16" dy="14">                       dd+       :;d==;dd+</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">--#d+  -dd</tspan>
+<tspan x="16" dy="14">                       ddd:    .;;=;dd*----=;dd-    .ddd</tspan>
+<tspan x="16" dy="14">                        ddd:  .dddd*=+#;ddd;-.       ddd</tspan>
+<tspan x="16" dy="14">                         ddd. .:+***++-.             -ddd</tspan>
+<tspan x="16" dy="14">                          ddd.                       .ddd</tspan>
+<tspan x="16" dy="14">                          dddd                        *ddd</tspan>
+<tspan x="16" dy="14">                        dddddd+                       .ddd</tspan>
+<tspan x="16" dy="14">                       ddd-=ddd.                       :dd</tspan>
+<tspan x="16" dy="14">                    ddddd=  .dd.                        ddd</tspan>
+<tspan x="16" dy="14">                  dddddd+    +d.                        ddd</tspan>
+<tspan x="16" dy="14">                  ddddd;     :;                         .ddd</tspan>
+<tspan x="16" dy="14">                 dddddd-     ..                          -ddd</tspan>
+<tspan x="16" dy="14">                 dd;.dd;.                                 .ddd</tspan>
+<tspan x="16" dy="14">                 dd: .ddd.                                 .ddd</tspan>
+<tspan x="16" dy="14">                ddd.  .;d;.                                 +dddd</tspan>
+<tspan x="16" dy="14">                ddd.   .*d*                                  dddd</tspan>
+<tspan x="16" dy="14">                ddd.    .;d.                                 *d;dd</tspan>
+<tspan x="16" dy="14">                ddd;.    -d#                                 +dd+dd</tspan>
+<tspan x="16" dy="14">                 ddd-    .;d.                                +dd*dd</tspan>
+<tspan x="16" dy="14">                  ddd.    .-                                 -dd#dd</tspan>
+<tspan x="16" dy="14">                  dddd.                                       dd;dd</tspan>
+<tspan x="16" dy="14">                   dddd#.                                     +ddddd</tspan>
+<tspan x="16" dy="14">                   dddddd+                                   -ddd;ddd</tspan>
+<tspan x="16" dy="14">                    dddd=.                                .#dddd+++ddd</tspan>
+<tspan x="16" dy="14">                    ddddd.                            =#dddd;*++++++dddd</tspan>
+<tspan x="16" dy="14">                     ddddd.                          :dd+++++++++++++*ddd</tspan>
+<tspan x="16" dy="14">                      ddddd;-                        #dd++++++++d*++++;d</tspan>
+<tspan x="16" dy="14">                        dddddd;                      ddd+++++++dd*+++;dd</tspan>
+<tspan x="16" dy="14">                          dddd-.                     *dd++++++*dd+++;dd</tspan>
+<tspan x="16" dy="14">                            dddd;..               .*dddd++++++#d+++ddd</tspan>
+<tspan x="16" dy="14">                               ddddd+:.       .-*dddddddd++++++++#ddd</tspan>
+<tspan x="16" dy="14">                                 dddddddddddddddddddd  dd;+++++*ddd</tspan>
+<tspan x="16" dy="14">                                  dd++ddddddddddd;      dddd#*ddd</tspan>
+<tspan x="16" dy="14">                                 ;dd+*dd                   ddd</tspan>
+<tspan x="16" dy="14">                              ;;;;dd++dd;;;;</tspan>
+<tspan x="16" dy="14">                            ;;;;;dd;++*dd;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                          ;;;;ddd;+++++*dddd;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                          ;;;dddddd#*;ddd;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                          ;;;;;;;;dddd;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                               ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                     ;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                      ;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                              dddddddddddddd</tspan>
+<tspan x="16" dy="14">                           dddddd;+:.  ..-*ddddd</tspan>
+<tspan x="16" dy="14">                          dddd+.            .;ddd</tspan>
+<tspan x="16" dy="14">                        dddd+                .+dddd</tspan>
+<tspan x="16" dy="14">                       dddd.                 #dddddd</tspan>
+<tspan x="16" dy="14">                       ddd=                   .. +ddd</tspan>
+<tspan x="16" dy="14">                      dddd.  .=#=.    :d+:.       dddd</tspan>
+<tspan x="16" dy="14">                      ddd;   +ddd=   =d*+#dddddd;*=ddd</tspan>
+<tspan x="16" dy="14">                      ddd#   .=#=. .#d+------=+;dd+*ddd</tspan>
+<tspan x="16" dy="14">                      ddd;        +d#--=;dd*+=-;d- .ddd</tspan>
+<tspan x="16" dy="14">                      dddd:     :d;--+d#---=*d;:    -dd</tspan>
+<tspan x="16" dy="14">                       ddd*    #d+#dd=-=#dd#:.      .dd;</tspan>
+<tspan x="16" dy="14">                        ddd- .#ddddddd#+.            -dd</tspan>
+<tspan x="16" dy="14">                          dd+                        :dd</tspan>
+<tspan x="16" dy="14">                       dddddd#                        #d</tspan>
+<tspan x="16" dy="14">                       dd;ddddd.                      .dd</tspan>
+<tspan x="16" dy="14">                      ddd. :;dd*                       ;dd</tspan>
+<tspan x="16" dy="14">                     ddd+   .#dd                       .dd</tspan>
+<tspan x="16" dy="14">                   dddd#     .dd.                       *dd</tspan>
+<tspan x="16" dy="14">                   dddd.      -d.                        ;ddd</tspan>
+<tspan x="16" dy="14">                  dddd#        +=                         #ddd</tspan>
+<tspan x="16" dy="14">                 ddd:dd*.                                  dddd</tspan>
+<tspan x="16" dy="14">                 dd- .;dd=                                 :ddd</tspan>
+<tspan x="16" dy="14">                 dd.   -dd*                                 *ddd</tspan>
+<tspan x="16" dy="14">                 dd.    .dd+                                .dddd</tspan>
+<tspan x="16" dy="14">                 dd.     -d;                                 #dddd</tspan>
+<tspan x="16" dy="14">                 dd:     .#d:                                +dddd</tspan>
+<tspan x="16" dy="14">                  dd.     +d#                                +dd;dd</tspan>
+<tspan x="16" dy="14">                   dd.    .=.                                +dd#dd</tspan>
+<tspan x="16" dy="14">                   ddd-                                      *ddddd</tspan>
+<tspan x="16" dy="14">                   dddd*                                    :dd;ddd</tspan>
+<tspan x="16" dy="14">                   ddd+dd*                                .#dd#+dd</tspan>
+<tspan x="16" dy="14">                    dd*...                           .  .;ddd+++ddd</tspan>
+<tspan x="16" dy="14">                    dddd:                           .ddddd;*+++++dddd</tspan>
+<tspan x="16" dy="14">                      dddd=                        .*dd*++++++d#++;dddd</tspan>
+<tspan x="16" dy="14">                       dddddd*                     .dd+++++++#d;++++++*dd</tspan>
+<tspan x="16" dy="14">                         ddddd                     =dd*++++++;d;++++++#dd</tspan>
+<tspan x="16" dy="14">                          dddddd-.                 =dd+++++++dd*++++++dd</tspan>
+<tspan x="16" dy="14">                            dddddd;:.              =dd+++++++d;++++++ddd</tspan>
+<tspan x="16" dy="14">                               dddddd;=.         :#dddd++++++#+++++#ddd</tspan>
+<tspan x="16" dy="14">                                  d;#dddddddddddddddddd;+++++++++*ddd</tspan>
+<tspan x="16" dy="14">                                  dd++#ddddddddddd    ddd#+++++#dddd</tspan>
+<tspan x="16" dy="14">                                 ddd++dd;                dd;;dddd</tspan>
+<tspan x="16" dy="14">                                  dd+#dd   ;;;;;;</tspan>
+<tspan x="16" dy="14">                            ;;;;dddd+#ddddd;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;ddddd+#++*;dd;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                          ;;;;;;;dddddd;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                   ;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                   ;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                      ;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                  dddddddddd</tspan>
+<tspan x="16" dy="14">                               ddddddddddddddddd</tspan>
+<tspan x="16" dy="14">                             ddddd*-.    .:+;dddddd</tspan>
+<tspan x="16" dy="14">                            ddd*.             .ddddd</tspan>
+<tspan x="16" dy="14">                          ddd*                -*+#ddd</tspan>
+<tspan x="16" dy="14">                         ddd:                .ddd--ddd</tspan>
+<tspan x="16" dy="14">                         dd*                       :ddd</tspan>
+<tspan x="16" dy="14">                        ddd. .:-.     .=dd;##;dddd*.-ddd</tspan>
+<tspan x="16" dy="14">                        ddd .;ddd:    +d=--------#d* dddd</tspan>
+<tspan x="16" dy="14">                        ddd- .;d+   .#d--=dddddd;d;. :ddd</tspan>
+<tspan x="16" dy="14">                        ddd#      :;d+-#dd*---*d;:   .dddd</tspan>
+<tspan x="16" dy="14">                         ddd.    *d+-*dd+--+dd+.      :dddd</tspan>
+<tspan x="16" dy="14">                         ddd;   +d+#dd+-*dd;:.        .dddd</tspan>
+<tspan x="16" dy="14">                          ddd: .dddd;ddd*.             -dddd</tspan>
+<tspan x="16" dy="14">                           ddd :*==-:.                  dddd</tspan>
+<tspan x="16" dy="14">                     ddddd ddd*                         *ddd</tspan>
+<tspan x="16" dy="14">                     dd#ddddddd.                         dddd</tspan>
+<tspan x="16" dy="14">                     dd;  .:-;dd.                         ;ddd</tspan>
+<tspan x="16" dy="14">                     dd#     .dd#                          *ddd</tspan>
+<tspan x="16" dy="14">                    ddd=      -dd-                          ;dd</tspan>
+<tspan x="16" dy="14">                   dddd=       #dd                          :ddd</tspan>
+<tspan x="16" dy="14">                   dddd+        #+                           *ddd</tspan>
+<tspan x="16" dy="14">                   dd;d=                                     .ddd</tspan>
+<tspan x="16" dy="14">                  dd;.;d;:                                    +ddd</tspan>
+<tspan x="16" dy="14">                  dd;  +ddd=                                  .ddd</tspan>
+<tspan x="16" dy="14">                  dd;    -ddd                                  *ddd</tspan>
+<tspan x="16" dy="14">                  ddd.    .#d-                                 -dddd</tspan>
+<tspan x="16" dy="14">                  ddd:     .dd                                 :dddd</tspan>
+<tspan x="16" dy="14">                  ddd+     .#d=                                .ddddd</tspan>
+<tspan x="16" dy="14">                   ddd:     .#:                                 dd#dd</tspan>
+<tspan x="16" dy="14">                   dddd:                                       .dd*dd</tspan>
+<tspan x="16" dy="14">                    dddd#.                                     :d;ddd</tspan>
+<tspan x="16" dy="14">                    dd+.#+                                     =d#dd</tspan>
+<tspan x="16" dy="14">                    ddd:  .                                   .dddd</tspan>
+<tspan x="16" dy="14">                     ddd+.                                   .;ddd</tspan>
+<tspan x="16" dy="14">                      dddd;                                  #ddd</tspan>
+<tspan x="16" dy="14">                        ddddd+                              *dddddd</tspan>
+<tspan x="16" dy="14">                          dddd:                            #ddddddddd</tspan>
+<tspan x="16" dy="14">                           ddddd+.                   . .-#dddddd*++ddddd</tspan>
+<tspan x="16" dy="14">                             dddddd=.                -d;ddd;++++*++++;ddddddd</tspan>
+<tspan x="16" dy="14">                                dddddd#=.          :#ddd#++++++dd;++++++;ddd</tspan>
+<tspan x="16" dy="14">                                  ddddddddddddddddddddddd*++++*#++++*dddddd</tspan>
+<tspan x="16" dy="14">                                  dd#+ddddddddddddddd   ddd;++++#dddddddd</tspan>
+<tspan x="16" dy="14">                                  dd##dd                  dddddddddd</tspan>
+<tspan x="16" dy="14">                                  dd#*ddd;;#;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                             ;;ddddd*+#ddddd;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;ddd;**dddd;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;dd;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                     ;;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                     ;;;;;;;;;;;;;;;;;;;;;</tspan>
+<tspan x="16" dy="14">                                                        ;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                    dddddddd</tspan>
+<tspan x="16" dy="14">                                dddddddddddddddd</tspan>
+<tspan x="16" dy="14">                             ddddd#-.       :#ddddd</tspan>
+<tspan x="16" dy="14">                            dddd:              :dddd</tspan>
+<tspan x="16" dy="14">                          dddd=.              -*+-dddd</tspan>
+<tspan x="16" dy="14">                          ddd                .ddd=.dddd</tspan>
+<tspan x="16" dy="14">                         ddd.                 .:.  -ddd</tspan>
+<tspan x="16" dy="14">                         dd*.:#+.     .+dd*:....... *ddd</tspan>
+<tspan x="16" dy="14">                        ddd::dddd    .*d---=+***;ddd*dddd</tspan>
+<tspan x="16" dy="14">                        ddd: .=-.  .+d#----+#;;ddddd.-ddd</tspan>
+<tspan x="16" dy="14">                        ddd=     .*d+--=dd*=----;d=  .;ddd</tspan>
+<tspan x="16" dy="14">                        ddd#    -d;-=;d*----=*d;-     .ddd</tspan>
+<tspan x="16" dy="14">                         ddd.  .dddd#++*;ddd*:.        :ddd</tspan>
+<tspan x="16" dy="14">                         ddd#   :=**##*=.               ;ddd</tspan>
+<tspan x="16" dy="14">                          ddd*                          .dddd</tspan>
+<tspan x="16" dy="14">                   dddddddddddd*.                        .dddd</tspan>
+<tspan x="16" dy="14">                    dd+;ddddddddd.                        -ddd</tspan>
+<tspan x="16" dy="14">                    ddd.  .-*;dddd:                        *ddd</tspan>
+<tspan x="16" dy="14">                     dd;       .ddd.                        ;ddd</tspan>
+<tspan x="16" dy="14">                    dddd:       .;d*                        .dddd</tspan>
+<tspan x="16" dy="14">                    ddd#          #d.                         ;dddd</tspan>
+<tspan x="16" dy="14">                   dddd+          .#.                         .ddddd</tspan>
+<tspan x="16" dy="14">                   ddddd;.                                     -ddddd</tspan>
+<tspan x="16" dy="14">                   dd*:ddd;-                                    ;ddddd</tspan>
+<tspan x="16" dy="14">                   dd=  :dddd*                                  -dddddd</tspan>
+<tspan x="16" dy="14">                   dd-    .=ddd.                                .dddddd</tspan>
+<tspan x="16" dy="14">                   dd-      .ddd.                                ;dddddd</tspan>
+<tspan x="16" dy="14">                   dd#       .dd.                                +dddddd</tspan>
+<tspan x="16" dy="14">                   ddd-       .d:                                =dddddd</tspan>
+<tspan x="16" dy="14">                    ddd=                                         =ddddd</tspan>
+<tspan x="16" dy="14">                     dddd*.                                      +ddddd</tspan>
+<tspan x="16" dy="14">                     ddddddd+                                    #dddd</tspan>
+<tspan x="16" dy="14">                      dd=                                       .ddddd</tspan>
+<tspan x="16" dy="14">                      ddd+                                      :dddd</tspan>
+<tspan x="16" dy="14">                       ddd;:                                   .dddd</tspan>
+<tspan x="16" dy="14">                        ddddd+                                :dddd</tspan>
+<tspan x="16" dy="14">                          dddd:                             .*dddd</tspan>
+<tspan x="16" dy="14">                           dddd#.                         -d#dddd</tspan>
+<tspan x="16" dy="14">                             dddd;:                       ;*+;dd</tspan>
+<tspan x="16" dy="14">                               dddddd-..              .:;ddd++ddd</tspan>
+<tspan x="16" dy="14">                                  ddddddd*-..  .:=+#dddddddd#+#ddd</tspan>
+<tspan x="16" dy="14">                                   d*+ddddddddddddddddddd  dd++ddd</tspan>
+<tspan x="16" dy="14">                                   d;+dd; dddddddddd       dd*++ddd</tspan>
+<tspan x="16" dy="14">                                  ddd+#d                   dd;++;ddd</tspan>
+<tspan x="16" dy="14">                                 ddd;+*ddd  ;;;;;;;;;;;;;;; dd++*dddddddd</tspan>
+<tspan x="16" dy="14">                             dddddd*++#dddd;;;;;;;;;;;;;;;;ddd+++*+++*;dddddddd</tspan>
+<tspan x="16" dy="14">                             ;;;;;;dddd;;;;;;;;;;;;;;;;;;;dd;d++;dd*+++++++*;ddddddd</tspan>
+<tspan x="16" dy="14">                            ;;;;;;;;;;;;;;;;;;;;;;;;;;;;dd#++++++;ddd+++++++++++#ddddd#</tspan>
+<tspan x="16" dy="14">                            ;;;;;;;;;;;;;;;;;;;;;;;;;;ddd*+++++++++++++++++*;ddddd</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;;;;;ddddddd;;#**+++++++#ddddddd</tspan>
+<tspan x="16" dy="14">                                ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddddddddddddd</tspan>
+<tspan x="16" dy="14">                                                                       ddd</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                          ;ddddddd</tspan>
+<tspan x="16" dy="14">                                      ddddddd;##;ddddddd</tspan>
+<tspan x="16" dy="14">                                     dddd#..      ..-dddddd</tspan>
+<tspan x="16" dy="14">                                   dddd:              .:;dddd</tspan>
+<tspan x="16" dy="14">                                  ddd*                    ;ddd</tspan>
+<tspan x="16" dy="14">                                  dd*                  +ddd:ddd</tspan>
+<tspan x="16" dy="14">                                 ddd. .::.              ..  .ddd</tspan>
+<tspan x="16" dy="14">                                 dd= +dddd       +dd+..      :ddd</tspan>
+<tspan x="16" dy="14">                                 dd: .;d#.    .-d;--=;ddddddd+*dd</tspan>
+<tspan x="16" dy="14">                                 dd.        -;d*--+#;ddd;;ddd;+dd</tspan>
+<tspan x="16" dy="14">                                 dd.    .:dd+--+dd;+------#d- -dd</tspan>
+<tspan x="16" dy="14">                                 dd:   .dd==#dd*------=#d;:.  =dd</tspan>
+<tspan x="16" dy="14">                                 dd=  .#dddd*==+*;dddd#:.     -dd</tspan>
+<tspan x="16" dy="14">                                 ddd.   .:-++++=-::.          -ddd</tspan>
+<tspan x="16" dy="14">                                  dd+                         .dd;</tspan>
+<tspan x="16" dy="14">                                  ddd=                         ddd</tspan>
+<tspan x="16" dy="14">                     dddddddd      ddd+                        ddd</tspan>
+<tspan x="16" dy="14">                    ddd#:+ddddddddd ddd+                       +dd</tspan>
+<tspan x="16" dy="14">                      ddd*  .+;dddddd;dd.                      :ddd</tspan>
+<tspan x="16" dy="14">                       ddd;          .dd#                       #ddd</tspan>
+<tspan x="16" dy="14">                       dddd*         .;d;                       :ddd</tspan>
+<tspan x="16" dy="14">                       dddd;          +d;                        +ddd</tspan>
+<tspan x="16" dy="14">                       dddddd.        +*                         .;ddd</tspan>
+<tspan x="16" dy="14">                       dd*.#ddd:.     .                           .dddd</tspan>
+<tspan x="16" dy="14">                      ddd-  .#dd;.                                 -dddd</tspan>
+<tspan x="16" dy="14">                      dd;      -dd-                                 ;dddd</tspan>
+<tspan x="16" dy="14">                      dd*       .dd-                                .ddddd</tspan>
+<tspan x="16" dy="14">                      dd;        .dd.                                ddddd</tspan>
+<tspan x="16" dy="14">                      ddd=        .;.                                ;ddddd</tspan>
+<tspan x="16" dy="14">                       ddd:                                          -ddddd</tspan>
+<tspan x="16" dy="14">                        ddd#                                          ddddd</tspan>
+<tspan x="16" dy="14">                        ddddd#                                       :ddddd</tspan>
+<tspan x="16" dy="14">                        ddd..                                        ;dddd</tspan>
+<tspan x="16" dy="14">                        ddd+                                        .ddddd</tspan>
+<tspan x="16" dy="14">                         ddd-                                      .ddddd</tspan>
+<tspan x="16" dy="14">                          dddddd*:                                .#dddd</tspan>
+<tspan x="16" dy="14">                           dddd**.                               .;ddd</tspan>
+<tspan x="16" dy="14">                            dddd:                               :dddd</tspan>
+<tspan x="16" dy="14">                             dddd#.                            +dddd</tspan>
+<tspan x="16" dy="14">                               dddd#.                        -dddd</tspan>
+<tspan x="16" dy="14">                                  dddd#..                  .dddd</tspan>
+<tspan x="16" dy="14">                            ddddddddd;dddd#+:.           =ddd;+#d</tspan>
+<tspan x="16" dy="14">                           ddd+dddddd#;ddddddddddddddddddddd+++#dd</tspan>
+<tspan x="16" dy="14">                           dd*+++#;ddddd      dddddddddd  ddd++*ddd</tspan>
+<tspan x="16" dy="14">                            ddd;+++#ddd                    ddd++ddd</tspan>
+<tspan x="16" dy="14">                              ddddd;;dd;;;;;;;;;;;;;;;;;;;;;ddd;+ddd</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;dd;++*dddddd</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddd;++++++*;ddddddd;</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddd#++++*dd++++++*#;dddddd</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;;;;;;;;;dddd*++++++++++++++*ddddd</tspan>
+<tspan x="16" dy="14">                             ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;dddddddd#++++#dddddd</tspan>
+<tspan x="16" dy="14">                               ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddddddddd</tspan>
+<tspan x="16" dy="14">                                     ;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                 dddddddddd</tspan>
+<tspan x="16" dy="14">                                              ddddddd#++*ddddd</tspan>
+<tspan x="16" dy="14">                                            dddd;-          -;ddd</tspan>
+<tspan x="16" dy="14">                                           ddd*.              .;ddd</tspan>
+<tspan x="16" dy="14">                                         ddd*.                  -ddd</tspan>
+<tspan x="16" dy="14">                                        ddd.                  :*:+ddd</tspan>
+<tspan x="16" dy="14">                                       ddd   =dd#.      ==.   ddd.dddd</tspan>
+<tspan x="16" dy="14">                                      ddd    #ddd.    .dddd=.     -ddd</tspan>
+<tspan x="16" dy="14">                                      dd*          .-#d+--=#ddd#=..dddd</tspan>
+<tspan x="16" dy="14">                                      dd.      .:;dd*----==-----*dd;ddd</tspan>
+<tspan x="16" dy="14">                                      dd      *d;=-=#dd;*++++*;dddd#ddd</tspan>
+<tspan x="16" dy="14">                                      dd.   :d;*ddd;+--------=;d;: .ddd</tspan>
+<tspan x="16" dy="14">                                      dd=   =;dddddddddddddd;=.    .ddd</tspan>
+<tspan x="16" dy="14">                                      dd;                          .ddd</tspan>
+<tspan x="16" dy="14">                                      ddd=                         .ddd</tspan>
+<tspan x="16" dy="14">                                       ddd                         .dd;</tspan>
+<tspan x="16" dy="14">                       ddddd;          ddd:                        .dd</tspan>
+<tspan x="16" dy="14">                     dddddddddddddddd   dd;                        .dd</tspan>
+<tspan x="16" dy="14">                        dd=.:#ddddddddddddd                        :dd</tspan>
+<tspan x="16" dy="14">                         dd#    .-=+++=:ddd                        :ddd</tspan>
+<tspan x="16" dy="14">                          dd#          .dd#                        .ddd</tspan>
+<tspan x="16" dy="14">                          ddd:         .dd.                        .ddd</tspan>
+<tspan x="16" dy="14">                          ddd#         .dd                          *ddd</tspan>
+<tspan x="16" dy="14">                         ddddd;.       .;-                           ddd</tspan>
+<tspan x="16" dy="14">                         dd*-ddd;.     .+                             ;dd</tspan>
+<tspan x="16" dy="14">                        ddd= .:;dd;.                                  :ddd</tspan>
+<tspan x="16" dy="14">                        ddd:     *dd-                                  ddd</tspan>
+<tspan x="16" dy="14">                        ddd-      .;d=                                 #ddd</tspan>
+<tspan x="16" dy="14">                        ddd*       -d;                                 +dddd</tspan>
+<tspan x="16" dy="14">                         ddd        ..                                 :dddd</tspan>
+<tspan x="16" dy="14">                         ddd;.                                         .ddddd</tspan>
+<tspan x="16" dy="14">                          ddddd-.                                      .dd;dd</tspan>
+<tspan x="16" dy="14">                          ddd.+*.                                      :dd#dd</tspan>
+<tspan x="16" dy="14">                          ddd.                                         *d;;dd</tspan>
+<tspan x="16" dy="14">                          dddd.                                        dd#dd</tspan>
+<tspan x="16" dy="14">                           dddd+.                                     *dddd</tspan>
+<tspan x="16" dy="14">                            ddddddd-                                 -dddd</tspan>
+<tspan x="16" dy="14">                             dddd:                                  :dddd</tspan>
+<tspan x="16" dy="14">                               ddd#.                              .+ddd</tspan>
+<tspan x="16" dy="14">                                dddd*                            .ddd</tspan>
+<tspan x="16" dy="14">                               ddddddd#.                       .#ddd</tspan>
+<tspan x="16" dy="14">                         ddddddddddddddd;.                  ..;ddd</tspan>
+<tspan x="16" dy="14">                         ddd+++++++++dd#dd;:            .=;ddddddd</tspan>
+<tspan x="16" dy="14">                          ddd++dd++++*d;#dddddddddddddddddddd++*dd</tspan>
+<tspan x="16" dy="14">                           dd#++++++++dddd   ;dddddddddd   dd#++#dd</tspan>
+<tspan x="16" dy="14">                            ddd*++++++;d                   ;dd*++ddd</tspan>
+<tspan x="16" dy="14">                              dddddd;#dd    ;;;;;;;;;;;;;;  ddd+++dd</tspan>
+<tspan x="16" dy="14">                                  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;d*++#dddd</tspan>
+<tspan x="16" dy="14">                          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddd*++++*;ddddddd</tspan>
+<tspan x="16" dy="14">                         ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;dddd++++;d++++++#;ddddddd</tspan>
+<tspan x="16" dy="14">                          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddd;*++++++++++++;dddddd</tspan>
+<tspan x="16" dy="14">                               ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;dddddd;*++#dddddd</tspan>
+<tspan x="16" dy="14">                                ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;   ddd;dddd</tspan>
+<tspan x="16" dy="14">                                     ;;;;;;;;;;;;;;;;;;;;;;</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<tspan x="16" dy="0">                                                      ddddddddddd</tspan>
+<tspan x="16" dy="14">                                                   ddddddddd;##dddd</tspan>
+<tspan x="16" dy="14">                                                 ddddd+...      .=dddd</tspan>
+<tspan x="16" dy="14">                                                ddd=.              :dddd</tspan>
+<tspan x="16" dy="14">                                              ddd+  .ddd#.           *ddd</tspan>
+<tspan x="16" dy="14">                                             ddd-   :dddd.            =ddd</tspan>
+<tspan x="16" dy="14">                                            ddd=               .-:  .dd;ddd</tspan>
+<tspan x="16" dy="14">                                            ddd.            .=;d*d+ .dd=ddd</tspan>
+<tspan x="16" dy="14">                                           ddd-    ..+ddd;*=------#d:.  *ddd</tspan>
+<tspan x="16" dy="14">                                           ddd:   =ddd;####;;;ddd;*-+d*.-ddd</tspan>
+<tspan x="16" dy="14">                                          dddd.     .+ddd*=-------+dd##d+ddd</tspan>
+<tspan x="16" dy="14">                                          dddd.         .-+;dddd;;;;;ddddddd</tspan>
+<tspan x="16" dy="14">                                           ddd.                         :dddd</tspan>
+<tspan x="16" dy="14">                                           dd#                          *ddd</tspan>
+<tspan x="16" dy="14">                                           dd;                          ;ddd</tspan>
+<tspan x="16" dy="14">                        dddddddd           ddd;.                       +ddd</tspan>
+<tspan x="16" dy="14">                         ddd;dddddd     ;ddddd:                        *ddd</tspan>
+<tspan x="16" dy="14">                          ddd* .:;dddddddd-.dd-                        ;ddd</tspan>
+<tspan x="16" dy="14">                           ddd.      ..    .dd-                        ddd</tspan>
+<tspan x="16" dy="14">                           ddd;            -dd.                        ddd</tspan>
+<tspan x="16" dy="14">                          ddddd-          .dd=                         ;dd</tspan>
+<tspan x="16" dy="14">                          dddddd-         .d:                          #dd</tspan>
+<tspan x="16" dy="14">                          ;dd.-dd;-       ..                           =ddd</tspan>
+<tspan x="16" dy="14">                          ddd   :ddd;.                                 .ddd</tspan>
+<tspan x="16" dy="14">                          ddd     :ddd#                                 ;dd</tspan>
+<tspan x="16" dy="14">                          ddd       :dd;                                *ddd</tspan>
+<tspan x="16" dy="14">                          ddd.       .#d=                               =ddd</tspan>
+<tspan x="16" dy="14">                           dd;        -d*                                dddd</tspan>
+<tspan x="16" dy="14">                           ddd;.                                         *dddd</tspan>
+<tspan x="16" dy="14">                           ddddd=.                                       -dddd</tspan>
+<tspan x="16" dy="14">                           ddd*dddd.                                     .dddd;</tspan>
+<tspan x="16" dy="14">                            dd .-:                                        ;d;dd</tspan>
+<tspan x="16" dy="14">                            ddd.                                          ;d#dd</tspan>
+<tspan x="16" dy="14">                            dddd+.                                       +ddddd</tspan>
+<tspan x="16" dy="14">                             ddddd+.                                    -ddddd</tspan>
+<tspan x="16" dy="14">                              ddd==:                                   :ddddd</tspan>
+<tspan x="16" dy="14">                               ddd:                                   -ddddd</tspan>
+<tspan x="16" dy="14">                                ddd=                                 #dddd</tspan>
+<tspan x="16" dy="14">                            dd   ddd;                              :dddd</tspan>
+<tspan x="16" dy="14">                           ddddddddddddd*                       .=dddd</tspan>
+<tspan x="16" dy="14">                           dd;+++******;d=                   .:ddddd</tspan>
+<tspan x="16" dy="14">                           dd;++*d+++++*ddd#=.           :+#dddddd</tspan>
+<tspan x="16" dy="14">                          ddd++++ddd+++*dddddddddddddddddddddd*+*dd</tspan>
+<tspan x="16" dy="14">                          dd*+++++#dd#++dd   ddddddddddddd  dd#+*ddd</tspan>
+<tspan x="16" dy="14">                            ddd#++++++++dd                   dd**ddd</tspan>
+<tspan x="16" dy="14">                              ddddddd;#*d    ;;;;;;;;;;;;;;;;ddd+ddd</tspan>
+<tspan x="16" dy="14">                                    dddd;;;;;;;;;;;;;;;;;;;;;;dd;*ddddd</tspan>
+<tspan x="16" dy="14">                                    ;;;;;;;;;;;;;;;;;;;;;;;;;;dd;++++;dddddd</tspan>
+<tspan x="16" dy="14">                                   ;;;;;;;;;;;;;;;;;;;;;;;;;ddd++++#++++++#dddddd</tspan>
+<tspan x="16" dy="14">                                 ;;;;;;;;;;;;;;;;;;;;;;;;;dd#++++++++++++#dddddd</tspan>
+<tspan x="16" dy="14">                            ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;dddddd;*++#ddddd</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ddddd</tspan>
+<tspan x="16" dy="14">                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+</text></g>
+</svg>

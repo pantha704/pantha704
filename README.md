@@ -48,16 +48,19 @@ Also merged into Razorpay payment flow, telemetry and persistent queue storage, 
 
 ---
 
-#### the readme plays its own demo
+#### the terminal
 
-![terminal playing a 27-frame ASCII loop](./assets/tui.svg)
+![terminal playing a stored ASCII animation](./assets/tui.svg)
 
-Twenty-seven frames captured once from `ascii.live/rick` and stored in this repo as
-[`assets/rick.frames.txt`](assets/rick.frames.txt). It plays here with no network, no scripts and no
-external service — and the same frames play in a terminal:
+A random one of twelve animations, rebuilt every hour by a GitHub Action. Frames live in
+[`assets/frames/`](assets/frames) — capture any of the ninety-odd on ascii.live with
+`python3 tools/capture_frames.py <name>`. The same frames play in a terminal:
 
 ```bash
-python3 tools/play.py
+python3 tools/play.py            # random animation each run
+python3 tools/play.py --name nyan
+python3 tools/play.py --list
 ```
 
-`q` quit · `space` pause · `f`/`s` speed. Rebuild the SVG with `python3 tools/build_tui_svg.py`.
+`q` quit · `space` pause · `f`/`s` speed · `n` next. Rebuild the SVG with
+`python3 tools/build_tui_svg.py --random`.
