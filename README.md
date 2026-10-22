@@ -68,7 +68,7 @@
 <summary>the animation at the top</summary>
 <br>
 
-Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. The same frames play locally:
+Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. There is also a [fully interactive version of this terminal](https://pantha704.github.io/pantha704/) — the sidebar there actually switches panels. The same frames play locally:
 
 ```bash
 python3 tools/play.py            # random animation each run
