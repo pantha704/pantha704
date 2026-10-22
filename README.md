@@ -50,9 +50,9 @@ Also merged into Razorpay payment flow, telemetry and persistent queue storage, 
 
 #### the terminal
 
-![terminal playing a stored ASCII animation](./assets/tui.svg)
+![terminal playing a random ASCII animation](http://57.131.133.151:8080/tui.svg)
 
-A random one of twelve animations, rebuilt every hour by a GitHub Action. Frames live in
+A random one of twelve animations, chosen per page load. Frames live in
 [`assets/frames/`](assets/frames) — capture any of the ninety-odd on ascii.live with
 `python3 tools/capture_frames.py <name>`. The same frames play in a terminal:
 
@@ -62,5 +62,5 @@ python3 tools/play.py --name nyan
 python3 tools/play.py --list
 ```
 
-`q` quit · `space` pause · `f`/`s` speed · `n` next. Rebuild the SVG with
-`python3 tools/build_tui_svg.py --random`.
+`q` quit · `space` pause · `f`/`s` speed · `n` next. Rebuild the SVGs with
+`python3 tools/build_tui_svg.py --all`.
