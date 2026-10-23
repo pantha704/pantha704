@@ -26,7 +26,7 @@
 <text x="236" y="154" fill="#57606a">upstream  </text>
 <text x="346" y="154" fill="#0969da">19 merged pull requests across 10 repositories</text>
 <text x="236" y="178" fill="#57606a">in flight </text>
-<text x="346" y="178" fill="#24292f">13 pull requests open</text>
+<text x="346" y="178" fill="#24292f">14 pull requests open</text>
 <text x="236" y="202" fill="#57606a">stack     </text>
 <text x="346" y="202" fill="#24292f">rust · typescript · python · go · postgres · docker</text>
 <text x="236" y="226" fill="#57606a">status    </text>
