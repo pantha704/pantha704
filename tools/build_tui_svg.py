@@ -71,9 +71,9 @@ def build(name, frames, fps=12.9):
     art_w, art_h = cols * CELL_W, rows * LINE_H
 
     # Every animation is emitted on the same canvas so the README never reflows between loads —
-    # the art is scaled to fit (never enlarged past 1:1) and centred inside a fixed box.
+    # the art is scaled to fill the box (capped so tiny art doesn't turn into giant glyphs).
     width, height = CANVAS_W, CANVAS_H
-    scale = min(1.0, (width - PAD * 2) / art_w, (height - PAD * 2) / art_h)
+    scale = min(2.6, (width - PAD * 2) / art_w, (height - PAD * 2) / art_h)
     ox = (width - art_w * scale) / 2
     oy = (height - art_h * scale) / 2
 
