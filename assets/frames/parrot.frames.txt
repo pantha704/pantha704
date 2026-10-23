@@ -74,6 +74,7 @@ cNo..lXXXXXXXXXOolkXXXXXXXXXkl;..;:.;.
   ';.:xxxxxocccoxxxxxxxxxxxxxxxxxxxxxxl::'.';;.
   ';........................................;l'
 ===
+
         .;:;;,.,;;::,.
      .;':;........'co:.
    .clc;'':cllllc::,.':c.
@@ -92,6 +93,7 @@ o..,l;'''''';dkkkkkkkkkkkkkkkkkkkkdlc,..;lc.
 o..;lc;;;;;;,,;clllllllllllllllllllllc'..,:c.
 o..........................................;'
 ===
+
            .,,,,,,,,,.
          .ckKxodooxOOdcc.
       .cclooc'....';;cool.
@@ -110,6 +112,8 @@ KOc,l;''''''';lldkkkkkkkkkkkkkkkkkc..;lc.
 xx:':;;;;,.,,...,;;cllllllllllllllc;'.;oo,
 cNo.....................................oc
 ===
+
+
                    .ccccccc.
                .ccckNKOOOOkdcc.
             .;;cc:ccccccc:,::::,,.
@@ -127,6 +131,9 @@ cNo.....................................oc
 ,dl,.'cooc:::,....,::coooooooooooc'.c:
 cNo.................................oc
 ===
+
+
+
                         .cccccccc.
                   .,,,;;cc:cccccc:;;,.
                 .cdxo;..,::cccc::,..;l.
@@ -143,6 +150,8 @@ cNo.................................oc
 ,do:'..,:llllll:;;;;;;,..,;:lllllllll;..oc
 cNo.....................................oc
 ===
+
+
                               .ccccc.
                          .cc;'coooxkl;.
                      .:c:::c:,;,,,;c;;,.'.
@@ -160,6 +169,7 @@ cNo.....................................oc
 occ'..',:cccccccccccc:;;;;;;;;:ccccccccc,.'c,
 Ol;......................................;l'
 ===
+
                               ,ddoodd,
                          .cc' ,ooccoo,'cc.
                       .ccldo;....,,...;oxdc.

@@ -43,18 +43,28 @@ def parse(raw):
     for part in raw.split("\x1b[2J\x1b[H"):
         text = ANSI.sub("", part)
         lines = text.split("\n")
+        # Only trailing blanks go: leading blank lines carry the art's vertical position, and
+        # trimming them makes frames of different heights jump when they're played back.
         while lines and not lines[-1].strip():
             lines.pop()
-        while lines and not lines[0].strip():
-            lines.pop(0)
-        if len(lines) < 5:
+        if not lines:
             continue
         frames.append([l.rstrip() for l in lines])
     deduped = []
     for f in frames:
         if not deduped or deduped[-1] != f:
             deduped.append(f)
-    return deduped
+    return normalise(deduped)
+
+
+def normalise(frames, min_rows=5):
+    """Pad every frame to the same height (bottom) and width (right), so a moving sprite stays
+    where it belongs instead of sliding up as soon as a frame is shorter than its neighbours."""
+    if not frames:
+        return frames
+    rows = max(max(len(f) for f in frames), min_rows)
+    cols = max(max((len(l) for l in f), default=0) for f in frames)
+    return [f + [""] * (rows - len(f)) for f in frames]
 
 
 def loop_length(frames):

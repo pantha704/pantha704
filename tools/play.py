@@ -12,6 +12,7 @@ Keys: q quit · space pause · f faster · s slower · n next (random again)
 import argparse
 import os
 import random
+import re
 import shutil
 import sys
 
@@ -32,11 +33,14 @@ def stored():
 
 def load(name):
     raw = open(os.path.join(FRAMES_DIR, f"{name}.frames.txt"), encoding="utf-8").read()
-    frames = [f.strip("\n").split("\n") for f in raw.split(SEP)]
+    # split on a line that is exactly "===" — duck and dvd draw "===" inside the art
+    parts = [p.strip("\n") for p in re.split(r"^===\s*$", raw, flags=re.M)]
+    frames = [p.split("\n") for p in parts]
     frames = [f for f in frames if any(line.strip() for line in f)]
     if not frames:
         sys.exit(f"no frames for {name}")
-    return frames
+    rows = max(len(f) for f in frames)
+    return [f + [""] * (rows - len(f)) for f in frames]
 
 
 def size_of(frames):

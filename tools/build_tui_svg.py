@@ -13,6 +13,7 @@ import argparse
 import html
 import os
 import random
+import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -52,7 +53,12 @@ def available():
 
 def load(name):
     raw = open(frames_path(name), encoding="utf-8").read()
-    return [f.strip("\n").split("\n") for f in raw.split(SEP) if f.strip()]
+    # Split on a LINE that is exactly "===" — several animations (duck, dvd) draw "===" inside
+    # the art, and splitting on the bare token shreds those frames into partial pictures.
+    parts = [p.strip("\n") for p in re.split(r"^===\s*$", raw, flags=re.M)]
+    frames = [p.split("\n") for p in parts if p.strip()]
+    rows = max(len(f) for f in frames)
+    return [f + [""] * (rows - len(f)) for f in frames]
 
 
 def eligible(name):
