@@ -4,7 +4,7 @@
 
 [resume](./resume/Pratham-Jaiswal-Resume.pdf) · [detailed](./resume/Pratham-Jaiswal-Resume-detailed.pdf) · [mail](mailto:pratham.jaiswal2004@gmail.com) · [linkedin](https://www.linkedin.com/in/pantha704) · [x](https://twitter.com/pantha704)
 
-[![pratham@kolkata — a terminal cycling through profile, upstream work, projects, stack and the ascii terminal](./assets/hero.svg)](https://pantha704.github.io/pantha704/)
+![pratham@kolkata — a terminal cycling through profile, upstream work, projects, stack and the ascii terminal](./assets/hero.svg)
 
 <table>
 <tr>
@@ -74,7 +74,7 @@
 
 ![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
 
-Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. GitHub strips `<script>`, `<iframe>` and inline SVG from READMEs, so this pane folds open instead of swapping. The same frames play locally:
+Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. GitHub strips `<script>`, `<iframe>` and inline SVG from READMEs, so this pane folds open instead of swapping panes. The same frames play locally:
 
 ```bash
 python3 tools/play.py            # random animation each run
