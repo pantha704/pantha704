@@ -6,9 +6,11 @@
 
 ![pratham@kolkata — a terminal cycling through profile, upstream work, projects, stack and the ascii terminal](./assets/hero.svg)
 
+![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
+
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="170">
 
 <kbd>~/profile</kbd><br>
 <kbd>├─ README.md</kbd><br>
@@ -20,7 +22,7 @@
 <sub>↑ folders<br>click a path →</sub>
 
 </td>
-<td valign="top">
+<td valign="top" width="100%">
 
 <details open>
 <summary><kbd>~/profile/README.md</kbd> — automation + vulnerability reporting</summary>
@@ -70,11 +72,9 @@
 </details>
 
 <details>
-<summary><kbd>~/terminal.md</kbd> — the animation</summary>
+<summary><kbd>~/terminal.md</kbd> — how the animation runs</summary>
 
-![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
-
-Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. GitHub strips `<script>`, `<iframe>` and inline SVG from READMEs, so this pane folds open instead of swapping panes. The same frames play locally:
+The animation above is served by a small HTTP service on a VPS — it picks a random SVG per request with `cache-control: no-store`, so GitHub's image proxy re-fetches it and every reload shows a different one. Frames were captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames). GitHub strips `<script>`, `<iframe>` and inline SVG from READMEs, so panes here fold open instead of swapping. The same frames play locally:
 
 ```bash
 python3 tools/play.py            # random animation each run
