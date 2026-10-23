@@ -1,17 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="588" viewBox="0 0 536 588" role="img" aria-label="Terminal playing an ASCII animation of rick">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="536" viewBox="0 0 536 536" role="img" aria-label="Terminal playing an ASCII animation of rick">
 <style>.f{opacity:0;animation:blink 2.093s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}3.704%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
-<rect width="536" height="588" rx="10" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="535" height="587" rx="10" fill="none" stroke="#30363d"/>
-<rect width="536" height="30" rx="10" fill="#161b22"/>
-<rect y="20" width="536" height="10" fill="#161b22"/>
-<circle cx="16" cy="15.0" r="5" fill="#ff5f56"/>
-<circle cx="32" cy="15.0" r="5" fill="#ffbd2e"/>
-<circle cx="48" cy="15.0" r="5" fill="#27c93f"/>
-<text x="268" y="19" fill="#8b949e" text-anchor="middle" font-size="11">ascii.live/rick</text>
-<text x="16" y="48" fill="#7ee787">$ curl ascii.live/rick</text>
-<rect x="12" y="64" width="512" height="512" rx="6" fill="#010409"/>
+<rect width="536" height="536" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="535" height="535" rx="10" fill="none" stroke="#30363d"/>
+<rect x="12" y="12" width="512" height="512" rx="6" fill="#010409"/>
 <g class="f" style="animation-delay:-0.0000s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLfttffffffLLffffttttttttttt1tfffffffffftttttt111111tffffffffftttff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttfftttttt1t1tt11tfffffftttttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfttttftfLftttttttffffttttffffttttfftt11t111tt111ttfffLffttf</tspan>
@@ -50,7 +43,7 @@
 <tspan x="16" dy="14">1111111111t11t11111,,....,,.... ,:::,,,...................,11ttttt11t1</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.0775s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLLttffffffLLffffttttttttttt1tffffffffffttttttt11111tffffffffftttff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttfftttttt1tttt1ttftfffftt1ttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfttttttfLftttttttfft11i,,:,,i11ttfftt11t111tt111tttfffffttt</tspan>
@@ -89,7 +82,7 @@
 <tspan x="16" dy="14">1111111111tt1111111i,,.,:,i: ...,:::::.....:,,,,,:.....,1ttttttttt11t1</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.1550s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLLttffffffLLffffttttttttttt1ttt1iiiii1tttttttt11111tffffffffftttff</tspan>
 <tspan x="16" dy="14">fttffftffffffffffttffttttt11tttt1i::,,,,,,:,111111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttfft1i,,,,,,,,,,:,ttt11t111tt111tttfffffttt</tspan>
@@ -128,7 +121,7 @@
 <tspan x="16" dy="14">1111111111tttt11111111ii1t1i:...,::::,........,..........itttttttt11t1</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.2326s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLLttffffffLLffffttttttttttt1tt1::,,,,,,:,1ttt111111tfftfffffftttff</tspan>
 <tspan x="16" dy="14">fttffftffffffffffttfftttttt1ttt11i,:,,,,,,,,,:1111t1111111tffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttffft1,:::,,,,,,,::it11t111tt111tttfffffttt</tspan>
@@ -167,7 +160,7 @@
 <tspan x="16" dy="14">1111111111ttttttt11111111t,.,,.,,,,,,,...................,1ttttttt11t1</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3101s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLLttffffffLLffffttttttttttt1ttt,:,,,,,,,:itttt11111tfftfffffftttff</tspan>
 <tspan x="16" dy="14">fttffftffffffffffttfftttttt1tttt11i:,,,,,,,,,:i111t1111111tffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttffft1,::,,,,,,,,,,,t111111tt111tttfffffttt</tspan>
@@ -206,7 +199,7 @@
 <tspan x="16" dy="14">111111111111tttt111111111:......,,,::,....................:1ttttttt1tt</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3876s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLfttffffffLLffffttttttttttt1ttti,,,,::,i1tttt111111tffffffffftttff</tspan>
 <tspan x="16" dy="14">fttffftffffffffffttfftttttt1ttt111i,,,,,,,,,,11111t1111111tffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttffft1i::,,,,,,,,,:1t11t111tt1111ttfffffttt</tspan>
@@ -245,7 +238,7 @@
 <tspan x="16" dy="14">1111111111tttt11111111i........ ,,:::,..................,1ttttttttttt1</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.4651s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLffffttt1ttttttt1tt111ii11tft1ttttt11111tfftfffffftttff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttffftttt111ttt1:,,,,,,,:i1111111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLLfttttttftt1,:,,,,,,,,,,1tt111t1111t111tttfffffttt</tspan>
@@ -284,7 +277,7 @@
 <tspan x="16" dy="14">11111111111tttt1111,........... ,,:,:...............:111tttttttttt11t1</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.5426s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLfttffffffLLffffttt1tttttt11tffffffffffttttttt11111tffffffffftttff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttffftttt11111111i,i11ttt11tt1111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLLfttttttfti:::,,,,:,i1ttfttt11t111tt111tttfffffttt</tspan>
@@ -323,7 +316,7 @@
 <tspan x="16" dy="14">11111111111111111,..............,,,,:,..........:11tttttttttttttt11111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6202s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffLfttffffffLLffffttt1ttttttt1ttfffffffffttttttt1111ttfftffffLftttff</tspan>
 <tspan x="16" dy="14">fttfffttffffffffftttfttttt111ttt1ttffffffttttt1111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttfLLLfftttttffLftttttttt11ii11fffft1ttfftt11t111tt111ttfffLLfttt</tspan>
@@ -362,7 +355,7 @@
 <tspan x="16" dy="14">11111111111111,::...............:,,::,........,i11ttttttttttttttt11111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6977s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLffffttttttttttt1tffffffffffttttttt11111tfffffffLftttff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttffttttt1111tt1ttffffffttttt1111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttfffttttffffftttffftt11t111tt111ttfffLLfttt</tspan>
@@ -401,7 +394,7 @@
 <tspan x="16" dy="14">111111111111111ii,..............,::,...........i111ttttttttttt11111t11</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.7752s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLffffttttttttttt1tffffffffffttttttt1111ttfffffffLftttff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttffftttt1111tt1ttffffffttttt1111t111111ttffffLLLfttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttfffft1ttfffftttffftt11t111tt111ttfffLLfttt</tspan>
@@ -440,7 +433,7 @@
 <tspan x="16" dy="14">11111111111111i11,..............:,............,1tttttttttttttt11111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.8527s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLffffttttttttttt1tffffffffffttttttt11111tfffffffLfttfff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttfftttttt11ttt1ttfffffftttttt11tt111111ttffffLLLfttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttfffft1tffffftttffftt11t111tt111ttfffLLfftt</tspan>
@@ -479,7 +472,7 @@
 <tspan x="16" dy="14">111111111iiii11t, .............,:,..,........       ..:1tttttt11111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.9302s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLffffttt1ttttttt1tffffffffffttttttt11111tfffffffLffttff</tspan>
 <tspan x="16" dy="14">fttfffttfffffffffttfftttttt11ttt1ttfffffftttttt11tt111111ttffffLLLfttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfLftttttttfffft1ttfffffttffftt11t111tt111ttfffLLfttt</tspan>
@@ -518,7 +511,7 @@
 <tspan x="16" dy="14">1111111iiiiii1,...............,,,,.,..............,::::,11111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.0078s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLLfffttt1ttttttt1tffffffffffttttttt11111tfffffffLffttff</tspan>
 <tspan x="16" dy="14">fttfffttffffffffftttftttttt11ttt1ttfffffftttttt11tt111111ttffffLLLfttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttfffttttt1tfffft1ttfffffttfffft11t111tt111ttfffLLfttt</tspan>
@@ -557,7 +550,7 @@
 <tspan x="16" dy="14">1111111111i11:...............,..,:,,.....    ..:1t11111111111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.0853s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLffffttttttttttt1tffffffffffttttttt1111ttfffffffLfttfff</tspan>
 <tspan x="16" dy="14">fttfffttffffffffftttfttttt1111tt1ttffffffttttt1111tt11111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttffftttt11tttffttttfffffttfffft11t111tt111ttfffLLfttt</tspan>
@@ -596,7 +589,7 @@
 <tspan x="16" dy="14">1111111111,.,. ..............,,,:,,....,it11ttt11111111111t11111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.1628s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttffffffLLLfffttt1ttttttt1tffffffffffttttttt1111ttffffffLffttfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffftttftt1t1iii11111tfffffftttttt11tt111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttffft11i:,,,::::,1tfffftttfffft11t111tt111ttfffLLfttf</tspan>
@@ -635,7 +628,7 @@
 <tspan x="16" dy="14">1111111i.........   ........:,,::,......,1ttttt11111111111t11111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.2403s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttfffffffffffft11111,:::,,i1tffffffffttttttt1111ttffffffLffttfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffftttft1,::,,,,,,,,ifffffftttttt11tt111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LfttttffLLLfftttttff1,:,,,,,,,,,,:itfffftttfffft11t111tt111ttfffLLfttf</tspan>
@@ -674,7 +667,7 @@
 <tspan x="16" dy="14">1111111,....................,,..,:,.....:tttttttt111111111111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.3178s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tffffftttffffffffffttt11,::,,,,,:,1ffffffffttttttt1111ttfffffffLfttfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffttttt1,:,,,,,,,,,,:tffffftttttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttffLLfttttttft,,,,,,,,,:::,:itfffftttfffft11t111tt111ttfffLLfttf</tspan>
@@ -713,7 +706,7 @@
 <tspan x="16" dy="14">11111111i,...................:,.,:.....,1ttttttttt11111111111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.3953s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tffffftttffffffLffftt111i,,:::::,1tffffffffttttttt11111tfffffffLfftfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffttttt1i,,,,,,,,,,,,fffffftttttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttffLLftttttttti:,,,,,,,,,,,,,tfffftttfffft11t111tt111tttffLLfttf</tspan>
@@ -752,7 +745,7 @@
 <tspan x="16" dy="14">111111111,................. ,,,::,......it1tttttttt1111111t11111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.4729s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tffffftttffffffLffftt11111i,iiii1tfffffffffttttttt11111tfffffffLfttfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffttttt11,::,,,,,,::1fffffftttttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttffLLftttttttf1,:,,,,,,,,,,,itfffftttfffft11t111tt111tttffLLfttf</tspan>
@@ -791,7 +784,7 @@
 <tspan x="16" dy="14">111111111,....................,:::......it1t11ttttt1111111111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.5504s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tffffftttffffffLfffttt1111ttttt1tffffffffffttttttt11111tfffffffLfttfff</tspan>
 <tspan x="16" dy="14">ftttftttffffffffttttft1i,:,,,,,i11tfffffftttttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttffLLfttttttfft1,:,,,,,,,,:1ttfffftttfffft11t111tt111tttffLLfttf</tspan>
@@ -830,7 +823,7 @@
 <tspan x="16" dy="14">111111111,..........    .... .:,,:,. ...:tttt11tt111111111111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.6279s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tffffftttffffffLfffttttt11tttt11tffffffffffttttttt1111ttfffffffLfttfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffftttft1tttt11ttt1ttfffffftttttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttffLLftttttttfft11iiiiiittt1ttfffffttfffft11t111tt111tttffLLfttf</tspan>
@@ -869,7 +862,7 @@
 <tspan x="16" dy="14">111111111i,:,,,ii,,......... ,,,::,.....:1ttttttt11111111111t111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.7054s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tffffftttffffffLffffttttttttttt1tffffffffffttttttt1111ttfffffffLfttfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffftttftttttt11ttt1ttfffffftttttt111t111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttfLLLftttttttfftttttttfffft1tffffftttfffft11t111tt111tttffLLfttf</tspan>
@@ -908,7 +901,7 @@
 <tspan x="16" dy="14">111111111iiii,,...............::::,,......:1ttttt11t111111111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.7829s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttfffffffLffffttttttttttt1tffffffffffttttttt1111ttffffffLLfttfff</tspan>
 <tspan x="16" dy="14">ftttftttffffffffftttfttttt111ttt1ttfffffftttttt111tt11111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttfLLLftttttttffttttttttffft1tffffftttfffft11tt11tt111tttffLLfttf</tspan>
@@ -947,7 +940,7 @@
 <tspan x="16" dy="14">1111111111i,:,i,,..............,,:,,,........1tii11t111111111111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.8605s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttfffffffLfffftttttttttt11tffffffffffttttttt1111ttfffffffLftttff</tspan>
 <tspan x="16" dy="14">ftttftttffffffffftttfttttt111ttt1ttfffffftttttt111tt11111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttfLLLftttttttffttttttttffft1ttfffffttfffft11tt11tt111tttffLLfttf</tspan>
@@ -986,7 +979,7 @@
 <tspan x="16" dy="14">1111111111i,,,,i1:............::,:,,,,...........  ..::,,,,i1111111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.9380s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttfffffffLfffftttttttttt11tffffffffffttttttt11111tffffffffftttff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffftttfttttt111ttt1ttfffffftttttt11tt111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttfLLLfttttttffffttttttfffft1tffffffttfffft11t111tt111tttffLLfttf</tspan>
@@ -1025,7 +1018,7 @@
 <tspan x="16" dy="14">11111111111ii,,,,,i, .........,,::,,,,,................,:,,1tt11111111</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.0155s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">tfffffttfffffffLfffftttttttttt11tffffffffffttttttt11111tfffffffffttfff</tspan>
 <tspan x="16" dy="14">ftttffttffffffffftttfttttt111ttt1ttfffffftttttt11tt111111ttffffLLffttf</tspan>
 <tspan x="16" dy="14">LftttttfLLLfttttttffLftttttttffft1ttfffffttfffft11t111tt111tttffLLfttf</tspan>

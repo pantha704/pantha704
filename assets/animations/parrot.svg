@@ -1,17 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="378" height="336" viewBox="0 0 378 336" role="img" aria-label="Terminal playing an ASCII animation of parrot">
+<svg xmlns="http://www.w3.org/2000/svg" width="378" height="284" viewBox="0 0 378 284" role="img" aria-label="Terminal playing an ASCII animation of parrot">
 <style>.f{opacity:0;animation:blink 0.775s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}10.000%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
-<rect width="378" height="336" rx="10" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="377" height="335" rx="10" fill="none" stroke="#30363d"/>
-<rect width="378" height="30" rx="10" fill="#161b22"/>
-<rect y="20" width="378" height="10" fill="#161b22"/>
-<circle cx="16" cy="15.0" r="5" fill="#ff5f56"/>
-<circle cx="32" cy="15.0" r="5" fill="#ffbd2e"/>
-<circle cx="48" cy="15.0" r="5" fill="#27c93f"/>
-<text x="189" y="19" fill="#8b949e" text-anchor="middle" font-size="11">ascii.live/parrot</text>
-<text x="16" y="48" fill="#7ee787">$ curl ascii.live/parrot</text>
-<rect x="12" y="64" width="354" height="260" rx="6" fill="#010409"/>
+<rect width="378" height="284" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="377" height="283" rx="10" fill="none" stroke="#30363d"/>
+<rect x="12" y="12" width="354" height="260" rx="6" fill="#010409"/>
 <g class="f" style="animation-delay:-0.0000s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                        .cccc;;cc;&#x27;;c.</tspan>
 <tspan x="16" dy="14">                      .,:dkdc:;;:c:,:d:.</tspan>
 <tspan x="16" dy="14">                     .loc&#x27;.,cc::::::,..,:.</tspan>
@@ -32,7 +25,7 @@
 <tspan x="16" dy="14">cNO;........................................</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.0775s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                .ckx;&#x27;........&#x27;:c.</tspan>
 <tspan x="16" dy="14">             .,:c:c:::oxxocoo::::,&#x27;,.</tspan>
 <tspan x="16" dy="14">            .odc&#x27;..:lkkoolllllo;..;d,</tspan>
@@ -53,7 +46,7 @@
 <tspan x="16" dy="14">cNo........................................;&#x27;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.1550s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">            .cc;.  ...  .;c.</tspan>
 <tspan x="16" dy="14">         .,,cc:cc:lxxxl:ccc:;,.</tspan>
 <tspan x="16" dy="14">        .lo;...lKKklllookl..cO;</tspan>
@@ -74,7 +67,7 @@
 <tspan x="16" dy="14">  co...........................................&quot;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.2326s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">           .ccccccc.</tspan>
 <tspan x="16" dy="14">      .,,,;cooolccol;;,,.</tspan>
 <tspan x="16" dy="14">     .dOx;..;lllll;..;xOd.</tspan>
@@ -95,7 +88,7 @@
 <tspan x="16" dy="14">  &#x27;;........................................;l&#x27;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3101s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">        .;:;;,.,;;::,.</tspan>
 <tspan x="16" dy="14">     .;&#x27;:;........&#x27;co:.</tspan>
 <tspan x="16" dy="14">   .clc;&#x27;&#x27;:cllllc::,.&#x27;:c.</tspan>
@@ -115,7 +108,7 @@
 <tspan x="16" dy="14">o..........................................;&#x27;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3876s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">           .,,,,,,,,,.</tspan>
 <tspan x="16" dy="14">         .ckKxodooxOOdcc.</tspan>
 <tspan x="16" dy="14">      .cclooc&#x27;....&#x27;;;cool.</tspan>
@@ -135,7 +128,7 @@
 <tspan x="16" dy="14">cNo.....................................oc</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.4651s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                   .ccccccc.</tspan>
 <tspan x="16" dy="14">               .ccckNKOOOOkdcc.</tspan>
 <tspan x="16" dy="14">            .;;cc:ccccccc:,::::,,.</tspan>
@@ -154,7 +147,7 @@
 <tspan x="16" dy="14">cNo.................................oc</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.5426s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                        .cccccccc.</tspan>
 <tspan x="16" dy="14">                  .,,,;;cc:cccccc:;;,.</tspan>
 <tspan x="16" dy="14">                .cdxo;..,::cccc::,..;l.</tspan>
@@ -172,7 +165,7 @@
 <tspan x="16" dy="14">cNo.....................................oc</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6202s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                              .ccccc.</tspan>
 <tspan x="16" dy="14">                         .cc;&#x27;coooxkl;.</tspan>
 <tspan x="16" dy="14">                     .:c:::c:,;,,,;c;;,.&#x27;.</tspan>
@@ -191,7 +184,7 @@
 <tspan x="16" dy="14">Ol;......................................;l&#x27;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6977s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                              ,ddoodd,</tspan>
 <tspan x="16" dy="14">                         .cc&#x27; ,ooccoo,&#x27;cc.</tspan>
 <tspan x="16" dy="14">                      .ccldo;....,,...;oxdc.</tspan>

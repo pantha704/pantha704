@@ -1,17 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="658" height="854" viewBox="0 0 658 854" role="img" aria-label="Terminal playing an ASCII animation of duck">
+<svg xmlns="http://www.w3.org/2000/svg" width="658" height="802" viewBox="0 0 658 802" role="img" aria-label="Terminal playing an ASCII animation of duck">
 <style>.f{opacity:0;animation:blink 1.395s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}5.556%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
-<rect width="658" height="854" rx="10" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="657" height="853" rx="10" fill="none" stroke="#30363d"/>
-<rect width="658" height="30" rx="10" fill="#161b22"/>
-<rect y="20" width="658" height="10" fill="#161b22"/>
-<circle cx="16" cy="15.0" r="5" fill="#ff5f56"/>
-<circle cx="32" cy="15.0" r="5" fill="#ffbd2e"/>
-<circle cx="48" cy="15.0" r="5" fill="#27c93f"/>
-<text x="329" y="19" fill="#8b949e" text-anchor="middle" font-size="11">ascii.live/duck</text>
-<text x="16" y="48" fill="#7ee787">$ curl ascii.live/duck</text>
-<rect x="12" y="64" width="634" height="778" rx="6" fill="#010409"/>
+<rect width="658" height="802" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="657" height="801" rx="10" fill="none" stroke="#30363d"/>
+<rect x="12" y="12" width="634" height="778" rx="6" fill="#010409"/>
 <g class="f" style="animation-delay:-0.0000s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                             ddddddddddddd</tspan>
 <tspan x="16" dy="14">                                                          ddddddd;;;ddddddddd</tspan>
 <tspan x="16" dy="14">                                                        dddd;:          .=*dddd</tspan>
@@ -67,7 +60,7 @@
 <tspan x="16" dy="14">                                 ;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.0775s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                               dddddddddd</tspan>
 <tspan x="16" dy="14">                                                            dddddddddddddddd</tspan>
 <tspan x="16" dy="14">                                                         ;dddd#-.      .+dddddd</tspan>
@@ -124,7 +117,7 @@
 <tspan x="16" dy="14">                               ;;;;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.1550s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                              dddddddddd</tspan>
 <tspan x="16" dy="14">                                                           ddddddddddddddddd</tspan>
 <tspan x="16" dy="14">                                                         ddddd#:.      .*ddddd</tspan>
@@ -182,7 +175,7 @@
 <tspan x="16" dy="14">                                   ;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.2326s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                             ddddddddddddd</tspan>
 <tspan x="16" dy="14">                                                          dddddd*==+#dddddddd</tspan>
 <tspan x="16" dy="14">                                                        dddd;:          .-;dddd</tspan>
@@ -193,7 +186,7 @@
 <tspan x="16" dy="14">                                                   ddd.     ;dd;dddd+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3101s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">;d.    .ddd</tspan>
 <tspan x="16" dy="14">                                                   dd.      .;dd#=---==--#d-  .:=dd</tspan>
 <tspan x="16" dy="14">                                                  dd.         -dddddd*=---#d*.dd=dd</tspan>
@@ -244,7 +237,7 @@
 <tspan x="16" dy="14">                               ;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3876s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                            ddddddd</tspan>
 <tspan x="16" dy="14">                                                        ddddddddddddddddd</tspan>
 <tspan x="16" dy="14">                                                      ddddc:....  ....+dddd</tspan>
@@ -301,7 +294,7 @@
 <tspan x="16" dy="14">                                      ddddd</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.4651s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                 ddddddddddddd</tspan>
 <tspan x="16" dy="14">                                               dddddd=..:-#dddddd</tspan>
 <tspan x="16" dy="14">                                            ddddd+.          .*dddd</tspan>
@@ -358,7 +351,7 @@
 <tspan x="16" dy="14">                                             #;;;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.5426s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                            #dddd;</tspan>
 <tspan x="16" dy="14">                                       dddddddddddddddd</tspan>
 <tspan x="16" dy="14">                                     ddddddd;#**###;dddddd</tspan>
@@ -374,7 +367,7 @@
 <tspan x="16" dy="14">                               ;ddd: .ddddd;*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6202s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=+#;dd#:. :  .ddd</tspan>
 <tspan x="16" dy="14">                                ddd=   .-+#;;;;;;#+:          ddd</tspan>
 <tspan x="16" dy="14">                                dddd                          ddd</tspan>
@@ -419,7 +412,7 @@
 <tspan x="16" dy="14">                                        ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6977s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                 ddddddddddd</tspan>
 <tspan x="16" dy="14">                              dddddd+-:::=#ddddd</tspan>
 <tspan x="16" dy="14">                            dddd;-.          .+dddd</tspan>
@@ -476,7 +469,7 @@
 <tspan x="16" dy="14">                                                        ;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.7752s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                  dddddddddd</tspan>
 <tspan x="16" dy="14">                               dddddddddddddddd</tspan>
 <tspan x="16" dy="14">                            ddddd;+:    .:=#ddddd</tspan>
@@ -490,7 +483,7 @@
 <tspan x="16" dy="14">                       dd+       :;d==;dd+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.8527s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">--#d+  -dd</tspan>
 <tspan x="16" dy="14">                       ddd:    .;;=;dd*----=;dd-    .ddd</tspan>
 <tspan x="16" dy="14">                        ddd:  .dddd*=+#;ddd;-.       ddd</tspan>
@@ -537,7 +530,7 @@
 <tspan x="16" dy="14">                                                      ;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.9302s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                              dddddddddddddd</tspan>
 <tspan x="16" dy="14">                           dddddd;+:.  ..-*ddddd</tspan>
 <tspan x="16" dy="14">                          dddd+.            .;ddd</tspan>
@@ -594,7 +587,7 @@
 <tspan x="16" dy="14">                                                      ;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.0078s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                  dddddddddd</tspan>
 <tspan x="16" dy="14">                               ddddddddddddddddd</tspan>
 <tspan x="16" dy="14">                             ddddd*-.    .:+;dddddd</tspan>
@@ -652,7 +645,7 @@
 <tspan x="16" dy="14">                                                        ;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.0853s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                    dddddddd</tspan>
 <tspan x="16" dy="14">                                dddddddddddddddd</tspan>
 <tspan x="16" dy="14">                             ddddd#-.       :#ddddd</tspan>
@@ -707,7 +700,7 @@
 <tspan x="16" dy="14">                                                                       ddd</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.1628s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                          ;ddddddd</tspan>
 <tspan x="16" dy="14">                                      ddddddd;##;ddddddd</tspan>
 <tspan x="16" dy="14">                                     dddd#..      ..-dddddd</tspan>
@@ -763,7 +756,7 @@
 <tspan x="16" dy="14">                                     ;;;;;;;;;;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.2403s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                 dddddddddd</tspan>
 <tspan x="16" dy="14">                                              ddddddd#++*ddddd</tspan>
 <tspan x="16" dy="14">                                            dddd;-          -;ddd</tspan>
@@ -820,7 +813,7 @@
 <tspan x="16" dy="14">                                     ;;;;;;;;;;;;;;;;;;;;;;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.3178s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                      ddddddddddd</tspan>
 <tspan x="16" dy="14">                                                   ddddddddd;##dddd</tspan>
 <tspan x="16" dy="14">                                                 ddddd+...      .=dddd</tspan>

@@ -68,7 +68,7 @@ def build(name, frames, fps=12.9):
     rows = max(len(f) for f in frames)
     art_w, art_h = cols * CELL_W, rows * LINE_H
     width = art_w + PAD * 2
-    height = art_h + CHROME_H + PROMPT_H + PAD * 2
+    height = art_h + PAD * 2
     period = len(frames) / fps
     step = 100.0 / len(frames)
 
@@ -93,19 +93,7 @@ def build(name, frames, fps=12.9):
         f'<rect x="0.5" y="0.5" width="{width-1:.0f}" height="{height-1:.0f}" rx="10" '
         f'fill="none" stroke="#30363d"/>'
     )
-    o.append(f'<rect width="{width:.0f}" height="{CHROME_H}" rx="10" fill="#161b22"/>')
-    o.append(f'<rect y="{CHROME_H-10}" width="{width:.0f}" height="10" fill="#161b22"/>')
-    for i, colour in enumerate(("#ff5f56", "#ffbd2e", "#27c93f")):
-        o.append(f'<circle cx="{PAD + i*16}" cy="{CHROME_H/2}" r="5" fill="{colour}"/>')
-    o.append(
-        f'<text x="{width/2:.0f}" y="{CHROME_H/2 + 4:.0f}" fill="{DIM}" text-anchor="middle" '
-        f'font-size="11">ascii.live/{html.escape(name)}</text>'
-    )
-    o.append(
-        f'<text x="{PAD}" y="{CHROME_H + PAD + 2:.0f}" fill="{FG}">'
-        f'$ curl ascii.live/{html.escape(name)}</text>'
-    )
-    top = CHROME_H + PROMPT_H + PAD
+    top = PAD
     o.append(
         f'<rect x="{PAD-4}" y="{top-4}" width="{art_w+8:.0f}" height="{art_h+8:.0f}" rx="6" '
         f'fill="{FRAME_BG}"/>'

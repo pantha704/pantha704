@@ -1,17 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="579" height="616" viewBox="0 0 579 616" role="img" aria-label="Terminal playing an ASCII animation of nyan">
+<svg xmlns="http://www.w3.org/2000/svg" width="579" height="564" viewBox="0 0 579 564" role="img" aria-label="Terminal playing an ASCII animation of nyan">
 <style>.f{opacity:0;animation:blink 0.930s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}8.333%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
-<rect width="579" height="616" rx="10" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="578" height="615" rx="10" fill="none" stroke="#30363d"/>
-<rect width="579" height="30" rx="10" fill="#161b22"/>
-<rect y="20" width="579" height="10" fill="#161b22"/>
-<circle cx="16" cy="15.0" r="5" fill="#ff5f56"/>
-<circle cx="32" cy="15.0" r="5" fill="#ffbd2e"/>
-<circle cx="48" cy="15.0" r="5" fill="#27c93f"/>
-<text x="290" y="19" fill="#8b949e" text-anchor="middle" font-size="11">ascii.live/nyan</text>
-<text x="16" y="48" fill="#7ee787">$ curl ascii.live/nyan</text>
-<rect x="12" y="64" width="555" height="540" rx="6" fill="#010409"/>
+<rect width="579" height="564" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="578" height="563" rx="10" fill="none" stroke="#30363d"/>
+<rect x="12" y="12" width="555" height="540" rx="6" fill="#010409"/>
 <g class="f" style="animation-delay:-0.0000s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                             cl</tspan>
 <tspan x="16" dy="14">                                            .cc&#x27;</tspan>
 <tspan x="16" dy="14"> </tspan>
@@ -52,7 +45,7 @@
 <tspan x="16" dy="14">                                         .</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.0775s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                     &#x27;;O;&#x27;</tspan>
 <tspan x="16" dy="14">                                     :cdc:.</tspan>
 <tspan x="16" dy="14">                                       o</tspan>
@@ -93,7 +86,7 @@
 <tspan x="16" dy="14">                                ld</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.1550s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                           ..    .</tspan>
 <tspan x="16" dy="14">                           :l.,&#x27;.l,</tspan>
 <tspan x="16" dy="14">                              dc</tspan>
@@ -134,7 +127,7 @@
 <tspan x="16" dy="14">                      ,K</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.2326s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                        .</tspan>
 <tspan x="16" dy="14">                 ;.    .:</tspan>
 <tspan x="16" dy="14">                  ,..&#x27;.,</tspan>
@@ -175,7 +168,7 @@
 <tspan x="16" dy="14">            .X</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3101s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">              .</tspan>
 <tspan x="16" dy="14">       .,     l</tspan>
 <tspan x="16" dy="14">          .;</tspan>
@@ -214,7 +207,7 @@
 <tspan x="16" dy="14">      ;&#x27;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3876s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">    ,.</tspan>
 <tspan x="16" dy="14"> </tspan>
 <tspan x="16" dy="14"> </tspan>
@@ -253,7 +246,7 @@
 <tspan x="16" dy="14">  ;</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.4651s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">O.</tspan>
 <tspan x="16" dy="14">l;</tspan>
 <tspan x="16" dy="14"> </tspan>
@@ -287,7 +280,7 @@
 <tspan x="16" dy="14">                             ,ll.</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.5426s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                  . &#x27;&#x27; .</tspan>
 <tspan x="16" dy="14">                 ..    .&#x27;</tspan>
 <tspan x="16" dy="14">                 .&#x27;    &#x27;.</tspan>
@@ -322,7 +315,7 @@
 <tspan x="16" dy="14">                                                                         oc</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6202s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                                       .  .</tspan>
 <tspan x="16" dy="14">                                                                      &#x27;l,.:</tspan>
 <tspan x="16" dy="14">                                                                         &#x27;0</tspan>
@@ -363,7 +356,7 @@
 <tspan x="16" dy="14">                                                                   kl</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6977s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                              .</tspan>
 <tspan x="16" dy="14">                                                              l     .&#x27;</tspan>
 <tspan x="16" dy="14">                                                               ; ,...</tspan>
@@ -404,7 +397,7 @@
 <tspan x="16" dy="14">                                                          lk</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.7752s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                            .</tspan>
 <tspan x="16" dy="14">                                                     ;.    .:</tspan>
 <tspan x="16" dy="14">                                                        .&#x27;</tspan>
@@ -443,7 +436,7 @@
 <tspan x="16" dy="14">                                                    c.</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.8527s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">                                                  .</tspan>
 <tspan x="16" dy="14">                                                  l</tspan>
 <tspan x="16" dy="14"> </tspan>

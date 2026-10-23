@@ -1,17 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="457" height="910" viewBox="0 0 457 910" role="img" aria-label="Terminal playing an ASCII animation of pikachu">
+<svg xmlns="http://www.w3.org/2000/svg" width="457" height="858" viewBox="0 0 457 858" role="img" aria-label="Terminal playing an ASCII animation of pikachu">
 <style>.f{opacity:0;animation:blink 5.349s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}1.449%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
-<rect width="457" height="910" rx="10" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="456" height="909" rx="10" fill="none" stroke="#30363d"/>
-<rect width="457" height="30" rx="10" fill="#161b22"/>
-<rect y="20" width="457" height="10" fill="#161b22"/>
-<circle cx="16" cy="15.0" r="5" fill="#ff5f56"/>
-<circle cx="32" cy="15.0" r="5" fill="#ffbd2e"/>
-<circle cx="48" cy="15.0" r="5" fill="#27c93f"/>
-<text x="228" y="19" fill="#8b949e" text-anchor="middle" font-size="11">ascii.live/pikachu</text>
-<text x="16" y="48" fill="#7ee787">$ curl ascii.live/pikachu</text>
-<rect x="12" y="64" width="433" height="834" rx="6" fill="#010409"/>
+<rect width="457" height="858" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="456" height="857" rx="10" fill="none" stroke="#30363d"/>
+<rect x="12" y="12" width="433" height="834" rx="6" fill="#010409"/>
 <g class="f" style="animation-delay:-0.0000s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -44,7 +37,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@#.**#*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.0775s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==-...*%@@@%=-.*@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@%........:--...=-::.....%@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@.......................@@@@@@@@@@@@@@@@@@@</tspan>
@@ -77,7 +70,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@+.+@@@@@@@@@@@@@@+#@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.1550s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -139,7 +132,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@%.-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.2326s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -164,7 +157,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@...:...</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3101s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==+***@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@.......=+**********@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@-......=+**********@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -173,22 +166,22 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@= ......</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.3876s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==+++++**%@%#=:+@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@=......-=+++</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.4651s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+*%.....=@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@*......:==++</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.5426s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++%.*%%.#@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@%.+.=:..-</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6202s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+%@.%%%.%@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@....-=*+==+##**=--#%.%%+:@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@:.........................@@@@@@@@@@@@@@@@@@@</tspan>
@@ -221,7 +214,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@*..@@@@@@@@@@@@@@@@-.+@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.6977s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -250,7 +243,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@****+==-::+*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.7752s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+-.......@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@..........-*****.......-@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@:-###=+**.-++++=.......%@@@@@@@@@@@@@@@@@@@</tspan>
@@ -258,11 +251,11 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@.*@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.8527s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">.</tspan>
 </text></g>
 <g class="f" style="animation-delay:-0.9302s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=*+:%%%..%@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@%#=:%%%*++........-=:.*@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@.......................%@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -295,7 +288,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@#:-%@@@@@@@@@@@@@%==%@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.0078s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -319,12 +312,12 @@
 <tspan x="16" dy="14">@@@@@@@@@@# ..........</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.0853s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++++++++%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@ .........:</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.1628s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+++**%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@........:::++*********%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@=.........-+++********%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -335,7 +328,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@-. .......:+**+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.2403s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==++*#.@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%=... ...==++==+++%@%@+-@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@-......-.:..:=*%#-%@@@.#%@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -369,7 +362,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@%*%@@@@@@@@@@..*@@@@@@@@@@@##=@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.3178s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -401,12 +394,12 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%.%@@.=+++</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.3953s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=:...........:@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@.+@@ **==---</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.4729s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+%-...+.#@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@+:%%.=-........-+=...-..+@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@........................=@@@@@@@@@@@@@@@@@@@</tspan>
@@ -439,7 +432,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@*.-@@@@@@@@@@@@@%..*@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.5504s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -501,7 +494,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@=..#@@@@@@@@@@@@..*@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.6279s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -530,7 +523,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@****+==-::+*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.7054s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">*-.......@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@.... .....-*****.......-@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@.=###=+**.-+++++.......%@@@@@@@@@@@@@@@@@@@</tspan>
@@ -538,11 +531,11 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@.*@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.7829s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">.</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.8605s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=*+:%@%:.%@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@%%+:###*++........:=:.*@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@.......................%@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -575,7 +568,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@#:-%@@@@@@@@@@@@@%==%@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-1.9380s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -599,19 +592,19 @@
 <tspan x="16" dy="14">@@@@@@@@@@#...........</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.0155s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++++++++%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@..........:</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.0930s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==+++***%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@:.........:++*********%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@=..:......-+++********%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@%.........</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.1705s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++*****++%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@......... ..==++++++*#@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@-....... ...*+++++++*%@%%%@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -619,7 +612,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@-.......:.:+**+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.2481s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==++*#.%@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%=.:.  . ==++==+++%@@@+-@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@-......-.:.::=*%#-@@@@.#%@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -653,7 +646,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@%*%@@@@@@@@@@..*@@@@@@@@@@@##=@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.3256s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -687,7 +680,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@%***+:=**</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.4031s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=.:....+.@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@-....................:@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@.....................%@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -719,7 +712,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@%.-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.4806s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -781,7 +774,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@=..#@@@@@@@@@@@@..*@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.5581s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -810,7 +803,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@#***+==-::=+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.6357s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+=.......%@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@.... .....-*****.......-@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@.-###=+**.-+++++.......%@@@@@@@@@@@@@@@@@@@</tspan>
@@ -818,7 +811,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@.*@@%</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.7132s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">.=+==*+:%@%:.%@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@%%+:#%#*++........:=:.*@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@. .....................%@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -851,7 +844,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@#:-%@@@@@@@@@@@@@%==%@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.7907s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -883,12 +876,12 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@......=.</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.8682s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+****=:.@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@:..-#%.*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-2.9457s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=++*.%-@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@......:-:=:---.--==*@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@.....................%@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -921,7 +914,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@:.+@@@@@@@@@@@@@@@%..%@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.0233s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -955,7 +948,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@%****.=*+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.1008s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=......+.@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@-....................-@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@.....................%@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -987,7 +980,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@%.-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.1783s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1049,7 +1042,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@=..#@@@@@@@@@@@@..*@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.2558s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1076,37 +1069,37 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.3333s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++*++***+-......%@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.4109s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=++**:.:::......@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%%@@@@*+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.4884s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=***:.........-@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@......-**</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.5659s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++*-.=.... ..#@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@-=**+=--*+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.6434s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+++....   ..@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@#.@@@@*-*+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.7209s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">... ...+@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%.#@@@#=#*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.7984s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=-=...:+..-@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@=.. .....................-@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@-........................:@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1138,7 +1131,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@%.:@@@@@@@@@@@@@@@%..-@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.8760s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1171,7 +1164,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@:..:#%.*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-3.9535s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=+++.%-@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@.......-:=---=.--==*@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@.....................%@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1204,7 +1197,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@:.+@@@@@@@@@@@@@@@@..%@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.0310s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1228,7 +1221,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@%</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.1085s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=++******=....@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@%*++++********...:@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@**=++*********+..-@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1237,27 +1230,27 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@#</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.1860s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++***=:...%@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@-:=#%@@@#++</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.2636s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==+***+....:@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@. ....@@%**+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.3411s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=++++=.. ..@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@=.@%*.@@%+**</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.4186s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==:.....@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@%.%@%.@@@#+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.4961s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==:..-.*:@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@%.+%%.%#==-=##%%.=+#*=-..=@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@.........................#@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1290,7 +1283,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@%@@@@@@@@@@@-.:@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.5736s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1317,7 +1310,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@:   ...#</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.6512s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">==+***+*%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@+   ...:-=+******++#@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@.   ...--==+*:.....:::--%@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1326,7 +1319,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@....=%:</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.7287s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=+::**%@@@@:=@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@#.+@@%.:--==-.+%@@@@%.@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@-..-......:..=+****::+*#@@@@@@@@@@@@@@@@@@</tspan>
@@ -1360,7 +1353,7 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@=..@@@@@@@@@@@@@@:..*@@@@@@@@@@@@@@@@</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.8062s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -1389,32 +1382,32 @@
 <tspan x="16" dy="14">@@@@@@@@@@@@@@@@@@@@*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.8837s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=++**:.:::......@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%%%@@@**</tspan>
 </text></g>
 <g class="f" style="animation-delay:-4.9612s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=***:.........-@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@... ..-**</tspan>
 </text></g>
 <g class="f" style="animation-delay:-5.0388s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">++*-.+.......#@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@--**+=--*+</tspan>
 </text></g>
 <g class="f" style="animation-delay:-5.1163s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+++.........@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%.@@@@*:*</tspan>
 </text></g>
 <g class="f" style="animation-delay:-5.1938s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">=... ...+@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@@@%:#@@@*=#*=-</tspan>
 </text></g>
 <g class="f" style="animation-delay:-5.2713s">
-<text x="16" y="79" fill="#7ee787" xml:space="preserve">
+<text x="16" y="27" fill="#7ee787" xml:space="preserve">
 <tspan x="16" dy="0">+...:+:.-@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@+........................:@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="16" dy="14">@@@@@@@@@@@@-........................:@@@@@@@@@@@@@@@@@@@@@</tspan>

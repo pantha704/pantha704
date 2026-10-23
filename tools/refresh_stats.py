@@ -100,19 +100,21 @@ def main():
     summary = f"{UPSTREAM_START}{merged} merged · {repos} repositories · {opened} open{UPSTREAM_END}"
 
     text = open(README, encoding="utf-8").read()
+    if START not in text or END not in text:
+        raise SystemExit(f"README has no {START} … {END} block to update (footer)")
+
     blocks = [
         (START, END, footer, "footer"),
         (UPSTREAM_START, UPSTREAM_END, summary, "upstream summary"),
     ]
-    for a, b, _, label in blocks:
-        if a not in text or b not in text:
-            raise SystemExit(f"README has no {a} … {b} block to update ({label})")
-
     updated = text
-    for a, b, replacement, _ in blocks:
-        updated = re.compile(re.escape(a) + r".*?" + re.escape(b), re.S).sub(
-            lambda _m, r=replacement: r, updated
-        )
+    for a, b, replacement, label in blocks:
+        if a in text and b in text:
+            updated = re.compile(re.escape(a) + r".*?" + re.escape(b), re.S).sub(
+                lambda _m, r=replacement: r, updated
+            )
+        else:
+            print(f"note: no {label} block in the README — skipped")
     changed = updated != text
 
     if args.dry_run:
