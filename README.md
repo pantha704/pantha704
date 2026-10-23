@@ -4,7 +4,7 @@
 
 [resume](./resume/Pratham-Jaiswal-Resume.pdf) · [detailed](./resume/Pratham-Jaiswal-Resume-detailed.pdf) · [mail](mailto:pratham.jaiswal2004@gmail.com) · [linkedin](https://www.linkedin.com/in/pantha704) · [x](https://twitter.com/pantha704)
 
-![pratham@kolkata — a terminal cycling through profile, upstream work, projects, stack and the ascii terminal](./assets/hero.svg)
+[![pratham@kolkata — a terminal cycling through profile, upstream work, projects, stack and the ascii terminal](./assets/hero.svg)](#)
 
 ![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
 
