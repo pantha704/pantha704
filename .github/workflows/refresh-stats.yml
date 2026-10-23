@@ -23,14 +23,17 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 tools/refresh_stats.py
 
+      - name: Rebuild the self-contained terminal page
+        run: python3 tools/build_site.py
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- README.md assets/hero.svg; then
+          if git diff --quiet -- README.md assets/hero.svg docs/index.html; then
             echo "nothing changed"
           else
-            git add README.md assets/hero.svg
+            git add README.md assets/hero.svg docs/index.html
             git commit -m "refresh live numbers ($(date -u +%Y-%m-%d))"
             git push
           fi

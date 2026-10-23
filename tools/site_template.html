@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>pratham@kolkata — ~/profile</title>
+<meta name="description" content="pratham jaiswal — systems & automation engineer. Interactive terminal profile.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%230d1117'/%3E%3Ctext x='2' y='11' font-family='monospace' font-size='9' fill='%237ee787'%3E%3E_%3C/text%3E%3C/svg%3E">
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --side:#0f141b; --line:#30363d;
+    --fg:#c9d1d9; --dim:#8b949e; --green:#7ee787; --cyan:#79c0ff;
+    --yellow:#e3b341; --sel:#1f6feb33; --frame:#010409;
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --bg:#ffffff; --panel:#f6f8fa; --side:#f0f3f6; --line:#d0d7de;
+      --fg:#24292f; --dim:#57606a; --green:#1a7f37; --cyan:#0969da;
+      --yellow:#9a6700; --sel:#0969da22; --frame:#f6f8fa;
+    }
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    margin:0; padding:24px; background:var(--bg); color:var(--fg);
+    font:13px/1.5 ui-monospace,SFMono-Regular,"DejaVu Sans Mono",Menlo,Consolas,monospace;
+    display:flex; align-items:flex-start; justify-content:center;
+  }
+  .win{
+    width:min(1100px,100%); background:var(--bg); border:1px solid var(--line);
+    border-radius:12px; overflow:hidden; box-shadow:0 18px 60px #0006;
+  }
+  .chrome{
+    height:36px; background:var(--panel); display:flex; align-items:center;
+    gap:8px; padding:0 14px; border-bottom:1px solid var(--line); position:relative;
+  }
+  .dot{width:11px;height:11px;border-radius:50%}
+  .d1{background:#ff5f56}.d2{background:#ffbd2e}.d3{background:#27c93f}
+  .title{position:absolute;left:0;right:0;text-align:center;color:var(--dim);font-size:12px}
+  .body{display:flex; min-height:440px}
+  .side{
+    width:230px; background:var(--side); border-right:1px solid var(--line);
+    padding:14px 8px; flex:none;
+  }
+  .side .root{color:var(--dim); padding:4px 8px}
+  .item{
+    display:block; width:100%; text-align:left; background:none; border:0; cursor:pointer;
+    color:var(--fg); font:inherit; padding:5px 8px; border-radius:5px;
+  }
+  .item:hover{background:var(--sel)}
+  .item[aria-current="true"]{background:var(--sel); color:var(--green)}
+  .main{flex:1; padding:18px 22px; overflow:auto}
+  .host{color:var(--cyan); font-size:15px}
+  .rule{color:var(--line)}
+  dl{margin:18px 0 0; display:grid; grid-template-columns:120px 1fr; gap:6px 12px}
+  dt{color:var(--dim)}
+  dd{margin:0}
+  a{color:var(--cyan); text-decoration:none}
+  a:hover{text-decoration:underline}
+  table{border-collapse:collapse; width:100%; margin-top:14px; font-size:12.5px}
+  th,td{text-align:left; padding:6px 10px; border-bottom:1px solid var(--line); vertical-align:top}
+  th{color:var(--dim); font-weight:400}
+  .panel{display:none}
+  .panel.on{display:block}
+  pre{
+    margin:14px 0 0; padding:12px; background:var(--frame); border:1px solid var(--line);
+    border-radius:6px; overflow:auto; color:var(--green); font-size:11.5px; line-height:1.15;
+  }
+  .status{
+    height:30px; border-top:1px solid var(--line); background:var(--panel); color:var(--dim);
+    display:flex; align-items:center; gap:18px; padding:0 14px; font-size:12px;
+  }
+  .status .right{margin-left:auto; display:flex; gap:18px}
+  .status b{color:var(--green); font-weight:400}
+  .hint{color:var(--dim); margin-top:16px; font-size:12px}
+  kbd{border:1px solid var(--line); border-bottom-width:2px; border-radius:4px; padding:0 4px; font-size:11px}
+  @media (max-width:720px){ .side{width:150px} .body{min-height:380px} }
+</style>
+</head>
+<body>
+<div class="win">
+  <div class="chrome">
+    <span class="dot d1"></span><span class="dot d2"></span><span class="dot d3"></span>
+    <span class="title">pratham@kolkata — ~/profile</span>
+  </div>
+
+  <div class="body">
+    <nav class="side" aria-label="sections">
+      <div class="root">~/profile</div>
+      <button class="item" data-panel="profile"  aria-current="true">|- README.md</button>
+      <button class="item" data-panel="upstream">|- upstream/</button>
+      <button class="item" data-panel="projects">|- projects/</button>
+      <button class="item" data-panel="stack">|- stack.md</button>
+      <button class="item" data-panel="terminal">`- terminal.md</button>
+    </nav>
+
+    <main class="main">
+      <section class="panel on" id="profile">
+        <div class="host">pratham@kolkata</div>
+        <div class="rule">----------------------------------------------</div>
+        <dl>
+          <dt>role</dt><dd>systems &amp; automation engineer</dd>
+          <dt>now</dt><dd>automation + vulnerability reporting @ braid-forbes</dd>
+          <dt>upstream</dt><dd id="m-upstream">loading…</dd>
+          <dt>in flight</dt><dd id="m-open">loading…</dd>
+          <dt>stack</dt><dd>rust · typescript · python · go · postgres · docker</dd>
+          <dt>status</dt><dd style="color:var(--yellow)">open to systems, devtools and infrastructure work</dd>
+        </dl>
+        <pre id="art" aria-label="ascii animation">loading animation…</pre>
+        <p class="hint">Everything here is clickable — the tree on the left, the rows below, the commands.
+          <kbd>←</kbd> <kbd>→</kbd> or <kbd>1</kbd>–<kbd>5</kbd> also work.</p>
+      </section>
+
+      <section class="panel" id="upstream">
+        <div class="host">~/upstream</div>
+        <div class="rule">----------------------------------------------</div>
+        <table>
+          <tr><th>repository</th><th>pr</th><th>what changed</th></tr>
+          <tr><td><a href="https://github.com/rust-lang/rustc_codegen_cranelift/pull/1625">rust-lang/rustc_codegen_cranelift</a></td><td>#1625</td><td>CI runner disk exhaustion broke abi-cafe tests — ported the cleanup workflow</td></tr>
+          <tr><td><a href="https://github.com/CCExtractor/ccextractor/pull/2378">CCExtractor/ccextractor</a></td><td>#2378</td><td>tx3g subtitle times wrong on the FFmpeg MP4 path — demuxer trusted a shared timing pointer</td></tr>
+          <tr><td><a href="https://github.com/google-deepmind/open_spiel/pull/1455">google-deepmind/open_spiel</a></td><td>#1455</td><td>legacy TensorFlow 1.x deep-RL examples → PyTorch</td></tr>
+          <tr><td><a href="https://github.com/pytorch/ao/pull/3709">pytorch/ao</a></td><td>#3709</td><td>documented <code>FqnToConfig</code> and MoE parameter quantization</td></tr>
+          <tr><td><a href="https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Apantha704+is%3Amerged">CircuitVerse/cv-frontend-vue</a></td><td>×6</td><td>dropped jQuery from engine/setup/minimap, ported four modules to TypeScript</td></tr>
+          <tr><td><a href="https://github.com/Bijoy99roy/scheduler/pull/7">Bijoy99roy/scheduler</a></td><td>#7 #13</td><td>telemetry + retry, persistent queue storage</td></tr>
+        </table>
+        <p class="hint">In flight:
+          <a href="https://github.com/rust-lang/rust-clippy/pull/16375">rust-clippy #16375</a>,
+          <a href="https://github.com/wagtail/wagtail/pull/13708">wagtail #13708</a>,
+          <a href="https://github.com/gatsbyjs/gatsby/pull/39703">gatsby #39703</a>,
+          <a href="https://github.com/aboutcode-org/scancode-toolkit/pull/4765">scancode-toolkit #4765</a>.
+          Every link opens without an account; private client work is excluded.</p>
+      </section>
+
+      <section class="panel" id="projects">
+        <div class="host">~/projects</div>
+        <div class="rule">----------------------------------------------</div>
+        <table>
+          <tr><th>project</th><th>stack</th><th>what it is</th></tr>
+          <tr><td><a href="https://github.com/pantha704/perfume-store">Perfume Store</a></td><td>TypeScript · Next.js</td><td>production commerce system — catalogue, admin console, dispatch, India Post integration, 60+ reviewed PRs</td></tr>
+          <tr><td><a href="https://github.com/pantha704/home-worker">Homeworker</a></td><td>Python</td><td>local-first pipeline: PDF and image input to reviewable A4 notes in licensed handwriting typefaces</td></tr>
+          <tr><td>FlowForge</td><td>Next.js · Upstash QStash</td><td>serverless automation separating frontend events from durable background jobs</td></tr>
+          <tr><td><a href="https://mac-folio-three.vercel.app">MacFolio</a></td><td>React · Zustand · GSAP</td><td>macOS simulation in the browser — draggable, resizable windows with window-manager state</td></tr>
+          <tr><td>Turbin3 · Solana</td><td>Rust · Anchor</td><td>Q4 '25 Builder + Q1 '26 Accelerate — NFT marketplaces, staking, vaults, escrow, AMMs</td></tr>
+        </table>
+      </section>
+
+      <section class="panel" id="stack">
+        <div class="host">~/stack</div>
+        <div class="rule">----------------------------------------------</div>
+        <p><code>rust</code> (compiler internals) · <code>typescript</code> · <code>python</code> ·
+          <code>go</code> · <code>solidity</code> · <code>next.js</code> · <code>react</code> ·
+          <code>node</code> · <code>anchor</code> · <code>prisma</code> · <code>postgresql</code> ·
+          <code>redis</code> · <code>docker</code> · <code>linux</code> · <code>github actions</code> ·
+          <code>n8n</code> · <code>monday.com</code> · <code>playwright</code></p>
+      </section>
+
+      <section class="panel" id="terminal">
+        <div class="host">~/terminal</div>
+        <div class="rule">----------------------------------------------</div>
+        <p>Frames captured once from <a href="https://ascii.live/list">ascii.live</a> into
+          <code>assets/frames/</code>; this page picks one at random and plays it in a
+          <code>&lt;pre&gt;</code>. The same frames drive the animated SVG on the
+          <a href="https://github.com/pantha704/pantha704">profile README</a>.</p>
+        <pre>python3 tools/play.py            # random animation each run
+python3 tools/play.py --name nyan
+python3 tools/play.py --list</pre>
+        <p class="hint">Source for this page and the README:
+          <a href="https://github.com/pantha704/pantha704">github.com/pantha704/pantha704</a></p>
+      </section>
+    </main>
+  </div>
+
+  <div class="status">
+    <span>NORMAL</span>
+    <span id="status-file">~/profile/README.md</span>
+    <span class="right">
+      <span>utf-8</span><span>rust</span><span id="status-pos">ln 1, col 1</span>
+      <b id="status-stats">19/10</b>
+    </span>
+  </div>
+</div>
+
+<script>
+(function(){
+  const order = ['profile','upstream','projects','stack','terminal'];
+  const files = {profile:'README.md', upstream:'upstream/', projects:'projects/', stack:'stack.md', terminal:'terminal.md'};
+  const items = [...document.querySelectorAll('.item')];
+  const panels = Object.fromEntries(order.map(n => [n, document.getElementById(n)]));
+
+  function show(name, push){
+    if(!panels[name]) return;
+    order.forEach(n => panels[n].classList.toggle('on', n === name));
+    items.forEach(b => b.setAttribute('aria-current', String(b.dataset.panel === name)));
+    document.getElementById('status-file').textContent = '~/profile/' + files[name];
+    if(push) history.replaceState(null, '', '#' + name);
+    document.title = files[name] + ' — pratham@kolkata';
+  }
+
+  items.forEach(b => b.addEventListener('click', () => show(b.dataset.panel, true)));
+  document.addEventListener('keydown', e => {
+    const i = order.indexOf(document.querySelector('.item[aria-current="true"]').dataset.panel);
+    if(e.key === 'ArrowRight') show(order[(i+1) % order.length], true);
+    if(e.key === 'ArrowLeft')  show(order[(i-1+order.length) % order.length], true);
+    const n = parseInt(e.key, 10);
+    if(n >= 1 && n <= order.length) show(order[n-1], true);
+  });
+
+  const fromHash = location.hash.slice(1);
+  show(order.includes(fromHash) ? fromHash : 'profile', false);
+
+  // numbers baked at build time by tools/build_site.py — no network at runtime
+  const DATA = __DATA__;
+  document.getElementById('m-upstream').textContent =
+    DATA.merged + ' merged pull requests across ' + DATA.repos + ' repositories';
+  document.getElementById('m-open').textContent = DATA.open + ' pull requests open';
+  document.getElementById('status-stats').textContent = DATA.merged + '/' + DATA.repos;
+
+  // animations baked at build time — one random pick per load, zero fetches
+  const names = Object.keys(DATA.frames);
+  const pick = names[Math.floor(Math.random() * names.length)];
+  const art = document.getElementById('art');
+  const frames = DATA.frames[pick].split('\n===\n').map(f => f.replace(/^\n+|\n+$/g, '')).filter(Boolean);
+  if(frames.length){
+    const w = Math.max(...frames.map(f => Math.max(...f.split('\n').map(l => l.length))));
+    art.style.minHeight = (frames[0].split('\n').length * 1.15) + 'em';
+    art.style.fontSize = (w > 80 ? 9 : w > 60 ? 10.5 : 12) + 'px';
+    art.textContent = frames[0];
+    let paused = false, i = 0;
+    art.addEventListener('click', () => { paused = !paused; });
+    setInterval(() => { if(!paused){ i = (i+1) % frames.length; art.textContent = frames[i]; } }, 1000/12.9);
+    document.querySelector('.status .right').insertAdjacentHTML('afterbegin', '<span>' + pick + '</span>');
+  } else {
+    art.textContent = '(no frames in build)';
+  }
+})();
+</script>
+</body>
+</html>
