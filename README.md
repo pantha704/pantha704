@@ -6,7 +6,7 @@
 
 [![pratham@kolkata — a terminal cycling through profile, upstream work, projects, stack and the ascii terminal](./assets/hero.svg)](#)
 
-![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
+[![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)](#)
 
 <table>
 <tr>
