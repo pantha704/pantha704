@@ -26,6 +26,8 @@ LINE_H = 14
 PAD = 16
 CHROME_H = 30
 PROMPT_H = 22
+CANVAS_W = 680         # every animation is emitted at this size, so the README never reflows
+CANVAS_H = 420
 BG = "#0d1117"
 FG = "#7ee787"
 DIM = "#8b949e"
@@ -67,8 +69,14 @@ def build(name, frames, fps=12.9):
     cols = max(len(l) for f in frames for l in f)
     rows = max(len(f) for f in frames)
     art_w, art_h = cols * CELL_W, rows * LINE_H
-    width = art_w + PAD * 2
-    height = art_h + PAD * 2
+
+    # Every animation is emitted on the same canvas so the README never reflows between loads —
+    # the art is scaled to fit (never enlarged past 1:1) and centred inside a fixed box.
+    width, height = CANVAS_W, CANVAS_H
+    scale = min(1.0, (width - PAD * 2) / art_w, (height - PAD * 2) / art_h)
+    ox = (width - art_w * scale) / 2
+    oy = (height - art_h * scale) / 2
+
     period = len(frames) / fps
     step = 100.0 / len(frames)
 
@@ -93,19 +101,17 @@ def build(name, frames, fps=12.9):
         f'<rect x="0.5" y="0.5" width="{width-1:.0f}" height="{height-1:.0f}" rx="10" '
         f'fill="none" stroke="#30363d"/>'
     )
-    top = PAD
-    o.append(
-        f'<rect x="{PAD-4}" y="{top-4}" width="{art_w+8:.0f}" height="{art_h+8:.0f}" rx="6" '
-        f'fill="{FRAME_BG}"/>'
-    )
+    # art only: no window chrome, no prompt line, no label
+    o.append(f'<g transform="translate({ox:.2f} {oy:.2f}) scale({scale:.4f})">')
     for idx, frame in enumerate(frames):
         delay = -(idx * period / len(frames))
         o.append(f'<g class="f" style="animation-delay:{delay:.4f}s">')
-        o.append(f'<text x="{PAD}" y="{top + LINE_H - 3:.0f}" fill="{FG}" xml:space="preserve">')
+        o.append(f'<text x="0" y="{LINE_H - 3:.0f}" fill="{FG}" xml:space="preserve">')
         for row, line in enumerate(frame):
             dy = 0 if row == 0 else LINE_H
-            o.append(f'<tspan x="{PAD}" dy="{dy}">{html.escape(line) or " "}</tspan>')
+            o.append(f'<tspan x="0" dy="{dy}">{html.escape(line) or " "}</tspan>')
         o.append("</text></g>")
+    o.append("</g>")
     o.append("</svg>")
     return "\n".join(o), cols, rows, period
 
