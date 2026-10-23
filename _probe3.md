@@ -23,3 +23,16 @@ text before <img src="./assets/hero.svg" alt="D"> text after
 ## F markdown image inside a link to an anchor
 
 [![F](./assets/hero.svg)](#f-anchor)
+
+## G raw html img inside a table cell
+
+<table><tr><td><img src="./assets/hero.svg" alt="G"></td></tr></table>
+
+## H raw html img inside details summary
+
+<details><summary>summary with img <img src="./assets/hero.svg" alt="H" width="40"></summary>
+
+body
+
+</details>
+
