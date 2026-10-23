@@ -4,7 +4,7 @@
 
 [resume](./resume/Pratham-Jaiswal-Resume.pdf) · [detailed](./resume/Pratham-Jaiswal-Resume-detailed.pdf) · [mail](mailto:pratham.jaiswal2004@gmail.com) · [linkedin](https://www.linkedin.com/in/pantha704) · [x](https://twitter.com/pantha704)
 
-[![pratham@kolkata — terminal dashboard: upstream work, stack and status](./assets/hero.svg)](#upstream)
+[![pratham@kolkata — a terminal cycling through profile, upstream work, projects, stack and the ascii terminal. click to open the live version](./assets/hero.svg)](https://pantha704.github.io/pantha704/)
 
 [<kbd>~/profile</kbd>](#profile) · [<kbd>~/upstream</kbd>](#upstream) · [<kbd>~/projects</kbd>](#projects) · [<kbd>~/stack</kbd>](#stack) · [<kbd>~/terminal</kbd>](#terminal) · [<kbd>full screen ↗</kbd>](https://pantha704.github.io/pantha704/)
 

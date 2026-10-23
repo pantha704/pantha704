@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
 """Build the profile dashboard hero: assets/hero.svg
 
-The SVG themes itself — light palette by default, dark palette inside
-@media (prefers-color-scheme: dark) — so ONE file can be wrapped in a link. That matters because
-`<a><picture><source>…</picture></a>` gets mangled by GitHub's sanitizer (the <source> is hoisted
-out of the picture and the dark variant is never served), while `<a><img></a>` survives intact.
+Two things make this file unusual:
+
+1. It cycles through five panes by itself — sidebar highlight moves, right pane swaps, status-bar
+   path changes — so a still image reads like a terminal being driven. 4s per pane, 20s loop, CSS
+   keyframes only: an SVG inside <img> cannot run script, but it does run CSS.
+
+2. It themes itself — light palette by default, dark palette inside
+   @media (prefers-color-scheme: dark) — so ONE file can also be wrapped in a link.
+   `<a><picture><source>…</picture></a>` gets mangled by GitHub's sanitizer (the <source> is hoisted
+   out of the picture and the dark variant is never served); `<a><img></a>` survives intact.
 
 Numbers are queried live from the GitHub API unless overridden:
 
@@ -27,6 +33,11 @@ W, H = 920, 402
 CHROME = 34
 STATUS = 28
 SIDEBAR = 210
+VALUE_X = 118          # offset of a value column from the pane's left edge
+
+SLOT = 4.0             # seconds each pane stays up
+PANES = 5
+LOOP = SLOT * PANES
 
 # role: (light, dark)
 ROLES = {
@@ -104,20 +115,87 @@ def count(state, include_private=False, attempts=3):
         page += 1
 
 
-def rows(merged, repos, opened):
+def panes(merged, repos, opened):
+    """(sidebar row that lights up, status-bar path, pane title, [(key, value, colour)…])"""
     return [
-        ("role", "systems & automation engineer", "green"),
-        ("now", "automation + vulnerability reporting @ braid-forbes", "fg"),
-        ("upstream", f"{merged} merged pull requests across {repos} repositories", "cyan"),
-        ("in flight", f"{opened} pull requests open", "fg"),
-        ("stack", "rust · typescript · python · go · postgres · docker", "fg"),
-        ("status", "open to systems, devtools and infrastructure work", "yellow"),
+        (
+            0,
+            "~/profile/README.md",
+            "pratham@kolkata",
+            [
+                ("role", "systems & automation engineer", "green"),
+                ("now", "automation + vuln reporting @ braid-forbes", "fg"),
+                ("based", "kolkata, india", "fg"),
+                ("study", "b.tech, sister nivedita university, 2023–2027", "fg"),
+                ("status", "open to systems, devtools & infra work", "yellow"),
+            ],
+        ),
+        (
+            2,
+            "~/profile/upstream/",
+            f"~/upstream  —  {merged} merged · {repos} repos · {opened} open",
+            [
+                ("cranelift", "#1625  ci runner disk exhaustion → cleanup workflow", "fg"),
+                ("ccextractor", "#2378  tx3g subtitle timings on the mp4 path", "fg"),
+                ("open_spiel", "#1455  tensorflow 1.x deep-rl → pytorch", "fg"),
+                ("pytorch/ao", "#3709  FqnToConfig + MoE quantization docs", "fg"),
+                ("in flight", "#1711 #1710 · wagtail x2 · gatsby · clippy · scancode x2", "cyan"),
+            ],
+        ),
+        (
+            3,
+            "~/profile/projects/",
+            "~/projects  —  5 shipped",
+            [
+                ("perfume", "commerce system, catalogue → dispatch, 60+ prs", "fg"),
+                ("homeworker", "pdf → reviewable a4 notes, handwriting typefaces", "fg"),
+                ("flowforge", "serverless durable background jobs", "fg"),
+                ("macfolio", "macos window manager in the browser", "fg"),
+                ("turbin3", "solana markets, staking, vaults, escrow, amm", "fg"),
+            ],
+        ),
+        (
+            4,
+            "~/profile/stack.md",
+            "~/stack.md",
+            [
+                ("languages", "rust · typescript · python · go · solidity", "cyan"),
+                ("web", "next.js · react · node · anchor", "fg"),
+                ("data", "postgresql · redis · prisma", "fg"),
+                ("infra", "docker · linux · github actions · n8n", "fg"),
+                ("testing", "playwright", "fg"),
+            ],
+        ),
+        (
+            5,
+            "~/profile/terminal.md",
+            "~/terminal.md",
+            [
+                ("frames", "17 ascii animations captured locally", "fg"),
+                ("hero", "this file — css only, no script allowed", "fg"),
+                ("server", "random svg per request, cache-control: no-store", "fg"),
+                ("page", "one self-contained html, zero fetches", "fg"),
+                ("$", "open pantha704.github.io/pantha704", "green"),
+            ],
+        ),
     ]
 
 
 def stylesheet():
     light = "".join(f".f-{k}{{fill:{v[0]}}}.s-{k}{{stroke:{v[0]}}}" for k, v in ROLES.items())
     dark = "".join(f".f-{k}{{fill:{v[1]}}}.s-{k}{{stroke:{v[1]}}}" for k, v in ROLES.items())
+
+    # Each pane is up for its own SLOT, then hidden for the rest of the loop. Negative delays put
+    # every pane mid-cycle at t=0, so the first painted frame is never blank.
+    window = SLOT / LOOP * 100
+    keyframes = (
+        f"@keyframes show{{0%{{opacity:1}}{window:.2f}%{{opacity:1}}"
+        f"{window + 0.01:.2f}%{{opacity:0}}100%{{opacity:0}}}}"
+    )
+    anim = f".pane,.hl,.path{{opacity:0;animation:show {LOOP:.0f}s infinite}}"
+    for n in range(PANES):
+        anim += f".p{n}{{animation-delay:{n * SLOT - LOOP:.0f}s}}"
+
     return (
         "<style>"
         "text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,"
@@ -126,16 +204,22 @@ def stylesheet():
         + "@media (prefers-color-scheme: dark){"
         + dark
         + "}"
+        + anim
+        + keyframes
+        + "@media (prefers-reduced-motion: reduce){"
+        ".pane,.hl,.path{animation:none;opacity:0}.p0{opacity:1}}"
         "</style>"
     )
 
 
 def build(merged, repos, opened):
+    data = panes(merged, repos, opened)
     o = []
     o.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
-        f'role="img" aria-label="pratham jaiswal — {merged} merged pull requests across {repos} '
-        f'upstream repositories">'
+        f'role="img" aria-label="pratham jaiswal — terminal dashboard cycling through profile, '
+        f'{merged} merged pull requests across {repos} upstream repositories, projects, stack and '
+        f'the ascii terminal">'
     )
     o.append(stylesheet())
     o.append(f'<rect width="{W}" height="{H}" rx="12" class="f-bg"/>')
@@ -157,38 +241,48 @@ def build(merged, repos, opened):
     o.append(f'<rect y="{CHROME}" width="{SIDEBAR}" height="{H-CHROME-STATUS}" class="f-side"/>')
     o.append(f'<line x1="{SIDEBAR}" y1="{CHROME}" x2="{SIDEBAR}" y2="{H-STATUS}" class="s-line"/>')
     tree = [
-        ("~/profile", "dim", False),
-        ("|- README.md", "green", True),
-        ("|- upstream/", "fg", False),
-        ("|- projects/", "fg", False),
-        ("|- stack.md", "fg", False),
-        ("`- terminal.md", "fg", False),
+        ("~/profile", "dim"),
+        ("|- README.md", "green"),
+        ("|- upstream/", "fg"),
+        ("|- projects/", "fg"),
+        ("|- stack.md", "fg"),
+        ("`- terminal.md", "fg"),
     ]
-    y = CHROME + 28
-    for label, colour, active in tree:
-        if active:
-            o.append(
-                f'<rect x="8" y="{y-14}" width="{SIDEBAR-16}" height="20" rx="4" class="f-sel"/>'
-            )
+    row_y = {i: CHROME + 28 + i * 22 for i in range(len(tree))}
+    # highlight first, so the tree text paints over it
+    for n, (row, path, title, lines) in enumerate(data):
+        o.append(
+            f'<rect x="8" y="{row_y[row]-14}" width="{SIDEBAR-16}" height="20" rx="4" '
+            f'class="f-sel hl p{n}"/>'
+        )
+    for label, colour in tree:
+        y = row_y[tree.index((label, colour))]
         o.append(f'<text x="16" y="{y}" class="f-{colour}">{html.escape(label)}</text>')
-        y += 22
-    # main pane
+    # panes
     x = SIDEBAR + 26
-    y = CHROME + 34
-    o.append(f'<text x="{x}" y="{y}" class="f-cyan" font-size="15">pratham@kolkata</text>')
-    y += 12
-    o.append(f'<text x="{x}" y="{y}" class="f-line">{"-" * 46}</text>')
-    y += 26
-    for key, value, colour in rows(merged, repos, opened):
-        o.append(f'<text x="{x}" y="{y}" class="f-dim">{html.escape(key):<10}</text>')
-        o.append(f'<text x="{x + 110}" y="{y}" class="f-{colour}">{html.escape(value)}</text>')
-        y += 24
+    for n, (row, path, title, lines) in enumerate(data):
+        o.append(f'<g class="pane p{n}">')
+        y = CHROME + 34
+        o.append(f'<text x="{x}" y="{y}" class="f-cyan" font-size="15">{html.escape(title)}</text>')
+        y += 12
+        o.append(f'<text x="{x}" y="{y}" class="f-line">{"-" * 52}</text>')
+        y += 26
+        for key, value, colour in lines:
+            o.append(f'<text x="{x}" y="{y}" class="f-dim">{html.escape(key):<11}</text>')
+            o.append(
+                f'<text x="{x + VALUE_X}" y="{y}" class="f-{colour}">{html.escape(value)}</text>'
+            )
+            y += 24
+        o.append("</g>")
     # status bar
     o.append(f'<rect y="{H-STATUS}" width="{W}" height="{STATUS}" class="f-status_bg"/>')
     o.append(f'<line x1="0" y1="{H-STATUS}" x2="{W}" y2="{H-STATUS}" class="s-line"/>')
+    o.append(f'<text x="18" y="{H-STATUS/2 + 4}" class="f-dim">NORMAL</text>')
+    for n, (row, path, title, lines) in enumerate(data):
+        o.append(
+            f'<text x="96" y="{H-STATUS/2 + 4}" class="f-fg path p{n}">{html.escape(path)}</text>'
+        )
     o.append(
-        f'<text x="18" y="{H-STATUS/2 + 4}" class="f-dim">NORMAL</text>'
-        f'<text x="96" y="{H-STATUS/2 + 4}" class="f-fg">~/profile/README.md</text>'
         f'<text x="{W-300}" y="{H-STATUS/2 + 4}" class="f-dim">utf-8</text>'
         f'<text x="{W-238}" y="{H-STATUS/2 + 4}" class="f-dim">rust</text>'
         f'<text x="{W-182}" y="{H-STATUS/2 + 4}" class="f-dim">ln 1, col 1</text>'
@@ -227,6 +321,7 @@ def main():
     path, size = write(merged, repos, opened)
     print(f"{path}: {size/1024:.1f} KB")
     print(f"numbers baked in: {merged} merged / {repos} repos / {opened} open")
+    print(f"cycling {PANES} panes, {SLOT:g}s each, {LOOP:g}s loop")
 
 
 if __name__ == "__main__":
