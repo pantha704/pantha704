@@ -6,11 +6,23 @@
 
 [![pratham@kolkata — terminal dashboard: upstream work, stack and status](./assets/hero.svg)](#upstream)
 
-<kbd>~/profile</kbd> · [<kbd>~/upstream</kbd>](#upstream) · [<kbd>~/projects</kbd>](#projects) · [<kbd>~/stack</kbd>](#stack) · [<kbd>~/terminal</kbd>](#terminal) · [<kbd>interactive ↗</kbd>](https://pantha704.github.io/pantha704/)
+[<kbd>~/profile</kbd>](#profile) · [<kbd>~/upstream</kbd>](#upstream) · [<kbd>~/projects</kbd>](#projects) · [<kbd>~/stack</kbd>](#stack) · [<kbd>~/terminal</kbd>](#terminal) · [<kbd>full screen ↗</kbd>](https://pantha704.github.io/pantha704/)
 
 ![a random ascii animation — different on every load](http://57.131.133.151:8080/tui.svg)
 
 ---
+
+#### ~/profile
+
+<details open>
+<summary>automation + vulnerability reporting @ braid-forbes — kolkata, india</summary>
+<br>
+
+- systems and automation engineer. day job is automation and vulnerability reporting at **braid-forbes**; the rest is upstream compiler, tooling and frontend work.
+- b.tech, sister nivedita university, 2023–2027 (ISC science, 85%, 2023).
+- open to systems, devtools and infrastructure work — [mail](mailto:pratham.jaiswal2004@gmail.com) is fastest.
+
+</details>
 
 #### ~/upstream
 
@@ -35,8 +47,8 @@
 
 #### ~/projects
 
-<details open>
-<summary>5 shipped</summary>
+<details>
+<summary>5 shipped — click to open</summary>
 <br>
 
 | project | stack | what it is |
@@ -51,8 +63,8 @@
 
 #### ~/stack
 
-<details open>
-<summary>what I reach for</summary>
+<details>
+<summary>what I reach for — click to open</summary>
 <br>
 
 `rust` (compiler internals) · `typescript` · `python` · `go` · `solidity` · `next.js` · `react` · `node` · `anchor` · `prisma` · `postgresql` · `redis` · `docker` · `linux` · `github actions` · `n8n` · `monday.com` · `playwright`
@@ -61,11 +73,11 @@
 
 #### ~/terminal
 
-<details open>
-<summary>the animation at the top</summary>
+<details>
+<summary>the animation at the top — click to open</summary>
 <br>
 
-Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. There is also a [fully interactive version of this terminal](https://pantha704.github.io/pantha704/) — the sidebar there actually switches panels. The same frames play locally:
+Frames captured once from [ascii.live's animation list](https://ascii.live/list) into [`assets/frames/`](assets/frames); the server picks a random one per request, so a reload gets a different animation. The [full-screen version](https://pantha704.github.io/pantha704/) is the same terminal with working panes — GitHub strips `<script>`, `<iframe>` and inline SVG from READMEs, so this page cannot switch panes itself, only fold them open. The same frames play locally:
 
 ```bash
 python3 tools/play.py            # random animation each run
@@ -79,4 +91,4 @@ Capture any of ascii.live's ninety-odd animations with `python3 tools/capture_fr
 
 ---
 
-<sub><!--stats:start--><code>19 merged · 10 repos · 14 open · checked 23 Oct 2026</code><!--stats:end--> — the hero above and these numbers are rebuilt daily from the GitHub API by <a href="tools/refresh_stats.py">tools/refresh_stats.py</a>. Panels collapse; the keys under the animation jump to each section.</sub>
+<sub><!--stats:start--><code>19 merged · 10 repos · 14 open · checked 23 Oct 2026</code><!--stats:end--> — the hero above and these numbers are rebuilt daily from the GitHub API by <a href="tools/refresh_stats.py">tools/refresh_stats.py</a>. Click a folder to unfold it; the keys under the animation jump to one.</sub>
