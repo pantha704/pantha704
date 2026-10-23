@@ -86,10 +86,8 @@
 <text x="354" y="130" class="f-fg">this file — css only, no script allowed</text>
 <text x="236" y="154" class="f-dim">server     </text>
 <text x="354" y="154" class="f-fg">random svg per request, cache-control: no-store</text>
-<text x="236" y="178" class="f-dim">page       </text>
-<text x="354" y="178" class="f-fg">one self-contained html, zero fetches</text>
-<text x="236" y="202" class="f-dim">$          </text>
-<text x="354" y="202" class="f-green">open pantha704.github.io/pantha704</text>
+<text x="236" y="178" class="f-dim">$          </text>
+<text x="354" y="178" class="f-green">python3 tools/play.py --name badapple</text>
 </g>
 <rect y="374" width="920" height="28" class="f-status_bg"/>
 <line x1="0" y1="374" x2="920" y2="374" class="s-line"/>

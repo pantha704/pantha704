@@ -174,8 +174,7 @@ def panes(merged, repos, opened):
                 ("frames", "17 ascii animations captured locally", "fg"),
                 ("hero", "this file — css only, no script allowed", "fg"),
                 ("server", "random svg per request, cache-control: no-store", "fg"),
-                ("page", "one self-contained html, zero fetches", "fg"),
-                ("$", "open pantha704.github.io/pantha704", "green"),
+                ("$", "python3 tools/play.py --name badapple", "green"),
             ],
         ),
     ]
