@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="402" viewBox="0 0 920 402" role="img" aria-label="pratham jaiswal — 19 merged pull requests across 10 upstream repositories">
+<style>text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:13px;white-space:pre}.f-bg{fill:#ffffff}.s-bg{stroke:#ffffff}.f-panel{fill:#f6f8fa}.s-panel{stroke:#f6f8fa}.f-side{fill:#f0f3f6}.s-side{stroke:#f0f3f6}.f-line{fill:#d0d7de}.s-line{stroke:#d0d7de}.f-fg{fill:#24292f}.s-fg{stroke:#24292f}.f-dim{fill:#57606a}.s-dim{stroke:#57606a}.f-green{fill:#1a7f37}.s-green{stroke:#1a7f37}.f-cyan{fill:#0969da}.s-cyan{stroke:#0969da}.f-yellow{fill:#9a6700}.s-yellow{stroke:#9a6700}.f-sel{fill:#0969da22}.s-sel{stroke:#0969da22}.f-status_bg{fill:#f6f8fa}.s-status_bg{stroke:#f6f8fa}@media (prefers-color-scheme: dark){.f-bg{fill:#0d1117}.s-bg{stroke:#0d1117}.f-panel{fill:#161b22}.s-panel{stroke:#161b22}.f-side{fill:#0f141b}.s-side{stroke:#0f141b}.f-line{fill:#30363d}.s-line{stroke:#30363d}.f-fg{fill:#c9d1d9}.s-fg{stroke:#c9d1d9}.f-dim{fill:#8b949e}.s-dim{stroke:#8b949e}.f-green{fill:#7ee787}.s-green{stroke:#7ee787}.f-cyan{fill:#79c0ff}.s-cyan{stroke:#79c0ff}.f-yellow{fill:#e3b341}.s-yellow{stroke:#e3b341}.f-sel{fill:#1f6feb33}.s-sel{stroke:#1f6feb33}.f-status_bg{fill:#161b22}.s-status_bg{stroke:#161b22}}</style>
+<rect width="920" height="402" rx="12" class="f-bg"/>
+<rect x="0.5" y="0.5" width="919" height="401" rx="12" fill="none" class="s-line"/>
+<path d="M0 12a12 12 0 0 1 12-12h896a12 12 0 0 1 12 12v22H0z" class="f-panel"/>
+<circle cx="20" cy="17.0" r="5.5" fill="#ff5f56"/>
+<circle cx="38" cy="17.0" r="5.5" fill="#ffbd2e"/>
+<circle cx="56" cy="17.0" r="5.5" fill="#27c93f"/>
+<text x="460.0" y="21.0" class="f-dim" text-anchor="middle" font-size="12">pratham@kolkata — ~/profile</text>
+<line x1="0" y1="34" x2="920" y2="34" class="s-line"/>
+<rect y="34" width="210" height="340" class="f-side"/>
+<line x1="210" y1="34" x2="210" y2="374" class="s-line"/>
+<text x="16" y="62" class="f-dim">~/profile</text>
+<rect x="8" y="70" width="194" height="20" rx="4" class="f-sel"/>
+<text x="16" y="84" class="f-green">|- README.md</text>
+<text x="16" y="106" class="f-fg">|- upstream/</text>
+<text x="16" y="128" class="f-fg">|- projects/</text>
+<text x="16" y="150" class="f-fg">|- stack.md</text>
+<text x="16" y="172" class="f-fg">`- terminal.md</text>
+<text x="236" y="68" class="f-cyan" font-size="15">pratham@kolkata</text>
+<text x="236" y="80" class="f-line">----------------------------------------------</text>
+<text x="236" y="106" class="f-dim">role      </text>
+<text x="346" y="106" class="f-green">systems &amp; automation engineer</text>
+<text x="236" y="130" class="f-dim">now       </text>
+<text x="346" y="130" class="f-fg">automation + vulnerability reporting @ braid-forbes</text>
+<text x="236" y="154" class="f-dim">upstream  </text>
+<text x="346" y="154" class="f-cyan">19 merged pull requests across 10 repositories</text>
+<text x="236" y="178" class="f-dim">in flight </text>
+<text x="346" y="178" class="f-fg">14 pull requests open</text>
+<text x="236" y="202" class="f-dim">stack     </text>
+<text x="346" y="202" class="f-fg">rust · typescript · python · go · postgres · docker</text>
+<text x="236" y="226" class="f-dim">status    </text>
+<text x="346" y="226" class="f-yellow">open to systems, devtools and infrastructure work</text>
+<rect y="374" width="920" height="28" class="f-status_bg"/>
+<line x1="0" y1="374" x2="920" y2="374" class="s-line"/>
+<text x="18" y="392.0" class="f-dim">NORMAL</text><text x="96" y="392.0" class="f-fg">~/profile/README.md</text><text x="620" y="392.0" class="f-dim">utf-8</text><text x="682" y="392.0" class="f-dim">rust</text><text x="738" y="392.0" class="f-dim">ln 1, col 1</text><text x="840" y="392.0" class="f-green">19/10</text>
+</svg>

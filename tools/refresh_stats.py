@@ -122,10 +122,8 @@ def main():
         print(f"README  : {'would change' if changed else 'already current'}")
         return
 
-    for name, theme in (("hero-dark.svg", builder.DARK), ("hero-light.svg", builder.LIGHT)):
-        path = os.path.join(ROOT, "assets", name)
-        open(path, "w", encoding="utf-8").write(builder.build(theme, merged, repos, opened))
-        print(f"rebuilt {path}")
+    path, size = builder.write(merged, repos, opened)
+    print(f"rebuilt {path} ({size/1024:.1f} KB)")
 
     if changed:
         open(README, "w", encoding="utf-8").write(updated)
