@@ -101,7 +101,9 @@ def main():
 
     text = open(README, encoding="utf-8").read()
     if START not in text or END not in text:
-        raise SystemExit(f"README has no {START} … {END} block to update (footer)")
+        # The README is now just the header + hero + animation; the numbers live inside the hero
+        # SVG, so a missing footer block is expected, not a failure.
+        print(f"note: no {START} … {END} footer block — the hero still carries the numbers")
 
     blocks = [
         (START, END, footer, "footer"),
