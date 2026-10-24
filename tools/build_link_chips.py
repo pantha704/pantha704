@@ -22,7 +22,7 @@ BG = "#161b22"
 BORDER = "#30363d"
 FG = "#7ee787"
 
-CHIPS = ["resume", "mail", "linkedin", "x"]
+CHIPS = ["resume", "mail", "x"]
 
 
 def chip(label):

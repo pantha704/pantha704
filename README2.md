@@ -39,9 +39,6 @@
   <a href="mailto:pratham.jaiswal2004@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=1c1c1c">
   </a>
-  <a href="https://www.linkedin.com/in/pratham-jaiswal-b6b27b253">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c1c1c">
-  </a>
 </p>
 
 ---
