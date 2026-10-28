@@ -248,7 +248,7 @@ def clock_bar(now, x, y):
             # wall clock reads k, which is (k - current) slots after this file is loaded
             delay = ((k - current) * slot) - period
             out.append(
-                f'<text x="{tx + dx * cw:.1f}" y="{y}" class="{cls}" '
+                f'<text x="{tx + dx * cw:.1f}" y="{y}" class="f-green {cls}" '
                 f'style="animation-delay:{delay}s{cur}">{fmt(k)}</text>'
             )
         return out
