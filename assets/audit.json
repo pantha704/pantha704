@@ -1,0 +1,426 @@
+{
+  "analogclock": {
+    "cols": 56,
+    "frames": 8,
+    "ink": 12.4,
+    "rows": 32,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "anonymous": {
+    "cols": 60,
+    "frames": 4,
+    "ink": 54.9,
+    "rows": 37,
+    "verdict": "BORDERLINE",
+    "why": "braille Guy Fawkes mask - striking, but at README size it reads as static"
+  },
+  "aurora": {
+    "cols": 80,
+    "frames": 100,
+    "ink": 75.5,
+    "rows": 24,
+    "verdict": "BORDERLINE",
+    "why": "abstract gradient waves, not a subject"
+  },
+  "badapple": {
+    "cols": 72,
+    "frames": 100,
+    "ink": 78.5,
+    "rows": 26,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "ball": {
+    "cols": 1,
+    "frames": 4,
+    "ink": 100.0,
+    "rows": 1,
+    "verdict": "DROP",
+    "why": "broken capture - the whole frame is one line, 1 character wide"
+  },
+  "bangladesh": {
+    "cols": 45,
+    "frames": 4,
+    "ink": 48.1,
+    "rows": 10,
+    "verdict": "DROP",
+    "why": "10 rows tall - a speck"
+  },
+  "blahaj": {
+    "cols": 99,
+    "frames": 7,
+    "ink": 61.6,
+    "rows": 34,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "blueshirt": {
+    "cols": 100,
+    "frames": 72,
+    "ink": 100.0,
+    "rows": 55,
+    "verdict": "DROP",
+    "why": "full-bleed shading - a green smear, no readable subject"
+  },
+  "bodypack": {
+    "cols": 80,
+    "frames": 27,
+    "ink": 85.1,
+    "rows": 33,
+    "verdict": "DROP",
+    "why": "full-bleed shading - a blob, no readable subject"
+  },
+  "brittany": {
+    "cols": 80,
+    "frames": 18,
+    "ink": 100.0,
+    "rows": 23,
+    "verdict": "DROP",
+    "why": "full-bleed shading - a green smear, no readable subject"
+  },
+  "cjhhaonnonuyr": {
+    "cols": 98,
+    "frames": 15,
+    "ink": 30.0,
+    "rows": 40,
+    "verdict": "REMOVED",
+    "why": "a hand with the middle finger raised - removed on request"
+  },
+  "coin": {
+    "cols": 49,
+    "frames": 7,
+    "ink": 100.0,
+    "rows": 30,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "dancingcoin": {
+    "cols": 14,
+    "frames": 10,
+    "ink": 60.4,
+    "rows": 12,
+    "verdict": "DROP",
+    "why": "12x14 art - a speck"
+  },
+  "donut": {
+    "cols": 60,
+    "frames": 12,
+    "ink": 50.0,
+    "rows": 21,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "duck": {
+    "cols": 83,
+    "frames": 15,
+    "ink": 27.8,
+    "rows": 55,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "earth": {
+    "cols": 64,
+    "frames": 98,
+    "ink": 60.9,
+    "rows": 29,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "eclipseos": {
+    "cols": 28,
+    "frames": 7,
+    "ink": 88.5,
+    "rows": 10,
+    "verdict": "DROP",
+    "why": "10 rows tall - a speck"
+  },
+  "ethel": {
+    "cols": 12,
+    "frames": 12,
+    "ink": 65.9,
+    "rows": 4,
+    "verdict": "DROP",
+    "why": "4 rows tall - a cat holding a gun, unreadable at this size anyway"
+  },
+  "extendedball": {
+    "cols": 1,
+    "frames": 4,
+    "ink": 100.0,
+    "rows": 1,
+    "verdict": "DROP",
+    "why": "broken capture - one line, 1-4 characters"
+  },
+  "fish": {
+    "cols": 84,
+    "frames": 10,
+    "ink": 95.4,
+    "rows": 24,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "floss": {
+    "cols": 91,
+    "frames": 19,
+    "ink": 99.9,
+    "rows": 45,
+    "verdict": "DROP",
+    "why": "full-bleed stripes - a green smear, no readable subject"
+  },
+  "forrest": {
+    "cols": 37,
+    "frames": 12,
+    "ink": 48.7,
+    "rows": 26,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "forty-two": {
+    "cols": 27,
+    "frames": 4,
+    "ink": 80.9,
+    "rows": 7,
+    "verdict": "DROP",
+    "why": "block digits 42"
+  },
+  "fourtwo": {
+    "cols": 97,
+    "frames": 4,
+    "ink": 52.7,
+    "rows": 42,
+    "verdict": "DROP",
+    "why": "block digits 42 again - duplicate of forty-two"
+  },
+  "gopher": {
+    "cols": 50,
+    "frames": 24,
+    "ink": 98.4,
+    "rows": 25,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "heart": {
+    "cols": 9,
+    "frames": 4,
+    "ink": 66.7,
+    "rows": 1,
+    "verdict": "DROP",
+    "why": "broken capture - one line of 9-12 characters"
+  },
+  "helix": {
+    "cols": 67,
+    "frames": 90,
+    "ink": 42.7,
+    "rows": 27,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "hell": {
+    "cols": 13,
+    "frames": 4,
+    "ink": 60.0,
+    "rows": 5,
+    "verdict": "DROP",
+    "why": "5 rows tall, 13 wide - a speck on a 680x420 canvas"
+  },
+  "hello": {
+    "cols": 100,
+    "frames": 6,
+    "ink": 97.4,
+    "rows": 22,
+    "verdict": "DROP",
+    "why": "spells HELLO WORLD in block letters"
+  },
+  "india": {
+    "cols": 52,
+    "frames": 60,
+    "ink": 18.9,
+    "rows": 28,
+    "verdict": "BORDERLINE",
+    "why": "sparse outline, subject unclear"
+  },
+  "jd": {
+    "cols": 26,
+    "frames": 4,
+    "ink": 44.8,
+    "rows": 9,
+    "verdict": "DROP",
+    "why": "spells JD in block letters"
+  },
+  "kitty": {
+    "cols": 31,
+    "frames": 4,
+    "ink": 100.0,
+    "rows": 20,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "knot": {
+    "cols": 61,
+    "frames": 40,
+    "ink": 55.3,
+    "rows": 29,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "matrix": {
+    "cols": 80,
+    "frames": 100,
+    "ink": 32.9,
+    "rows": 24,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "maxwell": {
+    "cols": 100,
+    "frames": 57,
+    "ink": 100.0,
+    "rows": 30,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "maya": {
+    "cols": 32,
+    "frames": 4,
+    "ink": 32.4,
+    "rows": 8,
+    "verdict": "DROP",
+    "why": "8 rows tall - a speck"
+  },
+  "minecraft": {
+    "cols": 32,
+    "frames": 8,
+    "ink": 100.0,
+    "rows": 16,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "nyan": {
+    "cols": 75,
+    "frames": 12,
+    "ink": 38.1,
+    "rows": 38,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "oiia-cat": {
+    "cols": 80,
+    "frames": 40,
+    "ink": 100.0,
+    "rows": 32,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "parrot": {
+    "cols": 48,
+    "frames": 10,
+    "ink": 87.6,
+    "rows": 18,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "pedro": {
+    "cols": 84,
+    "frames": 83,
+    "ink": 40.2,
+    "rows": 12,
+    "verdict": "DROP",
+    "why": "spells PEDRO in block letters; no animation, no subject"
+  },
+  "pikachu": {
+    "cols": 59,
+    "frames": 20,
+    "ink": 99.9,
+    "rows": 59,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "plasma": {
+    "cols": 73,
+    "frames": 90,
+    "ink": 79.8,
+    "rows": 24,
+    "verdict": "BORDERLINE",
+    "why": "abstract radial gradient, not a subject"
+  },
+  "purdue": {
+    "cols": 81,
+    "frames": 30,
+    "ink": 94.6,
+    "rows": 21,
+    "verdict": "DROP",
+    "why": "random punctuation, 94% ink, no image in it at all"
+  },
+  "rick": {
+    "cols": 70,
+    "frames": 27,
+    "ink": 99.9,
+    "rows": 36,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "ring": {
+    "cols": 39,
+    "frames": 4,
+    "ink": 92.9,
+    "rows": 13,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "rocket": {
+    "cols": 12,
+    "frames": 6,
+    "ink": 48.8,
+    "rows": 16,
+    "verdict": "DROP",
+    "why": "12 characters wide - a speck"
+  },
+  "shrek": {
+    "cols": 30,
+    "frames": 6,
+    "ink": 100.0,
+    "rows": 15,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "sixseven": {
+    "cols": 68,
+    "frames": 18,
+    "ink": 54.1,
+    "rows": 30,
+    "verdict": "BORDERLINE",
+    "why": "sparse fragments - reads as debris"
+  },
+  "spaceship": {
+    "cols": 22,
+    "frames": 37,
+    "ink": 51.2,
+    "rows": 11,
+    "verdict": "DROP",
+    "why": "11 rows tall - a speck"
+  },
+  "sweaty-gamer": {
+    "cols": 100,
+    "frames": 5,
+    "ink": 100.0,
+    "rows": 37,
+    "verdict": "DROP",
+    "why": "full-bleed shading - a green smear, no readable subject"
+  },
+  "teddy": {
+    "cols": 90,
+    "frames": 7,
+    "ink": 100.0,
+    "rows": 45,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  },
+  "tesseract": {
+    "cols": 86,
+    "frames": 48,
+    "ink": 45.3,
+    "rows": 49,
+    "verdict": "KEEP",
+    "why": "reads as a clear subject"
+  }
+}

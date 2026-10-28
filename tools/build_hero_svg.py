@@ -287,10 +287,10 @@ def build(merged, repos, opened, stamp=None):
             f'<text x="96" y="{H-STATUS/2 + 4}" class="f-fg path p{n}">{html.escape(path)}</text>'
         )
     o.append(
-        f'<text x="{W-300}" y="{H-STATUS/2 + 4}" class="f-dim">utf-8</text>'
-        f'<text x="{W-238}" y="{H-STATUS/2 + 4}" class="f-dim">rust</text>'
-        f'<text x="{W-182}" y="{H-STATUS/2 + 4}" class="f-dim">ln 1, col 1</text>'
-        f'<text x="{W-96}" y="{H-STATUS/2 + 4}" class="f-green">{html.escape(stamp)}</text>'
+        f'<text x="{W-335}" y="{H-STATUS/2 + 4}" class="f-dim">utf-8</text>'
+        f'<text x="{W-275}" y="{H-STATUS/2 + 4}" class="f-dim">rust</text>'
+        f'<text x="{W-222}" y="{H-STATUS/2 + 4}" class="f-dim">ln 1, col 1</text>'
+        f'<text x="{W-103}" y="{H-STATUS/2 + 4}" class="f-green">{html.escape(stamp)}</text>'
     )
     o.append("</svg>")
     return "\n".join(o)
