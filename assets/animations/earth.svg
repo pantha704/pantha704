@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of earth">
-<style>.f{opacity:0;animation:blink 7.597s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}1.020%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<style>.f{opacity:0;animation:blink 7.752s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}1.000%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
 <rect width="680" height="420" rx="10" fill="#0d1117"/>
 <rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
 <g transform="translate(119.81 16.00) scale(0.9557)">
@@ -3137,6 +3137,70 @@
 <tspan x="0" dy="14">            :ss:                         ~~~~~~~~~:sy/</tspan>
 <tspan x="0" dy="14">            ~/ss+-                   ~~~~~~~-+ss/~</tspan>
 <tspan x="0" dy="14">                ./oooo+///+s/::::+syyyyssyso/.</tspan>
+<tspan x="0" dy="14">                    ~-:+osyhhhhhhyso+/-~</tspan>
+</text></g>
+<g class="f" style="animation-delay:-7.5969s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                        .-/+oooooooooo+/:.</tspan>
+<tspan x="0" dy="14">                ~:osy@@dy+ssydshdN@@@@@@@@ho:~</tspan>
+<tspan x="0" dy="14">            :oyhsyy@@@@@@@@@@@@@@@@@@@@@@NN@@@s:</tspan>
+<tspan x="0" dy="14">            -s@@@NNN@@@@@@@@@@@@@@@@@@@@@@@@N@@@@@@Ny:</tspan>
+<tspan x="0" dy="14">        /yhdyN@@oodd@@d:sN@@@@@@@@@@@@@@@@@@@@@@@@@@d+~</tspan>
+<tspan x="0" dy="14">        /@h/ .ohodhNy@@@@--@@@@@@@@@@@@@@@@@@@@@@@@@@y//h+</tspan>
+<tspan x="0" dy="14">    .hNNs~~~..--+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@y:-++h-</tspan>
+<tspan x="0" dy="14">    /N@@@@@N@@@yy@@@@@@ss@@@@@@@@@@@@@@@@@@@@@@@@@@@@N:~~.ho</tspan>
+<tspan x="0" dy="14">    o@@@@@@@@@@Ns-o@@@@@yh@s:::::N@@@@@@@@@@@@@@@@@@@@d//~~~ss</tspan>
+<tspan x="0" dy="14">+@@@@@@@@@@@@h s@@@@@@@@:     ..N@@@@@@y.--@@@@@/h@:./~~~~ys</tspan>
+<tspan x="0" dy="14">-@@@@@@@@@@@@@Nd~:NNNNN-         dN@@N@~    oN@@@N@-.~:d.~~.d:</tspan>
+<tspan x="0" dy="14">h@@@@@@@@@@@@@@@@o...              @@-.       o@N@@:~~~...~~:@</tspan>
+<tspan x="0" dy="14">.@@dN@@@@@@@@@@@@@@@@@              shhh.     .+d+:~.~~--~~~~~d:</tspan>
+<tspan x="0" dy="14">/@y /N@@@@@@@@@@@@hy/:                        ++:sd-.//hd~.:~~so</tspan>
+<tspan x="0" dy="14">oy   h@@@@@@@@@@dy~                            .yss++yN@s+.s~:oy</tspan>
+<tspan x="0" dy="14">+h   h@@@@@@@@@@/~                             ~ :so/~o/-s~~~hds</tspan>
+<tspan x="0" dy="14">.N   -y@@@@@@@@@+                              ~ ~~~~~~--..~~sN:</tspan>
+<tspan x="0" dy="14">d/   .@@@@@@@@@y                              ~~~~~~~~....yos@</tspan>
+<tspan x="0" dy="14">-@~  o@@@@@@@@@@ .hhh-                        ~~~~~~~~~-h@Ns@/</tspan>
+<tspan x="0" dy="14">oy   .N@@@@@@h. ~N@@o                       ~~.~~.~.-d@@@@@y</tspan>
+<tspan x="0" dy="14">    sy   :@@@@@@d.  od~                        ~~~~~~~y@@@@@@y</tspan>
+<tspan x="0" dy="14">    +h~  :s@@@h.                             ~~~~~~~s@@@@@@s</tspan>
+<tspan x="0" dy="14">    -h/   :d/-                              ~~~~~~ss/:/N@:</tspan>
+<tspan x="0" dy="14">        +h:                                ~~~~~~~~~~~~:@o~</tspan>
+<tspan x="0" dy="14">        ~+y/                              ~~~~~~~~~~/yo~</tspan>
+<tspan x="0" dy="14">            :ss:                         ~~~~~~~~~:sy/</tspan>
+<tspan x="0" dy="14">            ~/ss+-                   ~~~~~~~-+ss/~</tspan>
+<tspan x="0" dy="14">                ./ooo++////oo::::/syyyyysyso/.</tspan>
+<tspan x="0" dy="14">                    ~-:+osyhhhhhhyso+/-~</tspan>
+</text></g>
+<g class="f" style="animation-delay:-7.6744s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                        .-/+oooooooooo+/:.</tspan>
+<tspan x="0" dy="14">                ~:osyh@@yoossdyyh@@@@@@@@@ho:~</tspan>
+<tspan x="0" dy="14">            :syysoyy@@@@@@@@@@@@@@@@@@@@@@N@@@s:</tspan>
+<tspan x="0" dy="14">            -sdd@@@N@@@@@@@@@@@@@@@@@@@@@@@@@@N@@@@Ny:</tspan>
+<tspan x="0" dy="14">        /ysyhh@@@+odd@@@:o@@@N@@@@@@@@@@@@@@@@@@@@@Nd+~</tspan>
+<tspan x="0" dy="14">        /dho. -oyodh@y@@@@+~N@@@@@@@@@@@@@@@@@@@@@@@@N++h+</tspan>
+<tspan x="0" dy="14">    .hhNd+~~.-.--/N@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o:/oh-</tspan>
+<tspan x="0" dy="14">    /NN@@@@@N@@@hs@@@@@@dod@@@@@@@@@@@@@@@@@@@@@@@@@@@@...ho</tspan>
+<tspan x="0" dy="14">    o@@@@@@@@@@@@y:/N@@@@dyNN/::::o@@@@@@@@@@@@@@@@@@@@h/:~~ss</tspan>
+<tspan x="0" dy="14">+@@@@@@@@@@@@@N~-@@@@@@@@@     ~.+@@@@@@@:--s@@@@oyN:.:~~~ys</tspan>
+<tspan x="0" dy="14">-@@@@@@@@@@@@@@@N/~hNNNNh         -NN@@No~   .N@@@NN:.~:y~~.d:</tspan>
+<tspan x="0" dy="14">h@@@@@@@@@@@@@@@@@N...~             -@d..      -@N@@+~~~.-.~:@</tspan>
+<tspan x="0" dy="14">.N@NdN@@@@@@@@@@@@@@@N@o             ~hhhs     .-hy:.~~~--~~~~d:</tspan>
+<tspan x="0" dy="14">/hy: s@@@@@@@@@@@@@Nhs:.                       :o/+d/.//yh~.-~so</tspan>
+<tspan x="0" dy="14">oy    N@@@@@@@@@@Ny+                             oys+/y@@s/-/-sy</tspan>
+<tspan x="0" dy="14">+h    @@@@@@@@@@@@~~                           ~ ~.so+~+/-o~~+@s</tspan>
+<tspan x="0" dy="14">.N    :h@@@@@@@@@@                             ~~~~~~~~~-.-.~/N:</tspan>
+<tspan x="0" dy="14">d/    -@@@@@@@@@@~                            ~~~~~~~~~...-hs@</tspan>
+<tspan x="0" dy="14">-@~   y@@@@@@@@@@: ohhs                        ~~~~~~~~~:dNhN/</tspan>
+<tspan x="0" dy="14">oy    -@@@@@@@N-~ o@@N~                     ~~~.~~~~.-@@@@@y</tspan>
+<tspan x="0" dy="14">    sy    +@@@@@@@/  .@+                       ~~~~~~~~h@@@@@y</tspan>
+<tspan x="0" dy="14">    +h~   /y@@@d:                            ~~~~~~~~y@@@@@s</tspan>
+<tspan x="0" dy="14">    -h/    +d/:                            ~~~~~~~.y+::h@:</tspan>
+<tspan x="0" dy="14">        +h:                                ~~~~~~~~~~~~:ho~</tspan>
+<tspan x="0" dy="14">        ~+y/                              ~~~~~~~~~~/yo~</tspan>
+<tspan x="0" dy="14">            :ss:                         ~~~~~~~~~:sy/</tspan>
+<tspan x="0" dy="14">            ~/ss+-                   ~~~~~~~-+ss/~</tspan>
+<tspan x="0" dy="14">                ./ooo++///:/s+::::+yyyyyysso/.</tspan>
 <tspan x="0" dy="14">                    ~-:+osyhhhhhhyso+/-~</tspan>
 </text></g>
 </g>

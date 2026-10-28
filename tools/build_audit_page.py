@@ -19,17 +19,19 @@ ANIM = os.path.join(ROOT, "assets", "animations")
 AUDIT = os.path.join(ROOT, "assets", "audit.json")
 DEFAULT_OUT = "/home/ubuntu/tui-server/audit.html"
 
-ORDER = ["REMOVED", "DROP", "BORDERLINE", "KEEP"]
+ORDER = ["REMOVED", "DROP", "BORDERLINE", "NEW", "KEEP"]
 LABEL = {
     "REMOVED": "removed",
     "DROP": "drop",
     "BORDERLINE": "borderline",
+    "NEW": "new",
     "KEEP": "keep",
 }
 BLURB = {
     "REMOVED": "Taken out of the pool. Kept here only so the decision is on the record.",
     "DROP": "Should come out: broken captures, specks, text banners, noise, or a green smear.",
     "BORDERLINE": "Abstract or sparse. Not wrong, just not obviously anything.",
+    "NEW": "Captured after the audit — playing, but not judged yet.",
     "KEEP": "Reads as a subject at README size. These are what a visitor should get.",
 }
 
@@ -42,7 +44,9 @@ def build(out=DEFAULT_OUT):
 
     buckets = {k: [] for k in ORDER}
     for name in names:
-        meta = audit.get(name, {"verdict": "KEEP", "why": "not audited yet"})
+        meta = audit.get(name)
+        if meta is None:
+            meta = {"verdict": "NEW", "why": "captured after the audit — not judged yet"}
         verdict = meta["verdict"] if meta["verdict"] in buckets else "KEEP"
         # a REMOVED entry has no SVG any more; everything else must actually exist to play
         if verdict != "REMOVED" and name not in present:
@@ -133,10 +137,12 @@ def build(out=DEFAULT_OUT):
   .v-removed {{ border-color:#5c1f1f; }}
   .v-drop {{ border-color:#4a2a12; }}
   .v-borderline {{ border-color:#4a3a12; }}
+  .v-new {{ border-color:#1f3a5c; }}
   .v-keep {{ border-color:#1d3a24; }}
   .pill.v-removed {{ background:var(--red); }}
   .pill.v-drop {{ background:#db6d28; }}
   .pill.v-borderline {{ background:var(--amber); }}
+  .pill.v-new {{ background:var(--blue); }}
   .pill.v-keep {{ background:var(--green); }}
 </style>
 </head><body>

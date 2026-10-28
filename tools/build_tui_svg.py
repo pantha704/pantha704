@@ -34,9 +34,9 @@ FG = "#7ee787"
 DIM = "#8b949e"
 FRAME_BG = "#010409"
 
-MAX_COLS = 100        # keep the README image sane
-MAX_ROWS = 60
-MAX_FRAMES = 130
+MAX_COLS = 200        # keep the README image sane
+MAX_ROWS = 120
+MAX_FRAMES = 200
 
 
 def frames_path(name):

@@ -1,4 +1,20 @@
 {
+  "Furry": {
+    "cols": 94,
+    "frames": 4,
+    "ink": 51.3,
+    "rows": 51,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
+  },
+  "SodaPop": {
+    "cols": 150,
+    "frames": 8,
+    "ink": 100.0,
+    "rows": 42,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
+  },
   "analogclock": {
     "cols": 56,
     "frames": 8,
@@ -14,6 +30,14 @@
     "rows": 37,
     "verdict": "BORDERLINE",
     "why": "braille Guy Fawkes mask - striking, but at README size it reads as static"
+  },
+  "as": {
+    "cols": 59,
+    "frames": 4,
+    "ink": 54.4,
+    "rows": 16,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
   },
   "aurora": {
     "cols": 80,
@@ -79,6 +103,14 @@
     "verdict": "DROP",
     "why": "full-bleed shading - a green smear, no readable subject"
   },
+  "can-you-hear-me": {
+    "cols": 70,
+    "frames": 27,
+    "ink": 99.9,
+    "rows": 36,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
+  },
   "cjhhaonnonuyr": {
     "cols": 98,
     "frames": 15,
@@ -87,6 +119,14 @@
     "verdict": "REMOVED",
     "why": "a hand with the middle finger raised - removed on request"
   },
+  "clock": {
+    "cols": 20,
+    "frames": 8,
+    "ink": 100.0,
+    "rows": 1,
+    "verdict": "DROP",
+    "why": "too small to read: 1x20"
+  },
   "coin": {
     "cols": 49,
     "frames": 7,
@@ -94,6 +134,14 @@
     "rows": 30,
     "verdict": "KEEP",
     "why": "reads as a clear subject"
+  },
+  "cube-lite": {
+    "cols": 49,
+    "frames": 90,
+    "ink": 57.3,
+    "rows": 22,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
   },
   "dancingcoin": {
     "cols": 14,
@@ -191,6 +239,22 @@
     "verdict": "DROP",
     "why": "block digits 42 again - duplicate of forty-two"
   },
+  "frisk": {
+    "cols": 83,
+    "frames": 34,
+    "ink": 76.1,
+    "rows": 66,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
+  },
+  "gagner": {
+    "cols": 100,
+    "frames": 6,
+    "ink": 97.4,
+    "rows": 22,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
+  },
   "gopher": {
     "cols": 50,
     "frames": 24,
@@ -200,12 +264,12 @@
     "why": "reads as a clear subject"
   },
   "heart": {
-    "cols": 9,
+    "cols": 12,
     "frames": 4,
     "ink": 66.7,
     "rows": 1,
-    "verdict": "DROP",
-    "why": "broken capture - one line of 9-12 characters"
+    "verdict": "KEEP",
+    "why": "kept on request \u2014 the capture is one line tall, so it reads as a flicker"
   },
   "helix": {
     "cols": 67,
@@ -230,6 +294,14 @@
     "rows": 22,
     "verdict": "DROP",
     "why": "spells HELLO WORLD in block letters"
+  },
+  "hes": {
+    "cols": 98,
+    "frames": 13,
+    "ink": 52.5,
+    "rows": 30,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
   },
   "india": {
     "cols": 52,
@@ -295,6 +367,14 @@
     "verdict": "KEEP",
     "why": "reads as a clear subject"
   },
+  "moonwalk": {
+    "cols": 5,
+    "frames": 4,
+    "ink": 47.1,
+    "rows": 4,
+    "verdict": "DROP",
+    "why": "too small to read: 4x5"
+  },
   "nyan": {
     "cols": 75,
     "frames": 12,
@@ -327,6 +407,14 @@
     "verdict": "DROP",
     "why": "spells PEDRO in block letters; no animation, no subject"
   },
+  "perdu": {
+    "cols": 100,
+    "frames": 6,
+    "ink": 97.4,
+    "rows": 22,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
+  },
   "pikachu": {
     "cols": 59,
     "frames": 20,
@@ -350,6 +438,14 @@
     "rows": 21,
     "verdict": "DROP",
     "why": "random punctuation, 94% ink, no image in it at all"
+  },
+  "rainbow-tunnel": {
+    "cols": 80,
+    "frames": 60,
+    "ink": 100.0,
+    "rows": 24,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
   },
   "rick": {
     "cols": 70,
@@ -375,6 +471,14 @@
     "verdict": "DROP",
     "why": "12 characters wide - a speck"
   },
+  "sans": {
+    "cols": 111,
+    "frames": 49,
+    "ink": 56.0,
+    "rows": 81,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
+  },
   "shrek": {
     "cols": 30,
     "frames": 6,
@@ -382,6 +486,14 @@
     "rows": 15,
     "verdict": "KEEP",
     "why": "reads as a clear subject"
+  },
+  "simpson-bush": {
+    "cols": 100,
+    "frames": 33,
+    "ink": 100.0,
+    "rows": 35,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
   },
   "sixseven": {
     "cols": 68,
@@ -392,12 +504,12 @@
     "why": "sparse fragments - reads as debris"
   },
   "spaceship": {
-    "cols": 22,
+    "cols": 15,
     "frames": 37,
-    "ink": 51.2,
-    "rows": 11,
-    "verdict": "DROP",
-    "why": "11 rows tall - a speck"
+    "ink": 45.5,
+    "rows": 13,
+    "verdict": "KEEP",
+    "why": "kept on request \u2014 small art, renders modest on the canvas"
   },
   "sweaty-gamer": {
     "cols": 100,
@@ -422,5 +534,13 @@
     "rows": 49,
     "verdict": "KEEP",
     "why": "reads as a clear subject"
+  },
+  "torus-knot": {
+    "cols": 61,
+    "frames": 40,
+    "ink": 55.3,
+    "rows": 29,
+    "verdict": "NEW",
+    "why": "captured after the audit \u2014 not judged yet"
   }
 }

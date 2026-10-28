@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of hack">
+<style>.f{opacity:0;animation:blink 0.543s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}14.286%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 149.74) scale(0.7826)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">8888888888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">       d8888</tspan>
+<tspan x="0" dy="14">      d88888</tspan>
+<tspan x="0" dy="14">     d88P888</tspan>
+<tspan x="0" dy="14">    d88P 888</tspan>
+<tspan x="0" dy="14">   d88P  888</tspan>
+<tspan x="0" dy="14">  d88P   888</tspan>
+<tspan x="0" dy="14"> d8888888888</tspan>
+<tspan x="0" dy="14">d88P     888</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> .d8888b.</tspan>
+<tspan x="0" dy="14">d88P  Y88b</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888</tspan>
+<tspan x="0" dy="14">888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">Y88b  d88P</tspan>
+<tspan x="0" dy="14"> &quot;Y8888P&quot;</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">888    d8P</tspan>
+<tspan x="0" dy="14">888   d8P</tspan>
+<tspan x="0" dy="14">888  d8P</tspan>
+<tspan x="0" dy="14">888d88K</tspan>
+<tspan x="0" dy="14">8888888b</tspan>
+<tspan x="0" dy="14">888  Y88b</tspan>
+<tspan x="0" dy="14">888   Y88b</tspan>
+<tspan x="0" dy="14">888    Y88b</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">8888888888</tspan>
+<tspan x="0" dy="14">888</tspan>
+<tspan x="0" dy="14">888</tspan>
+<tspan x="0" dy="14">8888888</tspan>
+<tspan x="0" dy="14">888</tspan>
+<tspan x="0" dy="14">888</tspan>
+<tspan x="0" dy="14">888</tspan>
+<tspan x="0" dy="14">8888888888</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">8888888b.</tspan>
+<tspan x="0" dy="14">888  &quot;Y88b</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888    888</tspan>
+<tspan x="0" dy="14">888  .d88P</tspan>
+<tspan x="0" dy="14">8888888P&quot;</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">888888b.                  .d8888b.  888    888        d8888 888    888        d8888 8888888b.  888     888 888</tspan>
+<tspan x="0" dy="14">888  &quot;88b                d88P  Y88b 888    888       d88888 888    888       d88888 888   Y88b 888     888 888</tspan>
+<tspan x="0" dy="14">888  .88P                Y88b.      888    888      d88P888 888    888      d88P888 888    888 888     888 888</tspan>
+<tspan x="0" dy="14">8888888K.  888  888       &quot;Y888b.   8888888888     d88P 888 8888888888     d88P 888 888   d88P 888     888 888</tspan>
+<tspan x="0" dy="14">888  &quot;Y88b 888  888          &quot;Y88b. 888    888    d88P  888 888    888    d88P  888 8888888P&quot;  888     888 888</tspan>
+<tspan x="0" dy="14">888    888 888  888            &quot;888 888    888   d88P   888 888    888   d88P   888 888 T88b   888     888 888</tspan>
+<tspan x="0" dy="14">888   d88P Y88b 888      Y88b  d88P 888    888  d8888888888 888    888  d8888888888 888  T88b  Y88b. .d88P 888</tspan>
+<tspan x="0" dy="14">8888888P&quot;   &quot;Y88888       &quot;Y8888P&quot;  888    888 d88P     888 888    888 d88P     888 888   T88b  &quot;Y88888P&quot;  88888888</tspan>
+<tspan x="0" dy="14">                888</tspan>
+<tspan x="0" dy="14">           Y8b d88P</tspan>
+<tspan x="0" dy="14">            &quot;Y88P&quot;</tspan>
+</text></g>
+</g>
+</svg>
