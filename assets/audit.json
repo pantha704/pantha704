@@ -239,14 +239,6 @@
     "verdict": "NEW",
     "why": "captured after the audit \u2014 not judged yet"
   },
-  "gagner": {
-    "cols": 100,
-    "frames": 6,
-    "ink": 97.4,
-    "rows": 22,
-    "verdict": "NEW",
-    "why": "captured after the audit \u2014 not judged yet"
-  },
   "gopher": {
     "cols": 50,
     "frames": 24,
@@ -286,14 +278,6 @@
     "rows": 22,
     "verdict": "DROP",
     "why": "spells HELLO WORLD in block letters"
-  },
-  "hes": {
-    "cols": 98,
-    "frames": 13,
-    "ink": 52.5,
-    "rows": 30,
-    "verdict": "NEW",
-    "why": "captured after the audit \u2014 not judged yet"
   },
   "india": {
     "cols": 52,
@@ -399,14 +383,6 @@
     "verdict": "DROP",
     "why": "spells PEDRO in block letters; no animation, no subject"
   },
-  "perdu": {
-    "cols": 100,
-    "frames": 6,
-    "ink": 97.4,
-    "rows": 22,
-    "verdict": "NEW",
-    "why": "captured after the audit \u2014 not judged yet"
-  },
   "pikachu": {
     "cols": 59,
     "frames": 20,
@@ -422,14 +398,6 @@
     "rows": 21,
     "verdict": "DROP",
     "why": "random punctuation, 94% ink, no image in it at all"
-  },
-  "rainbow-tunnel": {
-    "cols": 80,
-    "frames": 60,
-    "ink": 100.0,
-    "rows": 24,
-    "verdict": "NEW",
-    "why": "captured after the audit \u2014 not judged yet"
   },
   "rick": {
     "cols": 70,
@@ -454,14 +422,6 @@
     "rows": 16,
     "verdict": "DROP",
     "why": "12 characters wide - a speck"
-  },
-  "sans": {
-    "cols": 111,
-    "frames": 49,
-    "ink": 56.0,
-    "rows": 81,
-    "verdict": "NEW",
-    "why": "captured after the audit \u2014 not judged yet"
   },
   "shrek": {
     "cols": 30,
