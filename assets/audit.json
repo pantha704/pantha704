@@ -63,6 +63,14 @@
     "verdict": "DROP",
     "why": "10 rows tall - a speck"
   },
+  "black-hole": {
+    "cols": 64,
+    "frames": 24,
+    "ink": 27.3,
+    "rows": 20,
+    "verdict": "NEW",
+    "why": "pulled from ascii.rest (MIT) \u2014 not judged yet"
+  },
   "blahaj": {
     "cols": 99,
     "frames": 7,
@@ -95,6 +103,14 @@
     "verdict": "DROP",
     "why": "full-bleed shading - a green smear, no readable subject"
   },
+  "campfire": {
+    "cols": 52,
+    "frames": 24,
+    "ink": 36.4,
+    "rows": 22,
+    "verdict": "NEW",
+    "why": "pulled from ascii.rest (MIT) \u2014 not judged yet"
+  },
   "can-you-hear-me": {
     "cols": 70,
     "frames": 27,
@@ -102,6 +118,14 @@
     "rows": 36,
     "verdict": "NEW",
     "why": "captured after the audit \u2014 not judged yet"
+  },
+  "cherry-blossom": {
+    "cols": 64,
+    "frames": 24,
+    "ink": 17.5,
+    "rows": 20,
+    "verdict": "NEW",
+    "why": "pulled from ascii.rest (MIT) \u2014 not judged yet"
   },
   "cjhhaonnonuyr": {
     "cols": 98,
