@@ -217,7 +217,7 @@ def stylesheet():
 def build(merged, repos, opened, stamp=None):
     data = panes(merged, repos, opened)
     if stamp is None:
-        stamp = datetime.now(IST).strftime("%d/%m %H:%M")
+        stamp = datetime.now(IST).strftime("%d/%m %H:%M:%S")
     o = []
     o.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
@@ -290,7 +290,7 @@ def build(merged, repos, opened, stamp=None):
         f'<text x="{W-335}" y="{H-STATUS/2 + 4}" class="f-dim">utf-8</text>'
         f'<text x="{W-275}" y="{H-STATUS/2 + 4}" class="f-dim">rust</text>'
         f'<text x="{W-222}" y="{H-STATUS/2 + 4}" class="f-dim">ln 1, col 1</text>'
-        f'<text x="{W-103}" y="{H-STATUS/2 + 4}" class="f-green">{html.escape(stamp)}</text>'
+        f'<text x="{W-127}" y="{H-STATUS/2 + 4}" class="f-green">{html.escape(stamp)}</text>'
     )
     o.append("</svg>")
     return "\n".join(o)
