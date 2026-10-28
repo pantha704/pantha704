@@ -1,0 +1,391 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of calendar">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(94.41 16.00) scale(2.1319)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                                </tspan>
+<tspan x="0" dy="14">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:25   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:25   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:26   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:27   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:28   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:28   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:28   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:28   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:28   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          october 2026          </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   su  mo  tu  we  th  fr  sa   </tspan>
+<tspan x="0" dy="14">                    1   2   3   </tspan>
+<tspan x="0" dy="14">    4   5   6   7   8   9  10   </tspan>
+<tspan x="0" dy="14">   11  12  13  14  15  16  17   </tspan>
+<tspan x="0" dy="14">   18  19  20  21  22  23  24   </tspan>
+<tspan x="0" dy="14">   25  26  27 [28] 29  30  31   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14">  ────────────────────────────  </tspan>
+<tspan x="0" dy="14">   wednesday 28      18:29:28   </tspan>
+<tspan x="0" dy="14">                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+</g>
+</svg>

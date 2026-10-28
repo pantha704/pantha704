@@ -1,0 +1,391 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of pipeline">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 63.75) scale(1.6071)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      ███████░░░░░░░░░░░     5.2s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    53/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:19                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      ████████░░░░░░░░░░     5.5s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    56/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:19                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  / test      ████████░░░░░░░░░░     5.8s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    59/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:19                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      █████████░░░░░░░░░     6.1s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    62/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:20                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      █████████░░░░░░░░░     6.4s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    66/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:20                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  \ test      ██████████░░░░░░░░     6.7s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    69/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:20                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      ██████████░░░░░░░░     7.0s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    70/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:21                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      ██████████░░░░░░░░     7.3s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    71/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:21                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  / test      ██████████░░░░░░░░     7.6s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    72/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:21                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      ██████████░░░░░░░░     8.0s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    73/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:22                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      ██████████░░░░░░░░     8.3s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    73/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:22                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  \ test      ██████████░░░░░░░░     8.6s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    74/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:22                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      ███████████░░░░░░░     8.9s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    75/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:22                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      ███████████░░░░░░░     9.2s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    76/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:23                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  / test      ███████████░░░░░░░     9.5s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    76/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:23                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      ███████████░░░░░░░     9.8s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    80/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:23                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      ████████████░░░░░░    10.1s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    84/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:24                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  \ test      █████████████░░░░░    10.4s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    89/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:24                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      █████████████░░░░░    10.7s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    93/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:24                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  | test      ██████████████░░░░    11.0s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    97/128 passed                                     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:25                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  / test      ██████████████░░░░    11.3s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    101/128 passed                                    │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:25                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      ███████████████░░░    11.7s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    105/128 passed                                    │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:25                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  - test      ███████████████░░░    12.0s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    109/128 passed                                    │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:26                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭─ ci · main · a3f9c21 ────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  + install   ██████████████████     8.9s  passed     │</tspan>
+<tspan x="0" dy="14">│  + lint      ██████████████████     5.2s  passed     │</tspan>
+<tspan x="0" dy="14">│  \ test      ████████████████░░    12.3s  running    │</tspan>
+<tspan x="0" dy="14">│  · build     ··················           queued     │</tspan>
+<tspan x="0" dy="14">│  · deploy    ··················           queued     │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  $ npm test                                          │</tspan>
+<tspan x="0" dy="14">│    113/128 passed                                    │</tspan>
+<tspan x="0" dy="14">│                                                      │</tspan>
+<tspan x="0" dy="14">│  running · stage 3 of 5 · 00:26                      │</tspan>
+<tspan x="0" dy="14">╰──────────────────────────────────────────────────────╯</tspan>
+</text></g>
+</g>
+</svg>

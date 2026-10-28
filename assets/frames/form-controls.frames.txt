@@ -1,0 +1,407 @@
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com█                ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com█                ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com█                ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com█                ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com                 ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com                 ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com                 ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com                 ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com                 ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com                 ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│ > email     [ team@example.com                 ]   │
+│                                                    │
+│   units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         v ]   │
+│                                                    │
+│   theme     (*) light   ( ) dark   ( ) system      │
+│                                                    │
+│   notify    [x] replies   [ ] mentions             │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │ > metric                         │   │
+│             │   imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │ > metric                         │   │
+│             │   imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │ > metric                         │   │
+│             │   imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │ > metric                         │   │
+│             │   imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │ > metric                         │   │
+│             │   imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │ > metric                         │   │
+│             │   imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │   metric                         │   │
+│             │ > imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │   metric                         │   │
+│             │ > imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯
+===
+╭─ preferences ──────────────────────────────────────╮
+│                                                    │
+│   email     [ team@example.com                 ]   │
+│                                                    │
+│ > units     [ metric                         ^ ]   │
+│             ┌──────────────────────────────────┐   │
+│   theme     │   metric                         │   │
+│             │ > imperial                       │   │
+│   notify    └──────────────────────────────────┘   │
+│                                                    │
+│   sync      ▕██░░░░▏ off                           │
+│                                                    │
+│   volume    ━━━━━━━━━━━━█─────────────────   40%   │
+│                                                    │
+│                          [ cancel ]   [  save  ]   │
+╰───────────── tab next · space change · enter save ─╯

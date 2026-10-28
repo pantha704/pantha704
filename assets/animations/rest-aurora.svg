@@ -1,0 +1,559 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of rest-aurora">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(20.73 16.00) scale(1.3857)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .            .  .     .   .    </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     *        .        .     .             *     .              </tspan>
+<tspan x="0" dy="14">.   * .                                                         </tspan>
+<tspan x="0" dy="14">                                   .               .            </tspan>
+<tspan x="0" dy="14">     ..                           ....          .               </tspan>
+<tspan x="0" dy="14"> ..                            .. .::..       . .               </tspan>
+<tspan x="0" dy="14">+..  .     ..       .          ...:::::  ..   . :     .     .   </tspan>
+<tspan x="0" dy="14"> ::  .     ...  .    *  .      ::.:!!!!  ::  .:.:     : .   ... </tspan>
+<tspan x="0" dy="14"> !:..: .   :::. ..      .     .!!:!||||. !!  :!.!.    ! :. .... </tspan>
+<tspan x="0" dy="14">.!!..: :  .:::: :..     :  .!III|||IIIII|||:!!|||||!!:| |: :::: </tspan>
+<tspan x="0" dy="14">:||::! :...!!!!.!:..   .!|IIIII!:.::!IIIIIIIIIIII|IIIIIII! !!!! </tspan>
+<tspan x="0" dy="14">III||||||||||||||||!!|IIIII!..........:..::..::.:....:IIIIII|||.</tspan>
+<tspan x="0" dy="14">.!|||||!!:.:::!|||||||I|:...        .... ..  ....    .:.:!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.... ▗▖..............                           ▗▖. ...▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ .   ▟▙     ..▗▖           ▗▖        ▗▖         ▟▙  ..▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .            .  .     .   .    </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     *        .        .     .             *     .              </tspan>
+<tspan x="0" dy="14">.   * .                                        .                </tspan>
+<tspan x="0" dy="14">                                   .                            </tspan>
+<tspan x="0" dy="14">     ..                         . ....                          </tspan>
+<tspan x="0" dy="14"> ..                            .. .::..       . .               </tspan>
+<tspan x="0" dy="14">+..  .     ..       .          .:.:::::  ..   . :     .     .   </tspan>
+<tspan x="0" dy="14"> ::  .     ...  .    *  .      ::.:!!!!. ::  .:.:.    : .   ... </tspan>
+<tspan x="0" dy="14"> !:..: .   :::. ..      :     .!!:!||||: !!  :!.!:    ! :.  ... </tspan>
+<tspan x="0" dy="14"> !!..: .   :::: ::.     :  .!III|||IIIII|||::!|!|!!!!:| |: .::: </tspan>
+<tspan x="0" dy="14">:||::!.:...!!!!.!:..   .!|IIIII!:.:::|IIIIIIIIIII|IIIIIII! :!!! </tspan>
+<tspan x="0" dy="14">III||||||||||||||||!!|IIIII!..........:..::..::.:....:IIIIII|||.</tspan>
+<tspan x="0" dy="14">.!||||||!:::::!|||||||I|:...        .... ..  .....   .:.:!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.... ▗▖..............                           ▗▖. ...▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ .   ▟▙     ..▗▖           ▗▖        ▗▖         ▟▙  ..▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .                      .            .  .     .   .    </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     *        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   * .                                        .                </tspan>
+<tspan x="0" dy="14">                                   .                            </tspan>
+<tspan x="0" dy="14">     ..                         . ....                          </tspan>
+<tspan x="0" dy="14"> ..                            .. .::..       . .               </tspan>
+<tspan x="0" dy="14">+..  .     ..       .          .:.:::::. ..   . ..    .     .   </tspan>
+<tspan x="0" dy="14"> ::  .     .... ..   *  .      ::.:!!!!. ::  .:.::    : .   ... </tspan>
+<tspan x="0" dy="14"> !:..: .   :::. ..      .     .!!:!||||: !!  .!:!:    ! :.  ... </tspan>
+<tspan x="0" dy="14"> !!..: .   :::: ::.     :  .!III|||IIIIII||:::|!|!!!::| |:  ::: </tspan>
+<tspan x="0" dy="14">:||::!.:...!!!!.!!..   .!|IIIII!:.:::|IIIIIIIIIII|IIIIIII| .!!! </tspan>
+<tspan x="0" dy="14">III||||||||||||||||!!|IIIII!..........:..::...:.:....:IIIIIII||.</tspan>
+<tspan x="0" dy="14">.|I|||||!:::::!|||||||I|:...        .... ..  .....   .:.:!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..............                           ▗▖. ...▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ .   ▟▙     ..▗▖           ▗▖        ▗▖         ▟▙  ..▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .                      .            .  .     .   . .  </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   + .                                        .                </tspan>
+<tspan x="0" dy="14">                                   .                            </tspan>
+<tspan x="0" dy="14">     ..                         . ....                          </tspan>
+<tspan x="0" dy="14"> ..                            .. .::..       . ..              </tspan>
+<tspan x="0" dy="14">+..  .     ..       .          .:.:::::. ..   ....    .     .   </tspan>
+<tspan x="0" dy="14"> ::  .     .... ..   *  .      ::.:!!!!: ::   :.::    : .   ... </tspan>
+<tspan x="0" dy="14"> !:..:     :::. ..      .      !!:!||||! !!  .!:!!    ! :.  ... </tspan>
+<tspan x="0" dy="14"> !!..:..   :::: ::.     :  .!III|||IIIIII||:::|!!|!!:.|.!!  ::: </tspan>
+<tspan x="0" dy="14">:||::!.:...!!!!.!!..   .!|IIIII::.:::|IIIIII|IIII|IIIIIII|  !!! </tspan>
+<tspan x="0" dy="14">III|||||||||||||||||||IIIII!...........:.::...::::...:IIIIIII||.</tspan>
+<tspan x="0" dy="14">:|I||||||!:::::!||||||I|:...        .... ..  .....   .:.:!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..............                           ▗▖.....▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ .   ▟▙     ..▗▖           ▗▖        ▗▖         ▟▙  ..▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .                      .            .  .     .   . .  </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   +                                          .                </tspan>
+<tspan x="0" dy="14">                           .                                    </tspan>
+<tspan x="0" dy="14">     ..                         . ....           .              </tspan>
+<tspan x="0" dy="14"> ..                            .. .::...      .  .              </tspan>
+<tspan x="0" dy="14">*..  .     ..       .          .:.:::::. ..   ...:    .     .   </tspan>
+<tspan x="0" dy="14"> ::  .     .... ..   +         ::.:!!!!: ::   ::.:    : ..  ... </tspan>
+<tspan x="0" dy="14"> !:..:.    :::. ..      .      !!:!||||! !!   !::!    ! ::  ... </tspan>
+<tspan x="0" dy="14"> !!..:...  ::::.::.     :  .!III|||IIIIII||:::|!!|!!:.|.!!  ::: </tspan>
+<tspan x="0" dy="14">:||::!:....!!!!.!!..   .!|IIIII::..::!IIIIIIIIIII|IIIIII||. !!! </tspan>
+<tspan x="0" dy="14">III|||||||||||||||||||IIIII!...........:.::...::::...!IIIIIII||.</tspan>
+<tspan x="0" dy="14">:|I||||||!:::::!||||||I|:...        .... ..  ..... . .:.:!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..............                           ▗▖.....▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ .   ▟▙     ..▗▖           ▗▖        ▗▖         ▟▙   .▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .                      .            .  .     .   . .  </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   +      .              .                    .                </tspan>
+<tspan x="0" dy="14">                           .                                    </tspan>
+<tspan x="0" dy="14">     ..                         . ....           .              </tspan>
+<tspan x="0" dy="14"> ..                            .. .::...         .              </tspan>
+<tspan x="0" dy="14">*..  .     ..       .          .:.:::::: ..   .. :    .     .   </tspan>
+<tspan x="0" dy="14"> ::. .     .... ..   +         ::.:!!!!! ::   ::.:    :  .  ... </tspan>
+<tspan x="0" dy="14"> !:..:. .  :::. ..      .      !!:!||||| !!   !::!    !..:  ... </tspan>
+<tspan x="0" dy="14"> !!:.:: .  ::::.::.     :  .!IIII||IIIIII||:::!!!|:::.|::!  ::: </tspan>
+<tspan x="0" dy="14">:||::!:.:..!!!!.!!:.   .:|IIIII::..::!IIIIIIIIIII|IIIIII||. !!! </tspan>
+<tspan x="0" dy="14">III||||||||||||||||||||IIII!...........:.::...::.:...!IIIIIII||.</tspan>
+<tspan x="0" dy="14">:|I||||||!:::::!||||||||:...         ... ..  ..... . .:.:!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..............                           ▗▖.....▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ ..  ▟▙      .▗▖           ▗▖        ▗▖         ▟▙   .▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .                      .            .  .     .   . .  </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   +      .              .                    .             .  </tspan>
+<tspan x="0" dy="14">                           .                                    </tspan>
+<tspan x="0" dy="14">     ..                         . ....           .              </tspan>
+<tspan x="0" dy="14"> ..                            .. ..:...       . .              </tspan>
+<tspan x="0" dy="14">*..  .     ..       .          .:.:::::: ..   .. :    .     .   </tspan>
+<tspan x="0" dy="14"> ::. ..    .... ..   +         ::.:!!!!! ::   ::.:    :. .  ... </tspan>
+<tspan x="0" dy="14"> !:..:. .  :::: ..      .      !!:!||||| !!   :!.!    !: :  ..: </tspan>
+<tspan x="0" dy="14"> !!:.:: :  ::::.::.     .  .!IIII|||IIIII||:::!!:|:::.|!.!  ::: </tspan>
+<tspan x="0" dy="14">:||!:!!.:..!!!!:!!:..  .:|IIIII::..::!IIIIIIIIIIII|IIIII||. !!! </tspan>
+<tspan x="0" dy="14">III||||||||||||||||||||IIII!...........:.::...::.:...!IIIIIII||.</tspan>
+<tspan x="0" dy="14">:II||||||!:::::!!||||||!:....        ... ..   .... . ..::!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..............                           ▗▖.....▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ ..  ▟▙      .▗▖           ▗▖        ▗▖         ▟▙   .▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .            .  .     .   . .  </tspan>
+<tspan x="0" dy="14">                                                       *        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   +      .              .                    .             .  </tspan>
+<tspan x="0" dy="14">                           .                                    </tspan>
+<tspan x="0" dy="14">     ..                         .  ...           .              </tspan>
+<tspan x="0" dy="14"> ..                            .. ..:...       . .              </tspan>
+<tspan x="0" dy="14">*..   .    ..       .          .:..::::: ..   .. :          .   </tspan>
+<tspan x="0" dy="14"> ::. .. .  ....  .   +         ::.:!!!!! .:   .: :    .. .  ... </tspan>
+<tspan x="0" dy="14"> !:...: .  :::: ..             !!:!!|||| :!   :!.!    :: :  .:: </tspan>
+<tspan x="0" dy="14"> !!:.:: :  ::::..:.     .  .!IIII|||IIIII||::.!|:|:::.!!.!  ::: </tspan>
+<tspan x="0" dy="14">:||!:!! !..!!!!::!:..  .:|IIIII::..::!IIIIIIIIIIII|IIIII||. !!! </tspan>
+<tspan x="0" dy="14">III|||||I||||||||||||||IIII!...........:.::...::.:..:!IIIIIII||.</tspan>
+<tspan x="0" dy="14">:II|||||||!:::::!||||||!.....        ... ...  .... . ..::!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..............                           ▗▖.....▟▙:::</tspan>
+<tspan x="0" dy="14"> .▟▙ ..  ▟▙      .▗▖           ▗▖        ▗▖         ▟▙   .▗██▖. </tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .       .    .        .   . .  </tspan>
+<tspan x="0" dy="14">                                                       +        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   +      .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">                           .                                    </tspan>
+<tspan x="0" dy="14">     ..                         .  ...                          </tspan>
+<tspan x="0" dy="14"> ..                            .. ..:...       . .              </tspan>
+<tspan x="0" dy="14">*...  .    ..       .          .:..:::::  .   .. :     .    .   </tspan>
+<tspan x="0" dy="14"> ::. .. .  ....  .   +         ::::!!!!! .:   .: :     : .  ... </tspan>
+<tspan x="0" dy="14"> !::..: .  ::::. .             !!::!|||| :!   :!.!     ! :  ::: </tspan>
+<tspan x="0" dy="14"> !!:.:: :  ::::..:.     .  .!IIII|||IIIII||:..!|:|::...| !  ::: </tspan>
+<tspan x="0" dy="14">:||!:!! ! .!!!!::!:..  .:|IIIII::..:::IIIIIIIIIIII|IIIII||: !!! </tspan>
+<tspan x="0" dy="14">III|||||II|||||||||||||IIII!...........:.::.::::.:..:|IIIIIII||.</tspan>
+<tspan x="0" dy="14">:III|||II|!:::::!||||||!.....        ... ...  .... ....:.!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖.......... ....                          ▗▖ ....▟▙::!</tspan>
+<tspan x="0" dy="14"> .▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .       .    .        .   . .  </tspan>
+<tspan x="0" dy="14">                                                       +        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   +      .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">      .                         .  ...                          </tspan>
+<tspan x="0" dy="14"> .                              ....:...       . .              </tspan>
+<tspan x="0" dy="14">*...  .    ..       .          .:..:::::  .    . :     .    .   </tspan>
+<tspan x="0" dy="14"> ::. .. .  ....  .   +         ::::!!!!! .:   .: :     : .  ... </tspan>
+<tspan x="0" dy="14"> :::..: .  ::.:. .             :!!:!|||| :!.  :!.!     ! :  ::: </tspan>
+<tspan x="0" dy="14"> !!:.:: :  ::::..:.      . .!IIII|||IIIII||:..!|:|::.. | !. ::: </tspan>
+<tspan x="0" dy="14">:||!::! ! .!!!!::!:..  .:|IIIII::..:::|IIIIIIIIIII|IIIII||: !!!.</tspan>
+<tspan x="0" dy="14">III|!!||II|||||||||||||IIII!...........:.:::::::.:..:|IIIIIII||.</tspan>
+<tspan x="0" dy="14">:III|||II|!:::::!!|||||!.....        ... ...  .... ....:.!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖.......... . ..                .         ▗▖ ....▟▙::!</tspan>
+<tspan x="0" dy="14"> .▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .       .             .   . .  </tspan>
+<tspan x="0" dy="14">                                                       +        </tspan>
+<tspan x="0" dy="14">     +        .        .     .             +     .              </tspan>
+<tspan x="0" dy="14">.   + .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">      .                         .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .:...       . .              </tspan>
+<tspan x="0" dy="14">*...  .    ..       .          .:..:::::  .    . :     .    .   </tspan>
+<tspan x="0" dy="14"> .:.  . .  ....  .   +         :::.!!!!!  :.  .: :     . .  ... </tspan>
+<tspan x="0" dy="14"> :::..: .  :::.. :            .:!!!!|||| .!:  :!.!     ! :  ::: </tspan>
+<tspan x="0" dy="14"> !!:..: :  ::::..:.      . .!IIII|||IIIII||!..:|:|.... | !  :::.</tspan>
+<tspan x="0" dy="14">:||!::! ! .!!!!:.!:..  .:|IIIII::..:::|IIIIIIIIIII|IIIII||: |!!.</tspan>
+<tspan x="0" dy="14">III|!!||II|||||||||||||IIII!...... ....:.:::::::::.::|IIIIIII||:</tspan>
+<tspan x="0" dy="14">:III|||II|!::::::!|||||:.....        ... .... .... ....:.!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..........   ..                .         ▗▖ ....▟▙::!</tspan>
+<tspan x="0" dy="14"> .▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .       .             .   . .  </tspan>
+<tspan x="0" dy="14">                                                       +        </tspan>
+<tspan x="0" dy="14">     +        .        .                   +                    </tspan>
+<tspan x="0" dy="14">    + .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">                                .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .:...       . .              </tspan>
+<tspan x="0" dy="14">* ..  .     .       .          .:..:::::  ..   . :     .    .   </tspan>
+<tspan x="0" dy="14"> .:.  . .  ....  .   +         .::.!!!!!  ::  .: :     . .  ... </tspan>
+<tspan x="0" dy="14"> .::..: .  .::.. :.      .    .:!!!!|||| .!!  :!.!     : :  :::.</tspan>
+<tspan x="0" dy="14"> :!!..: :  ::::. :..     : .!IIII|||IIIII|||..:!:|.... | !. !::.</tspan>
+<tspan x="0" dy="14">:!|!::! ! .!!!!:.!:.. ..:|IIIII::..:::|IIIIIIIIIII|IIIII||: |!!:</tspan>
+<tspan x="0" dy="14">III|!!||III||||||||||||IIII!...... ....:..:::!!!::::!|IIIIIII||!</tspan>
+<tspan x="0" dy="14">!III|||III|::::.:!!|!|!:.....        ... .... ....  ...:.!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..........   ..                ..        ▗▖ ....▟▙::!</tspan>
+<tspan x="0" dy="14"> .▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .       .             .   . .  </tspan>
+<tspan x="0" dy="14">                                                       +        </tspan>
+<tspan x="0" dy="14">     +                 .                   *                    </tspan>
+<tspan x="0" dy="14">    + .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">                                .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .....       . .              </tspan>
+<tspan x="0" dy="14">* ..  .     .       .           :..:::::  ..   . :     .    .   </tspan>
+<tspan x="0" dy="14">  :.  . .   ...  .   +         .::.!!!!!  ::  .:.:     . .  ....</tspan>
+<tspan x="0" dy="14">  ::..: .  .::.. :.      .    .:!!!!||||..!!  .!.!     : :  .::.</tspan>
+<tspan x="0" dy="14"> .!!..: :  .:::. :..     : .!IIII|||IIIII|||..:!:|.... | !. ::::</tspan>
+<tspan x="0" dy="14">.:|!::! ! .:!!!:.!:.. ..:|IIIII::...::|IIIIIII|III|IIIII||: !!!:</tspan>
+<tspan x="0" dy="14">III|!!||III||||||||||||IIII!...... ....:..::!!!!!:::!|IIIIII|||!</tspan>
+<tspan x="0" dy="14">!III|||III|::::.::!!!!!:.....        .............. ...:.!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖.....▗▖..........    .                ..   .    ▗▖ ....▟▙::!</tspan>
+<tspan x="0" dy="14">  ▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .       .             .   . .  </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     +                                     *                    </tspan>
+<tspan x="0" dy="14">    + .    .              .                     .            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">     .                          .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .....       . .              </tspan>
+<tspan x="0" dy="14">* ..  .     .       .           :. :::::  ..   . .     .    . . </tspan>
+<tspan x="0" dy="14">  :.  . .   ...  .   *         .::.!!!!!  ::  .:.:     . .   ...</tspan>
+<tspan x="0" dy="14">  ::. : .   ::.. :.      .    .:!!!!||||. !!  .!.!.    : :  .::.</tspan>
+<tspan x="0" dy="14">  !!..: :  .:::. ::.     : .!IIII|||IIIII|||..:!:|...  | !. ::::</tspan>
+<tspan x="0" dy="14">..|!::! ! ..!!!:.!:.. ..:|IIIII::...::!IIIIIIIIIII|IIIII||: !!!!</tspan>
+<tspan x="0" dy="14">III|!!||III||||||||||||IIII!...... ....:..::!!!!!!!!!IIIIIII|||!</tspan>
+<tspan x="0" dy="14">!III|||III|!:::..:!!!!!:.....        .............. ...:.!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖..:..▗▖..........    .                ..   . .  ▗▖ ....▟▙::!</tspan>
+<tspan x="0" dy="14">  ▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          .              .       .       .    .        .   . .  </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     +                                     *                    </tspan>
+<tspan x="0" dy="14">    + .    .              .                     .            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">     .                          .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .....       . .              </tspan>
+<tspan x="0" dy="14">* ..  .     .       .           :. :::::  ..   . .     .    . ..</tspan>
+<tspan x="0" dy="14">  :.  .     ...  ..  *         .::.!!!!!. ::   :.:.    . .   ...</tspan>
+<tspan x="0" dy="14">  ::. : .   ::.. :.      .    ..!!!!||||: !!  .::!.    : :   :::</tspan>
+<tspan x="0" dy="14">. !!..: :   :::. ::.     : .!IIII|||IIIII|||..:!:|:..  | !. .!::</tspan>
+<tspan x="0" dy="14">: |!:.!.:. .!!!:.!!.....!|IIIII::...::!IIIIIIIIIII|IIIII||: :!!!</tspan>
+<tspan x="0" dy="14">III|!!|||II||||||||||||IIII!...... ....:..::!||||!!!|IIIIIII||||</tspan>
+<tspan x="0" dy="14">!III|||III|!:::..::!!!::.....        .............. ...:.!I▗▖II|</tspan>
+<tspan x="0" dy="14">..▗▖..:..▗▖..........    .                ..   . .  ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">  ▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                         .       .       .    .        .     .  </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     +                                     *                    </tspan>
+<tspan x="0" dy="14">    + .    .              .                     .            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">     .                          .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .....         .              </tspan>
+<tspan x="0" dy="14">* ..  .     .       .           :. :::::  ..   . ..    .    . ..</tspan>
+<tspan x="0" dy="14">  :.  .     ...  ..  *          ::.!!!!!. ::   :.:.    .     ...</tspan>
+<tspan x="0" dy="14">. ::. : .   :::. :.      .    ..!!!!||||: !!  .::!:    : .   :::</tspan>
+<tspan x="0" dy="14">. !!..: .   !::..::.     : .!IIII|||IIIII|||..:!:!!..  ! :.  !::</tspan>
+<tspan x="0" dy="14">: |!:.!.:. .!!!:.!!.....!|IIIII::...::!IIIIIIIIIII||IIII||: .!!!</tspan>
+<tspan x="0" dy="14">III|!:|||III|||||||||||IIII!...... ....::.::||||||!!|IIIIIII||||</tspan>
+<tspan x="0" dy="14">!III|||III|!:::..::::::......         .................:.:I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖..:..▗▖..........    .                 .   . .  ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">  ▟▙... .▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">            .            .       .       .    .        .     .  </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     +                                     *                    </tspan>
+<tspan x="0" dy="14">.   + .    .              .                     .            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .            </tspan>
+<tspan x="0" dy="14">     .                          .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .....         ..             </tspan>
+<tspan x="0" dy="14">* ..  .     .                   :. :::::.  .   ....         . ..</tspan>
+<tspan x="0" dy="14">. :.  .     ...  ..  *          ::.:!!!!: .:   ..::    .     ...</tspan>
+<tspan x="0" dy="14">. ::. :     :::. ::      .     .!!!!||||! :!   :::: .  : ..  :::</tspan>
+<tspan x="0" dy="14">: !!..:...  !::..::.     : .!IIII|||IIIII|||. .!!!! .  ! ::  !::</tspan>
+<tspan x="0" dy="14">! |!:.!.:: .!!!::!!....:!|IIIII::...::!IIIIIIIIIIII|IIII|!!  !!!</tspan>
+<tspan x="0" dy="14">III|!:|!|III||||||||||||III!...... ....::.:!|||||||||IIIIIII||||</tspan>
+<tspan x="0" dy="14">!III|||III|!:::..::::::......         .................:.:I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖..:..▗▖ .........    .                 .   . .. ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.....▟▙       ▗▖           ▗▖        ▗▖         ▟▙   .▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">            .            .       .       .    .  .     .     .  </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     +                                     *     .              </tspan>
+<tspan x="0" dy="14">.   + .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .           .</tspan>
+<tspan x="0" dy="14">     ..                         .  ...                          </tspan>
+<tspan x="0" dy="14">                                .. .....          .             </tspan>
+<tspan x="0" dy="14">* ..        .                   :. :::::.  .   ....         . ..</tspan>
+<tspan x="0" dy="14">. :.  .     ...  ..  *          ::.:!!!!: .:   ...:    .     ...</tspan>
+<tspan x="0" dy="14">: ::. :. .  :::. ::      .     .!!!!||||! :!   :::! .  :  .  :::</tspan>
+<tspan x="0" dy="14">! !!:.:...  !:::.::.     . .!IIII|||IIIII|!|. .!!!! :  !..:  !::</tspan>
+<tspan x="0" dy="14">| |!:.!::: .!!!::!!:...:!|IIIII::...::!IIIIIIIIIIII|IIII|!!  !!!</tspan>
+<tspan x="0" dy="14">III|!:|!|III||||||||||||III!...... ....::.:!|II|I||||IIIIIII||||</tspan>
+<tspan x="0" dy="14">!III|||IIII!:::..::::::......         .................:::I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖..:..▗▖..........    .                 .   .... ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.....▟▙       ▗▖           ▗▖        ▗▖         ▟▙    ▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">            .            .       .       .    .  .     .        </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     *                                     *     .              </tspan>
+<tspan x="0" dy="14">.   + .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .           .</tspan>
+<tspan x="0" dy="14">     ..                         .   ..                          </tspan>
+<tspan x="0" dy="14">                                .. .....          .             </tspan>
+<tspan x="0" dy="14">. ..        .                   :. :::::.  .    ...           ..</tspan>
+<tspan x="0" dy="14">. :.. .  .  ...  ..  *          !:.:!!!!: .:   ...:    .     ...</tspan>
+<tspan x="0" dy="14">: ::. .. .  :::. ::            .!!!!||||! :!   :::! .  :. .  :::</tspan>
+<tspan x="0" dy="14">! !!:.::.:  !:::.::.     . .!IIII|||IIIII|!|.  :!!! :  !:.:  !::</tspan>
+<tspan x="0" dy="14">| |!:.!:.! .!!!::!!:...:!|IIIII::...::!IIIIIIII|III|IIII!:!  !!!</tspan>
+<tspan x="0" dy="14">III|!:!!|IIII|||||||||||III!...... ....::.:!|II|II||IIIIIIII||||</tspan>
+<tspan x="0" dy="14">!III|||IIII!:::..::..........         ... .............:::I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖:.:..▗▖..........    .                 .    ... ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.....▟▙       ▗▖           ▗▖        ▗▖         ▟▙    ▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">            .                    .       .    .  .     .        </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     *        .              .             *     .              </tspan>
+<tspan x="0" dy="14">.   + .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .           .</tspan>
+<tspan x="0" dy="14">     ..                         .   ..                          </tspan>
+<tspan x="0" dy="14">                                .. .....          .             </tspan>
+<tspan x="0" dy="14">. ..        .     .             :. .::::.  .    ...          ...</tspan>
+<tspan x="0" dy="14">: :.. .. .  .... ..  *          !:.:!!!!: .:   ...:    .     ...</tspan>
+<tspan x="0" dy="14">: ::. .. .  :::. .:            .!!!!||||! :!   .::! .  :. .  :::</tspan>
+<tspan x="0" dy="14">! !!:.:: :  !!::.::.     . .!IIII|||IIIII|!|.  :!!! :  !!.:  !!:</tspan>
+<tspan x="0" dy="14">| |!:.!!.! .!!!!:!!:...:!|IIIII::...:::IIIIIIII|III|IIII|:!  |!!</tspan>
+<tspan x="0" dy="14">III|!:!!|IIII|||||||||||III!...... ....::.:!IIIIIII|IIIIIIII||||</tspan>
+<tspan x="0" dy="14">!III|||IIII|:::...:..........         .................:::I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖:.::.▗▖..... ...                       .    ... ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.... ▟▙       ▗▖           ▗▖        ▗▖         ▟▙    ▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙. </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">            .                    .       .    .  .              </tspan>
+<tspan x="0" dy="14">                                                   .   +        </tspan>
+<tspan x="0" dy="14">     *        .              .             *     .              </tspan>
+<tspan x="0" dy="14">.   + .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .           .</tspan>
+<tspan x="0" dy="14">     ..                         .   ..                          </tspan>
+<tspan x="0" dy="14">                                .. .....          .             </tspan>
+<tspan x="0" dy="14">. ..        ..    .             :. .::::.  .    . .          ...</tspan>
+<tspan x="0" dy="14">: ... .. .  ....  .  *          ::.:!!!!: .:   ...:     .    ...</tspan>
+<tspan x="0" dy="14">: ::. .: :  :::. .:         .  .!!!!||||! :!   .::! .  .: .  :::</tspan>
+<tspan x="0" dy="14">! !!:.:: :  !!::.::. .   . .!IIII|||IIIII|!|.  :!:! :  :! :  !!:</tspan>
+<tspan x="0" dy="14">| |!!.:!.! .|!!!::!:..::!|IIIII::...:::IIIIIIII|III|III||:!. |!!</tspan>
+<tspan x="0" dy="14">III|!:!||IIII|||||||||||III!...... .....:.:!IIIIIII|IIIIIIIII|||</tspan>
+<tspan x="0" dy="14">!III|||IIII|:::...:..........         .................:::I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖:.::.▗▖..... ...                       .    ... ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.... ▟▙       ▗▖           ▗▖        ▗▖         ▟▙    ▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">            .                    .       .    .  .              </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     *        .              .             *     .              </tspan>
+<tspan x="0" dy="14">.   * .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .           .</tspan>
+<tspan x="0" dy="14">     ..                         .   ..                          </tspan>
+<tspan x="0" dy="14">                                ..  ....          .             </tspan>
+<tspan x="0" dy="14">.  .     .  ..    .             :. .::::.  .    . .          ...</tspan>
+<tspan x="0" dy="14">: ...  . .  ....  .  *          ::..!!!!: .:    ..:     .    ...</tspan>
+<tspan x="0" dy="14">: ::. .: :  :::: .:.        .  .!!!!||||! :!.  .::! .   : .  :::</tspan>
+<tspan x="0" dy="14">! :!:..: !  !!::..:. .   . .!IIII|||IIIII|!|.  :!:! .  .! :  !!:</tspan>
+<tspan x="0" dy="14">| !!!::! ! .|!!!::!::.::!|IIIII::...:::IIIIIIII||II||II||:!. |!!</tspan>
+<tspan x="0" dy="14">III|!:!||IIII|||||||||||III!......  ....:.:!IIIIIII|IIIIIIIII|||</tspan>
+<tspan x="0" dy="14">!III|||IIII|:::...:..........         ..................::I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖:..:.▗▖..... ...                       .    ... ▗▖ ....▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.... ▟▙       ▗▖           ▗▖        ▗▖         ▟▙    ▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          . .                    .       .    .  .              </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     *        .              .             *     .              </tspan>
+<tspan x="0" dy="14">.   * .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .           .</tspan>
+<tspan x="0" dy="14">     ..                             ..                          </tspan>
+<tspan x="0" dy="14">                                ..  ....          .             </tspan>
+<tspan x="0" dy="14">.  .   . .   .    .             :. .::::.  .    . .          ...</tspan>
+<tspan x="0" dy="14">: ...  . .  ....  .  *          ::..!!!!:  :    ..:     .    ...</tspan>
+<tspan x="0" dy="14">: .:.. : :  :::: .:.        .  .!!!!||||! .!.  .::!     : .  :::</tspan>
+<tspan x="0" dy="14">! :!:..: !  !!!:..:. .   . .!IIII||||IIIII!|:  :!:! .   ! :  !!:</tspan>
+<tspan x="0" dy="14">| !!!::! ! .|!!!::!:::::!IIIIII::...:::IIIIIIII|||I||II||:!. |!!</tspan>
+<tspan x="0" dy="14">III||::||IIII|||||||||||III!......  ....:.:!IIIIIIII|IIIIIIIII||</tspan>
+<tspan x="0" dy="14">!III|||IIII|:::..............         ..................::I▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖:..:.▗▖..... ...                       ..   ... ▗▖  ...▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.... ▟▙       ▗▖           ▗▖        ▗▖         ▟▙    ▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">          . .                    .       .    .  .         .    </tspan>
+<tspan x="0" dy="14">                                                   .   *        </tspan>
+<tspan x="0" dy="14">     *        .        .     .             *     .              </tspan>
+<tspan x="0" dy="14">.   * .    .              .                    ..            .  </tspan>
+<tspan x="0" dy="14">.                          .                       .           .</tspan>
+<tspan x="0" dy="14">     ..                             ..                          </tspan>
+<tspan x="0" dy="14">                                ..  ....          .             </tspan>
+<tspan x="0" dy="14">.  .     .   .    .             ..  ::::.  .    . .          ...</tspan>
+<tspan x="0" dy="14">.  ..  . .  ....  .  *      .   ::..!!!!:  :.   ..:     .    ...</tspan>
+<tspan x="0" dy="14">: .:.. : :  ::::  :.        .  .!!!!!|||! .!:  .::!     : .  :::</tspan>
+<tspan x="0" dy="14">! .!:..: !  :!!:..:. .     .!IIII||||IIIII!|!  .!:! .   ! :  !!:</tspan>
+<tspan x="0" dy="14">| :!!:.! ! .!|!!!!!::::!!IIIIII::....::IIIIIIII||||||||||:!  |!!</tspan>
+<tspan x="0" dy="14">III||!:|!|IIII||||||||||III!......  ....:.:|IIIIIIII|IIIIIIIII||</tspan>
+<tspan x="0" dy="14">!IIII||IIII|:::..............         ..................::|▗▖III</tspan>
+<tspan x="0" dy="14">..▗▖:..:.▗▖.....  ..                       ..   ... ▗▖  ...▟▙:::</tspan>
+<tspan x="0" dy="14">. ▟▙.... ▟▙       ▗▖           ▗▖        ▗▖         ▟▙    ▗██▖..</tspan>
+<tspan x="0" dy="14"> ▗██▖   ▗██▖      ▟▙    ▗▖     ▟▙   ▗▖   ▟▙   ▗▖   ▗██▖   ▟██▙  </tspan>
+<tspan x="0" dy="14"> ▟██▙   ▟██▙     ▗██▖   ▟▙    ▗██▖  ▟▙  ▗██▖  ▟▙   ▟██▙  ▗████▖ </tspan>
+<tspan x="0" dy="14">███████████████▄▄████▄▄████▄▄▄████▄████▄███████████████████████▄</tspan>
+<tspan x="0" dy="14">████████████████████████████████████████████████████████████████</tspan>
+</text></g>
+</g>
+</svg>

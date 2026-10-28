@@ -1,0 +1,463 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of boot-log">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 52.50) scale(1.4062)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+<tspan x="0" dy="14"> [ WARN ] clock not synced, using hardware time                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started system logger                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target sockets                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target basic system                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] finished waiting for network                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target network                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] synced clock to network time                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] started secure shell server                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started job scheduler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started print spooler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target multi-user system                      </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> node-1 login: _                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+<tspan x="0" dy="14"> [ WARN ] clock not synced, using hardware time                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started system logger                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target sockets                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target basic system                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] finished waiting for network                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target network                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] synced clock to network time                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] started secure shell server                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started job scheduler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started print spooler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target multi-user system                      </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> node-1 login: _                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+<tspan x="0" dy="14"> [ WARN ] clock not synced, using hardware time                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started system logger                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target sockets                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target basic system                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] finished waiting for network                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target network                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] synced clock to network time                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] started secure shell server                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started job scheduler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started print spooler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target multi-user system                      </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> node-1 login: _                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+<tspan x="0" dy="14"> [ WARN ] clock not synced, using hardware time                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started system logger                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target sockets                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target basic system                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] finished waiting for network                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target network                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] synced clock to network time                          </tspan>
+<tspan x="0" dy="14"> [  OK  ] started secure shell server                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started job scheduler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] started print spooler                                 </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target multi-user system                      </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> node-1 login: _                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> _                                                              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> _                                                              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory         0 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x000000000    0% </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory         0 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x000000000    0% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory       136 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x008888000    0% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory       682 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x02AAAA000    4% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
+<tspan x="0" dy="14"> network    detecting -                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting -                                         </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      1228 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ██▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x04CCCC000    7% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting -                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting |                                         </tspan>
+<tspan x="0" dy="14"> network    detecting \                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting \                                         </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      1774 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ███▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x06EEEE000   10% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting \                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
+<tspan x="0" dy="14"> network    detecting |                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting \                                         </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      2321 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x091111000   14% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting \                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
+<tspan x="0" dy="14"> network    detecting |                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting |                                         </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      2867 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            █████▌░░░░░░░░░░░░░░░░░░░░░░░░░░  0x0B3333000   17% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting |                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting -                                         </tspan>
+<tspan x="0" dy="14"> network    detecting /                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting /                                         </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      3413 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ██████▋░░░░░░░░░░░░░░░░░░░░░░░░░  0x0D5555000   20% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
+<tspan x="0" dy="14"> network    detecting -                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting /                                         </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      3959 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ███████▋░░░░░░░░░░░░░░░░░░░░░░░░  0x0F7777000   24% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
+<tspan x="0" dy="14"> network    detecting -                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting -                                         </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      4505 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████████▊░░░░░░░░░░░░░░░░░░░░░░░  0x119999000   27% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting -                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting |                                         </tspan>
+<tspan x="0" dy="14"> network    detecting \                                         </tspan>
+<tspan x="0" dy="14"> sensors    detecting -                                         </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      5051 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            █████████▊░░░░░░░░░░░░░░░░░░░░░░  0x13BBBB000   30% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting \                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
+<tspan x="0" dy="14"> network    detecting |                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      5597 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ██████████▉░░░░░░░░░░░░░░░░░░░░░  0x15DDDD000   34% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting \                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
+<tspan x="0" dy="14"> network    detecting |                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      6144 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████████████░░░░░░░░░░░░░░░░░░░░  0x180000000   37% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting |                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting -                                         </tspan>
+<tspan x="0" dy="14"> network    detecting /                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      6690 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            █████████████░░░░░░░░░░░░░░░░░░░  0x1A2222000   40% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
+<tspan x="0" dy="14"> network    detecting -                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      7236 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ██████████████▏░░░░░░░░░░░░░░░░░  0x1C4444000   44% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
+<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
+<tspan x="0" dy="14"> network    detecting -                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+</g>
+</svg>

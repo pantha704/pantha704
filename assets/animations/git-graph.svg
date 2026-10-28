@@ -1,0 +1,463 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of git-graph">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 42.00) scale(1.5000)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    8acb841 (HEAD -&gt; main) merge feat/search               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+<tspan x="0" dy="14">*    7867d2d readme: a banner in both themes                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    8acb841 (HEAD -&gt; main) merge feat/search               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+<tspan x="0" dy="14">*    7867d2d readme: a banner in both themes                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    8acb841 (HEAD -&gt; main) merge feat/search               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+<tspan x="0" dy="14">*    7867d2d readme: a banner in both themes                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    8acb841 (HEAD -&gt; main) merge feat/search               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+<tspan x="0" dy="14">*    7867d2d readme: a banner in both themes                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    8acb841 (HEAD -&gt; main) merge feat/search               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+<tspan x="0" dy="14">*    7867d2d readme: a banner in both themes                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    8acb841 (HEAD -&gt; main) merge feat/search               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+<tspan x="0" dy="14">*    7867d2d readme: a banner in both themes                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    8acb841 (HEAD -&gt; main) merge feat/search               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+<tspan x="0" dy="14">*    7867d2d readme: a banner in both themes                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) c                               </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chor                            </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore:                          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bu                       </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump                     </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump ty                  </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump type                </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typesc              </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescrip           </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">$ git log --graph --oneline                                 </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">*    b411d4a (HEAD -&gt; main) chore: bump typescript          </tspan>
+<tspan x="0" dy="14">*    8acb841 merge feat/search                              </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  5006d7e search: rank names before notes                </tspan>
+<tspan x="0" dy="14">| *  93cfd85 search: / focuses the field                    </tspan>
+<tspan x="0" dy="14">* |  86dad69 docs: the install page                         </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2c4e3c9 fix: keep the sidebar&#x27;s scroll                 </tspan>
+<tspan x="0" dy="14">*    4a6d00e merge feat/stars                               </tspan>
+<tspan x="0" dy="14">|\                                                          </tspan>
+<tspan x="0" dy="14">| *  4eb5140 header: show the repo&#x27;s stars                  </tspan>
+<tspan x="0" dy="14">| *  1ef2e33 header: wait before asking again               </tspan>
+<tspan x="0" dy="14">|/                                                          </tspan>
+<tspan x="0" dy="14">*    2ee9e40 (tag: v0.4.0) release 0.4.0                    </tspan>
+</text></g>
+</g>
+</svg>

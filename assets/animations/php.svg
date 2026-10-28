@@ -1,0 +1,535 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of php">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 36.52) scale(1.3043)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                                                                     </tspan>
+<tspan x="0" dy="14">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   ./8888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  ./88888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  /88888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  888888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _p8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _/88888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .//888888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .//8888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  //8888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  /88888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d88888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _/8888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _//8888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .///88888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .///888888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  ///888888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  //8888888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  //8888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   8888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _pp888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _//888888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _///888888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .////8888888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  ./////8888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  /////8888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  ////88888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  ///888888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   /888888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _/p888888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _///88888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _/////8888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p/////88888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p/////888888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q/////888888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  /////8888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  ////88888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   //88888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    O88888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    ___ppppq8888888888888qqqqq___                    </tspan>
+<tspan x="0" dy="14">              __pp888888888888888888888888888888888qq__              </tspan>
+<tspan x="0" dy="14">          _///88888888888888888P&quot;&quot;&quot;888888888888888888888qq_          </tspan>
+<tspan x="0" dy="14">       _/////888888888888888888&#x27;  |8888888888888888888888888q_       </tspan>
+<tspan x="0" dy="14">     _p/////888888888888888888P   d888888888888888888888888888q_     </tspan>
+<tspan x="0" dy="14">   .p8/////8888|          &#x27;Y88|          &#x27;88|          &quot;Y8888888q,   </tspan>
+<tspan x="0" dy="14">  .p8/////88888&#x27;  |8888q,   d8   q8888p   |8   |8888q,   O8888888q,  </tspan>
+<tspan x="0" dy="14">  q8/////88888P   d88888P   qP   d8888P   dP   d88888P   q88888888p  </tspan>
+<tspan x="0" dy="14">  88////888888&quot;  .888888&quot;  .8&#x27;  |88888&quot;  .8&#x27;  .888888&#x27;  .8888888888  </tspan>
+<tspan x="0" dy="14">  d////8888888   )PPPP&quot;&#x27;  _pP   q88888   q8   )PPPP&quot;   _p888888888P  </tspan>
+<tspan x="0" dy="14">   ///8888888P        ___p88|   88888P   8|        ___p88888888888   </tspan>
+<tspan x="0" dy="14">    //8888888&#x27;  |8888888888888888888888888&#x27;  |888888888888888888P    </tspan>
+<tspan x="0" dy="14">     &quot;888888P   q888888888888888888888888P   d8888888888888888P&quot;     </tspan>
+<tspan x="0" dy="14">       &#x27;Y8888qqq88888888888888888888888888qqq888888888888888P&#x27;       </tspan>
+<tspan x="0" dy="14">          &#x27;&quot;88888888888888888888888888888888888888888888P&quot;&#x27;          </tspan>
+<tspan x="0" dy="14">              &#x27;&quot;Y88888888888888888888888888888888888P&quot;&#x27;              </tspan>
+<tspan x="0" dy="14">                    &#x27;&quot;&quot;&quot;Y888888888888888888PP&quot;&quot;&quot;&#x27;                    </tspan>
+<tspan x="0" dy="14">                                                                     </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+</g>
+</svg>

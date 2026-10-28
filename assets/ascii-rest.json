@@ -1,0 +1,2162 @@
+{
+  "a0": {
+    "category": "companies",
+    "cols": 59,
+    "file": "a0",
+    "fps": 30,
+    "frames": 24,
+    "note": "the rounded a with a round hole, glinting now and then",
+    "rows": 28
+  },
+  "agentmail": {
+    "category": "companies",
+    "cols": 58,
+    "file": "agentmail",
+    "fps": 30,
+    "frames": 24,
+    "note": "the agent in a brimmed hat, glinting now and then",
+    "rows": 28
+  },
+  "almalinux": {
+    "category": "distros",
+    "cols": 56,
+    "file": "almalinux",
+    "fps": 30,
+    "frames": 24,
+    "note": "five coloured figures in a ring, scanned now and then",
+    "rows": 28
+  },
+  "alpine-dawn": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "alpine-dawn",
+    "fps": 15,
+    "frames": 24,
+    "note": "snow peaks catching first light above a still, misty mountain lake",
+    "rows": 100
+  },
+  "alpine-linux": {
+    "category": "distros",
+    "cols": 64,
+    "file": "alpine-linux",
+    "fps": 30,
+    "frames": 24,
+    "note": "the mountain in a hexagon, scanned now and then",
+    "rows": 28
+  },
+  "amer-fort": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "amer-fort",
+    "fps": 15,
+    "frames": 24,
+    "note": "amer fort floodlit gold on its hill, mirrored in maota lake at night",
+    "rows": 100
+  },
+  "analog-clock": {
+    "category": "objects",
+    "cols": 47,
+    "file": "analog-clock",
+    "fps": 8,
+    "frames": 24,
+    "note": "a round clock face showing the local time, seconds ticking",
+    "rows": 23
+  },
+  "apple": {
+    "category": "companies",
+    "cols": 46,
+    "file": "apple",
+    "fps": 30,
+    "frames": 24,
+    "note": "the apple with a bite out of it, glinting now and then",
+    "rows": 28
+  },
+  "aquarium": {
+    "category": "creatures",
+    "cols": 60,
+    "file": "aquarium",
+    "fps": 15,
+    "frames": 24,
+    "note": "fish swimming and turning in a tank, bubbles and weed",
+    "rows": 20
+  },
+  "arch-linux": {
+    "category": "distros",
+    "cols": 59,
+    "file": "arch-linux",
+    "fps": 30,
+    "frames": 24,
+    "note": "the blue arch, scanned now and then",
+    "rows": 28
+  },
+  "aurora": {
+    "category": "nature",
+    "cols": 64,
+    "file": "rest-aurora",
+    "fps": 20,
+    "frames": 24,
+    "note": "an aurora curtain rippling over a treeline under stars",
+    "rows": 20
+  },
+  "aurora-fjord": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "aurora-fjord",
+    "fps": 15,
+    "frames": 24,
+    "note": "aurora curtains rippling over a still fjord, a cabin lit on the shore",
+    "rows": 100
+  },
+  "autumn": {
+    "category": "companies",
+    "cols": 29,
+    "file": "autumn",
+    "fps": 30,
+    "frames": 24,
+    "note": "the leaf with a slash for its vein, glinting now and then",
+    "rows": 28
+  },
+  "bar-chart": {
+    "category": "data",
+    "cols": 60,
+    "file": "bar-chart",
+    "fps": 24,
+    "frames": 24,
+    "note": "bars easing between three datasets, values riding on top",
+    "rows": 19
+  },
+  "big-text": {
+    "category": "type",
+    "cols": 66,
+    "file": "big-text",
+    "fps": 24,
+    "frames": 24,
+    "note": "a block-letter banner with a line shadow and a passing glint",
+    "rows": 8
+  },
+  "black-hole": {
+    "category": "space",
+    "cols": 64,
+    "file": "rest-black-hole",
+    "fps": 15,
+    "frames": 24,
+    "note": "a black hole, its lensed disk turning, one side brighter",
+    "rows": 20
+  },
+  "black-prism": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "black-prism",
+    "fps": 15,
+    "frames": 24,
+    "note": "the vercel triangle as a glass prism, splitting white light to a rainbow",
+    "rows": 100
+  },
+  "bonsai": {
+    "category": "nature",
+    "cols": 52,
+    "file": "bonsai",
+    "fps": 10,
+    "frames": 24,
+    "note": "a potted tree that sheds its leaves and leafs out again",
+    "rows": 19
+  },
+  "boot-log": {
+    "category": "ui",
+    "cols": 64,
+    "file": "boot-log",
+    "fps": 15,
+    "frames": 24,
+    "note": "a self test counts memory, then the boot log scrolls by",
+    "rows": 16
+  },
+  "bouncing-balls": {
+    "category": "physics",
+    "cols": 64,
+    "file": "bouncing-balls",
+    "fps": 30,
+    "frames": 24,
+    "note": "rubber balls bouncing lower each time, squashing on landing",
+    "rows": 22
+  },
+  "box-frames": {
+    "category": "ui",
+    "cols": 78,
+    "file": "box-frames",
+    "fps": 0,
+    "frames": 24,
+    "note": "twelve frame styles to copy, each one labelled",
+    "rows": 20
+  },
+  "butterfly": {
+    "category": "creatures",
+    "cols": 64,
+    "file": "butterfly",
+    "fps": 30,
+    "frames": 24,
+    "note": "a butterfly flapping and gliding along a wandering path",
+    "rows": 24
+  },
+  "c": {
+    "category": "logos",
+    "cols": 49,
+    "file": "c",
+    "fps": 30,
+    "frames": 24,
+    "note": "a c on a blue hexagon, glinting now and then",
+    "rows": 28
+  },
+  "calendar": {
+    "category": "ui",
+    "cols": 32,
+    "file": "calendar",
+    "fps": 8,
+    "frames": 24,
+    "note": "this month like cal, today bracketed, time ticking below",
+    "rows": 13
+  },
+  "campfire": {
+    "category": "nature",
+    "cols": 52,
+    "file": "rest-campfire",
+    "fps": 20,
+    "frames": 24,
+    "note": "a log fire flickering, sparks rising; denser ink is hotter",
+    "rows": 22
+  },
+  "candle": {
+    "category": "objects",
+    "cols": 40,
+    "file": "candle",
+    "fps": 15,
+    "frames": 24,
+    "note": "a flickering candle burning down in its holder, then renewed",
+    "rows": 30
+  },
+  "candlesticks": {
+    "category": "data",
+    "cols": 70,
+    "file": "candlesticks",
+    "fps": 15,
+    "frames": 24,
+    "note": "hollow up candles, solid down ones, the last one forming live",
+    "rows": 22
+  },
+  "cat": {
+    "category": "creatures",
+    "cols": 56,
+    "file": "cat",
+    "fps": 15,
+    "frames": 24,
+    "note": "a tabby asleep on its paws, breathing slowly",
+    "rows": 15
+  },
+  "centos": {
+    "category": "distros",
+    "cols": 56,
+    "file": "centos",
+    "fps": 30,
+    "frames": 24,
+    "note": "four coloured squares in a star, scanned now and then",
+    "rows": 28
+  },
+  "chat": {
+    "category": "ui",
+    "cols": 48,
+    "file": "chat",
+    "fps": 20,
+    "frames": 24,
+    "note": "a chat in bubbles: typed, sent, three dots, then the reply streaming",
+    "rows": 18
+  },
+  "cherry-blossom": {
+    "category": "nature",
+    "cols": 64,
+    "file": "rest-cherry-blossom",
+    "fps": 15,
+    "frames": 24,
+    "note": "a flowering cherry branch shedding petals on the wind",
+    "rows": 20
+  },
+  "chladni": {
+    "category": "physics",
+    "cols": 45,
+    "file": "chladni",
+    "fps": 12,
+    "frames": 24,
+    "note": "sand travelling to the nodal lines of a ringing plate",
+    "rows": 23
+  },
+  "clojure": {
+    "category": "logos",
+    "cols": 56,
+    "file": "clojure",
+    "fps": 30,
+    "frames": 24,
+    "note": "a lambda in a green and blue circle, glinting now and then",
+    "rows": 28
+  },
+  "cloud-sea": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "cloud-sea",
+    "fps": 15,
+    "frames": 24,
+    "note": "the sun sinks into a drifting sea of orange cloud at dusk",
+    "rows": 100
+  },
+  "cloudflare": {
+    "category": "companies",
+    "cols": 79,
+    "file": "cloudflare",
+    "fps": 30,
+    "frames": 24,
+    "note": "the orange cloud, glinting now and then",
+    "rows": 19
+  },
+  "coderabbit": {
+    "category": "companies",
+    "cols": 56,
+    "file": "coderabbit",
+    "fps": 30,
+    "frames": 24,
+    "note": "the sitting rabbit in its orange disc, glinting now and then",
+    "rows": 28
+  },
+  "coffee": {
+    "category": "objects",
+    "cols": 52,
+    "file": "coffee",
+    "fps": 20,
+    "frames": 24,
+    "note": "steam curling up from a cup of coffee on its saucer",
+    "rows": 24
+  },
+  "collabute": {
+    "category": "companies",
+    "cols": 56,
+    "file": "collabute",
+    "fps": 30,
+    "frames": 24,
+    "note": "the disc shading white to black, in a black ring, glinting now and then",
+    "rows": 28
+  },
+  "command-city": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "command-city",
+    "fps": 15,
+    "frames": 24,
+    "note": "a night city whose boulevards trace the command key in streetlight",
+    "rows": 100
+  },
+  "command-code": {
+    "category": "companies",
+    "cols": 64,
+    "file": "command-code",
+    "fps": 30,
+    "frames": 24,
+    "note": "the command key in a rounded square, glinting now and then",
+    "rows": 32
+  },
+  "contour-map": {
+    "category": "nature",
+    "cols": 72,
+    "file": "contour-map",
+    "fps": 8,
+    "frames": 24,
+    "note": "an island in contour lines, its hills slowly reshaping",
+    "rows": 20
+  },
+  "cpp": {
+    "category": "logos",
+    "cols": 50,
+    "file": "cpp",
+    "fps": 30,
+    "frames": 24,
+    "note": "c++ on a blue hexagon, glinting now and then",
+    "rows": 28
+  },
+  "cpu-meters": {
+    "category": "data",
+    "cols": 66,
+    "file": "cpu-meters",
+    "fps": 10,
+    "frames": 24,
+    "note": "htop-style core, memory and swap meters over a process list",
+    "rows": 16
+  },
+  "csharp": {
+    "category": "logos",
+    "cols": 49,
+    "file": "csharp",
+    "fps": 30,
+    "frames": 24,
+    "note": "c# on a purple hexagon, glinting now and then",
+    "rows": 28
+  },
+  "css": {
+    "category": "logos",
+    "cols": 50,
+    "file": "css",
+    "fps": 30,
+    "frames": 24,
+    "note": "the blue shield with a 3, glinting now and then",
+    "rows": 28
+  },
+  "cube": {
+    "category": "shapes",
+    "cols": 32,
+    "file": "cube",
+    "fps": 24,
+    "frames": 24,
+    "note": "a stippled hidden-line cube turning a quarter at a time",
+    "rows": 18
+  },
+  "dart": {
+    "category": "logos",
+    "cols": 56,
+    "file": "dart",
+    "fps": 30,
+    "frames": 24,
+    "note": "the dart, in blue and teal, glinting now and then",
+    "rows": 28
+  },
+  "databuddy": {
+    "category": "companies",
+    "cols": 56,
+    "file": "databuddy",
+    "fps": 30,
+    "frames": 24,
+    "note": "the databuddy bunny, glinting now and then",
+    "rows": 28
+  },
+  "debian": {
+    "category": "distros",
+    "cols": 46,
+    "file": "debian",
+    "fps": 30,
+    "frames": 24,
+    "note": "the red swirl, scanned now and then",
+    "rows": 28
+  },
+  "deep-reef": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "deep-reef",
+    "fps": 15,
+    "frames": 24,
+    "note": "light shafts, swaying kelp and a turning school of fish over a reef",
+    "rows": 100
+  },
+  "deepin": {
+    "category": "distros",
+    "cols": 56,
+    "file": "deepin",
+    "fps": 30,
+    "frames": 24,
+    "note": "the swirl in a blue ring, scanned now and then",
+    "rows": 28
+  },
+  "desert-night": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "desert-night",
+    "fps": 15,
+    "frames": 24,
+    "note": "the milky way over a lone acacia on moonless dunes, meteors falling",
+    "rows": 100
+  },
+  "digital-clock": {
+    "category": "ui",
+    "cols": 70,
+    "file": "digital-clock",
+    "fps": 10,
+    "frames": 24,
+    "note": "the local time in seven-segment digits, colon blinking",
+    "rows": 11
+  },
+  "dissolve": {
+    "category": "type",
+    "cols": 64,
+    "file": "dissolve",
+    "fps": 20,
+    "frames": 24,
+    "note": "words that crumble to dust and condense into the next",
+    "rows": 13
+  },
+  "dividers": {
+    "category": "ui",
+    "cols": 63,
+    "file": "dividers",
+    "fps": 0,
+    "frames": 24,
+    "note": "rules and ornaments for between sections, plain to fancy",
+    "rows": 25
+  },
+  "dna-helix": {
+    "category": "shapes",
+    "cols": 64,
+    "file": "dna-helix",
+    "fps": 20,
+    "frames": 24,
+    "note": "a double helix with base pairs, turning about its axis",
+    "rows": 15
+  },
+  "donut": {
+    "category": "shapes",
+    "cols": 40,
+    "file": "rest-donut",
+    "fps": 30,
+    "frames": 24,
+    "note": "a lit torus turning on two axes, after donut.c",
+    "rows": 22
+  },
+  "doom-fire": {
+    "category": "effects",
+    "cols": 60,
+    "file": "doom-fire",
+    "fps": 24,
+    "frames": 24,
+    "note": "the psx fire spread, tongues climbing off a white-hot bed",
+    "rows": 18
+  },
+  "double-pendulum": {
+    "category": "physics",
+    "cols": 48,
+    "file": "double-pendulum",
+    "fps": 30,
+    "frames": 24,
+    "note": "a chaotic double pendulum; its tip leaves a fading trail",
+    "rows": 25
+  },
+  "earth": {
+    "category": "space",
+    "cols": 60,
+    "file": "rest-earth",
+    "fps": 20,
+    "frames": 24,
+    "note": "a lit globe turning, continents from a five-degree map",
+    "rows": 30
+  },
+  "earthrise": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "earthrise",
+    "fps": 15,
+    "frames": 24,
+    "note": "the earth rising over a cratered lunar horizon in long low sunlight",
+    "rows": 100
+  },
+  "eclipse": {
+    "category": "space",
+    "cols": 64,
+    "file": "eclipse",
+    "fps": 20,
+    "frames": 24,
+    "note": "the moon slides over the sun; diamond ring, then corona",
+    "rows": 27
+  },
+  "edge-orbit": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "edge-orbit",
+    "fps": 15,
+    "frames": 24,
+    "note": "the night earth from orbit, cloudflare requests arcing city to city",
+    "rows": 100
+  },
+  "elementary-os": {
+    "category": "distros",
+    "cols": 56,
+    "file": "elementary-os",
+    "fps": 30,
+    "frames": 24,
+    "note": "the e in a ring, scanned now and then",
+    "rows": 28
+  },
+  "elixir": {
+    "category": "logos",
+    "cols": 38,
+    "file": "elixir",
+    "fps": 30,
+    "frames": 24,
+    "note": "the purple drop, glinting now and then",
+    "rows": 28
+  },
+  "elm": {
+    "category": "logos",
+    "cols": 56,
+    "file": "elm",
+    "fps": 30,
+    "frames": 24,
+    "note": "seven tangram pieces in a square, glinting now and then",
+    "rows": 28
+  },
+  "endeavouros": {
+    "category": "distros",
+    "cols": 67,
+    "file": "endeavouros",
+    "fps": 30,
+    "frames": 24,
+    "note": "the violet sail, scanned now and then",
+    "rows": 28
+  },
+  "epicycles": {
+    "category": "generative",
+    "cols": 60,
+    "file": "epicycles",
+    "fps": 30,
+    "frames": 24,
+    "note": "a chain of turning circles whose tip traces a star",
+    "rows": 24
+  },
+  "equalizer": {
+    "category": "data",
+    "cols": 62,
+    "file": "equalizer",
+    "fps": 30,
+    "frames": 24,
+    "note": "spectrum bars bouncing to a beat, peak caps falling slowly",
+    "rows": 16
+  },
+  "erlang": {
+    "category": "logos",
+    "cols": 70,
+    "file": "erlang",
+    "fps": 30,
+    "frames": 24,
+    "note": "the red e in brackets, glinting now and then",
+    "rows": 23
+  },
+  "falling-sand": {
+    "category": "physics",
+    "cols": 55,
+    "file": "falling-sand",
+    "fps": 20,
+    "frames": 24,
+    "note": "sand pouring into a heap, then draining through the shelf",
+    "rows": 22
+  },
+  "fedora": {
+    "category": "distros",
+    "cols": 56,
+    "file": "fedora",
+    "fps": 30,
+    "frames": 24,
+    "note": "the f in its blue bubble, scanned now and then",
+    "rows": 28
+  },
+  "fern": {
+    "category": "nature",
+    "cols": 44,
+    "file": "fern",
+    "fps": 20,
+    "frames": 24,
+    "note": "barnsley's fern filling in point by point, then swaying",
+    "rows": 30
+  },
+  "ferris-wheel": {
+    "category": "objects",
+    "cols": 64,
+    "file": "ferris-wheel",
+    "fps": 10,
+    "frames": 24,
+    "note": "a wheel turning on its a-frame, cabins hanging upright",
+    "rows": 26
+  },
+  "file-tree": {
+    "category": "ui",
+    "cols": 36,
+    "file": "file-tree",
+    "fps": 15,
+    "frames": 24,
+    "note": "a tree listing opened folder by folder, then closed again",
+    "rows": 23
+  },
+  "fireflies": {
+    "category": "nature",
+    "cols": 60,
+    "file": "fireflies",
+    "fps": 15,
+    "frames": 24,
+    "note": "fireflies over night grass, a flash spreading through them",
+    "rows": 18
+  },
+  "fireworks": {
+    "category": "effects",
+    "cols": 64,
+    "file": "fireworks",
+    "fps": 30,
+    "frames": 24,
+    "note": "shells climb and burst as peonies, rings, willows and palms",
+    "rows": 24
+  },
+  "flag": {
+    "category": "physics",
+    "cols": 62,
+    "file": "flag",
+    "fps": 30,
+    "frames": 24,
+    "note": "a striped flag rippling on a pole, folds catching the light",
+    "rows": 21
+  },
+  "flow-field": {
+    "category": "generative",
+    "cols": 64,
+    "file": "flow-field",
+    "fps": 20,
+    "frames": 24,
+    "note": "particle trails gathering into winding, merging streams",
+    "rows": 22
+  },
+  "form-controls": {
+    "category": "ui",
+    "cols": 54,
+    "file": "form-controls",
+    "fps": 15,
+    "frames": 24,
+    "note": "a terminal style form being filled in, field by field",
+    "rows": 16
+  },
+  "fountain": {
+    "category": "physics",
+    "cols": 57,
+    "file": "fountain",
+    "fps": 30,
+    "frames": 24,
+    "note": "arcs of water from a nozzle falling as drops into a basin",
+    "rows": 22
+  },
+  "fox": {
+    "category": "creatures",
+    "cols": 47,
+    "file": "fox",
+    "fps": 10,
+    "frames": 24,
+    "note": "a fox asleep on its tail, breathing, peeking now and then",
+    "rows": 16
+  },
+  "fractal-tree": {
+    "category": "nature",
+    "cols": 60,
+    "file": "fractal-tree",
+    "fps": 15,
+    "frames": 24,
+    "note": "a recursive branching tree swaying in the wind",
+    "rows": 24
+  },
+  "galaxy": {
+    "category": "space",
+    "cols": 64,
+    "file": "galaxy",
+    "fps": 20,
+    "frames": 24,
+    "note": "a tilted spiral galaxy turning, its inner stars the fastest",
+    "rows": 26
+  },
+  "gangaur-ghat": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "gangaur-ghat",
+    "fps": 15,
+    "frames": 24,
+    "note": "udaipur at night, a lit gateway on lake pichola and diyas on the water",
+    "rows": 100
+  },
+  "gauge": {
+    "category": "data",
+    "cols": 55,
+    "file": "gauge",
+    "fps": 30,
+    "frames": 24,
+    "note": "semicircle dial, the needle overshoots each new reading",
+    "rows": 18
+  },
+  "gentoo": {
+    "category": "distros",
+    "cols": 54,
+    "file": "gentoo",
+    "fps": 30,
+    "frames": 24,
+    "note": "the lavender g, scanned now and then",
+    "rows": 28
+  },
+  "git-graph": {
+    "category": "ui",
+    "cols": 60,
+    "file": "git-graph",
+    "fps": 15,
+    "frames": 24,
+    "note": "git log --graph scrolling, branches forking off main and merging back",
+    "rows": 16
+  },
+  "glider-gun": {
+    "category": "generative",
+    "cols": 56,
+    "file": "glider-gun",
+    "fps": 10,
+    "frames": 24,
+    "note": "gosper's gun firing a glider every 30 generations",
+    "rows": 20
+  },
+  "glitch": {
+    "category": "type",
+    "cols": 64,
+    "file": "glitch",
+    "fps": 15,
+    "frames": 24,
+    "note": "a pixel word that tears into sliding slices in short bursts",
+    "rows": 13
+  },
+  "glxgears": {
+    "category": "shapes",
+    "cols": 56,
+    "file": "glxgears",
+    "fps": 24,
+    "frames": 24,
+    "note": "three meshing gears turning, after glxgears",
+    "rows": 31
+  },
+  "go": {
+    "category": "logos",
+    "cols": 79,
+    "file": "go",
+    "fps": 30,
+    "frames": 24,
+    "note": "go with its speed lines, glinting now and then",
+    "rows": 16
+  },
+  "green-storm": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "green-storm",
+    "fps": 15,
+    "frames": 24,
+    "note": "a thunderstorm at sea, the lightning striking in the supabase bolt",
+    "rows": 100
+  },
+  "greptile": {
+    "category": "companies",
+    "cols": 49,
+    "file": "greptile",
+    "fps": 30,
+    "frames": 24,
+    "note": "the g folded into a cube, in green, glinting now and then",
+    "rows": 28
+  },
+  "gyroscope": {
+    "category": "shapes",
+    "cols": 60,
+    "file": "gyroscope",
+    "fps": 30,
+    "frames": 24,
+    "note": "gimbals swing round a spinning rotor whose axle holds still",
+    "rows": 32
+  },
+  "harmonograph": {
+    "category": "physics",
+    "cols": 64,
+    "file": "harmonograph",
+    "fps": 30,
+    "frames": 24,
+    "note": "a pen on two decaying pendulums winding a figure inward",
+    "rows": 28
+  },
+  "haskell": {
+    "category": "logos",
+    "cols": 69,
+    "file": "haskell",
+    "fps": 30,
+    "frames": 24,
+    "note": "an angle, a lambda and an equals sign, glinting now and then",
+    "rows": 25
+  },
+  "hawa-mahal": {
+    "category": "objects",
+    "cols": 61,
+    "file": "hawa-mahal",
+    "fps": 10,
+    "frames": 24,
+    "note": "jaipur's palace of winds at night, lamps behind the jali",
+    "rows": 24
+  },
+  "heart": {
+    "category": "shapes",
+    "cols": 52,
+    "file": "rest-heart",
+    "fps": 30,
+    "frames": 24,
+    "note": "a glossy 3d heart swaying and beating lub-dub",
+    "rows": 24
+  },
+  "heartbeat": {
+    "category": "data",
+    "cols": 72,
+    "file": "heartbeat",
+    "fps": 25,
+    "frames": 24,
+    "note": "an ecg trace sweeping over its last pass, with a bpm readout",
+    "rows": 15
+  },
+  "heatmap": {
+    "category": "data",
+    "cols": 66,
+    "file": "heatmap",
+    "fps": 10,
+    "frames": 24,
+    "note": "contribution calendar, a day at a time, weeks scrolling left",
+    "rows": 12
+  },
+  "helium": {
+    "category": "companies",
+    "cols": 49,
+    "file": "helium",
+    "fps": 30,
+    "frames": 24,
+    "note": "the six-point asterisk, in blue, glinting now and then",
+    "rows": 28
+  },
+  "helixdb": {
+    "category": "companies",
+    "cols": 64,
+    "file": "helixdb",
+    "fps": 30,
+    "frames": 24,
+    "note": "the stepped rungs of a helix between two posts, glinting now and then",
+    "rows": 32
+  },
+  "helmcode": {
+    "category": "companies",
+    "cols": 53,
+    "file": "helmcode",
+    "fps": 30,
+    "frames": 24,
+    "note": "the helmcode hexagon in its violet, glinting now and then",
+    "rows": 30
+  },
+  "hilbert-curve": {
+    "category": "generative",
+    "cols": 65,
+    "file": "hilbert-curve",
+    "fps": 20,
+    "frames": 24,
+    "note": "a closed loop of two hilbert curves, with two lit runners",
+    "rows": 17
+  },
+  "hourglass": {
+    "category": "objects",
+    "cols": 43,
+    "file": "hourglass",
+    "fps": 30,
+    "frames": 24,
+    "note": "sand running through the neck, then turned over",
+    "rows": 21
+  },
+  "html": {
+    "category": "logos",
+    "cols": 50,
+    "file": "html",
+    "fps": 30,
+    "frames": 24,
+    "note": "the orange shield with a 5, glinting now and then",
+    "rows": 28
+  },
+  "icosahedron": {
+    "category": "shapes",
+    "cols": 46,
+    "file": "icosahedron",
+    "fps": 30,
+    "frames": 24,
+    "note": "a wireframe icosahedron turning, its hidden edges dotted",
+    "rows": 22
+  },
+  "jal-mahal": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "jal-mahal",
+    "fps": 15,
+    "frames": 24,
+    "note": "the jaipur water palace floating on a misty lake at sunrise",
+    "rows": 100
+  },
+  "java": {
+    "category": "logos",
+    "cols": 42,
+    "file": "java",
+    "fps": 30,
+    "frames": 24,
+    "note": "the steaming cup, glinting now and then",
+    "rows": 28
+  },
+  "javascript": {
+    "category": "logos",
+    "cols": 56,
+    "file": "javascript",
+    "fps": 30,
+    "frames": 24,
+    "note": "js on a yellow square, glinting now and then",
+    "rows": 28
+  },
+  "jellyfish": {
+    "category": "creatures",
+    "cols": 44,
+    "file": "jellyfish",
+    "fps": 24,
+    "frames": 24,
+    "note": "a jellyfish pulsing upward, its tentacles trailing late",
+    "rows": 26
+  },
+  "julia": {
+    "category": "logos",
+    "cols": 60,
+    "file": "julia",
+    "fps": 30,
+    "frames": 24,
+    "note": "three dots, green, red and purple, glinting now and then",
+    "rows": 28
+  },
+  "julia-set": {
+    "category": "generative",
+    "cols": 66,
+    "file": "julia-set",
+    "fps": 20,
+    "frames": 24,
+    "note": "a julia set changing shape as its constant c goes round",
+    "rows": 24
+  },
+  "jungle-falls": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "jungle-falls",
+    "fps": 15,
+    "frames": 24,
+    "note": "a tiered waterfall in a rainforest gorge, spray, a rainbow and macaws",
+    "rows": 100
+  },
+  "kali-linux": {
+    "category": "distros",
+    "cols": 71,
+    "file": "kali-linux",
+    "fps": 30,
+    "frames": 24,
+    "note": "the blue dragon, scanned now and then",
+    "rows": 27
+  },
+  "keiki": {
+    "category": "companies",
+    "cols": 62,
+    "file": "keiki",
+    "fps": 30,
+    "frames": 24,
+    "note": "the rocking horse, glinting now and then",
+    "rows": 28
+  },
+  "kite": {
+    "category": "objects",
+    "cols": 64,
+    "file": "kite",
+    "fps": 15,
+    "frames": 24,
+    "note": "a diamond kite riding the wind, its string sagging in lulls",
+    "rows": 24
+  },
+  "kite-festival": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "kite-festival",
+    "fps": 15,
+    "frames": 24,
+    "note": "sankranti kites crowding a golden sky over the pink roofs of jaipur",
+    "rows": 100
+  },
+  "kotlin": {
+    "category": "logos",
+    "cols": 56,
+    "file": "kotlin",
+    "fps": 30,
+    "frames": 24,
+    "note": "the k, in violet and pink, glinting now and then",
+    "rows": 28
+  },
+  "kyoto-dusk": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "kyoto-dusk",
+    "fps": 15,
+    "frames": 24,
+    "note": "a pagoda at dusk behind a cherry tree lit by a stone lantern",
+    "rows": 100
+  },
+  "lake-pichola": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "lake-pichola",
+    "fps": 15,
+    "frames": 24,
+    "note": "sunset on lake pichola, udaipur's palaces glowing over the water",
+    "rows": 100
+  },
+  "landscape": {
+    "category": "nature",
+    "cols": 64,
+    "file": "landscape",
+    "fps": 8,
+    "frames": 24,
+    "note": "a range and a lake under the sun or moon of the local hour",
+    "rows": 18
+  },
+  "langtons-ant": {
+    "category": "generative",
+    "cols": 72,
+    "file": "langtons-ant",
+    "fps": 30,
+    "frames": 24,
+    "note": "order, then chaos, then the ant builds its highway",
+    "rows": 25
+  },
+  "lantern-lake": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "lantern-lake",
+    "fps": 15,
+    "frames": 24,
+    "note": "sky lanterns rising over a still mountain lake, one let go from a boat",
+    "rows": 100
+  },
+  "lava-lamp": {
+    "category": "objects",
+    "cols": 30,
+    "file": "lava-lamp",
+    "fps": 15,
+    "frames": 24,
+    "note": "wax blobs rising, merging and sinking in a lit glass",
+    "rows": 27
+  },
+  "lava-wall": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "lava-wall",
+    "fps": 15,
+    "frames": 24,
+    "note": "a wall of lava lamps under the glowing orange cloud, watched by a camera",
+    "rows": 100
+  },
+  "lighthouse": {
+    "category": "objects",
+    "cols": 64,
+    "file": "lighthouse",
+    "fps": 20,
+    "frames": 24,
+    "note": "a beam sweeping over night sea from a lighthouse on rocks",
+    "rows": 30
+  },
+  "lightning": {
+    "category": "nature",
+    "cols": 64,
+    "file": "lightning",
+    "fps": 20,
+    "frames": 24,
+    "note": "a forked bolt striking out of a storm cloud in the rain",
+    "rows": 22
+  },
+  "linux-mint": {
+    "category": "distros",
+    "cols": 56,
+    "file": "linux-mint",
+    "fps": 30,
+    "frames": 24,
+    "note": "lm in a green circle, scanned now and then",
+    "rows": 28
+  },
+  "lorenz": {
+    "category": "physics",
+    "cols": 60,
+    "file": "lorenz",
+    "fps": 30,
+    "frames": 24,
+    "note": "one lorenz trajectory looping both wings, older loops fading",
+    "rows": 22
+  },
+  "lua": {
+    "category": "logos",
+    "cols": 56,
+    "file": "lua",
+    "fps": 30,
+    "frames": 24,
+    "note": "a planet and its moon, glinting now and then",
+    "rows": 28
+  },
+  "mandelbrot": {
+    "category": "generative",
+    "cols": 64,
+    "file": "mandelbrot",
+    "fps": 15,
+    "frames": 24,
+    "note": "a slow zoom into seahorse valley and back out again",
+    "rows": 26
+  },
+  "manjaro": {
+    "category": "distros",
+    "cols": 56,
+    "file": "manjaro",
+    "fps": 30,
+    "frames": 24,
+    "note": "three green blocks, scanned now and then",
+    "rows": 28
+  },
+  "marine-drive": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "marine-drive",
+    "fps": 15,
+    "frames": 24,
+    "note": "mumbai's queen's necklace at night, lamps curving round the bay",
+    "rows": 100
+  },
+  "marquee": {
+    "category": "type",
+    "cols": 61,
+    "file": "marquee",
+    "fps": 24,
+    "frames": 24,
+    "note": "a scrolling led sign framed by chasing bulbs",
+    "rows": 10
+  },
+  "matrix-rain": {
+    "category": "effects",
+    "cols": 63,
+    "file": "matrix-rain",
+    "fps": 20,
+    "frames": 24,
+    "note": "streams of glyphs falling, heavy at the head, thin behind",
+    "rows": 24
+  },
+  "maze": {
+    "category": "generative",
+    "cols": 61,
+    "file": "maze",
+    "fps": 20,
+    "frames": 24,
+    "note": "a maze carved by backtracking, then solved, then remade",
+    "rows": 21
+  },
+  "mintlify": {
+    "category": "companies",
+    "cols": 56,
+    "file": "mintlify",
+    "fps": 30,
+    "frames": 24,
+    "note": "the leaf within a leaf, in mint green, glinting now and then",
+    "rows": 28
+  },
+  "misty-forest": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "misty-forest",
+    "fps": 15,
+    "frames": 24,
+    "note": "pine ridges fading into morning fog, sunbeams slanting through",
+    "rows": 100
+  },
+  "mobius-strip": {
+    "category": "shapes",
+    "cols": 58,
+    "file": "mobius-strip",
+    "fps": 30,
+    "frames": 24,
+    "note": "a mobius strip turning and nodding, lit from above",
+    "rows": 20
+  },
+  "moon-phases": {
+    "category": "space",
+    "cols": 46,
+    "file": "moon-phases",
+    "fps": 15,
+    "frames": 24,
+    "note": "the moon waxing and waning, its maria darker in the light",
+    "rows": 23
+  },
+  "morse": {
+    "category": "type",
+    "cols": 64,
+    "file": "morse",
+    "fps": 15,
+    "frames": 24,
+    "note": "a lamp keying morse, the marks on a tape, letters decoded",
+    "rows": 19
+  },
+  "newtons-cradle": {
+    "category": "physics",
+    "cols": 74,
+    "file": "newtons-cradle",
+    "fps": 30,
+    "frames": 24,
+    "note": "five steel balls on strings passing one knock back and forth",
+    "rows": 17
+  },
+  "night-coast": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "night-coast",
+    "fps": 15,
+    "frames": 24,
+    "note": "a lighthouse turning its beam under moonlit clouds over a dark sea",
+    "rows": 100
+  },
+  "night-highway": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "night-highway",
+    "fps": 15,
+    "frames": 24,
+    "note": "a desert highway at dusk, rushing toward the mountains and last light",
+    "rows": 100
+  },
+  "nixos": {
+    "category": "distros",
+    "cols": 64,
+    "file": "nixos",
+    "fps": 30,
+    "frames": 24,
+    "note": "the snowflake of lambdas, scanned now and then",
+    "rows": 28
+  },
+  "not-found": {
+    "category": "ui",
+    "cols": 60,
+    "file": "not-found",
+    "fps": 15,
+    "frames": 24,
+    "note": "a block-letter 404 with a small ghost drifting beneath it",
+    "rows": 21
+  },
+  "ocaml": {
+    "category": "logos",
+    "cols": 64,
+    "file": "ocaml",
+    "fps": 30,
+    "frames": 24,
+    "note": "the camel on an orange square, glinting now and then",
+    "rows": 28
+  },
+  "ocean-sunset": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "ocean-sunset",
+    "fps": 15,
+    "frames": 24,
+    "note": "the sun sets past a pine headland, lit cloud, glitter on rolling sea",
+    "rows": 100
+  },
+  "omarchy": {
+    "category": "distros",
+    "cols": 56,
+    "file": "omarchy",
+    "fps": 30,
+    "frames": 24,
+    "note": "the square o of brackets, in green, scanned now and then",
+    "rows": 28
+  },
+  "opensuse": {
+    "category": "distros",
+    "cols": 69,
+    "file": "opensuse",
+    "fps": 30,
+    "frames": 24,
+    "note": "the green chameleon, scanned now and then",
+    "rows": 18
+  },
+  "orchid": {
+    "category": "companies",
+    "cols": 57,
+    "file": "orchid",
+    "fps": 30,
+    "frames": 24,
+    "note": "the five-petal flower, glinting now and then",
+    "rows": 28
+  },
+  "owl": {
+    "category": "creatures",
+    "cols": 41,
+    "file": "owl",
+    "fps": 12,
+    "frames": 24,
+    "note": "an owl on a branch, blinking slowly and turning its head",
+    "rows": 24
+  },
+  "pendulum-wave": {
+    "category": "physics",
+    "cols": 67,
+    "file": "pendulum-wave",
+    "fps": 30,
+    "frames": 24,
+    "note": "a row of pendulums drifting in and out of step, from above",
+    "rows": 19
+  },
+  "perl": {
+    "category": "logos",
+    "cols": 56,
+    "file": "perl",
+    "fps": 30,
+    "frames": 24,
+    "note": "the onion, glinting now and then",
+    "rows": 28
+  },
+  "php": {
+    "category": "logos",
+    "cols": 69,
+    "file": "php",
+    "fps": 30,
+    "frames": 24,
+    "note": "php in its purple oval, glinting now and then",
+    "rows": 19
+  },
+  "pipeline": {
+    "category": "ui",
+    "cols": 56,
+    "file": "pipeline",
+    "fps": 12,
+    "frames": 24,
+    "note": "a ci run going stage by stage, one run failing its tests, then green",
+    "rows": 13
+  },
+  "planet": {
+    "category": "space",
+    "cols": 64,
+    "file": "planet",
+    "fps": 20,
+    "frames": 24,
+    "note": "a banded ringed planet turning, with shadows both ways",
+    "rows": 18
+  },
+  "planet-scale": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "planet-scale",
+    "fps": 15,
+    "frames": 24,
+    "note": "a dark planet cut into the planetscale mark, backlit, a moon circling",
+    "rows": 100
+  },
+  "planetscale": {
+    "category": "companies",
+    "cols": 56,
+    "file": "planetscale",
+    "fps": 30,
+    "frames": 24,
+    "note": "the disc cut by two strokes, glinting now and then",
+    "rows": 28
+  },
+  "plasma": {
+    "category": "generative",
+    "cols": 64,
+    "file": "plasma",
+    "fps": 24,
+    "frames": 24,
+    "note": "soft interference blobs drifting and pulsing",
+    "rows": 22
+  },
+  "playstation": {
+    "category": "companies",
+    "cols": 70,
+    "file": "playstation",
+    "fps": 30,
+    "frames": 24,
+    "note": "the p standing on a flat s, in blue, glinting now and then",
+    "rows": 28
+  },
+  "plucked-string": {
+    "category": "physics",
+    "cols": 64,
+    "file": "plucked-string",
+    "fps": 30,
+    "frames": 24,
+    "note": "a plucked string, slowed down, its harmonics fading",
+    "rows": 14
+  },
+  "polar": {
+    "category": "companies",
+    "cols": 51,
+    "file": "polar",
+    "fps": 30,
+    "frames": 24,
+    "note": "the half star, bar and arc, glinting now and then",
+    "rows": 28
+  },
+  "pond-ripples": {
+    "category": "physics",
+    "cols": 64,
+    "file": "pond-ripples",
+    "fps": 20,
+    "frames": 24,
+    "note": "raindrops opening rings that cross and fade on a pond",
+    "rows": 20
+  },
+  "pop-os": {
+    "category": "distros",
+    "cols": 56,
+    "file": "pop-os",
+    "fps": 30,
+    "frames": 24,
+    "note": "the p! in a teal circle, scanned now and then",
+    "rows": 28
+  },
+  "prism-city": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "prism-city",
+    "fps": 15,
+    "frames": 24,
+    "note": "a black spire and an orange cloud over a blue hour city and its river",
+    "rows": 100
+  },
+  "progress-bar": {
+    "category": "ui",
+    "cols": 48,
+    "file": "progress-bar",
+    "fps": 30,
+    "frames": 24,
+    "note": "five bar styles filling at uneven paces, percent at right",
+    "rows": 11
+  },
+  "python": {
+    "category": "logos",
+    "cols": 51,
+    "file": "python",
+    "fps": 30,
+    "frames": 24,
+    "note": "two snakes, blue and yellow, glinting now and then",
+    "rows": 28
+  },
+  "r": {
+    "category": "logos",
+    "cols": 69,
+    "file": "r",
+    "fps": 30,
+    "frames": 24,
+    "note": "a blue r over a grey ring, glinting now and then",
+    "rows": 27
+  },
+  "radar": {
+    "category": "data",
+    "cols": 53,
+    "file": "radar",
+    "fps": 30,
+    "frames": 24,
+    "note": "rotating sweep with afterglow, contacts fade between passes",
+    "rows": 25
+  },
+  "rain": {
+    "category": "nature",
+    "cols": 64,
+    "file": "rain",
+    "fps": 30,
+    "frames": 24,
+    "note": "slanting rain in three depths, crowns and puddle rings",
+    "rows": 20
+  },
+  "reaction-diffusion": {
+    "category": "generative",
+    "cols": 60,
+    "file": "reaction-diffusion",
+    "fps": 20,
+    "frames": 24,
+    "note": "gray-scott spots and stripes dying back and growing out",
+    "rows": 24
+  },
+  "red-hat": {
+    "category": "distros",
+    "cols": 56,
+    "file": "red-hat",
+    "fps": 30,
+    "frames": 24,
+    "note": "the man in the red hat, scanned now and then",
+    "rows": 28
+  },
+  "rocket": {
+    "category": "space",
+    "cols": 48,
+    "file": "rocket",
+    "fps": 20,
+    "frames": 24,
+    "note": "a rocket lifting off its pad at night, then landing back",
+    "rows": 28
+  },
+  "rocky-linux": {
+    "category": "distros",
+    "cols": 56,
+    "file": "rocky-linux",
+    "fps": 30,
+    "frames": 24,
+    "note": "the mountain in a green circle, scanned now and then",
+    "rows": 28
+  },
+  "rotozoomer": {
+    "category": "effects",
+    "cols": 64,
+    "file": "rotozoomer",
+    "fps": 30,
+    "frames": 24,
+    "note": "a brick wall texture turning and zooming about the centre",
+    "rows": 24
+  },
+  "ruby": {
+    "category": "logos",
+    "cols": 56,
+    "file": "ruby",
+    "fps": 30,
+    "frames": 24,
+    "note": "the cut red gem, glinting now and then",
+    "rows": 28
+  },
+  "rule-30": {
+    "category": "generative",
+    "cols": 64,
+    "file": "rule-30",
+    "fps": 8,
+    "frames": 24,
+    "note": "one cell grows a row at a time under rules 30, 90 and 110",
+    "rows": 20
+  },
+  "ruled-mountains": {
+    "category": "nature",
+    "cols": 64,
+    "file": "ruled-mountains",
+    "fps": 10,
+    "frames": 24,
+    "note": "ruled lines with a range rising from them, drifting forward",
+    "rows": 20
+  },
+  "rust": {
+    "category": "logos",
+    "cols": 64,
+    "file": "rust",
+    "fps": 30,
+    "frames": 24,
+    "note": "the r in its cog, in ferris orange, glinting now and then",
+    "rows": 32
+  },
+  "salt-flat": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "salt-flat",
+    "fps": 15,
+    "frames": 24,
+    "note": "the vercel triangle over a mirror of salt, the sun rising behind its tip",
+    "rows": 100
+  },
+  "saptarishi": {
+    "category": "space",
+    "cols": 64,
+    "file": "saptarishi",
+    "fps": 12,
+    "frames": 24,
+    "note": "the big dipper at true positions in a twinkling sky",
+    "rows": 18
+  },
+  "saturn-rise": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "saturn-rise",
+    "fps": 15,
+    "frames": 24,
+    "note": "saturn and its rings hanging over the cracked ice and geysers of a moon",
+    "rows": 100
+  },
+  "scala": {
+    "category": "logos",
+    "cols": 37,
+    "file": "scala",
+    "fps": 30,
+    "frames": 24,
+    "note": "the red spiral stair, glinting now and then",
+    "rows": 28
+  },
+  "scramble": {
+    "category": "type",
+    "cols": 44,
+    "file": "scramble",
+    "fps": 20,
+    "frames": 24,
+    "note": "phrases decoding left to right out of flickering glyphs",
+    "rows": 3
+  },
+  "sea-swell": {
+    "category": "nature",
+    "cols": 64,
+    "file": "sea-swell",
+    "fps": 20,
+    "frames": 24,
+    "note": "a long swell lifting a small sailboat as it rolls under",
+    "rows": 14
+  },
+  "sierpinski": {
+    "category": "generative",
+    "cols": 59,
+    "file": "sierpinski",
+    "fps": 20,
+    "frames": 24,
+    "note": "the chaos game filling a sierpinski triangle point by point",
+    "rows": 26
+  },
+  "skeleton": {
+    "category": "ui",
+    "cols": 52,
+    "file": "skeleton",
+    "fps": 24,
+    "frames": 24,
+    "note": "a loading card in shade blocks with a shimmer passing over",
+    "rows": 23
+  },
+  "skyline": {
+    "category": "objects",
+    "cols": 64,
+    "file": "skyline",
+    "fps": 10,
+    "frames": 24,
+    "note": "a city at night, windows going on and off, a blinking mast",
+    "rows": 23
+  },
+  "smoke": {
+    "category": "physics",
+    "cols": 44,
+    "file": "smoke",
+    "fps": 30,
+    "frames": 24,
+    "note": "incense smoke rising straight, then curling and thinning",
+    "rows": 24
+  },
+  "snake": {
+    "category": "creatures",
+    "cols": 64,
+    "file": "snake",
+    "fps": 20,
+    "frames": 24,
+    "note": "a snake slithering along an s-curve, flicking its tongue",
+    "rows": 15
+  },
+  "snow-train": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "snow-train",
+    "fps": 15,
+    "frames": 24,
+    "note": "a lit train crossing a snowy stone viaduct at night as snow falls",
+    "rows": 100
+  },
+  "snowfall": {
+    "category": "nature",
+    "cols": 64,
+    "file": "snowfall",
+    "fps": 20,
+    "frames": 24,
+    "note": "snow swaying down, building drifts on the ground and a fence",
+    "rows": 22
+  },
+  "solar-system": {
+    "category": "space",
+    "cols": 61,
+    "file": "solar-system",
+    "fps": 20,
+    "frames": 24,
+    "note": "four planets on dotted orbits, periods by kepler's third law",
+    "rows": 29
+  },
+  "sparkline": {
+    "category": "data",
+    "cols": 72,
+    "file": "sparkline",
+    "fps": 12,
+    "frames": 24,
+    "note": "three live block sparklines scrolling left, values at right",
+    "rows": 9
+  },
+  "sparks": {
+    "category": "effects",
+    "cols": 64,
+    "file": "sparks",
+    "fps": 30,
+    "frames": 24,
+    "note": "an angle grinder throwing sparks that arc, skip and cool",
+    "rows": 20
+  },
+  "spider": {
+    "category": "creatures",
+    "cols": 28,
+    "file": "spider",
+    "fps": 15,
+    "frames": 24,
+    "note": "a spider lowering itself on silk, then climbing back up",
+    "rows": 24
+  },
+  "spinners": {
+    "category": "ui",
+    "cols": 66,
+    "file": "spinners",
+    "fps": 12,
+    "frames": 24,
+    "note": "twelve loading spinners side by side, each with its name",
+    "rows": 13
+  },
+  "split-flap": {
+    "category": "type",
+    "cols": 61,
+    "file": "split-flap",
+    "fps": 15,
+    "frames": 24,
+    "note": "a departures board whose flaps riffle to each new line",
+    "rows": 18
+  },
+  "spring": {
+    "category": "shapes",
+    "cols": 40,
+    "file": "spring",
+    "fps": 30,
+    "frames": 24,
+    "note": "a weight bouncing on a coil spring, its coils bunching",
+    "rows": 28
+  },
+  "starfield": {
+    "category": "space",
+    "cols": 64,
+    "file": "starfield",
+    "fps": 30,
+    "frames": 24,
+    "note": "stars rush out from the centre and streak at the edges",
+    "rows": 24
+  },
+  "starlings": {
+    "category": "creatures",
+    "cols": 64,
+    "file": "starlings",
+    "fps": 30,
+    "frames": 24,
+    "note": "a murmuration wheeling about, split by a passing falcon",
+    "rows": 16
+  },
+  "storm-plains": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "storm-plains",
+    "fps": 15,
+    "frames": 24,
+    "note": "an anvil thunderhead at dusk flickering over a wheat field",
+    "rows": 100
+  },
+  "sundial": {
+    "category": "objects",
+    "cols": 65,
+    "file": "sundial",
+    "fps": 10,
+    "frames": 24,
+    "note": "jaipur's samrat yantra, its shadow set by your local time",
+    "rows": 23
+  },
+  "sunrise": {
+    "category": "nature",
+    "cols": 60,
+    "file": "sunrise",
+    "fps": 15,
+    "frames": 24,
+    "note": "the sun lifting off a sea horizon, its path glittering",
+    "rows": 20
+  },
+  "supabase": {
+    "category": "companies",
+    "cols": 55,
+    "file": "supabase",
+    "fps": 30,
+    "frames": 24,
+    "note": "the green bolt, glinting now and then",
+    "rows": 28
+  },
+  "supermemory": {
+    "category": "companies",
+    "cols": 68,
+    "file": "supermemory",
+    "fps": 30,
+    "frames": 24,
+    "note": "the two mirrored strokes, glinting now and then",
+    "rows": 28
+  },
+  "svelte": {
+    "category": "logos",
+    "cols": 47,
+    "file": "svelte",
+    "fps": 30,
+    "frames": 24,
+    "note": "the orange ribbon folded round an s, glinting now and then",
+    "rows": 28
+  },
+  "swift": {
+    "category": "logos",
+    "cols": 58,
+    "file": "swift",
+    "fps": 30,
+    "frames": 24,
+    "note": "the swift on an orange square, glinting now and then",
+    "rows": 28
+  },
+  "synthwave": {
+    "category": "effects",
+    "cols": 65,
+    "file": "synthwave",
+    "fps": 20,
+    "frames": 24,
+    "note": "a grid rolling toward a striped sun behind a mountain ridge",
+    "rows": 28
+  },
+  "taj-dawn": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "taj-dawn",
+    "fps": 15,
+    "frames": 24,
+    "note": "the taj mahal at sunrise, mirrored in its pool through morning haze",
+    "rows": 100
+  },
+  "terminal": {
+    "category": "ui",
+    "cols": 62,
+    "file": "terminal",
+    "fps": 20,
+    "frames": 24,
+    "note": "a shell session: typed commands, output, scrolling, clear",
+    "rows": 18
+  },
+  "tesseract": {
+    "category": "shapes",
+    "cols": 54,
+    "file": "rest-tesseract",
+    "fps": 30,
+    "frames": 24,
+    "note": "a 4d hypercube turning, its cubes passing through each other",
+    "rows": 28
+  },
+  "three-body": {
+    "category": "space",
+    "cols": 65,
+    "file": "three-body",
+    "fps": 30,
+    "frames": 24,
+    "note": "three equal masses sharing one figure-eight orbit",
+    "rows": 15
+  },
+  "tokyo-rain": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "tokyo-rain",
+    "fps": 15,
+    "frames": 24,
+    "note": "a tokyo side street in the rain, neon signs shining on the wet road",
+    "rows": 100
+  },
+  "torus-knot": {
+    "category": "shapes",
+    "cols": 60,
+    "file": "rest-torus-knot",
+    "fps": 30,
+    "frames": 24,
+    "note": "a trefoil knot drawn as a lit tube, turning slowly",
+    "rows": 28
+  },
+  "train": {
+    "category": "objects",
+    "cols": 76,
+    "file": "train",
+    "fps": 15,
+    "frames": 24,
+    "note": "a steam train crossing on its track, smoke puffing behind",
+    "rows": 26
+  },
+  "tunnel": {
+    "category": "effects",
+    "cols": 64,
+    "file": "tunnel",
+    "fps": 30,
+    "frames": 24,
+    "note": "flying down a tiled tube that bends and twists",
+    "rows": 24
+  },
+  "tux": {
+    "category": "distros",
+    "cols": 49,
+    "file": "tux",
+    "fps": 30,
+    "frames": 24,
+    "note": "tux the penguin, scanned now and then",
+    "rows": 28
+  },
+  "tv-static": {
+    "category": "effects",
+    "cols": 58,
+    "file": "tv-static",
+    "fps": 20,
+    "frames": 24,
+    "note": "snow on an old set that tunes into a test card and loses it",
+    "rows": 26
+  },
+  "twisted-ring": {
+    "category": "shapes",
+    "cols": 46,
+    "file": "twisted-ring",
+    "fps": 30,
+    "frames": 24,
+    "note": "a square ring twisted three quarters, so it has one face",
+    "rows": 21
+  },
+  "typescript": {
+    "category": "logos",
+    "cols": 56,
+    "file": "typescript",
+    "fps": 30,
+    "frames": 24,
+    "note": "ts on a blue square, glinting now and then",
+    "rows": 28
+  },
+  "typewriter": {
+    "category": "type",
+    "cols": 44,
+    "file": "typewriter",
+    "fps": 20,
+    "frames": 24,
+    "note": "phrases typed and deleted in turn behind a blinking cursor",
+    "rows": 3
+  },
+  "ubuntu": {
+    "category": "distros",
+    "cols": 58,
+    "file": "ubuntu",
+    "fps": 30,
+    "frames": 24,
+    "note": "the circle of friends, in orange, scanned now and then",
+    "rows": 28
+  },
+  "uptime-bar": {
+    "category": "data",
+    "cols": 64,
+    "file": "uptime-bar",
+    "fps": 8,
+    "frames": 24,
+    "note": "60-day uptime bars for three services, a new day slides in",
+    "rows": 15
+  },
+  "varanasi-ghats": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "varanasi-ghats",
+    "fps": 15,
+    "frames": 24,
+    "note": "dusk aarti on the ganga, lamps on the steps and diyas on the water",
+    "rows": 100
+  },
+  "vercel": {
+    "category": "companies",
+    "cols": 64,
+    "file": "vercel",
+    "fps": 30,
+    "frames": 24,
+    "note": "the vercel triangle, glinting now and then",
+    "rows": 28
+  },
+  "vinyl": {
+    "category": "objects",
+    "cols": 64,
+    "file": "vinyl",
+    "fps": 24,
+    "frames": 24,
+    "note": "a record turning under the tonearm, seen from above",
+    "rows": 25
+  },
+  "void-linux": {
+    "category": "distros",
+    "cols": 56,
+    "file": "void-linux",
+    "fps": 30,
+    "frames": 24,
+    "note": "the green ring, cut through, scanned now and then",
+    "rows": 28
+  },
+  "volcano-night": {
+    "category": "scenes",
+    "cols": 200,
+    "file": "volcano-night",
+    "fps": 15,
+    "frames": 24,
+    "note": "a volcano erupting at night, lava rivers, an ash plume full of lightning",
+    "rows": 100
+  },
+  "voronoi": {
+    "category": "generative",
+    "cols": 64,
+    "file": "voronoi",
+    "fps": 15,
+    "frames": 24,
+    "note": "cells of ground nearest each drifting seed",
+    "rows": 22
+  },
+  "wave-interference": {
+    "category": "physics",
+    "cols": 72,
+    "file": "wave-interference",
+    "fps": 24,
+    "frames": 24,
+    "note": "two sources in a ripple tank, still lines fanning out",
+    "rows": 26
+  },
+  "wave-text": {
+    "category": "type",
+    "cols": 36,
+    "file": "wave-text",
+    "fps": 15,
+    "frames": 24,
+    "note": "a swell running through a line of text, left to right",
+    "rows": 5
+  },
+  "whale": {
+    "category": "creatures",
+    "cols": 72,
+    "file": "whale",
+    "fps": 15,
+    "frames": 24,
+    "note": "a whale blows, arches its back and dives, fluke last",
+    "rows": 18
+  },
+  "wind": {
+    "category": "nature",
+    "cols": 64,
+    "file": "wind",
+    "fps": 15,
+    "frames": 24,
+    "note": "gusts streaming along bending lines, curling at the head",
+    "rows": 14
+  },
+  "windmill": {
+    "category": "objects",
+    "cols": 64,
+    "file": "windmill",
+    "fps": 20,
+    "frames": 24,
+    "note": "four lattice sails turning on a dutch mill, clouds passing",
+    "rows": 28
+  },
+  "zig": {
+    "category": "logos",
+    "cols": 61,
+    "file": "zig",
+    "fps": 30,
+    "frames": 24,
+    "note": "the slanted z in brackets, glinting now and then",
+    "rows": 28
+  },
+  "zorin-os": {
+    "category": "distros",
+    "cols": 64,
+    "file": "zorin-os",
+    "fps": 30,
+    "frames": 24,
+    "note": "the z in blue stripes, scanned now and then",
+    "rows": 28
+  }
+}

@@ -1,0 +1,455 @@
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 █                                      │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 █                                      │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 █                                      │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 █                                      │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 l█                                     │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 lo█                                    │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 lo█                                    │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 lo█                                    │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 loc█                                   │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 loca█                                  │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 loca█                                  │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 local█                                 │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 local█                                 │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localh█                                │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localh█                                │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localho█                               │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localho█                               │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhos█                              │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhos█                              │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost█                             │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost█                             │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost█                             │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost█                             │
+│                                                            │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ █                                                          │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯

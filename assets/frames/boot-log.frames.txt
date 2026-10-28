@@ -1,0 +1,407 @@
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+ [ WARN ] clock not synced, using hardware time                 
+ [  OK  ] started system logger                                 
+ [  OK  ] reached target sockets                                
+ [  OK  ] reached target basic system                           
+ [  OK  ] finished waiting for network                          
+ [  OK  ] reached target network                                
+ [  OK  ] synced clock to network time                          
+ [  OK  ] started secure shell server                           
+ [  OK  ] started job scheduler                                 
+ [  OK  ] started print spooler                                 
+ [  OK  ] reached target multi-user system                      
+                                                                
+ node-1 login: _                                                
+===
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+ [ WARN ] clock not synced, using hardware time                 
+ [  OK  ] started system logger                                 
+ [  OK  ] reached target sockets                                
+ [  OK  ] reached target basic system                           
+ [  OK  ] finished waiting for network                          
+ [  OK  ] reached target network                                
+ [  OK  ] synced clock to network time                          
+ [  OK  ] started secure shell server                           
+ [  OK  ] started job scheduler                                 
+ [  OK  ] started print spooler                                 
+ [  OK  ] reached target multi-user system                      
+                                                                
+ node-1 login: _                                                
+===
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+ [ WARN ] clock not synced, using hardware time                 
+ [  OK  ] started system logger                                 
+ [  OK  ] reached target sockets                                
+ [  OK  ] reached target basic system                           
+ [  OK  ] finished waiting for network                          
+ [  OK  ] reached target network                                
+ [  OK  ] synced clock to network time                          
+ [  OK  ] started secure shell server                           
+ [  OK  ] started job scheduler                                 
+ [  OK  ] started print spooler                                 
+ [  OK  ] reached target multi-user system                      
+                                                                
+ node-1 login: _                                                
+===
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+ [ WARN ] clock not synced, using hardware time                 
+ [  OK  ] started system logger                                 
+ [  OK  ] reached target sockets                                
+ [  OK  ] reached target basic system                           
+ [  OK  ] finished waiting for network                          
+ [  OK  ] reached target network                                
+ [  OK  ] synced clock to network time                          
+ [  OK  ] started secure shell server                           
+ [  OK  ] started job scheduler                                 
+ [  OK  ] started print spooler                                 
+ [  OK  ] reached target multi-user system                      
+                                                                
+ node-1 login: _                                                
+===
+ _                                                              
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ _                                                              
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory         0 MB of 16384 MB                        testing 
+            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x000000000    0% 
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory         0 MB of 16384 MB                        testing 
+            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x000000000    0% 
+ display    1920 x 1080 at 60 Hz                             ok 
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory       136 MB of 16384 MB                        testing 
+            ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x008888000    0% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting /                                         
+ usb        detecting \                                         
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory       682 MB of 16384 MB                        testing 
+            █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x02AAAA000    4% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting /                                         
+ usb        detecting \                                         
+ network    detecting -                                         
+ sensors    detecting -                                         
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      1228 MB of 16384 MB                        testing 
+            ██▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x04CCCC000    7% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting -                                         
+ usb        detecting |                                         
+ network    detecting \                                         
+ sensors    detecting \                                         
+ boot order disk 0, usb, network                                
+                                                                
+                                                                
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      1774 MB of 16384 MB                        testing 
+            ███▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x06EEEE000   10% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting \                                         
+ usb        detecting /                                         
+ network    detecting |                                         
+ sensors    detecting \                                         
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      2321 MB of 16384 MB                        testing 
+            ████▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x091111000   14% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting \                                         
+ usb        detecting /                                         
+ network    detecting |                                         
+ sensors    detecting |                                         
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      2867 MB of 16384 MB                        testing 
+            █████▌░░░░░░░░░░░░░░░░░░░░░░░░░░  0x0B3333000   17% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting |                                         
+ usb        detecting -                                         
+ network    detecting /                                         
+ sensors    detecting /                                         
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      3413 MB of 16384 MB                        testing 
+            ██████▋░░░░░░░░░░░░░░░░░░░░░░░░░  0x0D5555000   20% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting /                                         
+ usb        detecting \                                         
+ network    detecting -                                         
+ sensors    detecting /                                         
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      3959 MB of 16384 MB                        testing 
+            ███████▋░░░░░░░░░░░░░░░░░░░░░░░░  0x0F7777000   24% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting /                                         
+ usb        detecting \                                         
+ network    detecting -                                         
+ sensors    detecting -                                         
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      4505 MB of 16384 MB                        testing 
+            ████████▊░░░░░░░░░░░░░░░░░░░░░░░  0x119999000   27% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting -                                         
+ usb        detecting |                                         
+ network    detecting \                                         
+ sensors    detecting -                                         
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      5051 MB of 16384 MB                        testing 
+            █████████▊░░░░░░░░░░░░░░░░░░░░░░  0x13BBBB000   30% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting \                                         
+ usb        detecting /                                         
+ network    detecting |                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      5597 MB of 16384 MB                        testing 
+            ██████████▉░░░░░░░░░░░░░░░░░░░░░  0x15DDDD000   34% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting \                                         
+ usb        detecting /                                         
+ network    detecting |                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      6144 MB of 16384 MB                        testing 
+            ████████████░░░░░░░░░░░░░░░░░░░░  0x180000000   37% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting |                                         
+ usb        detecting -                                         
+ network    detecting /                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      6690 MB of 16384 MB                        testing 
+            █████████████░░░░░░░░░░░░░░░░░░░  0x1A2222000   40% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting /                                         
+ usb        detecting \                                         
+ network    detecting -                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      7236 MB of 16384 MB                        testing 
+            ██████████████▏░░░░░░░░░░░░░░░░░  0x1C4444000   44% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    detecting /                                         
+ usb        detecting \                                         
+ network    detecting -                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                

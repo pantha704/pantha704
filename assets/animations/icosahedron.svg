@@ -1,0 +1,607 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of icosahedron">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(131.39 16.00) scale(1.2597)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                                              </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14">                       __________o            </tspan>
+<tspan x="0" dy="14">             ___--o_------       |\           </tspan>
+<tspan x="0" dy="14">           @-_  / |   - _       |  \          </tspan>
+<tspan x="0" dy="14">          /|  \_          - _   |   \         </tspan>
+<tspan x="0" dy="14">        _/| /   \__            |  |  \        </tspan>
+<tspan x="0" dy="14">       /  |        \_          |  +  \        </tspan>
+<tspan x="0" dy="14">      /   |        | \__    _ |  |  _ \       </tspan>
+<tspan x="0" dy="14">     o   |              \_    |        \      </tspan>
+<tspan x="0" dy="14">     |   |  - _ _ _ _ -   \__|   |      \     </tspan>
+<tspan x="0" dy="14">     |   |         +       _.@--______   \    </tspan>
+<tspan x="0" dy="14">      | |         /   _..-&#x27;  |  |     ----o   </tspan>
+<tspan x="0" dy="14">      | |         _.-&#x27;  \    |        _ _/    </tspan>
+<tspan x="0" dy="14">       || \  _..-&#x27;        \  |  |   . _/      </tspan>
+<tspan x="0" dy="14">       | _.-&#x27;                |    - _/        </tspan>
+<tspan x="0" dy="14">       @-__ \  /          _ |  +   /          </tspan>
+<tspan x="0" dy="14">          `-.-._  _ - - -   |    _/           </tspan>
+<tspan x="0" dy="14">             `o-_____       |  _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      ___________o            </tspan>
+<tspan x="0" dy="14">             ___--o_-------      |\           </tspan>
+<tspan x="0" dy="14">           @-_  / |   - _       |  \          </tspan>
+<tspan x="0" dy="14">          /|  \_          -     |   \         </tspan>
+<tspan x="0" dy="14">         /| /   \__         `  | |   \        </tspan>
+<tspan x="0" dy="14">        / |        \_          | +   \        </tspan>
+<tspan x="0" dy="14">       /  |       |  \__    _ |  |  _ \       </tspan>
+<tspan x="0" dy="14">      /   |             \_    |        \      </tspan>
+<tspan x="0" dy="14">     o   |  _ _ _ _ _ -   \__ | |     \ \     </tspan>
+<tspan x="0" dy="14">     |   |         +       _.@-_______   \    </tspan>
+<tspan x="0" dy="14">      |  |        /    _.-&#x27;  |  |     ----o   </tspan>
+<tspan x="0" dy="14">      |  |        _..-&#x27; \    |        _ _/    </tspan>
+<tspan x="0" dy="14">       || _   _.-&#x27;        \  | |    . _/      </tspan>
+<tspan x="0" dy="14">       ||__.-&#x27;               |  _ - _/        </tspan>
+<tspan x="0" dy="14">        @.._   /        _ _ |  +   /          </tspan>
+<tspan x="0" dy="14">          `-.-._  _ - -     |    _/           </tspan>
+<tspan x="0" dy="14">             `o-_____       |  _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      ___________o            </tspan>
+<tspan x="0" dy="14">             ___--o_-------      |\           </tspan>
+<tspan x="0" dy="14">           @-_  / |   - _       |  \          </tspan>
+<tspan x="0" dy="14">          /|  \_          -     |   \         </tspan>
+<tspan x="0" dy="14">         /| /   \__         `  | |   \        </tspan>
+<tspan x="0" dy="14">        / |        \_          | +   \        </tspan>
+<tspan x="0" dy="14">       /  |       |  \__  _ . |  |  _ \       </tspan>
+<tspan x="0" dy="14">      /   |           _ \_    |        \      </tspan>
+<tspan x="0" dy="14">     o   |  - - - + &#x27;     \__ | |     \ \     </tspan>
+<tspan x="0" dy="14">     |   |          \      __@-_______   \    </tspan>
+<tspan x="0" dy="14">      |  |       /     _.-&#x27;  |  |     ----o   </tspan>
+<tspan x="0" dy="14">      |  |         _.-&#x27; \ _  |        _ _/    </tspan>
+<tspan x="0" dy="14">       || _   _.-&#x27;&#x27;          | |    . _/      </tspan>
+<tspan x="0" dy="14">       || _.-&#x27;               |  _ - _/        </tspan>
+<tspan x="0" dy="14">        @.__   /        _ _ |  +   /          </tspan>
+<tspan x="0" dy="14">          `-.-._  _ - -     |    _/           </tspan>
+<tspan x="0" dy="14">             `o--____       |  _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      ___________o            </tspan>
+<tspan x="0" dy="14">             ___--o__------      |\           </tspan>
+<tspan x="0" dy="14">           @-_  / |   - _       |  \          </tspan>
+<tspan x="0" dy="14">          /|  \_          -     |   \         </tspan>
+<tspan x="0" dy="14">         /| /   \__         `  | |   \        </tspan>
+<tspan x="0" dy="14">        / |        \_          | +   \        </tspan>
+<tspan x="0" dy="14">       /  |       |  \__  _ .  | |  _ \       </tspan>
+<tspan x="0" dy="14">      /   |           _ \_    |        \      </tspan>
+<tspan x="0" dy="14">     o   |  - - - + &#x27;     \__ | |     \ \     </tspan>
+<tspan x="0" dy="14">     |   |          \       _@________   \    </tspan>
+<tspan x="0" dy="14">      |  |       /     _.--&#x27; |  |     ----o   </tspan>
+<tspan x="0" dy="14">      |  |         _.-&#x27; \ _  |        _ _/    </tspan>
+<tspan x="0" dy="14">       || _   _..-&#x27;          | |    . _/      </tspan>
+<tspan x="0" dy="14">       || _.-&#x27;               |  _ &#x27; _/        </tspan>
+<tspan x="0" dy="14">        @.__   /        _ _  | +   /          </tspan>
+<tspan x="0" dy="14">          `-._._  _ - -     |    _/           </tspan>
+<tspan x="0" dy="14">              o--____       |  _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                     ____________o            </tspan>
+<tspan x="0" dy="14">             ___--o__------      |\           </tspan>
+<tspan x="0" dy="14">           @--- / |   - _       |  \          </tspan>
+<tspan x="0" dy="14">          /| \__          - _   |   \         </tspan>
+<tspan x="0" dy="14">         /| /   \_             | |   \        </tspan>
+<tspan x="0" dy="14">        / |       \__          | +   \        </tspan>
+<tspan x="0" dy="14">       /  |       |  \__  _ -  | |  _ \       </tspan>
+<tspan x="0" dy="14">     _/   |           . \_    |        \      </tspan>
+<tspan x="0" dy="14">     o   |  - - - + &#x27;     \__ | |     \ \     </tspan>
+<tspan x="0" dy="14">     |   |          \       _@_______    \    </tspan>
+<tspan x="0" dy="14">      |  |       /     __.-&#x27; |  |    -----o   </tspan>
+<tspan x="0" dy="14">      |  |         _.-&#x27; \ _  |        _ _/    </tspan>
+<tspan x="0" dy="14">       || _    _.-&#x27;          | |    . _/      </tspan>
+<tspan x="0" dy="14">       || _.-&#x27;&#x27;              |  _ &#x27; _/        </tspan>
+<tspan x="0" dy="14">        @._ \  /        _ _  | +   /          </tspan>
+<tspan x="0" dy="14">          `-._._  _ - -     |    _/           </tspan>
+<tspan x="0" dy="14">              o--____       |  _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                     ____________o            </tspan>
+<tspan x="0" dy="14">             ___--o__------      |\           </tspan>
+<tspan x="0" dy="14">           @--- / |   - _       |  \          </tspan>
+<tspan x="0" dy="14">          /| \__          - _   |   \         </tspan>
+<tspan x="0" dy="14">         / |    \_            . |    \        </tspan>
+<tspan x="0" dy="14">       _/ |       \_           | +   \        </tspan>
+<tspan x="0" dy="14">      / / |       | \__   _ -  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |            \_     |        \      </tspan>
+<tspan x="0" dy="14">    o -  |  - - - + &#x27;    \_   | |     \ \     </tspan>
+<tspan x="0" dy="14">     \   |          \      \__|          \    </tspan>
+<tspan x="0" dy="14">      \  |       /    \ _ _.-@------------o   </tspan>
+<tspan x="0" dy="14">      \  |           _.-&#x27;&#x27;   |        _ _/    </tspan>
+<tspan x="0" dy="14">       \|       _.-&#x27;&#x27;        | |    . _/      </tspan>
+<tspan x="0" dy="14">       \|  _.-&#x27;&#x27;             |  _ &#x27; _/        </tspan>
+<tspan x="0" dy="14">        @._ \  /        _ _  | +   /          </tspan>
+<tspan x="0" dy="14">          `-._._  _ - -      |   _/           </tspan>
+<tspan x="0" dy="14">              o--____       |  _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                     ____________o            </tspan>
+<tspan x="0" dy="14">             ___--o__------      |\           </tspan>
+<tspan x="0" dy="14">           @--- / |   - _       |  \          </tspan>
+<tspan x="0" dy="14">          /| \__          - _   |   \         </tspan>
+<tspan x="0" dy="14">         / |    \_            - |    \        </tspan>
+<tspan x="0" dy="14">       _/ |       \_           | +   \        </tspan>
+<tspan x="0" dy="14">      / / |       | \__   _ -  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |            \_      |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + &#x27;    \__  | |     \ \     </tspan>
+<tspan x="0" dy="14">     \   |          \       \_|          \    </tspan>
+<tspan x="0" dy="14">      \  |       /    \ _ _..-@-----------o   </tspan>
+<tspan x="0" dy="14">      \  |           _..-&#x27;    |       _ _/    </tspan>
+<tspan x="0" dy="14">       \ |      _..-&#x27;        | |    - _/      </tspan>
+<tspan x="0" dy="14">       \|  _.--&#x27;             |  _ &#x27; _/        </tspan>
+<tspan x="0" dy="14">        @__ \  /        _ _  | +   /          </tspan>
+<tspan x="0" dy="14">          `-._._  _ - -      |   _/           </tspan>
+<tspan x="0" dy="14">              o--____        | _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                    _____________o            </tspan>
+<tspan x="0" dy="14">             ___-o____-----      |\           </tspan>
+<tspan x="0" dy="14">           @---- |    - _       |  \          </tspan>
+<tspan x="0" dy="14">          /| \__          - _   |   \         </tspan>
+<tspan x="0" dy="14">         / |    \_            - |    \        </tspan>
+<tspan x="0" dy="14">       _/ |       \_           | +   \        </tspan>
+<tspan x="0" dy="14">      / / |       | \__   _ -  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |            \_      |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + &#x27;    \__  | |     \ \     </tspan>
+<tspan x="0" dy="14">     \   |          \       \_|          \    </tspan>
+<tspan x="0" dy="14">      \  |       /    \ _ __.-@-----------o   </tspan>
+<tspan x="0" dy="14">      \  |           __.-&#x27;    |       _ _/    </tspan>
+<tspan x="0" dy="14">       \ |      _..-&#x27;        | |    - _/      </tspan>
+<tspan x="0" dy="14">       \|  _..-&#x27;             |  _ &#x27; _/        </tspan>
+<tspan x="0" dy="14">        @__ \  /        _ _  | +   /          </tspan>
+<tspan x="0" dy="14">          `-._._  _ - -      |   _/           </tspan>
+<tspan x="0" dy="14">              o--____        | _/             </tspan>
+<tspan x="0" dy="14">                    ---___  |_/               </tspan>
+<tspan x="0" dy="14">                          --o                 </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                   ______________o            </tspan>
+<tspan x="0" dy="14">             ___-o____------     |\           </tspan>
+<tspan x="0" dy="14">           @---- |    - _       |  \          </tspan>
+<tspan x="0" dy="14">          /| \_           - _   |   \         </tspan>
+<tspan x="0" dy="14">         / |   \__            - |    \        </tspan>
+<tspan x="0" dy="14">       _/ |       \_           | +   \        </tspan>
+<tspan x="0" dy="14">      / / |       | \__   . -  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |            \_      |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + &#x27;    \__  | |       \     </tspan>
+<tspan x="0" dy="14">     \   |          \ _     \_|          \    </tspan>
+<tspan x="0" dy="14">      \  |       /      _  _.-@-----------o   </tspan>
+<tspan x="0" dy="14">      \  |            _.-&#x27;&#x27;   |       . _/    </tspan>
+<tspan x="0" dy="14">       \ |      __.-&#x27;&#x27;       | |  . &#x27; _/      </tspan>
+<tspan x="0" dy="14">       \|  __.-&#x27;             | +    _/        </tspan>
+<tspan x="0" dy="14">        @__ \  /      _ _ -  |     /          </tspan>
+<tspan x="0" dy="14">          `-._._  - -        |   _/           </tspan>
+<tspan x="0" dy="14">              o--____        | _/             </tspan>
+<tspan x="0" dy="14">                    ---___  | /               </tspan>
+<tspan x="0" dy="14">                          --o/                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                   ______________o            </tspan>
+<tspan x="0" dy="14">              _.-o____------     |\           </tspan>
+<tspan x="0" dy="14">           @-&#x27;-- |    - _       |  \          </tspan>
+<tspan x="0" dy="14">          /| \_           - _   |   \         </tspan>
+<tspan x="0" dy="14">         / |   \__            - |    \        </tspan>
+<tspan x="0" dy="14">       _/ |       \_          _ | _  \        </tspan>
+<tspan x="0" dy="14">      /   |       | \__   . -  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |         _  \_      |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - +      \__   |        \     </tspan>
+<tspan x="0" dy="14">     \   |          \ _     \_|          \    </tspan>
+<tspan x="0" dy="14">      \  |       /      _  _..@-----------o   </tspan>
+<tspan x="0" dy="14">      \  |            _.--&#x27;   |       . _/    </tspan>
+<tspan x="0" dy="14">       \ |       _.--&#x27;      \ |   . &#x27; _/      </tspan>
+<tspan x="0" dy="14">       \| \ _.-&#x27;&#x27;            | +     /        </tspan>
+<tspan x="0" dy="14">        @__&#x27;   /      _ _ -  | |   _/         </tspan>
+<tspan x="0" dy="14">          `-._._  - -        |   _/           </tspan>
+<tspan x="0" dy="14">              o--____        |  /             </tspan>
+<tspan x="0" dy="14">                    ---____  |_/              </tspan>
+<tspan x="0" dy="14">                          `--o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                   ______________o            </tspan>
+<tspan x="0" dy="14">              _.-o____------     |\           </tspan>
+<tspan x="0" dy="14">           @-&#x27;---     - _        | \          </tspan>
+<tspan x="0" dy="14">          /| \_           - _   |   \         </tspan>
+<tspan x="0" dy="14">         / |   \__            - |    \        </tspan>
+<tspan x="0" dy="14">       _/ |       \_          _ | _  \        </tspan>
+<tspan x="0" dy="14">      /   |       | \__   . -  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |         _  \_      |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - +      \_    |        \     </tspan>
+<tspan x="0" dy="14">     \   |          \ _    \__|          \    </tspan>
+<tspan x="0" dy="14">      \  |       /      _  __.@-----------o   </tspan>
+<tspan x="0" dy="14">      \  |            _..-&#x27;   |       . _/    </tspan>
+<tspan x="0" dy="14">       \ |       _..-&#x27;      \ |   . &#x27; _/      </tspan>
+<tspan x="0" dy="14">       \| \ _.--&#x27;           _ | &#x27;    /        </tspan>
+<tspan x="0" dy="14">        @__&#x27;   /      _ - -  |     _/         </tspan>
+<tspan x="0" dy="14">          `-._._  - -        |   _/           </tspan>
+<tspan x="0" dy="14">              o--____        |  /             </tspan>
+<tspan x="0" dy="14">                    ----___  |_/              </tspan>
+<tspan x="0" dy="14">                          `--o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                  _______________o            </tspan>
+<tspan x="0" dy="14">               _-o  _____----    |\           </tspan>
+<tspan x="0" dy="14">           __-&#x27;_----  - _        | \          </tspan>
+<tspan x="0" dy="14">          _@\_            - _   |   \         </tspan>
+<tspan x="0" dy="14">         / |  \__             - |    \        </tspan>
+<tspan x="0" dy="14">        / |      \_           _ | _  \        </tspan>
+<tspan x="0" dy="14">      _/  |        \__    . &#x27;  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |         _ \__      |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - +      \_    |        \     </tspan>
+<tspan x="0" dy="14">     \    |         \ _    \__|          \    </tspan>
+<tspan x="0" dy="14">     \   |       /      _   _.@-----------o   </tspan>
+<tspan x="0" dy="14">      \  |             _..-&#x27;  |       . _/    </tspan>
+<tspan x="0" dy="14">       \ |      /  _.-&#x27;     \ |   . &#x27; _/      </tspan>
+<tspan x="0" dy="14">       \ |    _.-&#x27;&#x27;         _ | &#x27;    /        </tspan>
+<tspan x="0" dy="14">        \__.-&#x27; /      _ - -  |     _/         </tspan>
+<tspan x="0" dy="14">        @--____ _ - -        |   _/           </tspan>
+<tspan x="0" dy="14">              o--____        |  /             </tspan>
+<tspan x="0" dy="14">                    ----___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">               _-o-----_____-----o            </tspan>
+<tspan x="0" dy="14">           __-&#x27;__------ _        |\           </tspan>
+<tspan x="0" dy="14">          _@\_            - _   |  \          </tspan>
+<tspan x="0" dy="14">         / |  \__             - |   \         </tspan>
+<tspan x="0" dy="14">        /  |     \_           . | _  \        </tspan>
+<tspan x="0" dy="14">      _/  |        \__    . &#x27;  | |  _ \       </tspan>
+<tspan x="0" dy="14">     /    |         _ \__      |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + _    \_    |        \     </tspan>
+<tspan x="0" dy="14">     \    |           _    \__|          \    </tspan>
+<tspan x="0" dy="14">      \   |      /      _   _.@-----------o   </tspan>
+<tspan x="0" dy="14">      \  |              _.-&#x27;  |       . _/    </tspan>
+<tspan x="0" dy="14">       \ |      /  _.--&#x27;    \ |   . &#x27; _/      </tspan>
+<tspan x="0" dy="14">        \|     _.-&#x27;         _ | &#x27;    /        </tspan>
+<tspan x="0" dy="14">        \|_.--&#x27;       _ - -  |     _/         </tspan>
+<tspan x="0" dy="14">         @--___ _ - -        |   _/           </tspan>
+<tspan x="0" dy="14">               ---___        |  /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                _o_______________             </tspan>
+<tspan x="0" dy="14">              _/    -  _____-----o            </tspan>
+<tspan x="0" dy="14">            _/____----- - _      |\           </tspan>
+<tspan x="0" dy="14">          _@__              - _ |  \          </tspan>
+<tspan x="0" dy="14">         / |  \__               |   \         </tspan>
+<tspan x="0" dy="14">        /  |     \_         _ - | \  \        </tspan>
+<tspan x="0" dy="14">      _/  |        \__  _ -    |    \ \       </tspan>
+<tspan x="0" dy="14">     /    |         _ \_       |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + _   \__    |        \     </tspan>
+<tspan x="0" dy="14">     \    |           _    \__|          \    </tspan>
+<tspan x="0" dy="14">      \   |      /      _   __@-----------o   </tspan>
+<tspan x="0" dy="14">      \ \ |             _.-&#x27;  |       - _/    </tspan>
+<tspan x="0" dy="14">       \ |      /  __.-&#x27;    \ |   . &#x27; _/      </tspan>
+<tspan x="0" dy="14">        \|     _.-&#x27;         _ | &#x27;    /        </tspan>
+<tspan x="0" dy="14">        \|_..-&#x27;       _ - -   |    _/         </tspan>
+<tspan x="0" dy="14">         @--___ _ - -        |   _/           </tspan>
+<tspan x="0" dy="14">               ---___        |  /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                _o_______________             </tspan>
+<tspan x="0" dy="14">              _/    -  _____-----o            </tspan>
+<tspan x="0" dy="14">            _/____----- - _      |\           </tspan>
+<tspan x="0" dy="14">          _@__              - _ |  \          </tspan>
+<tspan x="0" dy="14">         / |  \__               |   \         </tspan>
+<tspan x="0" dy="14">        /  |     \_         _ - | \  \        </tspan>
+<tspan x="0" dy="14">      _/  |        \__  _ -    |    \ \       </tspan>
+<tspan x="0" dy="14">     /    |         _ \_       |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + _   \__    |        \     </tspan>
+<tspan x="0" dy="14">     \    |           _    \__ |         \    </tspan>
+<tspan x="0" dy="14">      \   |      /      _    _@----------_o   </tspan>
+<tspan x="0" dy="14">      \ \ |             _.--&#x27; |       - /     </tspan>
+<tspan x="0" dy="14">       \ |      /   _.-&#x27;    \ |   . &#x27; _/      </tspan>
+<tspan x="0" dy="14">        \|     _.-&#x27;&#x27;        _ | &#x27;    /        </tspan>
+<tspan x="0" dy="14">        \| _.-&#x27;       _ - -   |    _/         </tspan>
+<tspan x="0" dy="14">         @--___ _ - -        |   _/           </tspan>
+<tspan x="0" dy="14">               ---___        |  /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                _o-______________             </tspan>
+<tspan x="0" dy="14">              _/    -  ______----o            </tspan>
+<tspan x="0" dy="14">            _/____----- - _      |\           </tspan>
+<tspan x="0" dy="14">          _@__              - _ |  \          </tspan>
+<tspan x="0" dy="14">         / |  \_ |              |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \__         . &#x27; | \  \        </tspan>
+<tspan x="0" dy="14">      _/  |        \__  . &#x27;    |    \ \       </tspan>
+<tspan x="0" dy="14">     /    |         . \_       |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + _   \__    |        \     </tspan>
+<tspan x="0" dy="14">     \    |           _    \__ |         \    </tspan>
+<tspan x="0" dy="14">      \   |      /      _    _@----------_o   </tspan>
+<tspan x="0" dy="14">      \ \ |             __.-&#x27; |     _ - /     </tspan>
+<tspan x="0" dy="14">       \ |      /   _.-&#x27;    \ |   .   _/      </tspan>
+<tspan x="0" dy="14">        \|     _..-&#x27;      _ _ | &#x27;    /        </tspan>
+<tspan x="0" dy="14">        \| _.-&#x27;   _ _ - -     |    _/         </tspan>
+<tspan x="0" dy="14">         @-____ _            |   _/           </tspan>
+<tspan x="0" dy="14">               ---___        |  /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                _o-______________             </tspan>
+<tspan x="0" dy="14">              _/    - _ _____----o            </tspan>
+<tspan x="0" dy="14">            _/_____-----  _      |\           </tspan>
+<tspan x="0" dy="14">          _@__              - _ |  \          </tspan>
+<tspan x="0" dy="14">         / |  \_ |              |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \__         . &#x27; | \  \        </tspan>
+<tspan x="0" dy="14">      _/  |        \_   . &#x27;     |   \ \       </tspan>
+<tspan x="0" dy="14">     /    |          \_        |       \      </tspan>
+<tspan x="0" dy="14">    o - - | - - - + _  \__     |        \     </tspan>
+<tspan x="0" dy="14">     \    |           _   \_   |         \    </tspan>
+<tspan x="0" dy="14">      \   |      /      _   \__________--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |               __.-@     _ - /     </tspan>
+<tspan x="0" dy="14">       \ |      /    __.-&#x27;  \ |   -   _/      </tspan>
+<tspan x="0" dy="14">        \|      __.-&#x27;     _ _ | &#x27;    /        </tspan>
+<tspan x="0" dy="14">        \| _..-&#x27;  _ _ - -     |    _/         </tspan>
+<tspan x="0" dy="14">         @-___  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ----___        |  /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                _o-______________             </tspan>
+<tspan x="0" dy="14">              _/    - _ _____----o            </tspan>
+<tspan x="0" dy="14">            _/_____-----  _      |\           </tspan>
+<tspan x="0" dy="14">           @__              - _  | \          </tspan>
+<tspan x="0" dy="14">         _/|  \_ |              |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \__         . &#x27; | \  \        </tspan>
+<tspan x="0" dy="14">      _/   |     | \_   . &#x27;     |   _ \       </tspan>
+<tspan x="0" dy="14">     /    |          \__        |      \      </tspan>
+<tspan x="0" dy="14">    o - - | - -  +      \_     |        \     </tspan>
+<tspan x="0" dy="14">     \    |         \ _   \__  |         \    </tspan>
+<tspan x="0" dy="14">     \    |     /       _    \_|_______--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |                _..-@    _ - /     </tspan>
+<tspan x="0" dy="14">       \  |    /      _.--&#x27; \  |  -   _/      </tspan>
+<tspan x="0" dy="14">        \|       _.--&#x27;    _ - |      /        </tspan>
+<tspan x="0" dy="14">        \| __.-&#x27;&#x27; _ _ - -     |    _/         </tspan>
+<tspan x="0" dy="14">         @-___  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ----___         | /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                _o-______________             </tspan>
+<tspan x="0" dy="14">              _/    - _ _____----o            </tspan>
+<tspan x="0" dy="14">            _/_____-----  _      |\           </tspan>
+<tspan x="0" dy="14">           @_-              - _  | \          </tspan>
+<tspan x="0" dy="14">         _/| \__ |            _ |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \__       _ -   | \  \        </tspan>
+<tspan x="0" dy="14">      _/   |     | \_ _ -       |   _ \       </tspan>
+<tspan x="0" dy="14">     /    |       _  \__        |      \      </tspan>
+<tspan x="0" dy="14">    o - - | - -  +      \_     |        \     </tspan>
+<tspan x="0" dy="14">     \    |         \ _   \__  |         \    </tspan>
+<tspan x="0" dy="14">     \    |     /       _    \_| ______--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |                __.-@-   _ - /     </tspan>
+<tspan x="0" dy="14">       \  |    /      _..-&#x27; \  |  -   _/      </tspan>
+<tspan x="0" dy="14">        \|       _..-&#x27;    _ - |      /        </tspan>
+<tspan x="0" dy="14">        \|  _.--&#x27; _ _ - -     |    _/         </tspan>
+<tspan x="0" dy="14">         @-___  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ---____         | /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                o--______________             </tspan>
+<tspan x="0" dy="14">              _/    - _ _____----o            </tspan>
+<tspan x="0" dy="14">            _/ ____-----  _      |\           </tspan>
+<tspan x="0" dy="14">           @_--             - _  | \          </tspan>
+<tspan x="0" dy="14">         _/| \__ |            _ |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \_        _ -   | \  \        </tspan>
+<tspan x="0" dy="14">      _/   |      \__ _ -       |   _ \       </tspan>
+<tspan x="0" dy="14">     /    |       _  \__        |      \      </tspan>
+<tspan x="0" dy="14">    o - - | - -  +      \_     |        \     </tspan>
+<tspan x="0" dy="14">     \    |         \ _   \__  |         \    </tspan>
+<tspan x="0" dy="14">     \    |     |       _    \_| ______--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |               _ _.-@-   _ - /     </tspan>
+<tspan x="0" dy="14">       \  |    |      __.-&#x27;&#x27;   |  -   _/      </tspan>
+<tspan x="0" dy="14">        \|       _..-&#x27;    _ - |      /        </tspan>
+<tspan x="0" dy="14">        \|  _..-&#x27; _ _ - -     |    _/         </tspan>
+<tspan x="0" dy="14">         @-___  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ---____ _       | /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                o--_____________              </tspan>
+<tspan x="0" dy="14">              _/    - _ _____----o            </tspan>
+<tspan x="0" dy="14">            _/ _____----  _      |\           </tspan>
+<tspan x="0" dy="14">           @_--             - _  | \          </tspan>
+<tspan x="0" dy="14">         _/| \__ |            _ |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \_        _ -   | \  \        </tspan>
+<tspan x="0" dy="14">      _/   |      \__ _ -       |   _ \       </tspan>
+<tspan x="0" dy="14">     /    |       _  \_         |      \      </tspan>
+<tspan x="0" dy="14">    o - - | - -  +     \__      |       \     </tspan>
+<tspan x="0" dy="14">     \    |         \ _   \__  |         \    </tspan>
+<tspan x="0" dy="14">     \    |     |       _    \_|  _____--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |               \ _.-@--  _ - /     </tspan>
+<tspan x="0" dy="14">       \  |    |       _.--&#x27;   |  -   _/      </tspan>
+<tspan x="0" dy="14">        \ |      __.-&#x27;&#x27; _ _ - |      /        </tspan>
+<tspan x="0" dy="14">        \|  __.-&#x27; _ _ -       |    _/         </tspan>
+<tspan x="0" dy="14">         @-___  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ---____ _       | /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                o---____________              </tspan>
+<tspan x="0" dy="14">              _/    - _  ____----o            </tspan>
+<tspan x="0" dy="14">            _/ _____----- _      |\           </tspan>
+<tspan x="0" dy="14">           @_--             - _  | \          </tspan>
+<tspan x="0" dy="14">         _/| \__ |            _ |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \_        . &#x27;   | \  \        </tspan>
+<tspan x="0" dy="14">      _/   |      \__ . &#x27;       |   \ \       </tspan>
+<tspan x="0" dy="14">     /  _ | _ _  +   \_         |      \      </tspan>
+<tspan x="0" dy="14">    o -   |      |  _  \__      |       \     </tspan>
+<tspan x="0" dy="14">     \    |           _   \_   |         \    </tspan>
+<tspan x="0" dy="14">     \    |     |       \   \__|  _____--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |               \ _..@--  _ - /     </tspan>
+<tspan x="0" dy="14">       \  |    |       _..-&#x27;   |  &#x27;   _/      </tspan>
+<tspan x="0" dy="14">        \ |       _.--&#x27; _ _ - |      /        </tspan>
+<tspan x="0" dy="14">        \|  __.-&#x27;&#x27;  _ -       |    _/         </tspan>
+<tspan x="0" dy="14">         @____  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ---____ _       | /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                o---____________              </tspan>
+<tspan x="0" dy="14">              _/    - _  ____----@            </tspan>
+<tspan x="0" dy="14">            _/  ____----- _      |\           </tspan>
+<tspan x="0" dy="14">           @_---            - _  | \          </tspan>
+<tspan x="0" dy="14">         _/| \__ |            _ |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \_        . &#x27;   | \  \        </tspan>
+<tspan x="0" dy="14">      _/   |      \__ . &#x27;       |   \ \       </tspan>
+<tspan x="0" dy="14">     /  _  |  _  +   \_         |      \      </tspan>
+<tspan x="0" dy="14">    o -    |     |  _  \__      |       \     </tspan>
+<tspan x="0" dy="14">     \    |           _   \_   |         \    </tspan>
+<tspan x="0" dy="14">      \   |     |       \   \__|  _____--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |               \ __.@--  . - /     </tspan>
+<tspan x="0" dy="14">       \  |    |       __.-&#x27;   |  &#x27;   _/      </tspan>
+<tspan x="0" dy="14">        \ |       __.-&#x27; _ _ -  |     /        </tspan>
+<tspan x="0" dy="14">         \|  _..-&#x27;  _ -       |    _/         </tspan>
+<tspan x="0" dy="14">          @___  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ---____ _       | /             </tspan>
+<tspan x="0" dy="14">                     ---___  |_/              </tspan>
+<tspan x="0" dy="14">                           --o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                o---____________              </tspan>
+<tspan x="0" dy="14">              _/    - _  _____---@            </tspan>
+<tspan x="0" dy="14">            _/  ____----- _      |\           </tspan>
+<tspan x="0" dy="14">           @/---            - _  | \          </tspan>
+<tspan x="0" dy="14">         _/| \__ |            . |   \         </tspan>
+<tspan x="0" dy="14">        /  |    \_        . &#x27;   | \  \        </tspan>
+<tspan x="0" dy="14">      _/   |      \__ - &#x27;       |   \ \       </tspan>
+<tspan x="0" dy="14">     /  _  |  _  +   \_         |      \      </tspan>
+<tspan x="0" dy="14">    o -    |     |  _  \__      |       \     </tspan>
+<tspan x="0" dy="14">     \    |           \   \_   |         \    </tspan>
+<tspan x="0" dy="14">      \   |     |       \ _ \__|  _____--_o   </tspan>
+<tspan x="0" dy="14">      \ \ |                  _.@--  - &#x27; /     </tspan>
+<tspan x="0" dy="14">       \  |    |        _.-&#x27;&#x27;  |      _/      </tspan>
+<tspan x="0" dy="14">        \ |       __.-&#x27;&#x27;  -    |     /        </tspan>
+<tspan x="0" dy="14">         \|  __.-&#x27;  -         |    _/         </tspan>
+<tspan x="0" dy="14">          @___  _             |  _/           </tspan>
+<tspan x="0" dy="14">              ---____ _       | /             </tspan>
+<tspan x="0" dy="14">                     ---____  |/              </tspan>
+<tspan x="0" dy="14">                            -o                </tspan>
+<tspan x="0" dy="14">                                              </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+</g>
+</svg>

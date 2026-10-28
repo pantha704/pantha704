@@ -1,0 +1,343 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of progress-bar">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 65.63) scale(1.8750)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                                                </tspan>
+<tspan x="0" dy="14">  fetching  [===============&gt;          ]   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕███▎                      ▏   12%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#######################...]   88%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    15%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━───────────────   47%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [================&gt;         ]   61%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕███▌                      ▏   13%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#######################...]   89%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    16%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━───────────────   47%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [================&gt;         ]   63%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕███▊                      ▏   14%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#######################...]   89%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    18%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━╾──────────────   49%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [================&gt;         ]   64%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕████                      ▏   15%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#######################...]   90%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    19%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━──────────────   50%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [=================&gt;        ]   66%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕████▏                     ▏   16%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#######################...]   90%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    21%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━╾─────────────   51%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [=================&gt;        ]   67%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕████▍                     ▏   16%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#######################...]   91%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    23%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━╾─────────────   53%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [==================&gt;       ]   69%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕████▋                     ▏   17%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#######################...]   91%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    24%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━─────────────   54%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [==================&gt;       ]   70%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕████▉                     ▏   18%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   92%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    26%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━╾────────────   56%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [==================&gt;       ]   72%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕█████                     ▏   19%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   92%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    27%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━────────────   57%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [===================&gt;      ]   74%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕█████▎                    ▏   20%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   93%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    29%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━────────────   58%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [===================&gt;      ]   75%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕█████▍                    ▏   20%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   93%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    30%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━╾───────────   59%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [====================&gt;     ]   77%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕█████▋                    ▏   21%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   94%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    31%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━╾───────────   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [====================&gt;     ]   79%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕█████▊                    ▏   22%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   94%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    32%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━╾───────────   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [====================&gt;     ]   80%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕█████▉                    ▏   22%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   95%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    33%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━╾───────────   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [=====================&gt;    ]   81%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████                    ▏   23%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [########################..]   95%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    33%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━╾───────────   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [=====================&gt;    ]   83%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▎                   ▏   23%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   96%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    33%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━╾───────────   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [=====================&gt;    ]   84%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▎                   ▏   24%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   96%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    34%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━╾───────────   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [======================&gt;   ]   85%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▍                   ▏   24%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   97%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░    35%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━━───────────   60%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [======================&gt;   ]   86%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▌                   ▏   24%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   97%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░    36%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━━───────────   61%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [======================&gt;   ]   86%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▌                   ▏   25%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   97%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░    38%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━━───────────   61%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [======================&gt;   ]   87%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▋                   ▏   25%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   98%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░    40%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━━───────────   61%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [======================&gt;   ]   87%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▋                   ▏   25%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   98%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░    41%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━━───────────   62%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [======================&gt;   ]   87%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▋                   ▏   25%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   98%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░    43%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━━╾──────────   62%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  fetching  [======================&gt;   ]   87%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  unpacking ▕██████▊                   ▏   26%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  indexing  [#########################.]   99%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  building  █ █ █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░    45%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14">  linking   ━━━━━━━━━━━━━━━━━╾──────────   63%  </tspan>
+<tspan x="0" dy="14">                                                </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+</g>
+</svg>

@@ -1,0 +1,407 @@
+$ git log --graph --oneline                                 
+                                                            
+*    8acb841 (HEAD -> main) merge feat/search               
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    7867d2d readme: a banner in both themes                
+===
+$ git log --graph --oneline                                 
+                                                            
+*    8acb841 (HEAD -> main) merge feat/search               
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    7867d2d readme: a banner in both themes                
+===
+$ git log --graph --oneline                                 
+                                                            
+*    8acb841 (HEAD -> main) merge feat/search               
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    7867d2d readme: a banner in both themes                
+===
+$ git log --graph --oneline                                 
+                                                            
+*    8acb841 (HEAD -> main) merge feat/search               
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    7867d2d readme: a banner in both themes                
+===
+$ git log --graph --oneline                                 
+                                                            
+*    8acb841 (HEAD -> main) merge feat/search               
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    7867d2d readme: a banner in both themes                
+===
+$ git log --graph --oneline                                 
+                                                            
+*    8acb841 (HEAD -> main) merge feat/search               
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    7867d2d readme: a banner in both themes                
+===
+$ git log --graph --oneline                                 
+                                                            
+*    8acb841 (HEAD -> main) merge feat/search               
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    7867d2d readme: a banner in both themes                
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) c                               
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chor                            
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore:                          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bu                       
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump                     
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump ty                  
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump type                
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typesc              
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescrip           
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+===
+$ git log --graph --oneline                                 
+                                                            
+*    b411d4a (HEAD -> main) chore: bump typescript          
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+|/                                                          
+*    2ee9e40 (tag: v0.4.0) release 0.4.0                    

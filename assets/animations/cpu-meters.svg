@@ -1,0 +1,463 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of cpu-meters">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 57.27) scale(1.3636)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                                                                  </tspan>
+<tspan x="0" dy="14">   0[|||||||||||||||||||||98.0%]    4[|||||||||||||||####  73.5%] </tspan>
+<tspan x="0" dy="14">   1[|||||#               23.7%]    5[|||||||||||||||##### 75.9%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||##  74.9%]    6[||||||||||||||||||###86.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||### 75.1%]    7[||||||||||||||||||###91.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||****6.51G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.29 1.70 1.08    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  350M R 497.8  2.2  25:38.59  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  191M S  29.0  1.2   9:54.68  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  551M S  29.0  3.5  15:08.45  backup        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   8.8  4.4  26:37.06  build         </tspan>
+<tspan x="0" dy="14"> 22798 root     2.87G  621M S   1.3  3.9  12:22.59  editor        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||||98.0%]    4[|||||||||||||||####  73.5%] </tspan>
+<tspan x="0" dy="14">   1[|||||#               23.7%]    5[|||||||||||||||##### 75.9%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||##  74.9%]    6[||||||||||||||||||###86.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||### 75.1%]    7[||||||||||||||||||###91.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||****6.51G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.29 1.70 1.08    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  350M R 497.8  2.2  25:38.59  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  191M S  29.0  1.2   9:54.68  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  551M S  29.0  3.5  15:08.45  backup        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   8.8  4.4  26:37.06  build         </tspan>
+<tspan x="0" dy="14"> 22798 root     2.87G  621M S   1.3  3.9  12:22.59  editor        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||||98.0%]    4[|||||||||||||||####  73.5%] </tspan>
+<tspan x="0" dy="14">   1[|||||#               23.7%]    5[|||||||||||||||##### 75.9%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||##  74.9%]    6[||||||||||||||||||###86.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||### 75.1%]    7[||||||||||||||||||###91.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||****6.51G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.29 1.70 1.08    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  350M R 497.8  2.2  25:38.59  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  191M S  29.0  1.2   9:54.68  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  551M S  29.0  3.5  15:08.45  backup        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   8.8  4.4  26:37.06  build         </tspan>
+<tspan x="0" dy="14"> 22798 root     2.87G  621M S   1.3  3.9  12:22.59  editor        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||||98.0%]    4[|||||||||||||||####  73.5%] </tspan>
+<tspan x="0" dy="14">   1[|||||#               23.7%]    5[|||||||||||||||##### 75.9%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||##  74.9%]    6[||||||||||||||||||###86.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||### 75.1%]    7[||||||||||||||||||###91.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||****6.51G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.29 1.70 1.08    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  350M R 497.8  2.2  25:38.59  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  191M S  29.0  1.2   9:54.68  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  551M S  29.0  3.5  15:08.45  backup        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   8.8  4.4  26:37.06  build         </tspan>
+<tspan x="0" dy="14"> 22798 root     2.87G  621M S   1.3  3.9  12:22.59  editor        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||||98.0%]    4[|||||||||||||||####  73.5%] </tspan>
+<tspan x="0" dy="14">   1[|||||#               23.7%]    5[|||||||||||||||##### 75.9%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||##  74.9%]    6[||||||||||||||||||###86.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||### 75.1%]    7[||||||||||||||||||###91.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||****6.51G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.29 1.70 1.08    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  350M R 497.8  2.2  25:38.59  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  191M S  29.0  1.2   9:54.68  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  551M S  29.0  3.5  15:08.45  backup        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   8.8  4.4  26:37.06  build         </tspan>
+<tspan x="0" dy="14"> 22798 root     2.87G  621M S   1.3  3.9  12:22.59  editor        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##86.1%]    4[||||||||||||||||#### 76.0%] </tspan>
+<tspan x="0" dy="14">   1[||||#                20.0%]    5[|||||||||||||||||### 77.1%] </tspan>
+<tspan x="0" dy="14">   2[||||||||||||||||###  71.5%]    6[||||||||||||||||||||#99.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||##  73.9%]    7[||||||||||||||||||###87.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.57G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              142M/2.00G]  Load average: 3.32 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  361M R 493.8  2.3  25:41.06  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  546M R  30.1  3.4  15:08.60  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  192M S  26.2  1.2   9:54.81  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   6.2  4.4  26:37.10  build         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  457M S   2.9  2.9  10:04.26  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##86.1%]    4[||||||||||||||||#### 76.0%] </tspan>
+<tspan x="0" dy="14">   1[||||#                20.0%]    5[|||||||||||||||||### 77.1%] </tspan>
+<tspan x="0" dy="14">   2[||||||||||||||||###  71.5%]    6[||||||||||||||||||||#99.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||##  73.9%]    7[||||||||||||||||||###87.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.57G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              142M/2.00G]  Load average: 3.32 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  361M R 493.8  2.3  25:41.06  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  546M R  30.1  3.4  15:08.60  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  192M S  26.2  1.2   9:54.81  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   6.2  4.4  26:37.10  build         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  457M S   2.9  2.9  10:04.26  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##86.1%]    4[||||||||||||||||#### 76.0%] </tspan>
+<tspan x="0" dy="14">   1[||||#                20.0%]    5[|||||||||||||||||### 77.1%] </tspan>
+<tspan x="0" dy="14">   2[||||||||||||||||###  71.5%]    6[||||||||||||||||||||#99.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||##  73.9%]    7[||||||||||||||||||###87.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.57G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              142M/2.00G]  Load average: 3.32 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  361M R 493.8  2.3  25:41.06  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  546M R  30.1  3.4  15:08.60  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  192M S  26.2  1.2   9:54.81  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   6.2  4.4  26:37.10  build         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  457M S   2.9  2.9  10:04.26  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##86.1%]    4[||||||||||||||||#### 76.0%] </tspan>
+<tspan x="0" dy="14">   1[||||#                20.0%]    5[|||||||||||||||||### 77.1%] </tspan>
+<tspan x="0" dy="14">   2[||||||||||||||||###  71.5%]    6[||||||||||||||||||||#99.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||##  73.9%]    7[||||||||||||||||||###87.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.57G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              142M/2.00G]  Load average: 3.32 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  361M R 493.8  2.3  25:41.06  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  546M R  30.1  3.4  15:08.60  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  192M S  26.2  1.2   9:54.81  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   6.2  4.4  26:37.10  build         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  457M S   2.9  2.9  10:04.26  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##86.1%]    4[||||||||||||||||#### 76.0%] </tspan>
+<tspan x="0" dy="14">   1[||||#                20.0%]    5[|||||||||||||||||### 77.1%] </tspan>
+<tspan x="0" dy="14">   2[||||||||||||||||###  71.5%]    6[||||||||||||||||||||#99.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||##  73.9%]    7[||||||||||||||||||###87.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.57G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              142M/2.00G]  Load average: 3.32 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:45        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  361M R 493.8  2.3  25:41.06  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  546M R  30.1  3.4  15:08.60  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  192M S  26.2  1.2   9:54.81  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   6.2  4.4  26:37.10  build         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  457M S   2.9  2.9  10:04.26  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[||||||||||||||||||||#97.9%]    4[|||||||||||||||||####87.4%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.1%]    5[||||||||||||||||#### 76.6%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####79.2%]    6[|||||||||||||||||||##96.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####82.9%]    7[|||||||||||||||||||##86.2%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.63G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.34 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  371M R 528.6  2.3  25:43.70  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  543M S  27.5  3.4  15:08.74  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  194M S  25.3  1.2   9:54.93  server        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  241M S   4.9  1.5  12:52.72  shell         </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   4.5  4.4  26:37.12  build         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[||||||||||||||||||||#97.9%]    4[|||||||||||||||||####87.4%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.1%]    5[||||||||||||||||#### 76.6%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####79.2%]    6[|||||||||||||||||||##96.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####82.9%]    7[|||||||||||||||||||##86.2%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.63G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.34 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  371M R 528.6  2.3  25:43.70  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  543M S  27.5  3.4  15:08.74  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  194M S  25.3  1.2   9:54.93  server        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  241M S   4.9  1.5  12:52.72  shell         </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   4.5  4.4  26:37.12  build         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[||||||||||||||||||||#97.9%]    4[|||||||||||||||||####87.4%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.1%]    5[||||||||||||||||#### 76.6%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####79.2%]    6[|||||||||||||||||||##96.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####82.9%]    7[|||||||||||||||||||##86.2%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.63G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.34 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  371M R 528.6  2.3  25:43.70  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  543M S  27.5  3.4  15:08.74  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  194M S  25.3  1.2   9:54.93  server        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  241M S   4.9  1.5  12:52.72  shell         </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   4.5  4.4  26:37.12  build         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[||||||||||||||||||||#97.9%]    4[|||||||||||||||||####87.4%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.1%]    5[||||||||||||||||#### 76.6%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####79.2%]    6[|||||||||||||||||||##96.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####82.9%]    7[|||||||||||||||||||##86.2%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.63G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.34 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  371M R 528.6  2.3  25:43.70  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  543M S  27.5  3.4  15:08.74  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  194M S  25.3  1.2   9:54.93  server        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  241M S   4.9  1.5  12:52.72  shell         </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   4.5  4.4  26:37.12  build         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[||||||||||||||||||||#97.9%]    4[|||||||||||||||||####87.4%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.1%]    5[||||||||||||||||#### 76.6%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####79.2%]    6[|||||||||||||||||||##96.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####82.9%]    7[|||||||||||||||||||##86.2%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.63G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.34 1.71 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  371M R 528.6  2.3  25:43.70  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  543M S  27.5  3.4  15:08.74  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  194M S  25.3  1.2   9:54.93  server        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  241M S   4.9  1.5  12:52.72  shell         </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  692M S   4.5  4.4  26:37.12  build         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##83.7%]    4[|||||||||||||||||####82.9%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.2%]    5[||||||||||||||||||###79.4%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||||##82.4%]    6[||||||||||||||||||||#88.0%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||||##84.6%]    7[||||||||||||||||||###92.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.69G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.36 1.72 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  379M R 517.8  2.4  25:46.29  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  197M S  24.9  1.2   9:55.06  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  539M S  24.9  3.4  15:08.86  backup        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  244M S   5.5  1.5  12:52.75  shell         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  450M S   5.3  2.8  10:04.30  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##83.7%]    4[|||||||||||||||||####82.9%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.2%]    5[||||||||||||||||||###79.4%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||||##82.4%]    6[||||||||||||||||||||#88.0%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||||##84.6%]    7[||||||||||||||||||###92.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.69G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.36 1.72 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  379M R 517.8  2.4  25:46.29  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  197M S  24.9  1.2   9:55.06  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  539M S  24.9  3.4  15:08.86  backup        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  244M S   5.5  1.5  12:52.75  shell         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  450M S   5.3  2.8  10:04.30  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##83.7%]    4[|||||||||||||||||####82.9%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.2%]    5[||||||||||||||||||###79.4%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||||##82.4%]    6[||||||||||||||||||||#88.0%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||||##84.6%]    7[||||||||||||||||||###92.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.69G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.36 1.72 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  379M R 517.8  2.4  25:46.29  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  197M S  24.9  1.2   9:55.06  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  539M S  24.9  3.4  15:08.86  backup        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  244M S   5.5  1.5  12:52.75  shell         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  450M S   5.3  2.8  10:04.30  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##83.7%]    4[|||||||||||||||||####82.9%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.2%]    5[||||||||||||||||||###79.4%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||||##82.4%]    6[||||||||||||||||||||#88.0%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||||##84.6%]    7[||||||||||||||||||###92.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.69G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.36 1.72 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  379M R 517.8  2.4  25:46.29  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  197M S  24.9  1.2   9:55.06  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  539M S  24.9  3.4  15:08.86  backup        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  244M S   5.5  1.5  12:52.75  shell         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  450M S   5.3  2.8  10:04.30  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##83.7%]    4[|||||||||||||||||####82.9%] </tspan>
+<tspan x="0" dy="14">   1[||||#                19.2%]    5[||||||||||||||||||###79.4%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||||##82.4%]    6[||||||||||||||||||||#88.0%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||||##84.6%]    7[||||||||||||||||||###92.8%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.69G/15.5G]  Tasks: 142, 421 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              141M/2.00G]  Load average: 3.36 1.72 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:46        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  379M R 517.8  2.4  25:46.29  indexer       </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  197M S  24.9  1.2   9:55.06  server        </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  539M S  24.9  3.4  15:08.86  backup        </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  244M S   5.5  1.5  12:52.75  shell         </tspan>
+<tspan x="0" dy="14"> 32590 app      2.15G  450M S   5.3  2.8  10:04.30  sync          </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##90.3%]    4[||||||||||||||||##   68.2%] </tspan>
+<tspan x="0" dy="14">   1[|#                    6.6%]    5[||||||||||||||||||###92.0%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####84.3%]    6[|||||||||||||||||||##90.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####84.3%]    7[|||||||||||||||||||##81.0%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.74G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.38 1.73 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:47        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  386M R 517.3  2.4  25:48.87  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  541M S  20.9  3.4  15:08.97  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  198M S  19.1  1.2   9:55.15  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   4.6  4.4  26:37.16  build         </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  243M S   4.1  1.5  12:52.77  shell         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##90.3%]    4[||||||||||||||||##   68.2%] </tspan>
+<tspan x="0" dy="14">   1[|#                    6.6%]    5[||||||||||||||||||###92.0%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####84.3%]    6[|||||||||||||||||||##90.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####84.3%]    7[|||||||||||||||||||##81.0%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.74G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.38 1.73 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:47        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  386M R 517.3  2.4  25:48.87  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  541M S  20.9  3.4  15:08.97  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  198M S  19.1  1.2   9:55.15  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   4.6  4.4  26:37.16  build         </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  243M S   4.1  1.5  12:52.77  shell         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##90.3%]    4[||||||||||||||||##   68.2%] </tspan>
+<tspan x="0" dy="14">   1[|#                    6.6%]    5[||||||||||||||||||###92.0%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####84.3%]    6[|||||||||||||||||||##90.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####84.3%]    7[|||||||||||||||||||##81.0%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.74G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.38 1.73 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:47        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  386M R 517.3  2.4  25:48.87  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  541M S  20.9  3.4  15:08.97  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  198M S  19.1  1.2   9:55.15  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   4.6  4.4  26:37.16  build         </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  243M S   4.1  1.5  12:52.77  shell         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   0[|||||||||||||||||||##90.3%]    4[||||||||||||||||##   68.2%] </tspan>
+<tspan x="0" dy="14">   1[|#                    6.6%]    5[||||||||||||||||||###92.0%] </tspan>
+<tspan x="0" dy="14">   2[|||||||||||||||||####84.3%]    6[|||||||||||||||||||##90.2%] </tspan>
+<tspan x="0" dy="14">   3[|||||||||||||||||####84.3%]    7[|||||||||||||||||||##81.0%] </tspan>
+<tspan x="0" dy="14"> Mem[|||||||||||#***6.74G/15.5G]  Tasks: 141, 418 thr; 7 running  </tspan>
+<tspan x="0" dy="14"> Swp[||              140M/2.00G]  Load average: 3.38 1.73 1.09    </tspan>
+<tspan x="0" dy="14">                                  Uptime: 4 days, 03:12:47        </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14">   PID USER      VIRT   RES S  CPU% MEM%     TIME+  Command       </tspan>
+<tspan x="0" dy="14"> 20379 app      1.19G  386M R 517.3  2.4  25:48.87  indexer       </tspan>
+<tspan x="0" dy="14"> 21514 app      2.29G  541M S  20.9  3.4  15:08.97  backup        </tspan>
+<tspan x="0" dy="14"> 19941 root     2.85G  198M S  19.1  1.2   9:55.15  server        </tspan>
+<tspan x="0" dy="14"> 21438 app      3.58G  696M S   4.6  4.4  26:37.16  build         </tspan>
+<tspan x="0" dy="14">  8357 app      1.43G  243M S   4.1  1.5  12:52.77  shell         </tspan>
+<tspan x="0" dy="14">                                                                  </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+</g>
+</svg>

@@ -1,0 +1,655 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of fractal-tree">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(90.57 16.00) scale(1.1548)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                                                            </tspan>
+<tspan x="0" dy="14">                       ::   ::::   :                        </tspan>
+<tspan x="0" dy="14">                  ::OOOOoOOOOOOOOOOoOOOO: :                 </tspan>
+<tspan x="0" dy="14">                 OOOOOOOOOoOoOOOOOOooOOOOOOO::              </tspan>
+<tspan x="0" dy="14">             OOOOoooooOOOOOooooOoOOOOooOOOOOOOOo:           </tspan>
+<tspan x="0" dy="14">          :OOOOoooooo:oooooo:::ooOoooo:OoooOOooOooo         </tspan>
+<tspan x="0" dy="14">        :OOOOooo::::::.::::::..:::o:::oo:::oOoOoo:::        </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::  \\ . .| \//.::. .:::::o:ooooo:::.     </tspan>
+<tspan x="0" dy="14">        :o::::::: |\  /  \  |/  \   |/  |   :::::::::.      </tspan>
+<tspan x="0" dy="14">         :::: \\  \  \/   \ /    \  /   |/ /  // :::.       </tspan>
+<tspan x="0" dy="14">                  \\  \    \      \     / //                </tspan>
+<tspan x="0" dy="14">                      \\   |      |   //                    </tspan>
+<tspan x="0" dy="14">                         \ |     | /                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                       :O   ::::                            </tspan>
+<tspan x="0" dy="14">                  :OOOOOOOOOOOOOOOOOOOOO:                   </tspan>
+<tspan x="0" dy="14">                 :OOOoOOOOoooOOOOOOooOOOOOOo::              </tspan>
+<tspan x="0" dy="14">             OOOOoooooOOOOOOOoooOoOOO:ooOOOOOOOo:           </tspan>
+<tspan x="0" dy="14">           OOOOooooooooOOooo:o:ooOoooo:OoooOOooOooo:        </tspan>
+<tspan x="0" dy="14">        ::OOOooo::::::::::::::|::oo::::o:::ooOOooo::        </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::  \\/.  .  \/|::.  :::::o:ooooo:::.     </tspan>
+<tspan x="0" dy="14">        :o:::::::.|\  /  \  |/  \|  | / |   ::::::::::      </tspan>
+<tspan x="0" dy="14">         :::: \\  \  \/   \ /    \  /   | //  // :::.       </tspan>
+<tspan x="0" dy="14">                  \\  \    \      \     / //                </tspan>
+<tspan x="0" dy="14">                      \\   |      |   //                    </tspan>
+<tspan x="0" dy="14">                         \ |      |/                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                        ::  :::::                           </tspan>
+<tspan x="0" dy="14">                  :OOOOOOoOOOOOOOOOOoOOO::                  </tspan>
+<tspan x="0" dy="14">                ::OOOoOoOOooooOOOOOooOOOOOOOo:              </tspan>
+<tspan x="0" dy="14">             :OOOooOooOOOOOOOooOOoOOOoooOOOOOOOo:           </tspan>
+<tspan x="0" dy="14">           OOOOoooo:oo:OOooo:o:ooOoooooOooo:OooOooo:        </tspan>
+<tspan x="0" dy="14">        ::OOOooo:o:::::.::::::..:oo::::oo::ooOoooo::        </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::.  \/ . .| \ /:::. :::::o:ooooo:::.     </tspan>
+<tspan x="0" dy="14">        :o:::::::.| \  / \   |/  \   |/  |  .:::::::::      </tspan>
+<tspan x="0" dy="14">         :::: \ \ \  \/   \ /    \  /    |/ / // :::.       </tspan>
+<tspan x="0" dy="14">                  \\  \    \      \     / //                </tspan>
+<tspan x="0" dy="14">                      \\   |      |   //                    </tspan>
+<tspan x="0" dy="14">                         \ |      |/                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                        :O:  ::::                           </tspan>
+<tspan x="0" dy="14">                  :OOOOOOoOOOOOoOOOOOoOO::                  </tspan>
+<tspan x="0" dy="14">                ::OOOOooOOOOooOOOOOooOOOOOOOo:              </tspan>
+<tspan x="0" dy="14">            ::OOOooOoooOOoOOOooOOOOOOoooOOOOOOOo:           </tspan>
+<tspan x="0" dy="14">           OOOOoooo:oo:oOooooo:ooOooooooooo:OOoOooo:        </tspan>
+<tspan x="0" dy="14">        ::OOOooo:o:::::.:::::::.:oo::::oo::ooOoooo::        </tspan>
+<tspan x="0" dy="14">       :ooooooo::::::  |\ .... \//:::. .::::::ooooo:::.     </tspan>
+<tspan x="0" dy="14">        :o::::::::| \  / \|  |/  \   |/  |  .:::::::::      </tspan>
+<tspan x="0" dy="14">         :::: \ \ \   \   \ /     \ /    |/ / // :::.       </tspan>
+<tspan x="0" dy="14">                  \\  \    \      \/    / //                </tspan>
+<tspan x="0" dy="14">                      \\   |      |    /                    </tspan>
+<tspan x="0" dy="14">                         \ |      |/                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                         O:  : :::                          </tspan>
+<tspan x="0" dy="14">                   OOOOOOooOOOOOOOOOOOOOo:                  </tspan>
+<tspan x="0" dy="14">               :::OOOOoooOOOooOOOoooooOOoOoOO               </tspan>
+<tspan x="0" dy="14">            :OOOOoOOoooOOooOOOooOOOOOoooOOOoOOOO.           </tspan>
+<tspan x="0" dy="14">           :OOOoOoo:oo:oOooooo::oOooooooooooOOoOooo:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo:o:o::::.:o::::.::o:::::oo:ooOoooo::        </tspan>
+<tspan x="0" dy="14">       :ooooooo::::::  |\ .... \//.:::  :::::oooooo:::.     </tspan>
+<tspan x="0" dy="14">        :o::::::::| \  /  \  |/  \   | / |  /:::::::::      </tspan>
+<tspan x="0" dy="14">         .:::  \\ \   \   \ /     \ /    |/ / // :::.       </tspan>
+<tspan x="0" dy="14">                   \  \    \      \/    / //                </tspan>
+<tspan x="0" dy="14">                      \\   |      /    /                    </tspan>
+<tspan x="0" dy="14">                         \ |      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                         :O:  ::::                          </tspan>
+<tspan x="0" dy="14">                   :OOOOOooOOOOOoOoOOOOOo:                  </tspan>
+<tspan x="0" dy="14">               ::OOOOoOooOOOOoOoOooooOOOoOoOO:              </tspan>
+<tspan x="0" dy="14">            :OOOOOOOoooOOOoOOOooOOOOOoooOOOoOOO::           </tspan>
+<tspan x="0" dy="14">           :OOOoOoo:ooo:OoooooooooooooooOoooOOooOoo:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo:::o::::.oo:::::.:o:::::ooooooooooo:        </tspan>
+<tspan x="0" dy="14">       :ooooooo:::.::. |\//.... \ .:::. :::::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::::|  \ /  \  |/  \   | / |  /:::::::::      </tspan>
+<tspan x="0" dy="14">         .:::  \\ \   \   \ /     \ /    |/ / // ::::       </tspan>
+<tspan x="0" dy="14">                   \  \    \      \/    / //                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                          O:    ::                          </tspan>
+<tspan x="0" dy="14">                   :OOOOOOoOOOOOoooOOOOOo:                  </tspan>
+<tspan x="0" dy="14">               :OOOOOoOoOOOOOoOOOOOooOOOoOoooo              </tspan>
+<tspan x="0" dy="14">            :OOOOOOOooooOOOoOOooOOOoooooOOOoOOOo            </tspan>
+<tspan x="0" dy="14">          :OOOOoooo::oo:OoOoooooooooooooooooOOooOoo:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo:::o:::::.o:::::.:oo:::::oooooooooo:.       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::  \//.... \ .:::. .::::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::::.  \ /  \  |/  \   | / |  /:::::::::      </tspan>
+<tspan x="0" dy="14">         .:::. \\ \   \   \ /     \ /    |/ / // ::::       </tspan>
+<tspan x="0" dy="14">                   \  |    \      \/    / //                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                     :    :O    :::                         </tspan>
+<tspan x="0" dy="14">                    OOOOOOoOOOOOOoOOOOOOO:                  </tspan>
+<tspan x="0" dy="14">               :OOOOOOOooOOOOoOOoOOooOOOoOOooo              </tspan>
+<tspan x="0" dy="14">            :OOOOOoOOOooOOOoOOoooOOooooooOOoOoOo            </tspan>
+<tspan x="0" dy="14">           OOOOoooooooo:OOOooooo:oOooooooooooOooOoo:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo:::oo::::.o:::::::oo::::::ooooOoooo:.       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::  |\ .:.. \//::::  ::::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::::.  \ /  \  | / \   | / |  |.::::::::      </tspan>
+<tspan x="0" dy="14">         .:::. \\ \   \   \ /     \ /    | // // ::::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    / //                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                     ::   :::   : :                         </tspan>
+<tspan x="0" dy="14">                    OOOOOOOOOOOOOOoOOOOOO::                 </tspan>
+<tspan x="0" dy="14">                OOOOOOOOOOoOOOoOoOOooOOOOOOooo:             </tspan>
+<tspan x="0" dy="14">            :OOOOOoOOOoooOOoOOoooOOoOooooOOoOOoo            </tspan>
+<tspan x="0" dy="14">           OOOOoooo:ooo::OOooooo:OOooooooooooOooooo:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo::ooo:::::ooo:::::ooo:::::ooooOoooo:.       </tspan>
+<tspan x="0" dy="14">       :ooooooo::::.::. |\ /:.:.\//::::. ::::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o:::::::::  \ /  \  | / \   |  /|  |.::::::::      </tspan>
+<tspan x="0" dy="14">         .:::. \\  \  \    \/     \  /   | // // .:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                     :::   ::   ::                          </tspan>
+<tspan x="0" dy="14">                    :OOOOOOOOOOoOOoOOOOO:::                 </tspan>
+<tspan x="0" dy="14">                OOOOOOOOOOOOOOOOOOOooOOOOoOooo:             </tspan>
+<tspan x="0" dy="14">             OOOOOoOOOoooOOOOOOooOOoOooooOOoOOOo            </tspan>
+<tspan x="0" dy="14">           OOOOoOoo:ooo::OOooooo:OOoooooooooOOooooO:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo:oooo::::oooo:::::ooo:::::ooooOoooo::       </tspan>
+<tspan x="0" dy="14">       :ooooooo::::.::: |\//:::.\//::::. ::::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::  \ /  \  / / \   |  /|  |.::::::::      </tspan>
+<tspan x="0" dy="14">         .:::. \\  \  \    \/     \  /   | // // .:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                     :::   ::   ::                          </tspan>
+<tspan x="0" dy="14">                     OOOOOOOOOOOOOOOOOOO::                  </tspan>
+<tspan x="0" dy="14">                :OOOOoOOOOOOOOOOOOOoooOOOOOoo::             </tspan>
+<tspan x="0" dy="14">             OOOOOOoOOooooOOOOOoooOoOoooOOOOOOOo:           </tspan>
+<tspan x="0" dy="14">           OOOOoOoo:ooooooOooooo:OOoooooooooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo:oo:o::::oooo:::::ooo:::::ooooOooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::: |\//.::.\//::::. .:::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::  \ /  \  / / \/  |  /|  |/::::::::      </tspan>
+<tspan x="0" dy="14">         .:::. \\  \  \    \ /    \  /   | // /. .:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      ::   ::   ::                          </tspan>
+<tspan x="0" dy="14">                    :OOOOOOOOOOOOOOOOO:OO                   </tspan>
+<tspan x="0" dy="14">                :OOOooOOOOOOOOOOOoOooOOOOOOoo::             </tspan>
+<tspan x="0" dy="14">             OOOOOOoOOooooOOOOOoooOOOoooOOOOOOOo:           </tspan>
+<tspan x="0" dy="14">           OOOOoooooooooooOooooo:OOoooooooooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :OOOOooo:oo:o::::oooo:::::ooo:::::ooooOooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::: |\//.:::\//::::. |:::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::. \  / \   //  \  |  /|  |/::::::::      </tspan>
+<tspan x="0" dy="14">          :::. \\  \  \    \ /    \  /   | // /. .:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::   :::                         </tspan>
+<tspan x="0" dy="14">                    :OOOOOOOOOOOOOOoOO:OO                   </tspan>
+<tspan x="0" dy="14">              :: OOOOOOOOOOOOoOOOoOooOOOOOOOo::             </tspan>
+<tspan x="0" dy="14">             :OOOOOoOOoOooOOOOOoooOOOoooOOOOOOOo:           </tspan>
+<tspan x="0" dy="14">           OOOOoooooooooo:OOoooo:OOOooooooooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :O:OOooo:oo:o:::::ooo:::::ooo:::::oooooooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo::::::::.|\//.:::.//::::. |:::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::. \  / \   //  \   | /|  |/::::::::      </tspan>
+<tspan x="0" dy="14">          :::. \\  \  \    \ /    \  /   | // /. .:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::   :O:                         </tspan>
+<tspan x="0" dy="14">                    :OOOOOOOOOOOOOOoOO:OO                   </tspan>
+<tspan x="0" dy="14">              :: OOOOOOOOOOOOoOOOOOooOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">             :OOOOOoOOoOooOOOoOoooOOOoooOOOOOOOoo           </tspan>
+<tspan x="0" dy="14">           OOOOooooo:oooo:OOoooo:OOOooooooooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :O:OOooo:oo:o:::::ooo:::::ooo:::::oooooooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo::::::::.|\//.:::.//::::. |:::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::. \  / \   //  \   | /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \ /    \  /   | // /. .:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::    O:                         </tspan>
+<tspan x="0" dy="14">                    :OOOOOOOOOOOOOOoOO:OO                   </tspan>
+<tspan x="0" dy="14">              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">             :OOOOOoOOoOoOoOOoOoooOOOoooOoOOOOOoo           </tspan>
+<tspan x="0" dy="14">           OOOOooooo:oooo:OOoooo:OOOooooooooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :O:OOooo:oooo:::::ooo:::::ooo:::::oooooooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |:::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::. \  / \   //  \   | /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \ /    \  /   | // /...:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::    O:                         </tspan>
+<tspan x="0" dy="14">                    OOOOOOOOOOOOOOOOOO::O                   </tspan>
+<tspan x="0" dy="14">              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">              OOOOOoOOOOoOoOOOOoooOOOoooOoOOOOOoo           </tspan>
+<tspan x="0" dy="14">           OOOOooooo:oooo:OOoooo:OOOooooooooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :O:OOooo:oooo:::::ooo:::::ooo:::::oooooooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::. \  / \   //  \   | /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \ /    \  /   | // /...:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::  : O:                         </tspan>
+<tspan x="0" dy="14">                    OOOOOOOOOOOOOOOOOO:::                   </tspan>
+<tspan x="0" dy="14">              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo              </tspan>
+<tspan x="0" dy="14">              OOOOOOOOOOoOoOOOOOooOOOoooOoOOOOOoo           </tspan>
+<tspan x="0" dy="14">           OOOOoooooooooo:OOoooo:OOOooooooooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::oooooooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::. \  / \   //  \   | /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \ /    \  /   | // /...:::       </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::  : O:                         </tspan>
+<tspan x="0" dy="14">                    OOOOOOOOOOOOOOOOOO:::                   </tspan>
+<tspan x="0" dy="14">              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo              </tspan>
+<tspan x="0" dy="14">              OOOOOOOOOOoOoOOOOOooOOOoooOoOOOOOoo           </tspan>
+<tspan x="0" dy="14">           :OOOoooooooooo:OOoooo:OOOooooo:ooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::oooooooooo:       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::: \  / \  / / \   |  /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \ /    \  /   | // /...:::.      </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::  : O:                         </tspan>
+<tspan x="0" dy="14">                    OOOOOOOOOOOOOOOOOO:::                   </tspan>
+<tspan x="0" dy="14">              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo              </tspan>
+<tspan x="0" dy="14">              OOOOOOOOOOoOoOOOOoooOOOoooOoOOOOOoo           </tspan>
+<tspan x="0" dy="14">           :OOOoooooooooo:OOoooo:OOOooooo:ooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::: \  / \  / / \   |  /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \ /    \  /   | // /...:::.      </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::  ::O:                         </tspan>
+<tspan x="0" dy="14">                   :OOOOOOOOOOOOOOOOOO:O:                   </tspan>
+<tspan x="0" dy="14">              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">             :OOOOOOOOOOoOoOOOOoooOOOoooOoOOOOOoo           </tspan>
+<tspan x="0" dy="14">           :OOOoooooooooo:OOoooo:OOOooooo:ooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::: \  / \  / / \   |  /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \/     \  /   | // /...:::.      </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O::  ::   :O:                         </tspan>
+<tspan x="0" dy="14">                   :OOOOOOOOOOOOOOOOOO:O:                   </tspan>
+<tspan x="0" dy="14">              :: OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">             :OOOOOoOOOOoOoOOOOoooOOOoooOOOOOOOoo           </tspan>
+<tspan x="0" dy="14">           :OOOoooooooooo:OOoooo:OOoooooo:ooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::.::: \  / \  / / \   |  /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \/     \  /   | // /...:::.      </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O:   ::   :O:                         </tspan>
+<tspan x="0" dy="14">                   :OOOOOOOOOOOOOOOoOO:O:                   </tspan>
+<tspan x="0" dy="14">              :: OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">             :OOOOOoOOOOoooOOOOooooOOoooOOOOOOOoo           </tspan>
+<tspan x="0" dy="14">           :OOOoooooooooo:OOoooo:OOoooooo:ooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::..:: \  / \  / / \   |  /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \/     \  /   | // /...:::.      </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O:  :::   :O                          </tspan>
+<tspan x="0" dy="14">                   :OOOOOOOOOOOOOOOoOO:O:                   </tspan>
+<tspan x="0" dy="14">              :: OOOOOOOOOOOOOOOOoOOoOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">             :OOOOOooOOOoooOOOOooooOOoooOOOOOOOoo           </tspan>
+<tspan x="0" dy="14">           OOOOooooo:oooo:OOoooo:OOoooooo:ooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::..:. \ /  \  / / \   |  /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \/     \  /   | // /...:::.      </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">                      O:  :::   :O                          </tspan>
+<tspan x="0" dy="14">                   :OOOOOOOOOOOOOOOOOO:O:                   </tspan>
+<tspan x="0" dy="14">               : OOOOOOOOOOOOOOOOoOOoOOOOOOOoo:             </tspan>
+<tspan x="0" dy="14">             :OOOOOoOOOOoooOOOOooooOOoooOOOOOOOoo           </tspan>
+<tspan x="0" dy="14">           OOOOooooo:oooo:OOoooo:OOoooooo:ooOOOOooO:        </tspan>
+<tspan x="0" dy="14">        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       </tspan>
+<tspan x="0" dy="14">       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     </tspan>
+<tspan x="0" dy="14">         o::::::..:. \ /  \  / / \   |  /|   /::::::::      </tspan>
+<tspan x="0" dy="14">          :::: \\  \  \    \/     \  /   | // /...:::.      </tspan>
+<tspan x="0" dy="14">                   \   |   \      \/    /  /                </tspan>
+<tspan x="0" dy="14">                       \   |      /    /                    </tspan>
+<tspan x="0" dy="14">                          \|      //                        </tspan>
+<tspan x="0" dy="14">                           \#   #/                          </tspan>
+<tspan x="0" dy="14">                            \##/                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                            |##|                            </tspan>
+<tspan x="0" dy="14">                           /####\                           </tspan>
+<tspan x="0" dy="14">   ...____________________/######\____________________...   </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+</g>
+</svg>

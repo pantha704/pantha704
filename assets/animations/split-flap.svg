@@ -1,0 +1,511 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of split-flap">
+<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(16.00 24.10) scale(1.4754)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5426s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6202s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6977s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7752s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8527s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9302s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0078s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0853s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 0 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1628s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   L I S B O N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▔ ▀ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2403s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   M K U B Q N         A 4     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   Q S L O             B 1 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▔ ▔ ▀ ▔ ▀ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   N A I R O B I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   L I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3178s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 3 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O M W D S P         A 6     L A S T   C A L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▀   ▔ ▀ ▔ ▀ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 6   S S M Q   B         B 2 2   B O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▀   ▀ ▀ ▀ ▀ ▀ ▔ ▀ ▔ ▔   ▔ ▀ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 1   N A I R O C I       C 7     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▀ ▀   ▀ ▀ ▔ ▔ ▔ ▀ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 6   M I M A             A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▀ ▀   ▀ ▔ ▔ ▔ ▀ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   R E Y K J A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3953s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 4 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▀ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O O Y F U R         B 8 B   M C S V   C B L L │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▀   ▀ ▀ ▔ ▀ ▀ ▔ ▀ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 8   U U O R B B B       B 4 4   C O A R D I N G   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▀   ▀ ▀ ▀ ▔ ▀ ▔ ▀ ▔ ▔   ▀ ▀ ▀   ▀ ▀ ▔ ▔ ▔ ▔ ▔ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 3   P C I S O E I       C 8     D E L A Y E D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▀   ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▔   ▔ ▀ ▔   ▀ ▔ ▀ ▀ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 8   O J M A B           A 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▀   ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▀ ▀   ▀ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E Y K K A V I K   D 2 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▔ ▀ ▀ ▔ ▀ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 5 : 6 0   S E O U L           B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▀ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔   ▔ ▔ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4729s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 6 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O Q 0 H W T         B . D   O E T X B D D N M │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2     W W Q R D B D       C 6 6   D Q A R E J O I   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▀   ▀ ▀ ▀ ▔ ▀ ▔ ▀ ▔ ▔   ▔ ▀ ▀   ▔ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   R E K U Q G K       D 9     F E N C Y F D     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▔   ▀ ▔ ▔   ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4     Q L O C D A A B B   C 9     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▀   ▀ ▀ ▀ ▀ ▀ ▔ ▀ ▀ ▀   ▀ ▀ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E Z M L B X I K   D 3 1   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▀ ▔ ▀ ▀ ▔ ▀   ▔ ▔ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 5 : 8 0   S E P U L   A   A   B 3     O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▀ ▔   ▀ ▀ ▀ ▔ ▔ ▀ ▀ ▔ ▀   ▔ ▀ ▔   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5504s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 6 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S 2 J Y V         B / F   Q G V Z D F F P O │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▀ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▔ ▀ ▀ ▀ ▀ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   Y Y S R F B F       C 7 8   D S C T G L Q K   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▀ ▔ ▀ ▔ ▀ ▔ ▔   ▔ ▔ ▀   ▔ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   T G M W S I M       F 9     H G P E 0 H E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▔ ▀ ▀ ▀ ▀ ▔ ▔   ▀ ▔ ▔   ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R N Q E F A C D D   D - B   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▀ ▀ ▔ ▀ ▀ ▀   ▔ ▀ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E 1 O L D Z J M   D 3 3   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▀ ▔ ▀ ▀ ▀ ▀   ▀ ▔ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 5 :   0   U G R V M B C   C   B 5     P N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▀ ▔   ▀ ▀ ▔ ▀ ▀ ▀ ▀ ▀ ▀   ▀ ▀ ▔   ▀ ▔ ▔ ▀ ▀ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6279s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 6 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S 4 L 0 X         B &amp; H   S I X 1 D H H R Q │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▀ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▔ ▀ ▀ ▀ ▀ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   0 0 U R H B H       C 7 .   D U E V I N S M   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▀ ▔ ▀ ▔ ▀ ▔ ▔   ▔ ▔ ▀   ▔ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   V I M Y U K O       H 9     J I R G 2 J E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▔ ▔ ▀ ▀ ▀ ▀ ▔ ▔   ▀ ▔ ▔   ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R P S G H A E F F   D &#x27; D   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▀ ▀ ▔ ▀ ▀ ▀   ▔ ▀ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E 3 Q L F 1 L O   F 3 5   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▀ ▔ ▀ ▀ ▀ ▀   ▀ ▔ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 5 : 0 0   W I R X O D E B E   C 7 A   R N   V K M F     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▔ ▀ ▀ ▀ ▔ ▀ ▀   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7054s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 6 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S 6 N 2 Z         B A J   U K Z 3 D I J T S │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▀ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▔ ▔ ▀ ▀ ▀ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   2 2 W R J B I       C 7 /   D W G X K P U O   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▀ ▔ ▀ ▔ ▔ ▔ ▔   ▔ ▔ ▀   ▔ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   X I M 0 W M Q       J 9     L K T I 4 L E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▔ ▔ ▀ ▀ ▀ ▀ ▔ ▔   ▀ ▔ ▔   ▀ ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R R U I J A G H H   D   F   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▀ ▔ ▔ ▀ ▀ ▀   ▔ ▀ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E 5 S L H 3 N Q   H 3 7   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▀ ▔ ▀ ▀ ▀ ▀   ▀ ▔ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 5 : 0 0   Y K R Z Q F E D G   C 9 C   T P B X M O H B B │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▔ ▀ ▀ ▀ ▔ ▀ ▀   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7829s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">╭───────────────────────────────────────────────────────────╮</tspan>
+<tspan x="0" dy="14">│ D E P A R T U R E S                             1 4 : 0 6 │</tspan>
+<tspan x="0" dy="14">│                                                 ▔ ▔   ▔ ▔ │</tspan>
+<tspan x="0" dy="14">├───────────────────────────────────────────────────────────┤</tspan>
+<tspan x="0" dy="14">│ time        destination         gate    remarks           │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 1 5   O S 8 O 4 1         B C L   W M 1 5 D I L V U │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▔ ▀ ▀ ▔ ▔ ▔   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▔ ▔ ▀ ▀ ▀ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 2 0   4 4 Y R L B I       C 7 &amp;   D Y I Z M R W Q   │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▀ ▔ ▀ ▔ ▔ ▔ ▔   ▔ ▔ ▀   ▔ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 3 5   Z I M 2 Y O S       L 9     N M V K 6 M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▔ ▔ ▀ ▀ ▀ ▀ ▔ ▔   ▀ ▔ ▔   ▀ ▀ ▀ ▀ ▀ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 4 0   R T W K J A I I J   D B H   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▀ ▀ ▔ ▔ ▔ ▀ ▔ ▀   ▔ ▀ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 4 : 5 0   S E 7 U L J 5 P S   J 3 9   O N   T I M E     │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▔ ▔ ▀ ▔ ▔ ▀ ▀ ▀ ▀   ▀ ▔ ▀   ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ │</tspan>
+<tspan x="0" dy="14">│ 1 5 : 0 0   0 M R 1 S H E F H   C - E   V R D Z O Q J D D │</tspan>
+<tspan x="0" dy="14">│ ▔ ▔   ▔ ▔   ▀ ▀ ▔ ▀ ▀ ▀ ▔ ▀ ▔   ▔ ▀ ▀   ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▔ │</tspan>
+<tspan x="0" dy="14">╰───────────────────────────────────────────────────────────╯</tspan>
+</text></g>
+</g>
+</svg>

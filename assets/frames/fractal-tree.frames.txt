@@ -1,0 +1,599 @@
+                                                            
+                       ::   ::::   :                        
+                  ::OOOOoOOOOOOOOOOoOOOO: :                 
+                 OOOOOOOOOoOoOOOOOOooOOOOOOO::              
+             OOOOoooooOOOOOooooOoOOOOooOOOOOOOOo:           
+          :OOOOoooooo:oooooo:::ooOoooo:OoooOOooOooo         
+        :OOOOooo::::::.::::::..:::o:::oo:::oOoOoo:::        
+       :ooooooo:::::  \\ . .| \//.::. .:::::o:ooooo:::.     
+        :o::::::: |\  /  \  |/  \   |/  |   :::::::::.      
+         :::: \\  \  \/   \ /    \  /   |/ /  // :::.       
+                  \\  \    \      \     / //                
+                      \\   |      |   //                    
+                         \ |     | /                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                       :O   ::::                            
+                  :OOOOOOOOOOOOOOOOOOOOO:                   
+                 :OOOoOOOOoooOOOOOOooOOOOOOo::              
+             OOOOoooooOOOOOOOoooOoOOO:ooOOOOOOOo:           
+           OOOOooooooooOOooo:o:ooOoooo:OoooOOooOooo:        
+        ::OOOooo::::::::::::::|::oo::::o:::ooOOooo::        
+       :ooooooo:::::  \\/.  .  \/|::.  :::::o:ooooo:::.     
+        :o:::::::.|\  /  \  |/  \|  | / |   ::::::::::      
+         :::: \\  \  \/   \ /    \  /   | //  // :::.       
+                  \\  \    \      \     / //                
+                      \\   |      |   //                    
+                         \ |      |/                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                        ::  :::::                           
+                  :OOOOOOoOOOOOOOOOOoOOO::                  
+                ::OOOoOoOOooooOOOOOooOOOOOOOo:              
+             :OOOooOooOOOOOOOooOOoOOOoooOOOOOOOo:           
+           OOOOoooo:oo:OOooo:o:ooOoooooOooo:OooOooo:        
+        ::OOOooo:o:::::.::::::..:oo::::oo::ooOoooo::        
+       :ooooooo:::::.  \/ . .| \ /:::. :::::o:ooooo:::.     
+        :o:::::::.| \  / \   |/  \   |/  |  .:::::::::      
+         :::: \ \ \  \/   \ /    \  /    |/ / // :::.       
+                  \\  \    \      \     / //                
+                      \\   |      |   //                    
+                         \ |      |/                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                        :O:  ::::                           
+                  :OOOOOOoOOOOOoOOOOOoOO::                  
+                ::OOOOooOOOOooOOOOOooOOOOOOOo:              
+            ::OOOooOoooOOoOOOooOOOOOOoooOOOOOOOo:           
+           OOOOoooo:oo:oOooooo:ooOooooooooo:OOoOooo:        
+        ::OOOooo:o:::::.:::::::.:oo::::oo::ooOoooo::        
+       :ooooooo::::::  |\ .... \//:::. .::::::ooooo:::.     
+        :o::::::::| \  / \|  |/  \   |/  |  .:::::::::      
+         :::: \ \ \   \   \ /     \ /    |/ / // :::.       
+                  \\  \    \      \/    / //                
+                      \\   |      |    /                    
+                         \ |      |/                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                         O:  : :::                          
+                   OOOOOOooOOOOOOOOOOOOOo:                  
+               :::OOOOoooOOOooOOOoooooOOoOoOO               
+            :OOOOoOOoooOOooOOOooOOOOOoooOOOoOOOO.           
+           :OOOoOoo:oo:oOooooo::oOooooooooooOOoOooo:        
+        :OOOOooo:o:o::::.:o::::.::o:::::oo:ooOoooo::        
+       :ooooooo::::::  |\ .... \//.:::  :::::oooooo:::.     
+        :o::::::::| \  /  \  |/  \   | / |  /:::::::::      
+         .:::  \\ \   \   \ /     \ /    |/ / // :::.       
+                   \  \    \      \/    / //                
+                      \\   |      /    /                    
+                         \ |      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                         :O:  ::::                          
+                   :OOOOOooOOOOOoOoOOOOOo:                  
+               ::OOOOoOooOOOOoOoOooooOOOoOoOO:              
+            :OOOOOOOoooOOOoOOOooOOOOOoooOOOoOOO::           
+           :OOOoOoo:ooo:OoooooooooooooooOoooOOooOoo:        
+        :OOOOooo:::o::::.oo:::::.:o:::::ooooooooooo:        
+       :ooooooo:::.::. |\//.... \ .:::. :::::oooooo:::.     
+         o::::::::|  \ /  \  |/  \   | / |  /:::::::::      
+         .:::  \\ \   \   \ /     \ /    |/ / // ::::       
+                   \  \    \      \/    / //                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                          O:    ::                          
+                   :OOOOOOoOOOOOoooOOOOOo:                  
+               :OOOOOoOoOOOOOoOOOOOooOOOoOoooo              
+            :OOOOOOOooooOOOoOOooOOOoooooOOOoOOOo            
+          :OOOOoooo::oo:OoOoooooooooooooooooOOooOoo:        
+        :OOOOooo:::o:::::.o:::::.:oo:::::oooooooooo:.       
+       :ooooooo:::::::  \//.... \ .:::. .::::oooooo:::.     
+         o::::::::.  \ /  \  |/  \   | / |  /:::::::::      
+         .:::. \\ \   \   \ /     \ /    |/ / // ::::       
+                   \  |    \      \/    / //                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                     :    :O    :::                         
+                    OOOOOOoOOOOOOoOOOOOOO:                  
+               :OOOOOOOooOOOOoOOoOOooOOOoOOooo              
+            :OOOOOoOOOooOOOoOOoooOOooooooOOoOoOo            
+           OOOOoooooooo:OOOooooo:oOooooooooooOooOoo:        
+        :OOOOooo:::oo::::.o:::::::oo::::::ooooOoooo:.       
+       :ooooooo:::::::  |\ .:.. \//::::  ::::oooooo:::.     
+         o::::::::.  \ /  \  | / \   | / |  |.::::::::      
+         .:::. \\ \   \   \ /     \ /    | // // ::::       
+                   \   |   \      \/    / //                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                     ::   :::   : :                         
+                    OOOOOOOOOOOOOOoOOOOOO::                 
+                OOOOOOOOOOoOOOoOoOOooOOOOOOooo:             
+            :OOOOOoOOOoooOOoOOoooOOoOooooOOoOOoo            
+           OOOOoooo:ooo::OOooooo:OOooooooooooOooooo:        
+        :OOOOooo::ooo:::::ooo:::::ooo:::::ooooOoooo:.       
+       :ooooooo::::.::. |\ /:.:.\//::::. ::::oooooo:::.     
+         o:::::::::  \ /  \  | / \   |  /|  |.::::::::      
+         .:::. \\  \  \    \/     \  /   | // // .:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                     :::   ::   ::                          
+                    :OOOOOOOOOOoOOoOOOOO:::                 
+                OOOOOOOOOOOOOOOOOOOooOOOOoOooo:             
+             OOOOOoOOOoooOOOOOOooOOoOooooOOoOOOo            
+           OOOOoOoo:ooo::OOooooo:OOoooooooooOOooooO:        
+        :OOOOooo:oooo::::oooo:::::ooo:::::ooooOoooo::       
+       :ooooooo::::.::: |\//:::.\//::::. ::::oooooo:::.     
+         o::::::.::  \ /  \  / / \   |  /|  |.::::::::      
+         .:::. \\  \  \    \/     \  /   | // // .:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                     :::   ::   ::                          
+                     OOOOOOOOOOOOOOOOOOO::                  
+                :OOOOoOOOOOOOOOOOOOoooOOOOOoo::             
+             OOOOOOoOOooooOOOOOoooOoOoooOOOOOOOo:           
+           OOOOoOoo:ooooooOooooo:OOoooooooooOOOOooO:        
+        :OOOOooo:oo:o::::oooo:::::ooo:::::ooooOooooo:       
+       :ooooooo:::::::: |\//.::.\//::::. .:::oooooo:::.     
+         o::::::.::  \ /  \  / / \/  |  /|  |/::::::::      
+         .:::. \\  \  \    \ /    \  /   | // /. .:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      ::   ::   ::                          
+                    :OOOOOOOOOOOOOOOOO:OO                   
+                :OOOooOOOOOOOOOOOoOooOOOOOOoo::             
+             OOOOOOoOOooooOOOOOoooOOOoooOOOOOOOo:           
+           OOOOoooooooooooOooooo:OOoooooooooOOOOooO:        
+        :OOOOooo:oo:o::::oooo:::::ooo:::::ooooOooooo:       
+       :ooooooo:::::::: |\//.:::\//::::. |:::oooooo:::.     
+         o::::::.::. \  / \   //  \  |  /|  |/::::::::      
+          :::. \\  \  \    \ /    \  /   | // /. .:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::   :::                         
+                    :OOOOOOOOOOOOOOoOO:OO                   
+              :: OOOOOOOOOOOOoOOOoOooOOOOOOOo::             
+             :OOOOOoOOoOooOOOOOoooOOOoooOOOOOOOo:           
+           OOOOoooooooooo:OOoooo:OOOooooooooOOOOooO:        
+        :O:OOooo:oo:o:::::ooo:::::ooo:::::oooooooooo:       
+       :ooooooo::::::::.|\//.:::.//::::. |:::oooooo:::.     
+         o::::::.::. \  / \   //  \   | /|  |/::::::::      
+          :::. \\  \  \    \ /    \  /   | // /. .:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::   :O:                         
+                    :OOOOOOOOOOOOOOoOO:OO                   
+              :: OOOOOOOOOOOOoOOOOOooOOOOOOOoo:             
+             :OOOOOoOOoOooOOOoOoooOOOoooOOOOOOOoo           
+           OOOOooooo:oooo:OOoooo:OOOooooooooOOOOooO:        
+        :O:OOooo:oo:o:::::ooo:::::ooo:::::oooooooooo:       
+       :ooooooo::::::::.|\//.:::.//::::. |:::oooooo:::.     
+         o::::::.::. \  / \   //  \   | /|   /::::::::      
+          :::: \\  \  \    \ /    \  /   | // /. .:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::    O:                         
+                    :OOOOOOOOOOOOOOoOO:OO                   
+              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             
+             :OOOOOoOOoOoOoOOoOoooOOOoooOoOOOOOoo           
+           OOOOooooo:oooo:OOoooo:OOOooooooooOOOOooO:        
+        :O:OOooo:oooo:::::ooo:::::ooo:::::oooooooooo:       
+       :ooooooo:::::::::|\//.:::.//::::. |:::oooooo:::.     
+         o::::::.::. \  / \   //  \   | /|   /::::::::      
+          :::: \\  \  \    \ /    \  /   | // /...:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::    O:                         
+                    OOOOOOOOOOOOOOOOOO::O                   
+              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             
+              OOOOOoOOOOoOoOOOOoooOOOoooOoOOOOOoo           
+           OOOOooooo:oooo:OOoooo:OOOooooooooOOOOooO:        
+        :O:OOooo:oooo:::::ooo:::::ooo:::::oooooooooo:       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::.::. \  / \   //  \   | /|   /::::::::      
+          :::: \\  \  \    \ /    \  /   | // /...:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::  : O:                         
+                    OOOOOOOOOOOOOOOOOO:::                   
+              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo              
+              OOOOOOOOOOoOoOOOOOooOOOoooOoOOOOOoo           
+           OOOOoooooooooo:OOoooo:OOOooooooooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::oooooooooo:       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::.::. \  / \   //  \   | /|   /::::::::      
+          :::: \\  \  \    \ /    \  /   | // /...:::       
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::  : O:                         
+                    OOOOOOOOOOOOOOOOOO:::                   
+              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo              
+              OOOOOOOOOOoOoOOOOOooOOOoooOoOOOOOoo           
+           :OOOoooooooooo:OOoooo:OOOooooo:ooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::oooooooooo:       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::.::: \  / \  / / \   |  /|   /::::::::      
+          :::: \\  \  \    \ /    \  /   | // /...:::.      
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::  : O:                         
+                    OOOOOOOOOOOOOOOOOO:::                   
+              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo              
+              OOOOOOOOOOoOoOOOOoooOOOoooOoOOOOOoo           
+           :OOOoooooooooo:OOoooo:OOOooooo:ooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::.::: \  / \  / / \   |  /|   /::::::::      
+          :::: \\  \  \    \ /    \  /   | // /...:::.      
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::  ::O:                         
+                   :OOOOOOOOOOOOOOOOOO:O:                   
+              :::OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             
+             :OOOOOOOOOOoOoOOOOoooOOOoooOoOOOOOoo           
+           :OOOoooooooooo:OOoooo:OOOooooo:ooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::.::: \  / \  / / \   |  /|   /::::::::      
+          :::: \\  \  \    \/     \  /   | // /...:::.      
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O::  ::   :O:                         
+                   :OOOOOOOOOOOOOOOOOO:O:                   
+              :: OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             
+             :OOOOOoOOOOoOoOOOOoooOOOoooOOOOOOOoo           
+           :OOOoooooooooo:OOoooo:OOoooooo:ooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::.::: \  / \  / / \   |  /|   /::::::::      
+          :::: \\  \  \    \/     \  /   | // /...:::.      
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O:   ::   :O:                         
+                   :OOOOOOOOOOOOOOOoOO:O:                   
+              :: OOOOOOOOOOOOoOOOOOOoOOOOOOOoo:             
+             :OOOOOoOOOOoooOOOOooooOOoooOOOOOOOoo           
+           :OOOoooooooooo:OOoooo:OOoooooo:ooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::..:: \  / \  / / \   |  /|   /::::::::      
+          :::: \\  \  \    \/     \  /   | // /...:::.      
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O:  :::   :O                          
+                   :OOOOOOOOOOOOOOOoOO:O:                   
+              :: OOOOOOOOOOOOOOOOoOOoOOOOOOOoo:             
+             :OOOOOooOOOoooOOOOooooOOoooOOOOOOOoo           
+           OOOOooooo:oooo:OOoooo:OOoooooo:ooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::..:. \ /  \  / / \   |  /|   /::::::::      
+          :::: \\  \  \    \/     \  /   | // /...:::.      
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
+===
+                                                            
+                      O:  :::   :O                          
+                   :OOOOOOOOOOOOOOOOOO:O:                   
+               : OOOOOOOOOOOOOOOOoOOoOOOOOOOoo:             
+             :OOOOOoOOOOoooOOOOooooOOoooOOOOOOOoo           
+           OOOOooooo:oooo:OOoooo:OOoooooo:ooOOOOooO:        
+        :::OOooo:oooo::::oooo:::::ooo:::::ooooooooooo       
+       :ooooooo:::::::::|\//.:::.//::::. |.::oooooo:::.     
+         o::::::..:. \ /  \  / / \   |  /|   /::::::::      
+          :::: \\  \  \    \/     \  /   | // /...:::.      
+                   \   |   \      \/    /  /                
+                       \   |      /    /                    
+                          \|      //                        
+                           \#   #/                          
+                            \##/                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                            |##|                            
+                           /####\                           
+   ...____________________/######\____________________...   
