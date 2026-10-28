@@ -34,6 +34,7 @@ LOGIN = "pantha704"
 
 W, H = 920, 402
 CHROME = 34
+CHAR_W = 7.8          # advance of one character at font-size 13px
 STATUS = 28
 SIDEBAR = 210
 VALUE_X = 118          # offset of a value column from the pane's left edge
@@ -198,6 +199,16 @@ def stylesheet():
     for n in range(PANES):
         anim += f".p{n}{{animation-delay:{n * SLOT - LOOP:.0f}s}}"
 
+    # the status-bar clock: three stepped layers so the time advances inside an <img>
+    anim += (
+        ".c-h{opacity:0;animation:ch 86400s steps(1,end) infinite}"
+        ".c-m{opacity:0;animation:cm 3600s steps(1,end) infinite}"
+        ".c-s{opacity:0;animation:cs 60s steps(1,end) infinite}"
+        "@keyframes ch{0%{opacity:1}4.1666667%{opacity:0}100%{opacity:0}}"
+        "@keyframes cm{0%{opacity:1}1.6666667%{opacity:0}100%{opacity:0}}"
+        "@keyframes cs{0%{opacity:1}1.6666667%{opacity:0}100%{opacity:0}}"
+    )
+
     return (
         "<style>"
         "text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,"
@@ -209,15 +220,51 @@ def stylesheet():
         + anim
         + keyframes
         + "@media (prefers-reduced-motion: reduce){"
-        ".pane,.hl,.path{animation:none;opacity:0}.p0{opacity:1}}"
+        ".pane,.hl,.path{animation:none;opacity:0}.p0{opacity:1}"
+        ".c-h,.c-m,.c-s{animation:none}}"
         "</style>"
     )
 
 
-def build(merged, repos, opened, stamp=None):
+def clock_bar(now, x, y):
+    """A clock that ticks inside a static <img>.
+
+    Three stepped layers — hours (24 slots over 24h), minutes (60 over 1h), seconds (60 over 1m).
+    Each layer starts at the value the server saw when it rendered this file, then advances on its
+    own. The inline opacity on the current slot is what a renderer without CSS animation falls back
+    to, so the picture is still correct if nothing moves.
+    """
+    cw = CHAR_W
+    o = [f'<text x="{x:.1f}" y="{y}" class="f-green">{now.strftime("%d/%m")}</text>']
+    tx = x + 6 * cw
+    o.append(f'<text x="{tx + 2 * cw:.1f}" y="{y}" class="f-green">:</text>')
+    o.append(f'<text x="{tx + 5 * cw:.1f}" y="{y}" class="f-green">:</text>')
+
+    def layer(cls, count, slot, period, current, fmt, dx):
+        out = []
+        for k in range(count):
+            cur = ";opacity:1" if k == current else ""
+            # anchor the layer on the value the server saw: slot k must be visible when the
+            # wall clock reads k, which is (k - current) slots after this file is loaded
+            delay = ((k - current) * slot) - period
+            out.append(
+                f'<text x="{tx + dx * cw:.1f}" y="{y}" class="{cls}" '
+                f'style="animation-delay:{delay}s{cur}">{fmt(k)}</text>'
+            )
+        return out
+
+    o += layer("c-h", 24, 3600, 86400, now.hour, lambda k: f"{k:02d}", 0)
+    o += layer("c-m", 60, 60, 3600, now.minute, lambda k: f"{k:02d}", 3)
+    o += layer("c-s", 60, 1, 60, now.second, lambda k: f"{k:02d}", 6)
+    return "".join(o)
+
+
+def build(merged, repos, opened, stamp=None, now=None):
     data = panes(merged, repos, opened)
+    if now is None:
+        now = datetime.now(IST)
     if stamp is None:
-        stamp = datetime.now(IST).strftime("%d/%m %H:%M:%S")
+        stamp = now.strftime("%d/%m %H:%M:%S")
     o = []
     o.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
@@ -290,7 +337,7 @@ def build(merged, repos, opened, stamp=None):
         f'<text x="{W-335}" y="{H-STATUS/2 + 4}" class="f-dim">utf-8</text>'
         f'<text x="{W-275}" y="{H-STATUS/2 + 4}" class="f-dim">rust</text>'
         f'<text x="{W-222}" y="{H-STATUS/2 + 4}" class="f-dim">ln 1, col 1</text>'
-        f'<text x="{W-127}" y="{H-STATUS/2 + 4}" class="f-green">{html.escape(stamp)}</text>'
+        + clock_bar(now, W - 127, H - STATUS / 2 + 4)
     )
     o.append("</svg>")
     return "\n".join(o)
