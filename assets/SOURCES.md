@@ -7,6 +7,7 @@ Every animation in `assets/frames/` was recorded from a live source and rebuilt 
 | --- | --- | --- | --- |
 | [ascii.live](https://ascii.live) · [hugomd/ascii-live](https://github.com/hugomd/ascii-live) | The original: ~93 animations served as a terminal stream | **GPL-3.0** | `tools/capture_frames.py <name>` — the frames are Go programs, so each one is played and recorded |
 | [ascii.rest](https://ascii.rest) | 240 pieces, each a tiny procedural module | **MIT** | `tools/pull_ascii_rest.py <name>` — imports the module, samples it over time |
+| generated here | `calendar` — one frame per day, today bracketed | ours | `tools/build_calendar_frames.py`; the server rotates the list so today is frame 0 |
 
 ## ascii.live is GPL-3.0 — the repo has no licence
 
