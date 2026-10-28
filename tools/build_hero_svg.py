@@ -24,6 +24,9 @@ import os
 import subprocess
 import time
 import urllib.request
+from datetime import datetime, timedelta, timezone
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -211,8 +214,10 @@ def stylesheet():
     )
 
 
-def build(merged, repos, opened):
+def build(merged, repos, opened, stamp=None):
     data = panes(merged, repos, opened)
+    if stamp is None:
+        stamp = datetime.now(IST).strftime("%d/%m %H:%M")
     o = []
     o.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
@@ -285,7 +290,7 @@ def build(merged, repos, opened):
         f'<text x="{W-300}" y="{H-STATUS/2 + 4}" class="f-dim">utf-8</text>'
         f'<text x="{W-238}" y="{H-STATUS/2 + 4}" class="f-dim">rust</text>'
         f'<text x="{W-182}" y="{H-STATUS/2 + 4}" class="f-dim">ln 1, col 1</text>'
-        f'<text x="{W-80}" y="{H-STATUS/2 + 4}" class="f-green">{merged}/{repos}</text>'
+        f'<text x="{W-96}" y="{H-STATUS/2 + 4}" class="f-green">{html.escape(stamp)}</text>'
     )
     o.append("</svg>")
     return "\n".join(o)

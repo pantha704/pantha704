@@ -10,6 +10,7 @@ Numbers come straight from the GitHub API (merged PRs into repositories this acc
 not own, plus open PRs), so the README cannot claim anything the API will not confirm.
 """
 import argparse
+import json
 import datetime
 import importlib.util
 import os
@@ -128,6 +129,16 @@ def main():
 
     path, size = builder.write(merged, repos, opened)
     print(f"rebuilt {path} ({size/1024:.1f} KB)")
+
+    # the live endpoint (/hero.svg) reads these numbers so it can render on demand
+    stats_path = os.path.join(os.path.dirname(path), "stats.json")
+    with open(stats_path, "w", encoding="utf-8") as fh:
+        json.dump(
+            {"merged": merged, "repos": repos, "open": opened, "checked": stamp},
+            fh,
+            indent=2,
+        )
+    print(f"stats -> {stats_path}")
 
     if changed:
         open(README, "w", encoding="utf-8").write(updated)
