@@ -125,7 +125,10 @@ def build(name, frames, fps=12.9, title=None):
         )
     o.append(f'<g transform="translate({ox:.2f} {oy:.2f}) scale({scale:.4f})">')
     for idx, frame in enumerate(frames):
-        delay = -(idx * period / len(frames))
+        # A negative delay fast-forwards the cycle, so a frame must be pushed back by
+        # (period - its own offset) to land in its slot in order. Using -idx*period/N here
+        # plays the animation backwards: frame 0 first, then the last frame, then N-1...
+        delay = -(period - idx * period / len(frames))
         o.append(f'<g class="f" style="animation-delay:{delay:.4f}s">')
         o.append(f'<text x="0" y="{LINE_H - 3:.0f}" fill="{FG}" xml:space="preserve">')
         for row, line in enumerate(frame):

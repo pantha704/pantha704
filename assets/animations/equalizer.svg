@@ -3,7 +3,7 @@
 <rect width="680" height="420" rx="10" fill="#0d1117"/>
 <rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
 <g transform="translate(16.00 47.42) scale(1.4516)">
-<g class="f" style="animation-delay:-0.0000s">
+<g class="f" style="animation-delay:-1.8605s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">                                                              </tspan>
 <tspan x="0" dy="14">                                                              </tspan>
@@ -22,7 +22,7 @@
 <tspan x="0" dy="14">   31    63    125   250   500   1k    2k    4k    8k    16k  </tspan>
 <tspan x="0" dy="14">                                                              </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.0775s">
+<g class="f" style="animation-delay:-1.7829s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">      ██ ▆▆                      ▁▁                           </tspan>
@@ -41,7 +41,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.1550s">
+<g class="f" style="animation-delay:-1.7054s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -60,7 +60,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.2326s">
+<g class="f" style="animation-delay:-1.6279s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                ▃▃ ▃▃ ▃▃                           </tspan>
@@ -79,7 +79,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.3101s">
+<g class="f" style="animation-delay:-1.5504s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -98,7 +98,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.3876s">
+<g class="f" style="animation-delay:-1.4729s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                ▁▁ ▁▁ ▁▁                           </tspan>
@@ -117,7 +117,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.4651s">
+<g class="f" style="animation-delay:-1.3953s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                ▁▁ ▁▁ ▁▁                           </tspan>
@@ -136,7 +136,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.5426s">
+<g class="f" style="animation-delay:-1.3178s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ██ ▃▃                                                   </tspan>
 <tspan x="0" dy="14">      ██ ██                ▁▁ ▁▁ ▁▁                           </tspan>
@@ -155,7 +155,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.6202s">
+<g class="f" style="animation-delay:-1.2403s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▂▂                                                      </tspan>
 <tspan x="0" dy="14">      ██ ▅▅                ▁▁ ▁▁ ▁▁                           </tspan>
@@ -174,7 +174,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.6977s">
+<g class="f" style="animation-delay:-1.1628s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -193,7 +193,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.7752s">
+<g class="f" style="animation-delay:-1.0853s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -212,7 +212,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.8527s">
+<g class="f" style="animation-delay:-1.0078s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -250,7 +250,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.0078s">
+<g class="f" style="animation-delay:-0.8527s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -269,7 +269,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.0853s">
+<g class="f" style="animation-delay:-0.7752s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ██ ▃▃                                                   </tspan>
 <tspan x="0" dy="14">      ██ ██                   ▆▆    ▃▃                        </tspan>
@@ -288,7 +288,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.1628s">
+<g class="f" style="animation-delay:-0.6977s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▃▃                                                      </tspan>
 <tspan x="0" dy="14">      ██ ▅▅                ▁▁                                 </tspan>
@@ -307,7 +307,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.2403s">
+<g class="f" style="animation-delay:-0.6202s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -326,7 +326,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.3178s">
+<g class="f" style="animation-delay:-0.5426s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -345,7 +345,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.3953s">
+<g class="f" style="animation-delay:-0.4651s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -364,7 +364,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.4729s">
+<g class="f" style="animation-delay:-0.3876s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -383,7 +383,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.5504s">
+<g class="f" style="animation-delay:-0.3101s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -402,7 +402,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.6279s">
+<g class="f" style="animation-delay:-0.2326s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▁▁                                                      </tspan>
 <tspan x="0" dy="14">         ▁▁                                                   </tspan>
@@ -421,7 +421,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.7054s">
+<g class="f" style="animation-delay:-0.1550s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ██ ▁▁                                                   </tspan>
 <tspan x="0" dy="14">      ██ ██                                                   </tspan>
@@ -440,7 +440,7 @@
 <tspan x="0" dy="14"> </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.7829s">
+<g class="f" style="animation-delay:-0.0775s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">      ▃▃                                                      </tspan>
 <tspan x="0" dy="14">      ██ ▃▃                   ▁▁    ▁▁                        </tspan>
