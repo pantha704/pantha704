@@ -23,14 +23,6 @@
     "verdict": "KEEP",
     "why": "reads as a clear subject"
   },
-  "anonymous": {
-    "cols": 60,
-    "frames": 4,
-    "ink": 54.9,
-    "rows": 37,
-    "verdict": "BORDERLINE",
-    "why": "braille Guy Fawkes mask - striking, but at README size it reads as static"
-  },
   "as": {
     "cols": 59,
     "frames": 4,
@@ -44,8 +36,8 @@
     "frames": 100,
     "ink": 75.5,
     "rows": 24,
-    "verdict": "BORDERLINE",
-    "why": "abstract gradient waves, not a subject"
+    "verdict": "KEEP",
+    "why": "borderline, kept on request"
   },
   "badapple": {
     "cols": 72,
@@ -308,8 +300,8 @@
     "frames": 60,
     "ink": 18.9,
     "rows": 28,
-    "verdict": "BORDERLINE",
-    "why": "sparse outline, subject unclear"
+    "verdict": "KEEP",
+    "why": "borderline, kept on request"
   },
   "jd": {
     "cols": 26,
@@ -423,14 +415,6 @@
     "verdict": "KEEP",
     "why": "reads as a clear subject"
   },
-  "plasma": {
-    "cols": 73,
-    "frames": 90,
-    "ink": 79.8,
-    "rows": 24,
-    "verdict": "BORDERLINE",
-    "why": "abstract radial gradient, not a subject"
-  },
   "purdue": {
     "cols": 81,
     "frames": 30,
@@ -494,14 +478,6 @@
     "rows": 35,
     "verdict": "NEW",
     "why": "captured after the audit \u2014 not judged yet"
-  },
-  "sixseven": {
-    "cols": 68,
-    "frames": 18,
-    "ink": 54.1,
-    "rows": 30,
-    "verdict": "BORDERLINE",
-    "why": "sparse fragments - reads as debris"
   },
   "spaceship": {
     "cols": 15,

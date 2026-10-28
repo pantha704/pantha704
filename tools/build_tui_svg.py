@@ -27,6 +27,7 @@ LINE_H = 14
 PAD = 16
 CHROME_H = 30
 PROMPT_H = 22
+TITLE_H = 28           # thin bar above the art, carrying only the animation's name
 CANVAS_W = 680         # every animation is emitted at this size, so the README never reflows
 CANVAS_H = 420
 BG = "#0d1117"
@@ -71,7 +72,7 @@ def eligible(name):
     return cols <= MAX_COLS and rows <= MAX_ROWS and 2 <= len(frames) <= MAX_FRAMES
 
 
-def build(name, frames, fps=12.9):
+def build(name, frames, fps=12.9, title=None):
     cols = max(len(l) for f in frames for l in f)
     rows = max(len(f) for f in frames)
     art_w, art_h = cols * CELL_W, rows * LINE_H
@@ -79,9 +80,11 @@ def build(name, frames, fps=12.9):
     # Every animation is emitted on the same canvas so the README never reflows between loads —
     # the art is scaled to fill the box (capped so tiny art doesn't turn into giant glyphs).
     width, height = CANVAS_W, CANVAS_H
-    scale = min(2.6, (width - PAD * 2) / art_w, (height - PAD * 2) / art_h)
+    top = TITLE_H if title else 0
+    avail_h = height - top
+    scale = min(2.6, (width - PAD * 2) / art_w, (avail_h - PAD * 2) / art_h)
     ox = (width - art_w * scale) / 2
-    oy = (height - art_h * scale) / 2
+    oy = top + (avail_h - art_h * scale) / 2
 
     period = len(frames) / fps
     step = 100.0 / len(frames)
@@ -107,7 +110,19 @@ def build(name, frames, fps=12.9):
         f'<rect x="0.5" y="0.5" width="{width-1:.0f}" height="{height-1:.0f}" rx="10" '
         f'fill="none" stroke="#30363d"/>'
     )
-    # art only: no window chrome, no prompt line, no label
+    # art only: no window chrome, no prompt line, no label — unless a title is asked for
+    if title:
+        o.append(
+            f'<path d="M0 10 A10 10 0 0 1 10 0 H{width-10:.0f} A10 10 0 0 1 {width:.0f} 10 '
+            f'V{TITLE_H} H0 Z" fill="#161b22"/>'
+        )
+        o.append(
+            f'<line x1="0" y1="{TITLE_H}" x2="{width:.0f}" y2="{TITLE_H}" stroke="#30363d"/>'
+        )
+        o.append(
+            f'<text x="{PAD}" y="19" fill="{DIM}" font-size="12" '
+            f'letter-spacing="0.4">{html.escape(title)}</text>'
+        )
     o.append(f'<g transform="translate({ox:.2f} {oy:.2f}) scale({scale:.4f})">')
     for idx, frame in enumerate(frames):
         delay = -(idx * period / len(frames))
