@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of eclipseos">
+<style>.f{opacity:0;animation:blink 0.543s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}14.286%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<rect width="680" height="420" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
+<g transform="translate(77.92 28.00) scale(2.6000)">
+<g class="f" style="animation-delay:-0.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">       @@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">    @@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">  @@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">  @@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">    @@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">       @@@@@@@@@@@@@@@</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.0775s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">       @@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">    @@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">  @@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">  @@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">    @@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="0" dy="14">       @@@@@@@@@@@@@@@</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1550s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">       @@@@@@@@@@@@@@░░</tspan>
+<tspan x="0" dy="14">    @@@@@@@@@@@@@@@@@░░░</tspan>
+<tspan x="0" dy="14">  @@@@@@@@@@@@@@@@@@░░░░░</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@@@░░░░░░░░</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@@@░░░░░░░░░░</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@@░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14"> @@@@@@@@@@@@░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">  @@@@@@@@@@░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">    @@@@@@@░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">       @@@░░░░░░░░░░░░░░░░░</tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2326s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">        ████  ████</tspan>
+<tspan x="0" dy="14">      ██████  ██████</tspan>
+<tspan x="0" dy="14">    █████████████████</tspan>
+<tspan x="0" dy="14">   ██████   ECLIPSE  ████</tspan>
+<tspan x="0" dy="14">  ██████   O S    ██████</tspan>
+<tspan x="0" dy="14">  ██████          ██████</tspan>
+<tspan x="0" dy="14">   ████████████████████</tspan>
+<tspan x="0" dy="14">     ████████████████</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3101s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   ████████████████████</tspan>
+<tspan x="0" dy="14">  ██   ████  ████  ████ ██</tspan>
+<tspan x="0" dy="14"> ██   ██████  ████  ██████</tspan>
+<tspan x="0" dy="14"> ██  ████████████████████</tspan>
+<tspan x="0" dy="14"> ██  ████  ████  ████  ██</tspan>
+<tspan x="0" dy="14">  ██   ECLIPSE  OS    ██</tspan>
+<tspan x="0" dy="14">   ████████████████████</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3876s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">   ████@##@##@#@#@##@#</tspan>
+<tspan x="0" dy="14">  ## ECL!P5E 0$ ##  ##</tspan>
+<tspan x="0" dy="14">  ##  @#@#@##@#@#@##@#</tspan>
+<tspan x="0" dy="14">  ##  0$##@#@#  5ECL!P   #</tspan>
+<tspan x="0" dy="14">  ##  @#@#@#@##@#@#@#@#</tspan>
+<tspan x="0" dy="14">   @##@#@#@#@#@#@#@#@#@#</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4651s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">        ░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">      ░░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">    ░░░░░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">   ░░░░░░░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">  ░░░░░░░░░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">  ░░░░░░░░░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">   ░░░░░░░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14">     ░░░░░░░░░░░░░░░░░░</tspan>
+<tspan x="0" dy="14"> </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+</g>
+</svg>

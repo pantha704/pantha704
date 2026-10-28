@@ -68,7 +68,7 @@ def eligible(name):
         return False
     cols = max(len(l) for f in frames for l in f)
     rows = max(len(f) for f in frames)
-    return cols <= MAX_COLS and rows <= MAX_ROWS and len(frames) <= MAX_FRAMES
+    return cols <= MAX_COLS and rows <= MAX_ROWS and 2 <= len(frames) <= MAX_FRAMES
 
 
 def build(name, frames, fps=12.9):
