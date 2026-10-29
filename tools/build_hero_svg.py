@@ -285,7 +285,7 @@ def build(merged, repos, opened, stamp=None, now=None):
         o.append(f'<circle cx="{20 + i*18}" cy="{CHROME/2}" r="5.5" fill="{col}"/>')
     o.append(
         f'<text x="{W/2}" y="{CHROME/2 + 4}" class="f-dim" text-anchor="middle" font-size="12">'
-        f'pratham@kolkata — ~/profile</text>'
+        f'~/profile</text>'
     )
     o.append(f'<line x1="0" y1="{CHROME}" x2="{W}" y2="{CHROME}" class="s-line"/>')
     # sidebar
