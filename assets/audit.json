@@ -16,12 +16,10 @@
     "why": "captured after the audit \u2014 not judged yet"
   },
   "analogclock": {
-    "cols": 56,
-    "frames": 8,
-    "ink": 12.4,
-    "rows": 32,
+    "detail": "svg hands \u00b7 anchored to request time",
+    "live": true,
     "verdict": "KEEP",
-    "why": "reads as a clear subject"
+    "why": "generated, not captured: hour/minute/second hands rotate at their true rates starting from the instant of the request"
   },
   "as": {
     "cols": 59,

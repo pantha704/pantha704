@@ -1,287 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of analogclock">
-<style>.f{opacity:0;animation:blink 0.620s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}12.500%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
-<rect width="680" height="420" rx="10" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
-<g transform="translate(165.40 16.00) scale(0.8661)">
-<g class="f" style="animation-delay:-0.6202s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                 ++     .</tspan>
-<tspan x="0" dy="14">       10                              **++</tspan>
-<tspan x="0" dy="14">                                     ** +          2</tspan>
-<tspan x="0" dy="14">       .                            **++            .</tspan>
-<tspan x="0" dy="14">      .                           **++               .</tspan>
-<tspan x="0" dy="14">     .                           *++                  .</tspan>
-<tspan x="0" dy="14">     .                         *++                    .</tspan>
-<tspan x="0" dy="14">                              ++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:07</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.5426s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                    +   .</tspan>
-<tspan x="0" dy="14">       10                              **   ++</tspan>
-<tspan x="0" dy="14">                                      *  +++       2</tspan>
-<tspan x="0" dy="14">       .                            ** +++          .</tspan>
-<tspan x="0" dy="14">      .                           ** ++              .</tspan>
-<tspan x="0" dy="14">     .                           **++                 .</tspan>
-<tspan x="0" dy="14">     .                         *+++                   .</tspan>
-<tspan x="0" dy="14">                              +++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:08</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.4651s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">       10                              **      +</tspan>
-<tspan x="0" dy="14">                                      **    +++    2</tspan>
-<tspan x="0" dy="14">       .                            **    ++        .</tspan>
-<tspan x="0" dy="14">      .                           *** ++++           .</tspan>
-<tspan x="0" dy="14">     .                           ** +++               .</tspan>
-<tspan x="0" dy="14">     .                         **+++                  .</tspan>
-<tspan x="0" dy="14">                              +++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:09</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.3876s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">       10                              **</tspan>
-<tspan x="0" dy="14">                                      **        ++ 2</tspan>
-<tspan x="0" dy="14">       .                            **      ++++    .</tspan>
-<tspan x="0" dy="14">      .                           ***    +++         .</tspan>
-<tspan x="0" dy="14">     .                           **  ++++             .</tspan>
-<tspan x="0" dy="14">     .                         ***+++                 .</tspan>
-<tspan x="0" dy="14">                              ++++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:10</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.3101s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">       10                              **</tspan>
-<tspan x="0" dy="14">                                      **           2</tspan>
-<tspan x="0" dy="14">       .                            **           ++ .</tspan>
-<tspan x="0" dy="14">      .                           ***       +++++    .</tspan>
-<tspan x="0" dy="14">     .                           **     ++++          .</tspan>
-<tspan x="0" dy="14">     .                         *** +++++              .</tspan>
-<tspan x="0" dy="14">                              +++++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:11</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.2326s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">       10                              **</tspan>
-<tspan x="0" dy="14">                                      **           2</tspan>
-<tspan x="0" dy="14">       .                            **              .</tspan>
-<tspan x="0" dy="14">      .                           ***            ++  .</tspan>
-<tspan x="0" dy="14">     .                           **        +++++++    .</tspan>
-<tspan x="0" dy="14">     .                         ***  +++++++           .</tspan>
-<tspan x="0" dy="14">                              ++++++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:12</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.1550s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">       10                              **</tspan>
-<tspan x="0" dy="14">                                      **           2</tspan>
-<tspan x="0" dy="14">       .                            **              .</tspan>
-<tspan x="0" dy="14">      .                           ***                .</tspan>
-<tspan x="0" dy="14">     .                           **               ++  .</tspan>
-<tspan x="0" dy="14">     .                         ***      ++++++++++    .</tspan>
-<tspan x="0" dy="14">                              ++++++++++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:13</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.0775s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">                      . .  .12  .  . .</tspan>
-<tspan x="0" dy="14">                11 .                    . 1</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">       10                              **</tspan>
-<tspan x="0" dy="14">                                      **           2</tspan>
-<tspan x="0" dy="14">       .                            **              .</tspan>
-<tspan x="0" dy="14">      .                           ***                .</tspan>
-<tspan x="0" dy="14">     .                           **                   .</tspan>
-<tspan x="0" dy="14">     .                         ***               +++  .</tspan>
-<tspan x="0" dy="14">                              +++++++++++++++++++</tspan>
-<tspan x="0" dy="14">     9                        O                        3</tspan>
-<tspan x="0" dy="14">     .                         #                      .</tspan>
-<tspan x="0" dy="14">     .                          ##                    .</tspan>
-<tspan x="0" dy="14">      .                          ##                  .</tspan>
-<tspan x="0" dy="14">       .                          #                 .</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">        8                                          4</tspan>
-<tspan x="0" dy="14">         .                                        .</tspan>
-<tspan x="0" dy="14">           . .                                . .</tspan>
-<tspan x="0" dy="14">               .                            .</tspan>
-<tspan x="0" dy="14">                 7 .                    . 5</tspan>
-<tspan x="0" dy="14">                      . .  .    .  . .</tspan>
-<tspan x="0" dy="14">                              6</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   &lt;JCPL_CHXD17&gt;</tspan>
-<tspan x="0" dy="14"> </tspan>
-<tspan x="0" dy="14">                   Digital Time: 17:06:14</tspan>
-<tspan x="0" dy="14">                    Press Ctrl+C to exit</tspan>
-</text></g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="analog clock, 13:53:17">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:14px;white-space:pre}
+.rim{fill:#8b949e}.num{fill:#7ee787;font-weight:600}.hand{stroke-linecap:round}
+.hour{stroke:#7ee787;stroke-width:5}.minute{stroke:#7ee787;stroke-width:3.4}
+.second{stroke:#79c0ff;stroke-width:1.5}.cap{fill:#79c0ff}
+</style>
+<rect width="680" height="420" fill="#010409"/>
+<text x="176.2" y="67.2" class="rim" xml:space="preserve">               |||||||||               </text>
+<text x="176.2" y="84.0" class="rim" xml:space="preserve">          \\       +       //          </text>
+<text x="176.2" y="100.8" class="rim" xml:space="preserve">       \\  ·               ·  //       </text>
+<text x="176.2" y="117.6" class="num" xml:space="preserve">     \\           12            //     </text>
+<text x="176.2" y="134.4" class="rim" xml:space="preserve">    \                             /    </text>
+<text x="176.2" y="151.2" class="rim" xml:space="preserve">   \  ·                         ·  /   </text>
+<text x="176.2" y="168.0" class="rim" xml:space="preserve">  -                                 -  </text>
+<text x="176.2" y="184.8" class="rim" xml:space="preserve"> -                                   - </text>
+<text x="176.2" y="201.6" class="rim" xml:space="preserve"> -                                   - </text>
+<text x="176.2" y="218.4" class="num" xml:space="preserve"> -  +  9           o           3  +  - </text>
+<text x="176.2" y="235.2" class="rim" xml:space="preserve"> -                                   - </text>
+<text x="176.2" y="252.0" class="rim" xml:space="preserve"> -                                   - </text>
+<text x="176.2" y="268.8" class="rim" xml:space="preserve">  -                                 -  </text>
+<text x="176.2" y="285.6" class="rim" xml:space="preserve">   /  ·                         ·  \   </text>
+<text x="176.2" y="302.4" class="rim" xml:space="preserve">    /                             \    </text>
+<text x="176.2" y="319.2" class="num" xml:space="preserve">     //            6            \\     </text>
+<text x="176.2" y="336.0" class="rim" xml:space="preserve">       //  ·               ·  \\       </text>
+<text x="176.2" y="352.8" class="rim" xml:space="preserve">          //       +       \\          </text>
+<text x="176.2" y="369.6" class="rim" xml:space="preserve">               |||||||||               </text>
+<line class="hand hour" x1="340.0" y1="210.0" x2="340.0" y2="136.0"><animateTransform attributeName="transform" type="rotate" from="0 340.0 210.0" to="360 340.0 210.0" dur="43200s" begin="-6797.20s" repeatCount="indefinite"/></line>
+<line class="hand minute" x1="340.0" y1="210.0" x2="340.0" y2="100.5"><animateTransform attributeName="transform" type="rotate" from="0 340.0 210.0" to="360 340.0 210.0" dur="3600s" begin="-3197.20s" repeatCount="indefinite"/></line>
+<line class="hand second" x1="340.0" y1="210.0" x2="340.0" y2="82.7"><animateTransform attributeName="transform" type="rotate" from="0 340.0 210.0" to="360 340.0 210.0" dur="60s" begin="-17.20s" repeatCount="indefinite"/></line>
+<circle class="cap" cx="340.0" cy="210.0" r="4"/>
 </svg>

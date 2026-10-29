@@ -46,11 +46,15 @@ def card(name, meta, badge, cls, blurb=""):
         'width="680" height="420" loading="lazy">'
     )
     bits = []
-    if meta.get("frames"):
+    if meta.get("live"):
+        bits.append("live")
+        if meta.get("detail"):
+            bits.append(meta["detail"])
+    if meta.get("frames") and not meta.get("live"):
         bits.append(f"{meta['frames']}f")
-    if meta.get("rows") and meta.get("cols"):
+    if meta.get("rows") and meta.get("cols") and not meta.get("live"):
         bits.append(f"{meta['rows']}×{meta['cols']}")
-    if meta.get("ink"):
+    if meta.get("ink") and not meta.get("live"):
         bits.append(f"{meta['ink']}% ink")
     note = meta.get("note") or blurb
     cat = meta.get("category", "")

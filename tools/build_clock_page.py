@@ -60,6 +60,22 @@ PAGE = r"""<!doctype html>
     </div>
   </div>
 
+  <h2>the same time, as a clock</h2>
+  <svg id="analog" width="260" height="260" viewBox="0 0 260 260" aria-label="analog clock">
+    <circle cx="130" cy="130" r="118" fill="none" stroke="#30363d" stroke-width="2"/>
+    <g id="ticks"></g>
+    <line id="hh" x1="130" y1="130" x2="130" y2="66" stroke="#7ee787" stroke-width="7" stroke-linecap="round"/>
+    <line id="mh" x1="130" y1="130" x2="130" y2="40" stroke="#7ee787" stroke-width="4" stroke-linecap="round"/>
+    <line id="sh" x1="130" y1="130" x2="130" y2="30" stroke="#79c0ff" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="130" cy="130" r="5" fill="#79c0ff"/>
+  </svg>
+  <div class="kv">
+    <span>hands <b id="a-time">…</b></span>
+    <span>zone <b id="a-tz">…</b></span>
+    <span>offset <b id="a-off">…</b></span>
+    <span>cycle <b id="a-cycle">…</b></span>
+  </div>
+
   <h2>this month, where you are</h2>
   <pre id="cal"></pre>
 
@@ -142,6 +158,26 @@ function renderCalendar(now, tz) {
   return lines.join("\n");
 }
 
+// hour ticks, drawn once
+(function () {
+  const g = document.getElementById("ticks");
+  for (let i = 0; i < 12; i++) {
+    const a = (i * 30 - 90) * Math.PI / 180;
+    const long = i % 3 === 0;
+    const r1 = long ? 100 : 108, r2 = 114;
+    const l = document.createElementNS("http://www.w3.org/2000/svg", "line");
+    l.setAttribute("x1", 130 + r1 * Math.cos(a)); l.setAttribute("y1", 130 + r1 * Math.sin(a));
+    l.setAttribute("x2", 130 + r2 * Math.cos(a)); l.setAttribute("y2", 130 + r2 * Math.sin(a));
+    l.setAttribute("stroke", long ? "#7ee787" : "#30363d");
+    l.setAttribute("stroke-width", long ? 3 : 1.5);
+    g.appendChild(l);
+  }
+})();
+
+function setHand(id, degrees) {
+  document.getElementById(id).setAttribute("transform", `rotate(${degrees} 130 130)`);
+}
+
 function tick() {
   const now = new Date();
   const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
@@ -157,6 +193,23 @@ function tick() {
   document.getElementById("utc").textContent = fmtTime("UTC").format(now);
   document.getElementById("day").textContent =
     new Intl.DateTimeFormat("en-GB", { weekday: "long", timeZone: tz }).format(now);
+
+  // the analog face reads the visitor's own clock, hands sweeping at their true rates
+  const parts = new Intl.DateTimeFormat("en-GB", {
+    timeZone: tz, hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false,
+  }).formatToParts(now);
+  const num = (t) => +parts.find(p => p.type === t).value;
+  const h = num("hour") % 12, m = num("minute"), sec = num("second");
+  setHand("hh", (h + m / 60 + sec / 3600) * 30);
+  setHand("mh", (m + sec / 60) * 6);
+  setHand("sh", sec * 6);
+
+  document.getElementById("a-time").textContent =
+    [h === 0 ? 12 : h, pad(m), pad(sec)].join(":") + (h < 12 ? " am" : " pm");
+  document.getElementById("a-tz").textContent = tz;
+  document.getElementById("a-off").textContent = offsetLabel(tz, now);
+  document.getElementById("a-cycle").textContent =
+    pad(h) + ":" + pad(m) + ":" + pad(sec) + " (24h)";
 
   const cal = renderCalendar(now, tz);
   // highlight today inside the calendar text without innerHTML
