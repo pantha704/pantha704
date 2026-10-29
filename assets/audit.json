@@ -133,14 +133,6 @@
     "verdict": "REMOVED",
     "why": "a hand with the middle finger raised - removed on request"
   },
-  "clock": {
-    "cols": 20,
-    "frames": 8,
-    "ink": 100.0,
-    "rows": 1,
-    "verdict": "DROP",
-    "why": "too small to read: 1x20"
-  },
   "coin": {
     "cols": 49,
     "frames": 7,

@@ -53,15 +53,6 @@
     "note": "amer fort floodlit gold on its hill, mirrored in maota lake at night",
     "rows": 100
   },
-  "analog-clock": {
-    "category": "objects",
-    "cols": 47,
-    "file": "analog-clock",
-    "fps": 8,
-    "frames": 24,
-    "note": "a round clock face showing the local time, seconds ticking",
-    "rows": 23
-  },
   "apple": {
     "category": "companies",
     "cols": 46,
@@ -466,15 +457,6 @@
     "frames": 24,
     "note": "the milky way over a lone acacia on moonless dunes, meteors falling",
     "rows": 100
-  },
-  "digital-clock": {
-    "category": "ui",
-    "cols": 70,
-    "file": "digital-clock",
-    "fps": 10,
-    "frames": 24,
-    "note": "the local time in seven-segment digits, colon blinking",
-    "rows": 11
   },
   "dissolve": {
     "category": "type",
