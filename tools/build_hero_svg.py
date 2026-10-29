@@ -125,7 +125,7 @@ def panes(merged, repos, opened):
         (
             0,
             "~/profile/README.md",
-            "pratham@kolkata",
+            "Pratham Jaiswal",
             [
                 ("role", "systems & automation engineer", "green"),
                 ("now", "automation + vuln reporting @ braid-forbes", "fg"),
