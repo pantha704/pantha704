@@ -1,9 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of bar-chart">
-<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<style>.f{opacity:0;animation:blink 6.000s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}1.667%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
 <rect width="680" height="420" rx="10" fill="#0d1117"/>
 <rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
-<g transform="translate(24.93 16.00) scale(1.4586)">
-<g class="f" style="animation-delay:-1.8605s">
+<path d="M0 10 A10 10 0 0 1 10 0 H670 A10 10 0 0 1 680 10 V28 H0 Z" fill="#161b22"/>
+<line x1="0" y1="28" x2="680" y2="28" stroke="#30363d"/>
+<text x="16" y="19" fill="#8b949e" font-size="12" letter-spacing="0.4">bar-chart</text>
+<g transform="translate(47.67 44.00) scale(1.3534)">
+<g class="f" style="animation-delay:-6.0000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">                                                            </tspan>
 <tspan x="0" dy="14">  visits by day                 [week 1]  week 2   week 3   </tspan>
@@ -25,7 +28,7 @@
 <tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.7829s">
+<g class="f" style="animation-delay:-5.9000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
@@ -47,7 +50,7 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.7054s">
+<g class="f" style="animation-delay:-5.8000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
@@ -69,7 +72,7 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.6279s">
+<g class="f" style="animation-delay:-5.7000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
@@ -91,7 +94,7 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.5504s">
+<g class="f" style="animation-delay:-5.6000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
@@ -113,7 +116,7 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.4729s">
+<g class="f" style="animation-delay:-5.5000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
@@ -135,7 +138,7 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.3953s">
+<g class="f" style="animation-delay:-5.4000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
@@ -157,238 +160,18 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.3178s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.2403s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.1628s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.0853s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.0078s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.9302s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.8527s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.7752s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.6977s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.6202s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 540  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.5426s">
+<g class="f" style="animation-delay:-5.3000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 539  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        461    ▆▆▆▆                   </tspan>
+<tspan x="0" dy="14">     │                        460    ▆▆▆▆                   </tspan>
 <tspan x="0" dy="14">     │          410           ▂▂▂▂   ████                   </tspan>
 <tspan x="0" dy="14">     │          ▂▂▂▂   380    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 319  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ 320  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
 <tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   241             </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   240             </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▆▆▆▆   180      </tspan>
 <tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
@@ -399,38 +182,16 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.4651s">
+<g class="f" style="animation-delay:-5.2000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 538  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        461    ▆▆▆▆                   </tspan>
-<tspan x="0" dy="14">     │          411           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   379    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 319  ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   241             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▇▇▇▇   180      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
-<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
-<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.3876s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 536  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 535  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
 <tspan x="0" dy="14">     │                        463    ▆▆▆▆                   </tspan>
 <tspan x="0" dy="14">     │          412           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   378    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 317  ┈ ████ ┈ ▄▄▄▄ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ▂▂▂▂   377    ████   ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ 316  ┈ ████ ┈ ▄▄▄▄ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
 <tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████                   </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   243             </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▇▇▇▇   179      </tspan>
@@ -443,19 +204,569 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.3101s">
+<g class="f" style="animation-delay:-5.1000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 532  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        465    ▅▅▅▅                   </tspan>
-<tspan x="0" dy="14">     │          414           ▂▂▂▂   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▂▂▂▂   376    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 314  ┈ ████ ┈ ▄▄▄▄ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   245             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▇▇▇▇   178      </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 524  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                        471    ▄▄▄▄                   </tspan>
+<tspan x="0" dy="14">     │          418           ▃▃▃▃   ████                   </tspan>
+<tspan x="0" dy="14">     │          ▃▃▃▃   371    ████   ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ 308  ┈ ████ ┈ ▃▃▃▃ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ▁▁▁▁   ████   ████   ████   ████                   </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   251             </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   177      </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▄▄▄▄ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-5.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                        486    502                    </tspan>
+<tspan x="0" dy="14">     │          428           ▆▆▆▆   ████                   </tspan>
+<tspan x="0" dy="14">     │          ▄▄▄▄   360    ████   ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   292    ████   ████   ████   ████   266             </tspan>
+<tspan x="0" dy="14">     │   ▇▇▇▇   ████   ████   ████   ████   ▂▂▂▂            </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   172      </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▄▄▄▄ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 510  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                        ▂▂▂▂   465                    </tspan>
+<tspan x="0" dy="14">     │          445           ████   ▂▂▂▂                   </tspan>
+<tspan x="0" dy="14">     │          ▇▇▇▇          ████   ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ 340  ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   265    ████   ▆▆▆▆   ████   ████   290             </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   165      </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 534  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          462           ▆▆▆▆                          </tspan>
+<tspan x="0" dy="14">     │          ▂▂▂▂          ████   428                    </tspan>
+<tspan x="0" dy="14">     │          ████          ████   ▅▅▅▅                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ 320  ┈ ████ ┈ ████ ┈ 314  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   ▃▃▃▃   ████   ████   ▂▂▂▂            </tspan>
+<tspan x="0" dy="14">     │   238    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▆▆▆▆   ████   ████   ████   ████   ████   158      </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▁▁▁▁ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 549  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          472           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▄▄▄▄          ████   406                    </tspan>
+<tspan x="0" dy="14">     │          ████          ████   ▁▁▁▁                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ 309  ┈ ████ ┈ ████ ┈ 329  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   ▁▁▁▁   ████   ████   ▅▅▅▅            </tspan>
+<tspan x="0" dy="14">     │   222    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▄▄▄▄   ████   ████   ████   ████   ████   153      </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▁▁▁▁ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              557                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▁▁▁▁ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          478           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▄▄▄▄          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   395                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▇▇▇▇ ┈ 337  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   303    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   214    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 151  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   391                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              560                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          480           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   390                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ 340  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   300    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   210    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              559                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▁▁▁▁ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          479           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   391                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▇▇▇▇ ┈ 339  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   301    ████   ████   ▆▆▆▆            </tspan>
+<tspan x="0" dy="14">     │   211    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ 150  ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                              554                           </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▁▁▁▁ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          474           ████                          </tspan>
+<tspan x="0" dy="14">     │          ▄▄▄▄          ████                          </tspan>
+<tspan x="0" dy="14">     │          ████          ████   396                    </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ 307  ┈ ████ ┈ ▇▇▇▇ ┈ 334  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   ▁▁▁▁   ████   ████   ▅▅▅▅            </tspan>
+<tspan x="0" dy="14">     │   218    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████   ████   154      </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▁▁▁▁ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 541  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          459           ▆▆▆▆                          </tspan>
+<tspan x="0" dy="14">     │          ▂▂▂▂          ████   411                    </tspan>
+<tspan x="0" dy="14">     │          ████          ████   ▂▂▂▂                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ 324  ┈ ████ ┈ ████ ┈ 321  ┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │          ████   ▄▄▄▄   ████   ████   ▃▃▃▃            </tspan>
+<tspan x="0" dy="14">     │   236    ████   ████   ████   ████   ████            </tspan>
+<tspan x="0" dy="14">     │   ▆▆▆▆   ████   ████   ████   ████   ████   163      </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1  [week 2]  week 3   </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 514  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                        ▂▂▂▂                          </tspan>
+<tspan x="0" dy="14">     │          431           ████   439                    </tspan>
+<tspan x="0" dy="14">     │          ▅▅▅▅   356    ████   ▆▆▆▆                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ ▁▁▁▁ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   271    ████   ████   ████   ████   294             </tspan>
+<tspan x="0" dy="14">     │   ▃▃▃▃   ████   ████   ████   ████   ▇▇▇▇            </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   181      </tspan>
 <tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈┈  </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
@@ -465,20 +776,20 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.2326s">
+<g class="f" style="animation-delay:-2.5000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 528  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        468    ▄▄▄▄                   </tspan>
-<tspan x="0" dy="14">     │          416           ▃▃▃▃   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▃▃▃▃   373    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 311  ┈ ████ ┈ ▄▄▄▄ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▂▂▂▂   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   248             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   178      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▄▄▄▄ ┈┈  </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                        470    485                    </tspan>
+<tspan x="0" dy="14">     │                 410    ▃▃▃▃   ▆▆▆▆                   </tspan>
+<tspan x="0" dy="14">     │          385    ▂▂▂▂   ████   ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ 330  ┈ ▆▆▆▆ ┈ ████ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ▅▅▅▅   ████   ████   ████   ████                   </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   250    210      </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ▂▂▂▂     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈┈  </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
@@ -487,20 +798,20 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.1550s">
+<g class="f" style="animation-delay:-2.4000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 521  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        473    ▃▃▃▃                   </tspan>
-<tspan x="0" dy="14">     │          419           ▄▄▄▄   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▃▃▃▃   370    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈ 306  ┈ ████ ┈ ▃▃▃▃ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   ▁▁▁▁   ████   ████   ████   ████                   </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   253             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   176      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▄▄▄▄ ┈┈  </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 531  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 464           ▅▅▅▅                   </tspan>
+<tspan x="0" dy="14">     │                 ▂▂▂▂   426    ████                   </tspan>
+<tspan x="0" dy="14">     │   389           ████   ▄▄▄▄   ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ▆▆▆▆ ┈ 339  ┈ ████ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████                   </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   206    239      </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▁▁▁▁   ▆▆▆▆     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈┈  </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
@@ -509,20 +820,504 @@
 <tspan x="0" dy="14">                                                            </tspan>
 <tspan x="0" dy="14"> </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.0775s">
+<g class="f" style="animation-delay:-2.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     559                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 496           ████                   </tspan>
+<tspan x="0" dy="14">     │   424           ▇▇▇▇          ████                   </tspan>
+<tspan x="0" dy="14">     │   ▄▄▄▄          ████   399    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈ 311  ┈ ████ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ▂▂▂▂   ████   ████   ████          257      </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████          ▁▁▁▁     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   179    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     574                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 513  ┈┈┈┈┈┈┈┈ ▄▄▄▄ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▂▂▂▂          ████                   </tspan>
+<tspan x="0" dy="14">     │   442           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ▇▇▇▇          ████   386    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   296    ████   ████   ████          266      </tspan>
+<tspan x="0" dy="14">     │   ████   ▇▇▇▇   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   166    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▃▃▃▃ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     579                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 519  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   449           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   381    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   291    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▇▇▇▇   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   161    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 520  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   450           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     580                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 519  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▃▃▃▃          ████                   </tspan>
+<tspan x="0" dy="14">     │   449           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ████          ████   380    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   290    ████   ████   ████          270      </tspan>
+<tspan x="0" dy="14">     │   ████   ▆▆▆▆   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   160    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     579                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 516  ┈┈┈┈┈┈┈┈ ▅▅▅▅ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▂▂▂▂          ████                   </tspan>
+<tspan x="0" dy="14">     │   446           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ▇▇▇▇          ████   383    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   294    ████   ████   ████          267      </tspan>
+<tspan x="0" dy="14">     │   ████   ▇▇▇▇   ████   ████   ████          ▃▃▃▃     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   163    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     576                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 505  ┈┈┈┈┈┈┈┈ ▄▄▄▄ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 ▁▁▁▁          ████                   </tspan>
+<tspan x="0" dy="14">     │   436           ████          ████                   </tspan>
+<tspan x="0" dy="14">     │   ▆▆▆▆          ████   389    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈┈┈┈┈┈┈┈ ████ ┈ ▆▆▆▆ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   303    ████   ████   ████          260      </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████          ▂▂▂▂     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   169    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▃▃▃▃ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">  visits by day                  week 1   week 2  [week 3]  </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14">                                     570                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▃▃▃▃ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                 484           ████                   </tspan>
+<tspan x="0" dy="14">     │   417           ▅▅▅▅          ████                   </tspan>
+<tspan x="0" dy="14">     │   ▃▃▃▃          ████   400    ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ████ ┈ 321  ┈ ████ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ▃▃▃▃   ████   ████   ████                   </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████          247      </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   180    ████     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▅▅▅▅ ┈ ████ ┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
+<tspan x="0" dy="14">   0 └────────────────────────────────────────────────────  </tspan>
+<tspan x="0" dy="14">         mon    tue    wed    thu    fri    sat    sun      </tspan>
+<tspan x="0" dy="14">                                                            </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0">  visits by day                 [week 1]  week 2   week 3   </tspan>
 <tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14">                                                            </tspan>
-<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 512  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │                        478    ▂▂▂▂                   </tspan>
-<tspan x="0" dy="14">     │          423           ▅▅▅▅   ████                   </tspan>
-<tspan x="0" dy="14">     │          ▄▄▄▄   365    ████   ████                   </tspan>
-<tspan x="0" dy="14"> 400 ┤┈┈┈┈┈┈┈┈┈ ████ ┈ ▂▂▂▂ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
-<tspan x="0" dy="14">     │   300    ████   ████   ████   ████   258             </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ▁▁▁▁            </tspan>
-<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   174      </tspan>
-<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ▄▄▄▄ ┈┈  </tspan>
+<tspan x="0" dy="14">                                     560                    </tspan>
+<tspan x="0" dy="14"> 600 ┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ▂▂▂▂ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │                               ████                   </tspan>
+<tspan x="0" dy="14">     │                 450    420    ████                   </tspan>
+<tspan x="0" dy="14">     │   385           ████   ▃▃▃▃   ████                   </tspan>
+<tspan x="0" dy="14"> 400 ┤┈┈ ▆▆▆▆ ┈ 350  ┈ ████ ┈ ████ ┈ ████ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████                   </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████          225      </tspan>
+<tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   200    ▄▄▄▄     </tspan>
+<tspan x="0" dy="14"> 200 ┤┈┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈ ████ ┈┈  </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>
 <tspan x="0" dy="14">     │   ████   ████   ████   ████   ████   ████   ████     </tspan>

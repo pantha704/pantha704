@@ -69,20 +69,6 @@
                                                                   
 ===
                                                                   
-              ▄            │        ╭───╮                ╭─────╮  
-   ─────        ▄ ▄      ──┴──          │    [     o]    │  ╶──┤  
-                                                         ╰─────╯  
-                                                                  
-   line       dots       pipe        arc      bounce      clock   
-                                                                  
-                                                           ···    
-    ▇▇▇         ▗▟      ···░▓█·    ▇▄▂▁▂▅▇  [   ===  ]    ·   ·   
-    ███                                                    ·o°    
-                                                                  
-    bar       loop       scan       wave       slide      orbit   
-                                                                  
-===
-                                                                  
     ╲                      │         ───╮                ╭─────╮  
      ╲        ▀ ▀ ▄        └──          │    [    o ]    │  ╷  │  
       ╲                                 ╯                ╰──┴──╯  
@@ -147,20 +133,6 @@
                                                                   
     ▆▆▆                                                    ·°o    
     ███        █        ··█▓░··    ▁▂▅▇█▇▄  [=       ]    ·   ·   
-    ███                                                    ···    
-                                                                  
-    bar       loop       scan       wave       slide      orbit   
-                                                                  
-===
-                                                                  
-      ╱                                                  ╭─────╮  
-     ╱        ▄ ▀ ▀        ┌──      │        [ o    ]    ├──╴  │  
-    ╱                      │        ╰───                 ╰─────╯  
-                                                                  
-   line       dots       pipe        arc      bounce      clock   
-                                                                  
-    ▄▄▄                                                    ··°    
-    ███        ▛▘       ·█▓░···    ▂▁▂▅▇█▇  [==      ]    ·   o   
     ███                                                    ···    
                                                                   
     bar       loop       scan       wave       slide      orbit   
@@ -237,20 +209,6 @@
                                                                   
 ===
                                                                   
-     │                     │         ───╮                ╭─────╮  
-     │        ▀ ▄ ▄      ──┤            │    [   o  ]    │  ╶──┤  
-     │                     │                             ╰─────╯  
-                                                                  
-   line       dots       pipe        arc      bounce      clock   
-                                                                  
-                                                           °o·    
-                ▗▟      ···░▓█·    ▂▅▇█▇▄▂  [     ===]    ·   ·   
-    ▇▇▇                                                    ···    
-                                                                  
-    bar       loop       scan       wave       slide      orbit   
-                                                                  
-===
-                                                                  
       ╱       ▄            │          ──╮                ╭─────╮  
      ╱          ▄ ▄      ──┘            │    [  o   ]    │  ╷  │  
     ╱                                   ╯                ╰──┴──╯  
@@ -321,15 +279,561 @@
                                                                   
 ===
                                                                   
-    ╲           ▄          │                             ╭─────╮  
-     ╲        ▄   ▄        └──      │        [   o  ]    ├──╴  │  
-      ╲                             ╰───╯                ╰─────╯  
+     │                     │        ╭                    ╭──┬──╮  
+     │        ▄ ▀ ▀        ├──      │        [    o ]    │  ╵  │  
+     │                     │        ╰──                  ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           o··    
+    ▁▁▁        ▀▀       █······    ▅▇█▇▄▂▁  [  ===   ]    °   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │                     │        ╭─                   ╭──┬──╮  
+     │        ▄ ▀ ▀        ├──      │        [     o]    │  ╵  │  
+     │                     │        ╰─                   ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           °o·    
+    ▃▃▃        ▝▀▘      ▓█·····    ▂▅▇█▇▄▂  [   ===  ]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱           ▄                 ╭──                  ╭──┬──╮  
+     ╱        ▄ ▄          ┌──      │        [    o ]    │  ╵  │  
+    ╱                      │                             ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ·°o    
+    ▅▅▅         ▀▀      ░▓█····    ▁▂▅▇█▇▄  [    === ]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱           ▄                 ╭───                 ╭─────╮  
+     ╱        ▄ ▄          ┌──               [   o  ]    │  ╶──┤  
+    ╱                      │                             ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ··°    
+    ▇▇▇         ▝▜      ·░▓█···    ▂▁▂▅▇█▇  [     ===]    ·   o   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                                      ──╮                ╭─────╮  
+   ─────      ▄ ▄ ▀      ──┬──               [  o   ]    │  ╶──┤  
+                           │                             ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▁▁▁                                                    ···    
+    ███          █      ··░▓█··    ▄▂▁▂▅▇█  [      ==]    ·   °   
+    ███                                                    ··o    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲                                  ─╮                ╭─────╮  
+     ╲        ▀ ▄ ▄      ──┐            │    [o     ]    │  ╷  │  
+      ╲                    │            ╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▆▆▆                                                    ···    
+    ███         ▄▄      ······█    █▇▄▂▁▂▅  [=       ]    ·   ·   
+    ███                                                    o°·    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲                                  ─╮                ╭─────╮  
+     ╲        ▀ ▄ ▄      ──┐            │    [ o    ]    │  ╷  │  
+      ╲                    │           ─╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ███                                                    ···    
+    ███        ▗▄▖      ·····█▓    ▇█▇▄▂▁▂  [==      ]    o   ·   
+    ███                                                    °··    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │        ▄            │            ╮                ╭─────╮  
+     │          ▄ ▄      ──┤            │    [  o   ]    │  ╷  │  
+     │                     │          ──╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▆▆▆                                                    o··    
+    ███        ▄▄       ····█▓░    ▅▇█▇▄▂▁  [===     ]    °   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │        ▄            │            ╮                ╭─────╮  
+     │          ▄ ▄      ──┤            │    [   o  ]    ├──╴  │  
+     │                     │         ───╯                ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▄▄▄                                                    °o·    
+    ███        ▙▖       ···█▓░·    ▂▅▇█▇▄▂  [ ===    ]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱                    │                             ╭─────╮  
+     ╱        ▀ ▀ ▄      ──┘            │    [    o ]    ├──╴  │  
+    ╱                               ╰───╯                ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▁▁▁                                                    ·°o    
+    ███        █        ··█▓░··    ▁▂▅▇█▇▄  [  ===   ]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                ▄          │        ╭                    ╭──┬──╮  
+   ─────      ▄   ▄      ──┴──      │        [    o ]    │  ╵  │  
+                                    ╰───                 ╰─────╯  
                                                                   
    line       dots       pipe        arc      bounce      clock   
                                                                   
                                                            ···    
-               ▛▘       ·█▓░···    ▇█▇▄▂▁▂  [ ===    ]    o   ·   
+    ▅▅▅        ▀▀       █······    ▄▂▁▂▅▇█  [    === ]    ·   °   
+    ███                                                    ··o    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                ▄          │        ╭─                   ╭──┬──╮  
+   ─────      ▄   ▄      ──┴──      │        [   o  ]    │  ╵  │  
+                                    ╰──                  ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+    ▃▃▃        ▝▀▘      ▓█·····    ▇▄▂▁▂▅▇  [     ===]    ·   ·   
+    ███                                                    ·o°    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲                      │        ╭──                  ╭──┬──╮  
+     ╲        ▄ ▀ ▀        └──      │        [  o   ]    │  ╵  │  
+      ╲                             ╰                    ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+    ▁▁▁         ▀▀      ░▓█····    █▇▄▂▁▂▅  [      ==]    ·   ·   
+    ███                                                    o°·    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲                      │        ╭───                 ╭─────╮  
+     ╲        ▄ ▀ ▀        └──      │        [ o    ]    │  ╶──┤  
+      ╲                                                  ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+                ▝▜      ·░▓█···    ▇█▇▄▂▁▂  [       =]    o   ·   
     ▇▇▇                                                    °··    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │            ▄        │         ───╮                ╭─────╮  
+     │        ▄ ▄          ├──               [o     ]    │  ╶──┤  
+     │                     │                             ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           o··    
+                 █      ··░▓█··    ▅▇█▇▄▂▁  [=       ]    °   ·   
+    ▄▄▄                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱                                 ╮                ╭─────╮  
+     ╱        ▄ ▄ ▀        ┌──          │    [  o   ]    │  ╷  │  
+    ╱                      │            ╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ·°o    
+                ▄▄      ······█    ▁▂▅▇█▇▄  [===     ]    ·   ·   
+                                                           ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱                                 ╮                ╭─────╮  
+     ╱        ▄ ▄ ▀        ┌──          │    [   o  ]    │  ╷  │  
+    ╱                      │           ─╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ··°    
+               ▗▄▖      ·····█▓    ▂▁▂▅▇█▇  [ ===    ]    ·   o   
+    ▂▂▂                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                                                         ╭─────╮  
+   ─────      ▀ ▄ ▄      ──┬──          │    [    o ]    │  ╷  │  
+                           │          ──╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+               ▄▄       ····█▓░    ▄▂▁▂▅▇█  [  ===   ]    ·   °   
+    ▄▄▄                                                    ··o    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                                                         ╭─────╮  
+   ─────      ▀ ▄ ▄      ──┬──          │    [     o]    ├──╴  │  
+                           │         ───╯                ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+               ▙▖       ···█▓░·    ▇▄▂▁▂▅▇  [   ===  ]    ·   ·   
+    ▇▇▇                                                    ·o°    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲         ▄                                          ╭─────╮  
+     ╲          ▄ ▄      ──┐                 [    o ]    ├──╴  │  
+      ╲                    │        ╰───╯                ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+    ▁▁▁        █        ··█▓░··    █▇▄▂▁▂▅  [    === ]    ·   ·   
+    ███                                                    o°·    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │                     │        ╭                    ╭──┬──╮  
+     │        ▀ ▀ ▄      ──┤        │        [  o   ]    │  ╵  │  
+     │                     │        ╰───                 ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           o··    
+    ▅▅▅        ▀▀       █······    ▅▇█▇▄▂▁  [      ==]    °   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │                     │        ╭─                   ╭──┬──╮  
+     │        ▀ ▀ ▄      ──┤        │        [ o    ]    │  ╵  │  
+     │                     │        ╰───                 ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           °o·    
+    ▇▇▇        ▝▀▘      ▓█·····    ▂▅▇█▇▄▂  [       =]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱         ▄          │        ╭──                  ╭──┬──╮  
+     ╱        ▄   ▄      ──┘        │        [o     ]    │  ╵  │  
+    ╱                               ╰─                   ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▁▁▁                                                    ·°o    
+    ███         ▀▀      ░▓█····    ▁▂▅▇█▇▄  [=       ]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱         ▄          │        ╭───                 ╭─────╮  
+     ╱        ▄   ▄      ──┘        │        [ o    ]    │  ╶──┤  
+    ╱                               ╰                    ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▄▄▄                                                    ··°    
+    ███         ▝▜      ·░▓█···    ▂▁▂▅▇█▇  [==      ]    ·   o   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                           │        ╭───╮                ╭─────╮  
+   ─────      ▄ ▀ ▀      ──┴──               [  o   ]    │  ╶──┤  
+                                                         ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▆▆▆                                                    ···    
+    ███          █      ··░▓█··    ▅▂▁▂▅▇█  [===     ]    ·   °   
+    ███                                                    ··o    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲             ▄        │           ─╮                ╭─────╮  
+     ╲        ▄ ▄          └──          │    [    o ]    │  ╷  │  
+      ╲                                 ╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▆▆▆                                                    ···    
+    ███         ▄▄      ······█    █▇▅▂▁▂▅  [  ===   ]    ·   ·   
+    ███                                                    o°·    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲             ▄        │            ╮                ╭─────╮  
+     ╲        ▄ ▄          └──          │    [     o]    │  ╷  │  
+      ╲                                ─╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▄▄▄                                                    ···    
+    ███        ▗▄▖      ·····█▓    ▇█▇▅▂▁▂  [   ===  ]    o   ·   
+    ███                                                    °··    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │                     │                             ╭─────╮  
+     │        ▄ ▄ ▀        ├──               [    o ]    │  ╷  │  
+     │                     │          ──╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+    ▁▁▁                                                    o··    
+    ███        ▄▄       ····█▓░    ▅▇█▇▅▂▁  [    === ]    °   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │                     │                             ╭─────╮  
+     │        ▄ ▄ ▀        ├──               [   o  ]    ├──╴  │  
+     │                     │         ───╯                ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           °o·    
+    ▇▇▇        ▙▖       ···█▓░·    ▂▅▇█▇▅▂  [     ===]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱                                                  ╭─────╮  
+     ╱        ▀ ▄ ▄        ┌──               [  o   ]    ├──╴  │  
+    ╱                      │        ╰───                 ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ·°o    
+    ▅▅▅        █        ··█▓░··    ▁▂▅▇█▇▅  [      ==]    ·   ·   
+    ███                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+              ▄                     ╭                    ╭──┬──╮  
+   ─────        ▄ ▄      ──┬──      │        [o     ]    │  ╵  │  
+                           │        ╰──                  ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+    ▁▁▁        ▀▀       █······    ▄▂▁▂▅▇█  [=       ]    ·   °   
+    ███                                                    ··o    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+              ▄                     ╭─                   ╭──┬──╮  
+   ─────        ▄ ▄      ──┬──      │        [ o    ]    │  ╵  │  
+                           │        ╰──                  ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+               ▝▀▘      ▓█·····    ▇▄▂▁▂▅▇  [==      ]    ·   ·   
+    ▇▇▇                                                    ·o°    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲                               ╭──                  ╭──┬──╮  
+     ╲        ▀ ▀ ▄      ──┐        │        [  o   ]    │  ╵  │  
+      ╲                    │        ╰─                   ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+                ▀▀      ░▓█····    █▇▄▂▁▂▅  [===     ]    ·   ·   
+    ▄▄▄                                                    o°·    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲                               ╭───                 ╭─────╮  
+     ╲        ▀ ▀ ▄      ──┐        │        [   o  ]    │  ╶──┤  
+      ╲                    │        ╰─                   ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+                ▝▜      ·░▓█···    ▇█▇▄▂▁▂  [ ===    ]    o   ·   
+    ▂▂▂                                                    °··    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+     │          ▄          │        ╭───╮                ╭─────╮  
+     │        ▄   ▄      ──┤        │        [    o ]    │  ╶──┤  
+     │                     │                             ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           o··    
+                 █      ··░▓█··    ▅▇█▇▄▂▁  [  ===   ]    °   ·   
+                                                           ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱                    │          ──╮                ╭─────╮  
+     ╱        ▄ ▀ ▀      ──┘            │    [    o ]    │  ╷  │  
+    ╱                                   ╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ·°o    
+                ▄▄      ······█    ▁▂▅▇█▇▄  [    === ]    ·   ·   
+    ▄▄▄                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+      ╱                    │           ─╮                ╭─────╮  
+     ╱        ▄ ▀ ▀      ──┘            │    [   o  ]    │  ╷  │  
+    ╱                                  ─╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ··°    
+               ▗▄▖      ·····█▓    ▂▁▂▅▇█▇  [     ===]    ·   o   
+    ▇▇▇                                                    ···    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                  ▄        │                             ╭─────╮  
+   ─────      ▄ ▄        ──┴──          │    [  o   ]    │  ╷  │  
+                                      ──╯                ╰──┴──╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+    ▁▁▁        ▄▄       ····█▓░    ▅▂▁▂▅▇█  [      ==]    ·   °   
+    ███                                                    ··o    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+                  ▄        │                             ╭─────╮  
+   ─────      ▄ ▄        ──┴──               [ o    ]    ├──╴  │  
+                                     ───╯                ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+    ▃▃▃        ▙▖       ···█▓░·    ▇▅▂▁▂▅▇  [       =]    ·   ·   
+    ███                                                    ·o°    
+                                                                  
+    bar       loop       scan       wave       slide      orbit   
+                                                                  
+===
+                                                                  
+    ╲                      │                             ╭─────╮  
+     ╲        ▄ ▄ ▀        └──               [o     ]    ├──╴  │  
+      ╲                             ╰──                  ╰─────╯  
+                                                                  
+   line       dots       pipe        arc      bounce      clock   
+                                                                  
+                                                           ···    
+    ▅▅▅        █        ··█▓░··    █▇▅▂▁▂▅  [=       ]    ·   ·   
+    ███                                                    o°·    
                                                                   
     bar       loop       scan       wave       slide      orbit   
                                                                   

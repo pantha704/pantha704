@@ -49,83 +49,7 @@
 │ 5 todo.txt                                                 │
 │ ~/notes $ du -sh photos                                    │
 │ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 █                                      │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 █                                      │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
 │ ~/notes $ ping -c 3 l█                                     │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 lo█                                    │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 lo█                                    │
 │                                                            │
 │                                                            │
 │                                                            │
@@ -201,64 +125,7 @@
 │ 5 todo.txt                                                 │
 │ ~/notes $ du -sh photos                                    │
 │ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 loca█                                  │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
 │ ~/notes $ ping -c 3 local█                                 │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 local█                                 │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 localh█                                │
 │                                                            │
 │                                                            │
 │                                                            │
@@ -315,83 +182,7 @@
 │ 5 todo.txt                                                 │
 │ ~/notes $ du -sh photos                                    │
 │ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 localho█                               │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
 │ ~/notes $ ping -c 3 localhos█                              │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 localhos█                              │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 localhost█                             │
-│                                                            │
-│                                                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-===
-╭─ ~/notes ──────────────────────────────────────────────────╮
-│ ~/notes $ ls                                               │
-│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
-│ ~/notes $ cat todo.txt                                     │
-│ [x] water the plants                                       │
-│ [x] back up the photos                                     │
-│ [ ] fix the bike light                                     │
-│ [ ] call home on sunday                                    │
-│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
-│ ~/notes $ wc -l todo.txt                                   │
-│ 5 todo.txt                                                 │
-│ ~/notes $ du -sh photos                                    │
-│ 2.4G    photos                                             │
-│ ~/notes $ ping -c 3 localhost█                             │
 │                                                            │
 │                                                            │
 │                                                            │
@@ -452,4 +243,897 @@
 │ █                                                          │
 │                                                            │
 │                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ █                                                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ █                                                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ █                                                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ █                                                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ █                                                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ █                                                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│                                                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ ls                                               │
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ drafts   ideas.txt   photos   reading.txt   todo.txt       │
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ ~/notes $ cat todo.txt                                     │
+│ [x] water the plants                                       │
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [x] back up the photos                                     │
+│ [ ] fix the bike light                                     │
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ █                                                          │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $                                                  │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $                                                  │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $                                                  │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $                                                  │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ █                                                │
+╰────────────────────────────────────────────────────────────╯
+===
+╭─ ~/notes ──────────────────────────────────────────────────╮
+│ [ ] call home on sunday                                    │
+│ ~/notes $ echo "[ ] buy stamps" >> todo.txt                │
+│ ~/notes $ wc -l todo.txt                                   │
+│ 5 todo.txt                                                 │
+│ ~/notes $ du -sh photos                                    │
+│ 2.4G    photos                                             │
+│ ~/notes $ ping -c 3 localhost                              │
+│ PING localhost (127.0.0.1): 56 data bytes                  │
+│ 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.041 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.067 ms   │
+│ 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.052 ms   │
+│                                                            │
+│ --- localhost ping statistics ---                          │
+│ 3 packets transmitted, 3 received, 0% packet loss          │
+│ round-trip min/avg/max = 0.041/0.053/0.067 ms              │
+│ ~/notes $ c█                                               │
 ╰────────────────────────────────────────────────────────────╯

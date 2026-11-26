@@ -26,14 +26,15 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; ascii-pool-puller/1.0)"}
 
 NODE_HARNESS = r"""
 import { pathToFileURL } from "url";
-const [file, count] = [process.argv[2], parseInt(process.argv[3], 10)];
+const [file, count, playFps] = [process.argv[2], parseInt(process.argv[3], 10), parseFloat(process.argv[4] || "0")];
 const mod = await import(pathToFileURL(file).href);
 const meta = mod.meta || {};
 let fn = mod.default;
 const inner = fn();
 const f = typeof inner === "function" ? inner : fn;
 const out = [];
-for (let i = 0; i < count; i++) out.push(String(f(i / (meta.fps || 30))));
+const fps = playFps || meta.fps || 30;
+for (let i = 0; i < count; i++) out.push(String(f(i / fps)));
 process.stdout.write(JSON.stringify({ meta, frames: out }));
 """
 
@@ -51,7 +52,7 @@ def list_pieces():
     return names
 
 
-def pull(name, count, out_dir=FRAMES_DIR):
+def pull(name, count, play_fps=0.0, out_dir=FRAMES_DIR):
     src = fetch(f"{BASE}/pieces/{name}.js")
     with tempfile.TemporaryDirectory() as tmp:
         mod = os.path.join(tmp, f"{name}.js")
@@ -59,7 +60,7 @@ def pull(name, count, out_dir=FRAMES_DIR):
         harness = os.path.join(tmp, "h.mjs")
         open(harness, "w", encoding="utf-8").write(NODE_HARNESS)
         res = subprocess.run(
-            ["node", harness, mod, str(count)], capture_output=True, text=True, timeout=120
+            ["node", harness, mod, str(count), str(play_fps)], capture_output=True, text=True, timeout=180
         )
     if res.returncode != 0:
         raise RuntimeError(f"{name}: node failed — {res.stderr.strip()[:300]}")
@@ -82,6 +83,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("names", nargs="*")
     ap.add_argument("--frames", type=int, default=24)
+    ap.add_argument("--seconds", type=float, default=0.0, help="capture this many seconds instead of a frame count")
+    ap.add_argument("--fps", type=float, default=0.0, help="sample and play at this rate (0 = the piece's own fps)")
     ap.add_argument("--list", action="store_true")
     args = ap.parse_args()
 
@@ -95,7 +98,8 @@ def main():
 
     for name in args.names:
         try:
-            path, meta, n, rows, cols = pull(name, args.frames)
+            count = round(args.seconds * args.fps) if args.seconds and args.fps else args.frames
+            path, meta, n, rows, cols = pull(name, count, args.fps)
             print(
                 f"  {name:16s} {n:3d}f  {rows:3d}x{cols:<3d} {meta.get('category','?'):10s} "
                 f"{meta.get('note','')[:44]}"

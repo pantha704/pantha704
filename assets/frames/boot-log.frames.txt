@@ -49,40 +49,6 @@
                                                                 
  node-1 login: _                                                
 ===
- [  OK  ] started device manager                                
- [  OK  ] created runtime directories                           
- [  OK  ] started load kernel modules                           
- [ WARN ] clock not synced, using hardware time                 
- [  OK  ] started system logger                                 
- [  OK  ] reached target sockets                                
- [  OK  ] reached target basic system                           
- [  OK  ] finished waiting for network                          
- [  OK  ] reached target network                                
- [  OK  ] synced clock to network time                          
- [  OK  ] started secure shell server                           
- [  OK  ] started job scheduler                                 
- [  OK  ] started print spooler                                 
- [  OK  ] reached target multi-user system                      
-                                                                
- node-1 login: _                                                
-===
- _                                                              
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-===
  _                                                              
                                                                 
                                                                 
@@ -120,26 +86,9 @@
  system firmware 2.31.0                               self test 
  ────────────────────────────────────────────────────────────── 
  cpu        4 cores, 8 threads at 2.40 GHz                   ok 
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-===
- system firmware 2.31.0                               self test 
- ────────────────────────────────────────────────────────────── 
- cpu        4 cores, 8 threads at 2.40 GHz                   ok 
  cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory         0 MB of 16384 MB                        testing 
-            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x000000000    0% 
+                                                                
+                                                                
                                                                 
                                                                 
                                                                 
@@ -172,30 +121,13 @@
  ────────────────────────────────────────────────────────────── 
  cpu        4 cores, 8 threads at 2.40 GHz                   ok 
  cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory       136 MB of 16384 MB                        testing 
-            ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x008888000    0% 
- display    1920 x 1080 at 60 Hz                             ok 
- storage    detecting /                                         
- usb        detecting \                                         
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-===
- system firmware 2.31.0                               self test 
- ────────────────────────────────────────────────────────────── 
- cpu        4 cores, 8 threads at 2.40 GHz                   ok 
- cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory       682 MB of 16384 MB                        testing 
-            █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x02AAAA000    4% 
+ memory       409 MB of 16384 MB                        testing 
+            ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x019999000    2% 
  display    1920 x 1080 at 60 Hz                             ok 
  storage    detecting /                                         
  usb        detecting \                                         
  network    detecting -                                         
- sensors    detecting -                                         
+                                                                
                                                                 
                                                                 
                                                                 
@@ -223,25 +155,8 @@
  ────────────────────────────────────────────────────────────── 
  cpu        4 cores, 8 threads at 2.40 GHz                   ok 
  cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      1774 MB of 16384 MB                        testing 
-            ███▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x06EEEE000   10% 
- display    1920 x 1080 at 60 Hz                             ok 
- storage    detecting \                                         
- usb        detecting /                                         
- network    detecting |                                         
- sensors    detecting \                                         
- boot order disk 0, usb, network                                
- ────────────────────────────────────────────────────────────── 
- F2 setup    F12 boot menu    esc skip memory test              
-                                                                
-                                                                
-===
- system firmware 2.31.0                               self test 
- ────────────────────────────────────────────────────────────── 
- cpu        4 cores, 8 threads at 2.40 GHz                   ok 
- cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      2321 MB of 16384 MB                        testing 
-            ████▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x091111000   14% 
+ memory      2048 MB of 16384 MB                        testing 
+            ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x080000000   12% 
  display    1920 x 1080 at 60 Hz                             ok 
  storage    detecting \                                         
  usb        detecting /                                         
@@ -274,30 +189,13 @@
  ────────────────────────────────────────────────────────────── 
  cpu        4 cores, 8 threads at 2.40 GHz                   ok 
  cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      3413 MB of 16384 MB                        testing 
-            ██████▋░░░░░░░░░░░░░░░░░░░░░░░░░  0x0D5555000   20% 
+ memory      3686 MB of 16384 MB                        testing 
+            ███████▏░░░░░░░░░░░░░░░░░░░░░░░░  0x0E6666000   22% 
  display    1920 x 1080 at 60 Hz                             ok 
  storage    detecting /                                         
  usb        detecting \                                         
  network    detecting -                                         
  sensors    detecting /                                         
- boot order disk 0, usb, network                                
- ────────────────────────────────────────────────────────────── 
- F2 setup    F12 boot menu    esc skip memory test              
-                                                                
-                                                                
-===
- system firmware 2.31.0                               self test 
- ────────────────────────────────────────────────────────────── 
- cpu        4 cores, 8 threads at 2.40 GHz                   ok 
- cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      3959 MB of 16384 MB                        testing 
-            ███████▋░░░░░░░░░░░░░░░░░░░░░░░░  0x0F7777000   24% 
- display    1920 x 1080 at 60 Hz                             ok 
- storage    detecting /                                         
- usb        detecting \                                         
- network    detecting -                                         
- sensors    detecting -                                         
  boot order disk 0, usb, network                                
  ────────────────────────────────────────────────────────────── 
  F2 setup    F12 boot menu    esc skip memory test              
@@ -325,25 +223,8 @@
  ────────────────────────────────────────────────────────────── 
  cpu        4 cores, 8 threads at 2.40 GHz                   ok 
  cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      5051 MB of 16384 MB                        testing 
-            █████████▊░░░░░░░░░░░░░░░░░░░░░░  0x13BBBB000   30% 
- display    1920 x 1080 at 60 Hz                             ok 
- storage    detecting \                                         
- usb        detecting /                                         
- network    detecting |                                         
- sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
- boot order disk 0, usb, network                                
- ────────────────────────────────────────────────────────────── 
- F2 setup    F12 boot menu    esc skip memory test              
-                                                                
-                                                                
-===
- system firmware 2.31.0                               self test 
- ────────────────────────────────────────────────────────────── 
- cpu        4 cores, 8 threads at 2.40 GHz                   ok 
- cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      5597 MB of 16384 MB                        testing 
-            ██████████▉░░░░░░░░░░░░░░░░░░░░░  0x15DDDD000   34% 
+ memory      5324 MB of 16384 MB                        testing 
+            ██████████▍░░░░░░░░░░░░░░░░░░░░░  0x14CCCC000   32% 
  display    1920 x 1080 at 60 Hz                             ok 
  storage    detecting \                                         
  usb        detecting /                                         
@@ -376,8 +257,8 @@
  ────────────────────────────────────────────────────────────── 
  cpu        4 cores, 8 threads at 2.40 GHz                   ok 
  cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      6690 MB of 16384 MB                        testing 
-            █████████████░░░░░░░░░░░░░░░░░░░  0x1A2222000   40% 
+ memory      6963 MB of 16384 MB                        testing 
+            █████████████▌░░░░░░░░░░░░░░░░░░  0x1B3333000   42% 
  display    1920 x 1080 at 60 Hz                             ok 
  storage    detecting /                                         
  usb        detecting \                                         
@@ -393,10 +274,61 @@
  ────────────────────────────────────────────────────────────── 
  cpu        4 cores, 8 threads at 2.40 GHz                   ok 
  cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
- memory      7236 MB of 16384 MB                        testing 
-            ██████████████▏░░░░░░░░░░░░░░░░░  0x1C4444000   44% 
+ memory      7782 MB of 16384 MB                        testing 
+            ███████████████▏░░░░░░░░░░░░░░░░  0x1E6666000   47% 
  display    1920 x 1080 at 60 Hz                             ok 
- storage    detecting /                                         
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        detecting |                                         
+ network    detecting \                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      8601 MB of 16384 MB                        testing 
+            ████████████████▊░░░░░░░░░░░░░░░  0x219999000   52% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        detecting /                                         
+ network    detecting |                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory      9420 MB of 16384 MB                        testing 
+            ██████████████████▍░░░░░░░░░░░░░  0x24CCCC000   57% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        detecting -                                         
+ network    detecting /                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     10240 MB of 16384 MB                        testing 
+            ████████████████████░░░░░░░░░░░░  0x280000000   62% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
  usb        detecting \                                         
  network    detecting -                                         
  sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
@@ -405,3 +337,683 @@
  F2 setup    F12 boot menu    esc skip memory test              
                                                                 
                                                                 
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     11059 MB of 16384 MB                        testing 
+            █████████████████████▌░░░░░░░░░░  0x2B3333000   67% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        detecting |                                         
+ network    detecting \                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     11878 MB of 16384 MB                        testing 
+            ███████████████████████▏░░░░░░░░  0x2E6666000   72% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        detecting /                                         
+ network    detecting |                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     12697 MB of 16384 MB                        testing 
+            ████████████████████████▊░░░░░░░  0x319999000   77% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    detecting /                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     13516 MB of 16384 MB                        testing 
+            ██████████████████████████▍░░░░░  0x34CCCC000   82% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    detecting -                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     14336 MB of 16384 MB                        testing 
+            ████████████████████████████░░░░  0x380000000   87% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    detecting \                                         
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     15155 MB of 16384 MB                        testing 
+            █████████████████████████████▌░░  0x3B3333000   92% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     15974 MB of 16384 MB                        testing 
+            ███████████████████████████████▏  0x3E6666000   97% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+                                                                
+===
+ system firmware 2.31.0                               self test 
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+===
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+===
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+===
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+===
+ ────────────────────────────────────────────────────────────── 
+ cpu        4 cores, 8 threads at 2.40 GHz                   ok 
+ cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok 
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+===
+ memory     16384 MB of 16384 MB                             ok 
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+===
+            ████████████████████████████████  0x3FFFFFFFF  100% 
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+===
+ display    1920 x 1080 at 60 Hz                             ok 
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+===
+ storage    sata 0: disk 0, 512 GB                           ok 
+ usb        2 controllers, 2 devices                         ok 
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+===
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+===
+ network    1 port, 1000 Mb/s                           link up 
+ sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok 
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+===
+ boot order disk 0, usb, network                                
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+===
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+===
+ ────────────────────────────────────────────────────────────── 
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+===
+ F2 setup    F12 boot menu    esc skip memory test              
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+===
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+===
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+===
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+===
+                                                                
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+===
+ booting from disk 0                                            
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+===
+ loading kernel 6.8.0 ...                                       
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+===
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+===
+ [    0.000000] kernel 6.8.0 starting on 8 cpus                 
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+===
+ [    0.000000] command line: root=/dev/sda2 ro quiet           
+ [    0.004460] memory: 16384 MB available, 412 MB reserved     
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+ [  OK  ] started journal service                               
+===
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+ [  OK  ] started journal service                               
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+===
+ [    0.081477] smp: brought up 1 node, 8 cpus                  
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+ [  OK  ] started journal service                               
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+===
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+ [  OK  ] started journal service                               
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+===
+ [    0.163547] pci: probing bus 0000:00                        
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+ [  OK  ] started journal service                               
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+===
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+ [  OK  ] started journal service                               
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+ [ WARN ] clock not synced, using hardware time                 
+===
+ [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      
+ [    0.297766] usb 1-1: new high speed device, number 2        
+ [    0.319484] usb 1-4: new full speed device, number 3        
+ [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   
+ [    0.405477]  sda: sda1 sda2                                 
+ [    0.512547] eth0: link up, 1000 Mb/s, full duplex           
+ [    0.641405] ext4: mounted sda2 read-only                    
+ [    0.703432] init: running /sbin/init                        
+ [  OK  ] mounted root file system                              
+ [  OK  ] started file system check on sda1                     
+ [  OK  ] reached target local file systems                     
+ [  OK  ] started journal service                               
+ [  OK  ] started device manager                                
+ [  OK  ] created runtime directories                           
+ [  OK  ] started load kernel modules                           
+ [ WARN ] clock not synced, using hardware time                 

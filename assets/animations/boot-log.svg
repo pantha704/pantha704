@@ -1,9 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="Terminal playing an ASCII animation of boot-log">
-<style>.f{opacity:0;animation:blink 1.860s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}4.167%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
+<style>.f{opacity:0;animation:blink 6.000s steps(1,end) infinite}.f:first-of-type{opacity:1}@keyframes blink{0%{opacity:1}1.667%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion: reduce){.f{animation:none}.f:first-of-type{opacity:1}}text{font-family:ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:12px;white-space:pre}</style>
 <rect width="680" height="420" rx="10" fill="#0d1117"/>
 <rect x="0.5" y="0.5" width="679" height="419" rx="10" fill="none" stroke="#30363d"/>
-<g transform="translate(16.00 52.50) scale(1.4062)">
-<g class="f" style="animation-delay:-1.8605s">
+<path d="M0 10 A10 10 0 0 1 10 0 H670 A10 10 0 0 1 680 10 V28 H0 Z" fill="#161b22"/>
+<line x1="0" y1="28" x2="680" y2="28" stroke="#30363d"/>
+<text x="16" y="19" fill="#8b949e" font-size="12" letter-spacing="0.4">boot-log</text>
+<g transform="translate(16.00 66.50) scale(1.4062)">
+<g class="f" style="animation-delay:-6.0000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
 <tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
@@ -22,7 +25,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14"> node-1 login: _                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.7829s">
+<g class="f" style="animation-delay:-5.9000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
 <tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
@@ -41,7 +44,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14"> node-1 login: _                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.7054s">
+<g class="f" style="animation-delay:-5.8000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
 <tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
@@ -60,26 +63,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14"> node-1 login: _                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.6279s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0"> [  OK  ] started device manager                                </tspan>
-<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
-<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
-<tspan x="0" dy="14"> [ WARN ] clock not synced, using hardware time                 </tspan>
-<tspan x="0" dy="14"> [  OK  ] started system logger                                 </tspan>
-<tspan x="0" dy="14"> [  OK  ] reached target sockets                                </tspan>
-<tspan x="0" dy="14"> [  OK  ] reached target basic system                           </tspan>
-<tspan x="0" dy="14"> [  OK  ] finished waiting for network                          </tspan>
-<tspan x="0" dy="14"> [  OK  ] reached target network                                </tspan>
-<tspan x="0" dy="14"> [  OK  ] synced clock to network time                          </tspan>
-<tspan x="0" dy="14"> [  OK  ] started secure shell server                           </tspan>
-<tspan x="0" dy="14"> [  OK  ] started job scheduler                                 </tspan>
-<tspan x="0" dy="14"> [  OK  ] started print spooler                                 </tspan>
-<tspan x="0" dy="14"> [  OK  ] reached target multi-user system                      </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14"> node-1 login: _                                                </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.5504s">
+<g class="f" style="animation-delay:-5.7000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> _                                                              </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
@@ -98,26 +82,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.4729s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0"> _                                                              </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.3953s">
+<g class="f" style="animation-delay:-5.6000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
@@ -136,33 +101,14 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.3178s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.2403s">
+<g class="f" style="animation-delay:-5.5000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
 <tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
 <tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory         0 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x000000000    0% </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
@@ -174,7 +120,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.1628s">
+<g class="f" style="animation-delay:-5.4000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
@@ -193,45 +139,26 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-1.0853s">
+<g class="f" style="animation-delay:-5.3000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
 <tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
 <tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory       136 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x008888000    0% </tspan>
-<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
-<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
-<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-</text></g>
-<g class="f" style="animation-delay:-1.0078s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
-<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory       682 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x02AAAA000    4% </tspan>
+<tspan x="0" dy="14"> memory       409 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x019999000    2% </tspan>
 <tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
 <tspan x="0" dy="14"> storage    detecting /                                         </tspan>
 <tspan x="0" dy="14"> usb        detecting \                                         </tspan>
 <tspan x="0" dy="14"> network    detecting -                                         </tspan>
-<tspan x="0" dy="14"> sensors    detecting -                                         </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.9302s">
+<g class="f" style="animation-delay:-5.2000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
@@ -250,33 +177,14 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.8527s">
+<g class="f" style="animation-delay:-5.1000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
 <tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
 <tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      1774 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ███▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x06EEEE000   10% </tspan>
-<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
-<tspan x="0" dy="14"> storage    detecting \                                         </tspan>
-<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
-<tspan x="0" dy="14"> network    detecting |                                         </tspan>
-<tspan x="0" dy="14"> sensors    detecting \                                         </tspan>
-<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.7752s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
-<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      2321 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ████▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x091111000   14% </tspan>
+<tspan x="0" dy="14"> memory      2048 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0x080000000   12% </tspan>
 <tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
 <tspan x="0" dy="14"> storage    detecting \                                         </tspan>
 <tspan x="0" dy="14"> usb        detecting /                                         </tspan>
@@ -288,7 +196,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.6977s">
+<g class="f" style="animation-delay:-5.0000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
@@ -307,14 +215,14 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.6202s">
+<g class="f" style="animation-delay:-4.9000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
 <tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
 <tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      3413 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ██████▋░░░░░░░░░░░░░░░░░░░░░░░░░  0x0D5555000   20% </tspan>
+<tspan x="0" dy="14"> memory      3686 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ███████▏░░░░░░░░░░░░░░░░░░░░░░░░  0x0E6666000   22% </tspan>
 <tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
 <tspan x="0" dy="14"> storage    detecting /                                         </tspan>
 <tspan x="0" dy="14"> usb        detecting \                                         </tspan>
@@ -326,26 +234,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.5426s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
-<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      3959 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ███████▋░░░░░░░░░░░░░░░░░░░░░░░░  0x0F7777000   24% </tspan>
-<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
-<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
-<tspan x="0" dy="14"> usb        detecting \                                         </tspan>
-<tspan x="0" dy="14"> network    detecting -                                         </tspan>
-<tspan x="0" dy="14"> sensors    detecting -                                         </tspan>
-<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.4651s">
+<g class="f" style="animation-delay:-4.8000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
@@ -364,14 +253,14 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.3876s">
+<g class="f" style="animation-delay:-4.7000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
 <tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
 <tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      5051 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            █████████▊░░░░░░░░░░░░░░░░░░░░░░  0x13BBBB000   30% </tspan>
+<tspan x="0" dy="14"> memory      5324 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ██████████▍░░░░░░░░░░░░░░░░░░░░░  0x14CCCC000   32% </tspan>
 <tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
 <tspan x="0" dy="14"> storage    detecting \                                         </tspan>
 <tspan x="0" dy="14"> usb        detecting /                                         </tspan>
@@ -383,26 +272,7 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.3101s">
-<text x="0" y="11" fill="#7ee787" xml:space="preserve">
-<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
-<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      5597 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ██████████▉░░░░░░░░░░░░░░░░░░░░░  0x15DDDD000   34% </tspan>
-<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
-<tspan x="0" dy="14"> storage    detecting \                                         </tspan>
-<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
-<tspan x="0" dy="14"> network    detecting |                                         </tspan>
-<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
-<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
-<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
-<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-<tspan x="0" dy="14">                                                                </tspan>
-</text></g>
-<g class="f" style="animation-delay:-0.2326s">
+<g class="f" style="animation-delay:-4.6000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
@@ -421,14 +291,14 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.1550s">
+<g class="f" style="animation-delay:-4.5000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
 <tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
 <tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      6690 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            █████████████░░░░░░░░░░░░░░░░░░░  0x1A2222000   40% </tspan>
+<tspan x="0" dy="14"> memory      6963 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            █████████████▌░░░░░░░░░░░░░░░░░░  0x1B3333000   42% </tspan>
 <tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
 <tspan x="0" dy="14"> storage    detecting /                                         </tspan>
 <tspan x="0" dy="14"> usb        detecting \                                         </tspan>
@@ -440,16 +310,73 @@
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 </text></g>
-<g class="f" style="animation-delay:-0.0775s">
+<g class="f" style="animation-delay:-4.4000s">
 <text x="0" y="11" fill="#7ee787" xml:space="preserve">
 <tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
 <tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
 <tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
 <tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
-<tspan x="0" dy="14"> memory      7236 MB of 16384 MB                        testing </tspan>
-<tspan x="0" dy="14">            ██████████████▏░░░░░░░░░░░░░░░░░  0x1C4444000   44% </tspan>
+<tspan x="0" dy="14"> memory      7782 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ███████████████▏░░░░░░░░░░░░░░░░  0x1E6666000   47% </tspan>
 <tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
-<tspan x="0" dy="14"> storage    detecting /                                         </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        detecting |                                         </tspan>
+<tspan x="0" dy="14"> network    detecting \                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      8601 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████████████████▊░░░░░░░░░░░░░░░  0x219999000   52% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
+<tspan x="0" dy="14"> network    detecting |                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory      9420 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ██████████████████▍░░░░░░░░░░░░░  0x24CCCC000   57% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        detecting -                                         </tspan>
+<tspan x="0" dy="14"> network    detecting /                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     10240 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████████████████████░░░░░░░░░░░░  0x280000000   62% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
 <tspan x="0" dy="14"> usb        detecting \                                         </tspan>
 <tspan x="0" dy="14"> network    detecting -                                         </tspan>
 <tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
@@ -458,6 +385,766 @@
 <tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
 <tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-4.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     11059 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            █████████████████████▌░░░░░░░░░░  0x2B3333000   67% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        detecting |                                         </tspan>
+<tspan x="0" dy="14"> network    detecting \                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     11878 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ███████████████████████▏░░░░░░░░  0x2E6666000   72% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        detecting /                                         </tspan>
+<tspan x="0" dy="14"> network    detecting |                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     12697 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████████████████████████▊░░░░░░░  0x319999000   77% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    detecting /                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     13516 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ██████████████████████████▍░░░░░  0x34CCCC000   82% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    detecting -                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     14336 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ████████████████████████████░░░░  0x380000000   87% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    detecting \                                         </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     15155 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            █████████████████████████████▌░░  0x3B3333000   92% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     15974 MB of 16384 MB                        testing </tspan>
+<tspan x="0" dy="14">            ███████████████████████████████▏  0x3E6666000   97% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+</text></g>
+<g class="f" style="animation-delay:-3.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> system firmware 2.31.0                               self test </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> cpu        4 cores, 8 threads at 2.40 GHz                   ok </tspan>
+<tspan x="0" dy="14"> cache      l1 256 KB   l2 2 MB   l3 8 MB                    ok </tspan>
+<tspan x="0" dy="14"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> memory     16384 MB of 16384 MB                             ok </tspan>
+<tspan x="0" dy="14">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0">            ████████████████████████████████  0x3FFFFFFFF  100% </tspan>
+<tspan x="0" dy="14"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> display    1920 x 1080 at 60 Hz                             ok </tspan>
+<tspan x="0" dy="14"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> storage    sata 0: disk 0, 512 GB                           ok </tspan>
+<tspan x="0" dy="14"> usb        2 controllers, 2 devices                         ok </tspan>
+<tspan x="0" dy="14"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+</text></g>
+<g class="f" style="animation-delay:-2.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> network    1 port, 1000 Mb/s                           link up </tspan>
+<tspan x="0" dy="14"> sensors    cpu 41°C   board 33°C   fan 2400 rpm             ok </tspan>
+<tspan x="0" dy="14"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> boot order disk 0, usb, network                                </tspan>
+<tspan x="0" dy="14"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> ────────────────────────────────────────────────────────────── </tspan>
+<tspan x="0" dy="14"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> F2 setup    F12 boot menu    esc skip memory test              </tspan>
+<tspan x="0" dy="14">                                                                </tspan>
+<tspan x="0" dy="14"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> booting from disk 0                                            </tspan>
+<tspan x="0" dy="14"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+</text></g>
+<g class="f" style="animation-delay:-1.0000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> loading kernel 6.8.0 ...                                       </tspan>
+<tspan x="0" dy="14"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.9000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.8000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.000000] kernel 6.8.0 starting on 8 cpus                 </tspan>
+<tspan x="0" dy="14"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.7000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.000000] command line: root=/dev/sda2 ro quiet           </tspan>
+<tspan x="0" dy="14"> [    0.004460] memory: 16384 MB available, 412 MB reserved     </tspan>
+<tspan x="0" dy="14"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] started journal service                               </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.6000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] started journal service                               </tspan>
+<tspan x="0" dy="14"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.5000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.081477] smp: brought up 1 node, 8 cpus                  </tspan>
+<tspan x="0" dy="14"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] started journal service                               </tspan>
+<tspan x="0" dy="14"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.4000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] started journal service                               </tspan>
+<tspan x="0" dy="14"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.3000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.163547] pci: probing bus 0000:00                        </tspan>
+<tspan x="0" dy="14"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] started journal service                               </tspan>
+<tspan x="0" dy="14"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.2000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] started journal service                               </tspan>
+<tspan x="0" dy="14"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+<tspan x="0" dy="14"> [ WARN ] clock not synced, using hardware time                 </tspan>
+</text></g>
+<g class="f" style="animation-delay:-0.1000s">
+<text x="0" y="11" fill="#7ee787" xml:space="preserve">
+<tspan x="0" dy="0"> [    0.210531] pci 0000:00:17.0: sata controller, 6 ports      </tspan>
+<tspan x="0" dy="14"> [    0.297766] usb 1-1: new high speed device, number 2        </tspan>
+<tspan x="0" dy="14"> [    0.319484] usb 1-4: new full speed device, number 3        </tspan>
+<tspan x="0" dy="14"> [    0.403072] sd 0:0:0:0: [sda] 1000215216 sectors (512 GB)   </tspan>
+<tspan x="0" dy="14"> [    0.405477]  sda: sda1 sda2                                 </tspan>
+<tspan x="0" dy="14"> [    0.512547] eth0: link up, 1000 Mb/s, full duplex           </tspan>
+<tspan x="0" dy="14"> [    0.641405] ext4: mounted sda2 read-only                    </tspan>
+<tspan x="0" dy="14"> [    0.703432] init: running /sbin/init                        </tspan>
+<tspan x="0" dy="14"> [  OK  ] mounted root file system                              </tspan>
+<tspan x="0" dy="14"> [  OK  ] started file system check on sda1                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] reached target local file systems                     </tspan>
+<tspan x="0" dy="14"> [  OK  ] started journal service                               </tspan>
+<tspan x="0" dy="14"> [  OK  ] started device manager                                </tspan>
+<tspan x="0" dy="14"> [  OK  ] created runtime directories                           </tspan>
+<tspan x="0" dy="14"> [  OK  ] started load kernel modules                           </tspan>
+<tspan x="0" dy="14"> [ WARN ] clock not synced, using hardware time                 </tspan>
 </text></g>
 </g>
 </svg>

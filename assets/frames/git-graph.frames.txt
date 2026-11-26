@@ -85,58 +85,7 @@ $ git log --graph --oneline
 ===
 $ git log --graph --oneline                                 
                                                             
-*    8acb841 (HEAD -> main) merge feat/search               
-|\                                                          
-| *  5006d7e search: rank names before notes                
-| *  93cfd85 search: / focuses the field                    
-* |  86dad69 docs: the install page                         
-|/                                                          
-*    2c4e3c9 fix: keep the sidebar's scroll                 
-*    4a6d00e merge feat/stars                               
-|\                                                          
-| *  4eb5140 header: show the repo's stars                  
-| *  1ef2e33 header: wait before asking again               
-|/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
-*    7867d2d readme: a banner in both themes                
-===
-$ git log --graph --oneline                                 
-                                                            
-*    8acb841 (HEAD -> main) merge feat/search               
-|\                                                          
-| *  5006d7e search: rank names before notes                
-| *  93cfd85 search: / focuses the field                    
-* |  86dad69 docs: the install page                         
-|/                                                          
-*    2c4e3c9 fix: keep the sidebar's scroll                 
-*    4a6d00e merge feat/stars                               
-|\                                                          
-| *  4eb5140 header: show the repo's stars                  
-| *  1ef2e33 header: wait before asking again               
-|/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
-*    7867d2d readme: a banner in both themes                
-===
-$ git log --graph --oneline                                 
-                                                            
-*    b411d4a (HEAD -> main) c                               
-*    8acb841 merge feat/search                              
-|\                                                          
-| *  5006d7e search: rank names before notes                
-| *  93cfd85 search: / focuses the field                    
-* |  86dad69 docs: the install page                         
-|/                                                          
-*    2c4e3c9 fix: keep the sidebar's scroll                 
-*    4a6d00e merge feat/stars                               
-|\                                                          
-| *  4eb5140 header: show the repo's stars                  
-| *  1ef2e33 header: wait before asking again               
-|/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
-===
-$ git log --graph --oneline                                 
-                                                            
-*    b411d4a (HEAD -> main) chor                            
+*    b411d4a (HEAD -> main) cho                             
 *    8acb841 merge feat/search                              
 |\                                                          
 | *  5006d7e search: rank names before notes                
@@ -170,24 +119,7 @@ $ git log --graph --oneline
 ===
 $ git log --graph --oneline                                 
                                                             
-*    b411d4a (HEAD -> main) chore: bu                       
-*    8acb841 merge feat/search                              
-|\                                                          
-| *  5006d7e search: rank names before notes                
-| *  93cfd85 search: / focuses the field                    
-* |  86dad69 docs: the install page                         
-|/                                                          
-*    2c4e3c9 fix: keep the sidebar's scroll                 
-*    4a6d00e merge feat/stars                               
-|\                                                          
-| *  4eb5140 header: show the repo's stars                  
-| *  1ef2e33 header: wait before asking again               
-|/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
-===
-$ git log --graph --oneline                                 
-                                                            
-*    b411d4a (HEAD -> main) chore: bump                     
+*    b411d4a (HEAD -> main) chore: bum                      
 *    8acb841 merge feat/search                              
 |\                                                          
 | *  5006d7e search: rank names before notes                
@@ -221,24 +153,7 @@ $ git log --graph --oneline
 ===
 $ git log --graph --oneline                                 
                                                             
-*    b411d4a (HEAD -> main) chore: bump type                
-*    8acb841 merge feat/search                              
-|\                                                          
-| *  5006d7e search: rank names before notes                
-| *  93cfd85 search: / focuses the field                    
-* |  86dad69 docs: the install page                         
-|/                                                          
-*    2c4e3c9 fix: keep the sidebar's scroll                 
-*    4a6d00e merge feat/stars                               
-|\                                                          
-| *  4eb5140 header: show the repo's stars                  
-| *  1ef2e33 header: wait before asking again               
-|/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
-===
-$ git log --graph --oneline                                 
-                                                            
-*    b411d4a (HEAD -> main) chore: bump typesc              
+*    b411d4a (HEAD -> main) chore: bump types               
 *    8acb841 merge feat/search                              
 |\                                                          
 | *  5006d7e search: rank names before notes                
@@ -357,7 +272,9 @@ $ git log --graph --oneline
 ===
 $ git log --graph --oneline                                 
                                                             
-*    b411d4a (HEAD -> main) chore: bump typescript          
+* |  8fe5bb5 (HEAD -> main) si                              
+|/                                                          
+*    b411d4a chore: bump typescript                         
 *    8acb841 merge feat/search                              
 |\                                                          
 | *  5006d7e search: rank names before notes                
@@ -369,12 +286,12 @@ $ git log --graph --oneline
 |\                                                          
 | *  4eb5140 header: show the repo's stars                  
 | *  1ef2e33 header: wait before asking again               
-|/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
 ===
 $ git log --graph --oneline                                 
                                                             
-*    b411d4a (HEAD -> main) chore: bump typescript          
+* |  8fe5bb5 (HEAD -> main) site:                           
+|/                                                          
+*    b411d4a chore: bump typescript                         
 *    8acb841 merge feat/search                              
 |\                                                          
 | *  5006d7e search: rank names before notes                
@@ -386,12 +303,12 @@ $ git log --graph --oneline
 |\                                                          
 | *  4eb5140 header: show the repo's stars                  
 | *  1ef2e33 header: wait before asking again               
-|/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
 ===
 $ git log --graph --oneline                                 
                                                             
-*    b411d4a (HEAD -> main) chore: bump typescript          
+* |  8fe5bb5 (HEAD -> main) site: d                         
+|/                                                          
+*    b411d4a chore: bump typescript                         
 *    8acb841 merge feat/search                              
 |\                                                          
 | *  5006d7e search: rank names before notes                
@@ -403,5 +320,700 @@ $ git log --graph --oneline
 |\                                                          
 | *  4eb5140 header: show the repo's stars                  
 | *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark                      
 |/                                                          
-*    2ee9e40 (tag: v0.4.0) release 0.4.0                    
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark th                   
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark them                 
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+| *  1ef2e33 header: wait before asking again               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit                                 
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a                              
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a fra                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame                        
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame con                    
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame contrac                
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame contract               
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame contract               
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame contract               
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame contract               
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  922ed1d (feat/kit) kit: a frame contract               
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+| *  4eb5140 header: show the repo's stars                  
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit                                 
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: f                              
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: field                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields a                       
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields and                     
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields and look                
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields and looks               
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields and looks               
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields and looks               
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields and looks               
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  e44a3a3 (feat/kit) kit: fields and looks               
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+|\                                                          
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) ki                                  
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit:                                
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: pa                             
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: part                           
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: partic                         
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: particle                       
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: particles                      
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: particles                      
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: particles                      
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: particles                      
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
+===
+$ git log --graph --oneline                                 
+                                                            
+| *  696b0ea (feat/kit) kit: particles                      
+| *  e44a3a3 kit: fields and looks                          
+| *  922ed1d kit: a frame contract                          
+* |  8fe5bb5 (HEAD -> main) site: dark theme                
+|/                                                          
+*    b411d4a chore: bump typescript                         
+*    8acb841 merge feat/search                              
+|\                                                          
+| *  5006d7e search: rank names before notes                
+| *  93cfd85 search: / focuses the field                    
+* |  86dad69 docs: the install page                         
+|/                                                          
+*    2c4e3c9 fix: keep the sidebar's scroll                 
+*    4a6d00e merge feat/stars                               
